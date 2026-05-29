@@ -52,7 +52,7 @@ for row in rows:
     parse_row(row)
 
 print("writing data")
-with open("data.json", "w") as file:
+with open("data/data.json", "w") as file:
     json.dump(data, file, indent=3)
 
 print("closing driver")

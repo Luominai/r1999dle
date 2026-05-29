@@ -150,5 +150,5 @@ for t in threads:
 end = time.time()
 print(end - start)
 
-with open("profile.json", "w") as file:
+with open("data/profile.json", "w") as file:
     json.dump(data, file, indent=3)

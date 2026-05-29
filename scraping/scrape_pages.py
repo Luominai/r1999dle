@@ -38,5 +38,5 @@ for row in rows:
 driver.quit()
 
 print("writing data")
-with open("pages.json", "w") as file:
+with open("data/pages.json", "w") as file:
     json.dump(character_pages, file, indent=3)
