@@ -1,0 +1,1672 @@
+[
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/69/37_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428120823",
+      "name": "37",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Follow-up Attack",
+         "Support"
+      ],
+      "birthday": "July 27",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/05/6_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428120822",
+      "name": "6",
+      "rarity": "6",
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Debuff",
+         "Purify"
+      ],
+      "birthday": "February 13",
+      "age": "22"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ae/A_Knight_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413015922",
+      "name": "A Knight",
+      "rarity": "6",
+      "afflatus": "Spirit",
+      "damage": "Real",
+      "tags": [
+         "DPS"
+      ],
+      "birthday": "February 29",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/APPLe_Icon.png/revision/latest/scale-to-width-down/80?cb=20230530220522",
+      "name": "APPLe",
+      "rarity": "4",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Heal"
+      ],
+      "birthday": "January 4",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/Aleph_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516005949",
+      "name": "Aleph",
+      "rarity": "6",
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Inspiration",
+         "Burst DMG"
+      ],
+      "birthday": "February 28",
+      "age": "29"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Alexios_Icon.png/revision/latest/scale-to-width-down/80?cb=20250808232955",
+      "name": "Alexios",
+      "rarity": "5",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Assassination",
+         "DPS"
+      ],
+      "birthday": "Unknown",
+      "age": "20"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/AliEn_T_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701082756",
+      "name": "AliEn T",
+      "rarity": "3",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DEF",
+         "Control"
+      ],
+      "birthday": "July 10",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/9b/An-an_Lee_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413182124",
+      "name": "An-an Lee",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Control",
+         "DPS"
+      ],
+      "birthday": "July 27",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d9/Anjo_Nala_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507015436",
+      "name": "Anjo Nala",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control",
+         "Burst DMG"
+      ],
+      "birthday": "April 5",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a0/Argus_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506230527",
+      "name": "Argus",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Debuff",
+         "Support"
+      ],
+      "birthday": "December 11",
+      "age": "26"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Avgust_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428155916",
+      "name": "Avgust",
+      "rarity": "5",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Dispeller",
+         "Heal"
+      ],
+      "birthday": "August 7",
+      "age": "8"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Baby_Blue_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421172528",
+      "name": "Baby Blue",
+      "rarity": "5",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Control",
+         "Debuff"
+      ],
+      "birthday": "March 14",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Balloon_Party_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604204309",
+      "name": "Balloon Party",
+      "rarity": "5",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Heal",
+         "DEF"
+      ],
+      "birthday": "April 14",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Barbara_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506231107",
+      "name": "Barbara",
+      "rarity": "5",
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Shield",
+         "Heal"
+      ],
+      "birthday": "July 5",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/65/Barcarola_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428123419",
+      "name": "Barcarola",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Support",
+         "Inspiration"
+      ],
+      "birthday": "November 13",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Beryl_Icon.png/revision/latest/scale-to-width-down/80?cb=20260113163555",
+      "name": "Beryl",
+      "rarity": "6",
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Lingering Glow",
+         "Extra Action"
+      ],
+      "birthday": "December 21",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Bette_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702164410",
+      "name": "Bette",
+      "rarity": "3",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Shield"
+      ],
+      "birthday": "June 22",
+      "age": "20"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Bkornblume_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604203807",
+      "name": "Bkornblume",
+      "rarity": "5",
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Debuff",
+         "Burst DMG",
+         "Control"
+      ],
+      "birthday": "February 9",
+      "age": "18"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Blonney_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428121704",
+      "name": "Blonney",
+      "rarity": "5",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "Burst DMG",
+         "DPS"
+      ],
+      "birthday": "July 22",
+      "age": "20"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Brimley_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506042846",
+      "name": "Brimley",
+      "rarity": "5",
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Dispeller",
+         "Extra Action"
+      ],
+      "birthday": "October 31",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Brume_Icon.png/revision/latest/scale-to-width-down/80?cb=20260113163534",
+      "name": "Brume",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Extra Action",
+         "Dynamo"
+      ],
+      "birthday": "December 19",
+      "age": "20"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/58/Buddy_Fairchild_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516020618",
+      "name": "Buddy Fairchild",
+      "rarity": "5",
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Moxie"
+      ],
+      "birthday": "May 20",
+      "age": "5"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/03/Bunny_Bunny_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701081824",
+      "name": "Bunny Bunny",
+      "rarity": "4",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Heal",
+         "Nasty Wound"
+      ],
+      "birthday": "November 6",
+      "age": "21"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Centurion_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413180218",
+      "name": "Centurion",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG"
+      ],
+      "birthday": "August 13",
+      "age": "19"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c8/Charlie_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604203808",
+      "name": "Charlie",
+      "rarity": "5",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Dispeller"
+      ],
+      "birthday": "April 23",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/20/Charon_Icon.png/revision/latest/scale-to-width-down/80?cb=20251207081252",
+      "name": "Charon",
+      "rarity": "6",
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Dynamo",
+         "Support",
+         "Extra Action"
+      ],
+      "birthday": "June 27",
+      "age": "2"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/31/Cheng_Heguang_Icon.png/revision/latest/scale-to-width-down/80?cb=20260423143834",
+      "name": "Cheng Heguang",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Follow-up Attack",
+         "Support"
+      ],
+      "birthday": "July 3",
+      "age": "22"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/86/Click_Icon.png/revision/latest/scale-to-width-down/80?cb=20250620134208",
+      "name": "Click",
+      "rarity": "5",
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Debuff"
+      ],
+      "birthday": "June 28",
+      "age": "19"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/00/Corvus_Icon.png/revision/latest/scale-to-width-down/80?cb=20251212035454",
+      "name": "Corvus",
+      "rarity": "6",
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Extra Action",
+         "Dynamo"
+      ],
+      "birthday": "August 2",
+      "age": "34"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Cristallo_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629093454",
+      "name": "Cristallo",
+      "rarity": "4",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Nasty Wound",
+         "Support"
+      ],
+      "birthday": "December 30",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Darley_Clatter_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702163753",
+      "name": "Darley Clatter",
+      "rarity": "3",
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "January 19",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Desert_Flannel_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506042357",
+      "name": "Desert Flannel",
+      "rarity": "5",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "September 22",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7d/Diggers_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428152233",
+      "name": "Diggers",
+      "rarity": "5",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Control",
+         "Shield",
+         "Debuff"
+      ],
+      "birthday": "February 15",
+      "age": "20"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8c/Dikke_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604204310",
+      "name": "Dikke",
+      "rarity": "5",
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Heal"
+      ],
+      "birthday": "October 10",
+      "age": "19"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/Door_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702164901",
+      "name": "Door",
+      "rarity": "2",
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "August 2",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/df/Druvis_III_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413000025",
+      "name": "Druvis III",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control",
+         "Support"
+      ],
+      "birthday": "October 23",
+      "age": "20"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Eagle_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629092627",
+      "name": "Eagle",
+      "rarity": "4",
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Burst DMG",
+         "DPS"
+      ],
+      "birthday": "July 21",
+      "age": "13"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Enigma_Icon.png/revision/latest/scale-to-width-down/80?cb=20240526151431",
+      "name": "Enigma",
+      "rarity": "6",
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         ""
+      ],
+      "birthday": "October 16",
+      "age": "29"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Erick_Icon.png/revision/latest/scale-to-width-down/80?cb=20250619040642",
+      "name": "Erick",
+      "rarity": "4",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Dispeller"
+      ],
+      "birthday": "May 14",
+      "age": "12"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/38/Eternity_Icon.png/revision/latest/scale-to-width-down/80?cb=20250510153640",
+      "name": "Eternity",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Nasty Wound"
+      ],
+      "birthday": "December 25",
+      "age": "100+"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a6/Ezio_Auditore_Icon.png/revision/latest/scale-to-width-down/80?cb=20250808055439",
+      "name": "Ezio Auditore",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "Assassination",
+         "DPS",
+         "Riposte"
+      ],
+      "birthday": "June 24",
+      "age": "34"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7e/Ezra_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506041819",
+      "name": "Ezra",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Shield",
+         "Debuff"
+      ],
+      "birthday": "June 1",
+      "age": "14"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/35/Fatutu_Icon.png/revision/latest/scale-to-width-down/80?cb=20250419023243",
+      "name": "Fatutu",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Heal",
+         "Dispeller",
+         "Extra Action"
+      ],
+      "birthday": "September 28",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/92/Flutterpage_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506041400",
+      "name": "Flutterpage",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Support",
+         "Extra Action"
+      ],
+      "birthday": "July 14",
+      "age": "11"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/32/Getian_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506205131",
+      "name": "Getian",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Debuff",
+         "DPS"
+      ],
+      "birthday": "July 22",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1b/Hissabeth_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516022118",
+      "name": "Hissabeth",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control",
+         "Moxie"
+      ],
+      "birthday": "December 23",
+      "age": "19"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d3/Horropedia_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428122309",
+      "name": "Horropedia",
+      "rarity": "5",
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Dispeller",
+         "Debuff"
+      ],
+      "birthday": "January 3",
+      "age": "21"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e2/Igor_Icon.png/revision/latest/scale-to-width-down/80?cb=20260122094449",
+      "name": "Igor",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS"
+      ],
+      "birthday": "February 23",
+      "age": "56"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Isolde_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428122526",
+      "name": "Isolde",
+      "rarity": "6",
+      "afflatus": "Spirit",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "DPS",
+         "Burn"
+      ],
+      "birthday": "November 23",
+      "age": "18"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/33/J_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507051321",
+      "name": "J",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Shield",
+         "Riposte"
+      ],
+      "birthday": "April 18",
+      "age": "18"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Jessica_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428121239",
+      "name": "Jessica",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Poison",
+         "DPS"
+      ],
+      "birthday": "April 11",
+      "age": "27"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Jiu_Niangzi_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506204638",
+      "name": "Jiu Niangzi",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Extra Action"
+      ],
+      "birthday": "Unknown",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/John_Titor_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701082755",
+      "name": "John Titor",
+      "rarity": "3",
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Dispeller",
+         "Purify"
+      ],
+      "birthday": "November 2",
+      "age": "18"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Kaalaa_Baunaa_Icon.png/revision/latest/scale-to-width-down/80?cb=20250427001739",
+      "name": "Kaalaa Baunaa",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Follow-up Attack"
+      ],
+      "birthday": "July 15",
+      "age": "27"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/85/Kakania_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428122528",
+      "name": "Kakania",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DEF",
+         "Burst DMG"
+      ],
+      "birthday": "December 7",
+      "age": "19"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fc/Kanjira_Icon.png/revision/latest/scale-to-width-down/80?cb=20250427001332",
+      "name": "Kanjira",
+      "rarity": "5",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Poison",
+         "Debuff"
+      ],
+      "birthday": "April 8",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Kassandra_Icon.png/revision/latest/scale-to-width-down/80?cb=20250808232933",
+      "name": "Kassandra",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Assassination",
+         "DPS",
+         "Support"
+      ],
+      "birthday": "Unknown",
+      "age": "27"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Kiperina_Icon.png/revision/latest/scale-to-width-down/80?cb=20250510161337",
+      "name": "Kiperina",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "Shield",
+         "Support",
+         "Dispeller"
+      ],
+      "birthday": "April 19",
+      "age": "15"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/La_Source_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701083509",
+      "name": "La Source",
+      "rarity": "3",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Heal"
+      ],
+      "birthday": "January 29",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/26/Leilani_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701083508",
+      "name": "Leilani",
+      "rarity": "3",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "September 23",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Liang_Yue_Icon.png/revision/latest/scale-to-width-down/80?cb=20250503185846",
+      "name": "Liang Yue",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Extra Action",
+         "Immunity"
+      ],
+      "birthday": "May 6",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/19/Lilya_Icon.png/revision/latest/scale-to-width-down/80?cb=20250412235955",
+      "name": "Lilya",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "Burst DMG",
+         "DPS"
+      ],
+      "birthday": "November 14",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/93/Loggerhead_Icon.png/revision/latest/scale-to-width-down/80?cb=20250419023408",
+      "name": "Loggerhead",
+      "rarity": "5",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Heal",
+         "DEF",
+         "Support"
+      ],
+      "birthday": "June 1",
+      "age": "96"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Lopera_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507015556",
+      "name": "Lopera",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Burn",
+         "Extra Action"
+      ],
+      "birthday": "May 6",
+      "age": "15"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/cf/Lorelei_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428123006",
+      "name": "Lorelei",
+      "rarity": "5",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "April 16",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Lorentz_Butterfly_Icon.png/revision/latest/scale-to-width-down/80?cb=20260525055240",
+      "name": "Lorentz Butterfly",
+      "rarity": "6",
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Lingering Glow",
+         "Extra Action"
+      ],
+      "birthday": "September 19",
+      "age": "24"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d2/Lucy_Icon.png/revision/latest/scale-to-width-down/80?cb=20250509180234",
+      "name": "Lucy",
+      "rarity": "6",
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Reaper",
+         "Extra Action"
+      ],
+      "birthday": "December 30",
+      "age": "181"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/43/Marcus_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428123420",
+      "name": "Marcus",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Burst DMG"
+      ],
+      "birthday": "January 12",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/db/Marsha_Icon.png/revision/latest/scale-to-width-down/80?cb=20260122094451",
+      "name": "Marsha",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Shield",
+         "Support",
+         "Lingering Glow"
+      ],
+      "birthday": "April 10",
+      "age": "24"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/27/Matilda_Icon.png/revision/latest/scale-to-width-down/80?cb=20250519195359",
+      "name": "Matilda",
+      "rarity": "5",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Debuff",
+         "DPS"
+      ],
+      "birthday": "June 22",
+      "age": "14"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/42/Medicine_Pocket_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421172648",
+      "name": "Medicine Pocket",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "Heal",
+         "Debuff",
+         "Control"
+      ],
+      "birthday": "November 24",
+      "age": "18"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/Melania_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428120409",
+      "name": "Melania",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "Burst DMG",
+         "DPS"
+      ],
+      "birthday": "March 20",
+      "age": "18"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Mercuria_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421170220",
+      "name": "Mercuria",
+      "rarity": "6",
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS",
+         "Rank Up"
+      ],
+      "birthday": "February 18",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f5/Mesmer_Jr._Icon.png/revision/latest/scale-to-width-down/80?cb=20250516161556",
+      "name": "Mesmer Jr.",
+      "rarity": "4",
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "September 20",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Moldir_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516020714",
+      "name": "Moldir",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Riposte",
+         "Moxie"
+      ],
+      "birthday": "September 13",
+      "age": "24"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Mondlicht_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506040912",
+      "name": "Mondlicht",
+      "rarity": "4",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS"
+      ],
+      "birthday": "January 1",
+      "age": "10"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Mr._Duncan_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516035307",
+      "name": "Mr. Duncan",
+      "rarity": "5",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Riposte",
+         "Reaper"
+      ],
+      "birthday": "June 30",
+      "age": "61"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Ms._Moissan_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629094358",
+      "name": "Ms. Moissan",
+      "rarity": "4",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Control",
+         "Shield"
+      ],
+      "birthday": "November 25",
+      "age": "26"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/84/Ms._NewBabel_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421171417",
+      "name": "Ms. NewBabel",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DEF",
+         "Shield",
+         "Ripostle"
+      ],
+      "birthday": "November 16",
+      "age": "25"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Ms._Radio_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702164902",
+      "name": "Ms. Radio",
+      "rarity": "2",
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Debuff"
+      ],
+      "birthday": "April 1",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Name_Day_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516160520",
+      "name": "Name Day",
+      "rarity": "5",
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "January 6",
+      "age": "23"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/36/Nautika_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516020306",
+      "name": "Nautika",
+      "rarity": "6",
+      "afflatus": "Spirit",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Bloodtithe",
+         "Adaptive"
+      ],
+      "birthday": "February 16",
+      "age": "19"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/15/Necrologist_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421170916",
+      "name": "Necrologist",
+      "rarity": "5",
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "November 2",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/80/Nick_Bottom_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701081825",
+      "name": "Nick Bottom",
+      "rarity": "4",
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "April 30",
+      "age": "20"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Noire_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516022403",
+      "name": "Noire",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Extra Action"
+      ],
+      "birthday": "February 14",
+      "age": "41"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b5/ONiON_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702164411",
+      "name": "ONiON",
+      "rarity": "3",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Support"
+      ],
+      "birthday": "February 5",
+      "age": "24"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Oliver_Fog_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629093455",
+      "name": "Oliver Fog",
+      "rarity": "4",
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DEF",
+         "Support"
+      ],
+      "birthday": "December 26",
+      "age": "15"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/62/Paper_Heron_Icon.png/revision/latest/scale-to-width-down/80?cb=20260416193346",
+      "name": "Paper Heron",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Inspiration"
+      ],
+      "birthday": "Unknown",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Pavia_Icon.png/revision/latest/scale-to-width-down/80?cb=20250812010903",
+      "name": "Pavia",
+      "rarity": "4",
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Self-healing"
+      ],
+      "birthday": "July 24",
+      "age": "25"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/ba/Pickles_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428120408",
+      "name": "Pickles",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Support",
+         "Dispeller"
+      ],
+      "birthday": "October 27",
+      "age": "4"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Pioneer_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507051858",
+      "name": "Pioneer",
+      "rarity": "3",
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Shield",
+         "Shift"
+      ],
+      "birthday": "July 9",
+      "age": "4"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fb/Poltergeist_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629094357",
+      "name": "Poltergeist",
+      "rarity": "4",
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "DEF",
+         "Debuff"
+      ],
+      "birthday": "July 12",
+      "age": "15"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Rabies_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629093951",
+      "name": "Rabies",
+      "rarity": "4",
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Poison"
+      ],
+      "birthday": "December 14",
+      "age": "24"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/17/Ramona_Icon.png/revision/latest/scale-to-width-down/80?cb=20260525055238",
+      "name": "Ramona",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Poison",
+         "Rewrite"
+      ],
+      "birthday": "April 13",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/96/Recoleta_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516022258",
+      "name": "Recoleta",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Moxie"
+      ],
+      "birthday": "July 15",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b7/Reed_Icon.png/revision/latest/scale-to-width-down/80?cb=20260416193427",
+      "name": "Reed",
+      "rarity": "4",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "Unknown",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Regulus_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413035503",
+      "name": "Regulus",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Support"
+      ],
+      "birthday": "August 15",
+      "age": "15"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/Rubuska_Icon.png/revision/latest/scale-to-width-down/80?cb=20251212041936",
+      "name": "Rubuska",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Heal",
+         "Support",
+         "Bloodtithe"
+      ],
+      "birthday": "May 29th",
+      "age": "14"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4e/Satsuki_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604205243",
+      "name": "Satsuki",
+      "rarity": "5",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control"
+      ],
+      "birthday": "May 1",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Schneider_Icon.png/revision/latest/scale-to-width-down/80?cb=20250620133641",
+      "name": "Schneider",
+      "rarity": "5",
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         ""
+      ],
+      "birthday": "October 22",
+      "age": "18"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Semmelweis_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428123007",
+      "name": "Semmelweis",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "DPS",
+         "HP Sacrifice"
+      ],
+      "birthday": "August 19",
+      "age": "19"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Sentinel_Icon.png/revision/latest/scale-to-width-down/80?cb=20250626140818",
+      "name": "Sentinel",
+      "rarity": "6",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Bloodtithe",
+         "Support"
+      ],
+      "birthday": "December 22",
+      "age": "26"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Shamane_Icon.png/revision/latest/scale-to-width-down/80?cb=20250427000713",
+      "name": "Shamane",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Debuff"
+      ],
+      "birthday": "March 22",
+      "age": "45"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Sonetto_Icon.png/revision/latest/scale-to-width-down/80?cb=20250620131832",
+      "name": "Sonetto",
+      "rarity": "5",
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Support",
+         "Control"
+      ],
+      "birthday": "January 10",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c1/Sotheby_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413022616",
+      "name": "Sotheby",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Poison",
+         "Heal",
+         "DPS"
+      ],
+      "birthday": "April 15",
+      "age": "13"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Spathodea_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506041821",
+      "name": "Spathodea",
+      "rarity": "6",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Burn"
+      ],
+      "birthday": "January 10",
+      "age": "14"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/75/Sputnik_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702163755",
+      "name": "Sputnik",
+      "rarity": "3",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DEF",
+         "Control"
+      ],
+      "birthday": "October 4",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Sweetheart_Icon.png/revision/latest/scale-to-width-down/80?cb=20250510150959",
+      "name": "Sweetheart",
+      "rarity": "5",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Control"
+      ],
+      "birthday": "June 1",
+      "age": "17"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/TTT_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629093952",
+      "name": "TTT",
+      "rarity": "4",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DEF",
+         "Dispeller"
+      ],
+      "birthday": "March 12",
+      "age": "18"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Tennant_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604205242",
+      "name": "Tennant",
+      "rarity": "5",
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Shield",
+         "Debuff",
+         "DPS"
+      ],
+      "birthday": "September 8",
+      "age": "25"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/83/The_Fool_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506040913",
+      "name": "The Fool",
+      "rarity": "3",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DEF"
+      ],
+      "birthday": "September 4",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Tooth_Fairy_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428121706",
+      "name": "Tooth Fairy",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Heal",
+         "Debuff",
+         "Purify"
+      ],
+      "birthday": "November 27",
+      "age": "25"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Tuesday_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506230523",
+      "name": "Tuesday",
+      "rarity": "6",
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Debuff",
+         "Poison",
+         "Support"
+      ],
+      "birthday": "October 30",
+      "age": "21"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Twins_Sleep_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516160530",
+      "name": "Twins Sleep",
+      "rarity": "3",
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Debuff",
+         "Control"
+      ],
+      "birthday": "April 27",
+      "age": "8"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4c/Ulrich_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516020414",
+      "name": "Ulrich",
+      "rarity": "6",
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "Dynamo",
+         "Support",
+         "Extra Action"
+      ],
+      "birthday": "May 30",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b3/Ulu_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506042356",
+      "name": "Ulu",
+      "rarity": "5",
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS",
+         "Burn"
+      ],
+      "birthday": "January 12",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Vila_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428152047",
+      "name": "Vila",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Heal",
+         "Purify"
+      ],
+      "birthday": "April 6",
+      "age": "26"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Voyager_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507051322",
+      "name": "Voyager",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control",
+         "Debuff"
+      ],
+      "birthday": "November 12",
+      "age": "Unknown"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/49/White_Rum_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516035309",
+      "name": "White Rum",
+      "rarity": "4",
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Control",
+         "Shift"
+      ],
+      "birthday": "January 15",
+      "age": "300"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e8/Willow_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506041401",
+      "name": "Willow",
+      "rarity": "6",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Poison",
+         "Burst DMG"
+      ],
+      "birthday": "November 1",
+      "age": "25"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Windsong_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428152049",
+      "name": "Windsong",
+      "rarity": "6",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Burst DMG",
+         "DPS",
+         "Extra Action"
+      ],
+      "birthday": "October 13",
+      "age": "22"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c4/X_Icon.png/revision/latest/scale-to-width-down/80?cb=20250620162524",
+      "name": "X",
+      "rarity": "5",
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "Dispeller",
+         "DPS",
+         "Control"
+      ],
+      "birthday": "May 30",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/64/Yenisei_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506204644",
+      "name": "Yenisei",
+      "rarity": "5",
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Heal",
+         "Immunity"
+      ],
+      "birthday": "March 4",
+      "age": "16"
+   },
+   {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/71/%D0%97%D0%B8%D0%BC%D0%B0_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701082342",
+      "name": "\u0417\u0438\u043c\u0430",
+      "rarity": "4",
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Control"
+      ],
+      "birthday": "April 28",
+      "age": "29"
+   }
+]
