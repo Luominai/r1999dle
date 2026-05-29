@@ -8,7 +8,7 @@ from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.remote.webdriver import WebDriver
-from utils import get_lazy_loaded_img, scroll_to
+from scraping.utils import get_lazy_loaded_img, scroll_to
 
 r1999_wiki = "https://reverse1999.fandom.com/wiki/37/Story"
 options = Options()

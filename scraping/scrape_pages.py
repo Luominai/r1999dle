@@ -5,7 +5,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.action_chains import ActionChains
-from utils import get_lazy_loaded_img
+from scraping.utils import get_lazy_loaded_img
 
 r1999_wiki = "https://reverse1999.fandom.com/wiki/Crew_Members"
 options = Options()

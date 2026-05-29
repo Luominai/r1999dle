@@ -8,7 +8,7 @@ from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import NoSuchElementException, NoSuchWindowException
 from selenium.webdriver.remote.webdriver import WebDriver
-from utils import get_lazy_loaded_img, scroll_to
+from scraping.utils import get_lazy_loaded_img, scroll_to
 
 options = Options()
 options.page_load_strategy = "eager"
