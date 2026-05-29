@@ -40,38 +40,3 @@ driver.quit()
 print("writing data")
 with open("pages.json", "w") as file:
     json.dump(character_pages, file, indent=3)
-
-# print("parsing character pages")
-# for page in character_pages:
-#     driver = webdriver.Firefox(options=options)
-#     driver.get(page)
-#     cover = driver.find_elements(By.CLASS_NAME, "wds-tab__content")[4]
-#     dimensions = cover.find_element(By.CSS_SELECTOR, "[data-source=proportions]").find_element(By.TAG_NAME, "div").text
-#     medium = cover.find_element(By.CSS_SELECTOR, "[data-source=medium]").find_element(By.TAG_NAME, "div").text
-#     fragrance = cover.find_element(By.CSS_SELECTOR, "[data-source=fragrance]").find_element(By.TAG_NAME, "div").text
-#     inspiration = cover.find_element(By.CSS_SELECTOR, "[data-source=inspo]").find_element(By.TAG_NAME, "div").text
-#     signature_cell = cover.find_element(By.CSS_SELECTOR, "[data-source=signature]").find_element(By.TAG_NAME, "a")
-#     signature = get_lazy_loaded_img(signature_cell, "href")
-
-#     # sleeping
-#     print("sleeping")
-#     time.sleep(15)
-#     driver.get(page + "/Story")
-#     character_name = page.split("/")[-1]
-#     item_1 = get_lazy_loaded_img(driver.find_element(By.CSS_SELECTOR, f"[data-image-name={character_name}_Item_1.png]"), "src")
-#     item_2 = get_lazy_loaded_img(driver.find_element(By.CSS_SELECTOR, f"[data-image-name={character_name}_Item_2.png]"), "src")
-#     item_3 = get_lazy_loaded_img(driver.find_element(By.CSS_SELECTOR, f"[data-image-name={character_name}_Item_3.png]"), "src")
-
-#     data.append({
-#         "dimensions": dimensions, 
-#         "medium": medium, 
-#         "fragrance": fragrance, 
-#         "inspiration": inspiration, 
-#         "signature": signature,
-#         "items": [item_1, item_2, item_3]
-#     })
-#     driver.quit()
-
-# print("writing data")
-# with open("profile.json", "w") as file:
-#     json.dump(data, file, indent=3)
