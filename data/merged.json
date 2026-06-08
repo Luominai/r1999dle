@@ -1,5 +1,17 @@
 {
    "37": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/69/37_Icon.png",
+      "name": "37",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Follow-up Attack",
+         "Support"
+      ],
+      "birthday": "July 27",
+      "age": "16",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/a/ab/37_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/2/2d/37_Item_2.png",
@@ -12,6 +24,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/49/37_Signature.png"
    },
    "6": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/05/6_Icon.png",
+      "name": "6",
+      "rarity": 6,
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Debuff",
+         "Purify"
+      ],
+      "birthday": "February 13",
+      "age": "22",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/f/ff/6_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/a/ac/6_Item_2.png",
@@ -24,6 +48,16 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8a/6_Signature.png"
    },
    "A_Knight": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ae/A_Knight_Icon.png",
+      "name": "A Knight",
+      "rarity": 6,
+      "afflatus": "Spirit",
+      "damage": "Real",
+      "tags": [
+         "DPS"
+      ],
+      "birthday": "February 29",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/6/6f/A_Knight_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/5/54/A_Knight_Item_2.png",
@@ -36,6 +70,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/3b/A_Knight_Signature.png"
    },
    "APPLe": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/APPLe_Icon.png",
+      "name": "APPLe",
+      "rarity": 4,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Heal"
+      ],
+      "birthday": "January 4",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/6/6b/APPLe_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/b/bb/APPLe_Item_2.png",
@@ -48,6 +93,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/f0/APPLe_Signature.png"
    },
    "Aleph": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/Aleph_Icon.png",
+      "name": "Aleph",
+      "rarity": 6,
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Inspiration",
+         "Burst DMG"
+      ],
+      "birthday": "February 28",
+      "age": "29",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/7/7c/Aleph_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/c/c2/Aleph_Item_2.png",
@@ -60,6 +117,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/88/Aleph_Signature.png"
    },
    "Alexios": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Alexios_Icon.png",
+      "name": "Alexios",
+      "rarity": 5,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Assassination",
+         "DPS"
+      ],
+      "birthday": "Unknown",
+      "age": "20",
       "dimensions": "72 3/64\u00d727 3/4\u00d721 17/64 inches.",
       "medium": "Cruelty",
       "fragrance": "Leather - Iron, Ash, Birch Tar, Civet Musk",
@@ -72,6 +140,17 @@
       ]
    },
    "AliEn_T": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/AliEn_T_Icon.png",
+      "name": "AliEn T",
+      "rarity": 3,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DEF",
+         "Control"
+      ],
+      "birthday": "July 10",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/4/43/AliEn_T_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/d/dc/AliEn_T_Item_2.png",
@@ -84,6 +163,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/33/AliEn_T_Signature.png"
    },
    "An-an_Lee": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/9b/An-an_Lee_Icon.png",
+      "name": "An-an Lee",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Control",
+         "DPS"
+      ],
+      "birthday": "July 27",
+      "age": "16",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/0/0d/An-an_Lee_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/e/ea/An-an_Lee_Item_2.png",
@@ -96,6 +187,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/An-an_Lee_Signature.png"
    },
    "Anjo_Nala": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d9/Anjo_Nala_Icon.png",
+      "name": "Anjo Nala",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control",
+         "Burst DMG"
+      ],
+      "birthday": "April 5",
+      "age": "Unknown",
       "dimensions": "64 19/25 x 26 18/25 x 12 3/5 in.",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/3/3d/Anjo_Nala_Item_1.png",
@@ -108,6 +211,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c0/Anjo_Nala_Signature.png"
    },
    "Argus": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a0/Argus_Icon.png",
+      "name": "Argus",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Debuff",
+         "Support"
+      ],
+      "birthday": "December 11",
+      "age": "26",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/0/0f/Argus_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/6/68/Argus_Item_2.png",
@@ -119,6 +234,18 @@
       "inspiration": "Unyielding Hard Oak [Plant] Wild Hunt"
    },
    "Avgust": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Avgust_Icon.png",
+      "name": "Avgust",
+      "rarity": 5,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Dispeller",
+         "Heal"
+      ],
+      "birthday": "August 7",
+      "age": "8",
       "dimensions": "47 16/64 x 28 17/64 x 10 40/64 in.",
       "medium": "Sunlight",
       "fragrance": "Flowery Gourmand, Sunflower, Chocolate, Beeswax, Coal Ash",
@@ -131,6 +258,17 @@
       ]
    },
    "Baby_Blue": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Baby_Blue_Icon.png",
+      "name": "Baby Blue",
+      "rarity": 5,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Control",
+         "Debuff"
+      ],
+      "birthday": "March 14",
+      "age": "17",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/6/66/Baby_Blue_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/7/77/Baby_Blue_Item_2.png",
@@ -143,6 +281,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/9d/Baby_Blue_Signature.png"
    },
    "Balloon_Party": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Balloon_Party_Icon.png",
+      "name": "Balloon Party",
+      "rarity": 5,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Heal",
+         "DEF"
+      ],
+      "birthday": "April 14",
+      "age": "17",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/b/be/Balloon_Party_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/e/e4/Balloon_Party_Item_2.png",
@@ -155,6 +304,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/e7/Balloon_Party_Signature.png"
    },
    "Barbara": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Barbara_Icon.png",
+      "name": "Barbara",
+      "rarity": 5,
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Shield",
+         "Heal"
+      ],
+      "birthday": "July 5",
+      "age": "Unknown",
       "dimensions": "59 9/20 x 21 13/10 x 10 15/640 in.",
       "medium": "Observation",
       "fragrance": "Gourmand - Vanilla, Salt, Cream, Cardamom",
@@ -167,6 +328,18 @@
       ]
    },
    "Barcarola": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/65/Barcarola_Icon.png",
+      "name": "Barcarola",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Support",
+         "Inspiration"
+      ],
+      "birthday": "November 13",
+      "age": "17",
       "dimensions": "69 17/25 x 33 1/4 x 23 3/5 in.",
       "medium": "Synthetic Instrument",
       "fragrance": "Aquatic - Lilac, Reeds, Lilies, Vanilla",
@@ -179,6 +352,18 @@
       ]
    },
    "Beryl": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Beryl_Icon.png",
+      "name": "Beryl",
+      "rarity": 6,
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Lingering Glow",
+         "Extra Action"
+      ],
+      "birthday": "December 21",
+      "age": "Unknown",
       "dimensions": "65 3/4\u00d730 3/64\u00d718 27/32 inches.",
       "medium": "Crystal refraction",
       "fragrance": "Chypre, cypress, juniper, sandalwood, violet",
@@ -191,6 +376,17 @@
       ]
    },
    "Bette": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Bette_Icon.png",
+      "name": "Bette",
+      "rarity": 3,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Shield"
+      ],
+      "birthday": "June 22",
+      "age": "20",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/2/23/Bette_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/a/a0/Bette_Item_2.png",
@@ -203,6 +399,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Bette_Signature.png"
    },
    "Bkornblume": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Bkornblume_Icon.png",
+      "name": "Bkornblume",
+      "rarity": 5,
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Debuff",
+         "Burst DMG",
+         "Control"
+      ],
+      "birthday": "February 9",
+      "age": "18",
       "dimensions": "67 21/64\u00d740 35/64\u00d78 21/32in.",
       "medium": "Cornflower",
       "fragrance": "Leafy - Oud, Linden, Arborvitae",
@@ -215,6 +423,17 @@
       ]
    },
    "Blonney": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Blonney_Icon.png",
+      "name": "Blonney",
+      "rarity": 5,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "Burst DMG",
+         "DPS"
+      ],
+      "birthday": "July 22",
+      "age": "20",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Blonney_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/e/e1/Blonney_Item_2.png",
@@ -227,6 +446,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/69/Blonney_Signature.png"
    },
    "Brimley": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Brimley_Icon.png",
+      "name": "Brimley",
+      "rarity": 5,
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Dispeller",
+         "Extra Action"
+      ],
+      "birthday": "October 31",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/9/95/Brimley_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/1/11/Brimley_Item_2.png",
@@ -239,6 +470,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/52/Brimley_Signature.png"
    },
    "Brume": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Brume_Icon.png",
+      "name": "Brume",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Extra Action",
+         "Dynamo"
+      ],
+      "birthday": "December 19",
+      "age": "20",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/4/48/Brume_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/c/cb/Brume_Item_2.png",
@@ -251,6 +494,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/e4/Brume_Signature.png"
    },
    "Buddy_Fairchild": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/58/Buddy_Fairchild_Icon.png",
+      "name": "Buddy Fairchild",
+      "rarity": 5,
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Moxie"
+      ],
+      "birthday": "May 20",
+      "age": "5",
       "dimensions": "47 15/64 x 17 23/32 x 7 7/8 inches.",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/9/9a/Buddy_Fairchild_Item_1.png",
@@ -263,6 +518,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/b2/Buddy_Fairchild_Signature.png"
    },
    "Bunny_Bunny": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/03/Bunny_Bunny_Icon.png",
+      "name": "Bunny Bunny",
+      "rarity": 4,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Heal",
+         "Nasty Wound"
+      ],
+      "birthday": "November 6",
+      "age": "21",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/5/53/Bunny_Bunny_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/1/12/Bunny_Bunny_Item_2.png",
@@ -275,6 +541,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8e/Bunny_Bunny_Signature.png"
    },
    "Centurion": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Centurion_Icon.png",
+      "name": "Centurion",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG"
+      ],
+      "birthday": "August 13",
+      "age": "19",
       "dimensions": "57 31/64 x 46 29/64 x 43 45/64 in.",
       "medium": "Gold Plating",
       "fragrance": "Oriental - Frankincense, Pepper, Raspberry, Iris, Fir",
@@ -287,6 +564,17 @@
       ]
    },
    "Charlie": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c8/Charlie_Icon.png",
+      "name": "Charlie",
+      "rarity": 5,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Dispeller"
+      ],
+      "birthday": "April 23",
+      "age": "16",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/2/2c/Charlie_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/3/3b/Charlie_Item_2.png",
@@ -299,6 +587,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Charlie_Signature.png"
    },
    "Charon": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/20/Charon_Icon.png",
+      "name": "Charon",
+      "rarity": 6,
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Dynamo",
+         "Support",
+         "Extra Action"
+      ],
+      "birthday": "June 27",
+      "age": "2",
       "dimensions": "71 21/32x23 15/64x20 55/64 in.",
       "medium": "Death",
       "fragrance": "Woody - Beech, Poppy, Guaiac Wood, Benzoin, Paraffin, Styx Water",
@@ -311,6 +611,18 @@
       ]
    },
    "Cheng_Heguang": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/31/Cheng_Heguang_Icon.png",
+      "name": "Cheng Heguang",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Follow-up Attack",
+         "Support"
+      ],
+      "birthday": "July 3",
+      "age": "22",
       "dimensions": "70 15/32\u00d722 53/64\u00d722 3/64 in.",
       "medium": "Upright Heart and Integrity",
       "fragrance": "Oriental Fougere, Grapefruit, Magnolia, Oud Wood, Cedar",
@@ -323,6 +635,17 @@
       ]
    },
    "Click": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/86/Click_Icon.png",
+      "name": "Click",
+      "rarity": 5,
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Debuff"
+      ],
+      "birthday": "June 28",
+      "age": "19",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/6/6b/Click_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/d/df/Click_Item_2.png",
@@ -335,6 +658,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/65/Click_Signature.png"
    },
    "Corvus": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/00/Corvus_Icon.png",
+      "name": "Corvus",
+      "rarity": 6,
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Extra Action",
+         "Dynamo"
+      ],
+      "birthday": "August 2",
+      "age": "34",
       "dimensions": "70 5/64 x 33 9/32 x 25 11/32 in.",
       "medium": "Threadwork",
       "fragrance": "Woody Oriental, Cedar, Incense, Lily",
@@ -347,6 +682,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a5/Corvus_Signature.png"
    },
    "Cristallo": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Cristallo_Icon.png",
+      "name": "Cristallo",
+      "rarity": 4,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Nasty Wound",
+         "Support"
+      ],
+      "birthday": "December 30",
+      "age": "16",
       "dimensions": "52 3/4 x 25 63/64 x 21 21/32 in.",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/d/de/Cristallo_Item_1.png",
@@ -359,6 +705,16 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/17/Cristallo_Signature.png"
    },
    "Darley_Clatter": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Darley_Clatter_Icon.png",
+      "name": "Darley Clatter",
+      "rarity": 3,
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "January 19",
+      "age": "Unknown",
       "dimensions": "26 49/64\u00d726 3/8\u00d79 29/64in.",
       "medium": "Horse Mane",
       "fragrance": "Fruity - Apple, Caramel, Carrot, Gold",
@@ -371,6 +727,17 @@
       ]
    },
    "Desert_Flannel": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Desert_Flannel_Icon.png",
+      "name": "Desert Flannel",
+      "rarity": 5,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "September 22",
+      "age": "17",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Desert_Flannel_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/4/4f/Desert_Flannel_Item_2.png",
@@ -383,6 +750,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/40/Desert_Flannel_Signature.png"
    },
    "Diggers": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7d/Diggers_Icon.png",
+      "name": "Diggers",
+      "rarity": 5,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Control",
+         "Shield",
+         "Debuff"
+      ],
+      "birthday": "February 15",
+      "age": "20",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/7/70/Diggers_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Diggers_Item_2.png",
@@ -395,6 +774,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a3/Diggers_Signature.png"
    },
    "Dikke": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8c/Dikke_Icon.png",
+      "name": "Dikke",
+      "rarity": 5,
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Heal"
+      ],
+      "birthday": "October 10",
+      "age": "19",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/c/cc/Dikke_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/a/a8/Dikke_Item_2.png",
@@ -407,6 +797,16 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ca/Dikke_Signature.png"
    },
    "Door": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/Door_Icon.png",
+      "name": "Door",
+      "rarity": 2,
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "August 2",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/a/ae/Door_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/3/3c/Door_Item_2.png",
@@ -419,6 +819,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/16/Door_Signature.png"
    },
    "Druvis_III": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/df/Druvis_III_Icon.png",
+      "name": "Druvis III",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control",
+         "Support"
+      ],
+      "birthday": "October 23",
+      "age": "20",
       "dimensions": "66 59/64\u00d728 3/4\u00d77 3/22in.",
       "medium": "Wood",
       "fragrance": "Woody - Cedar, Tuberose, Amber",
@@ -431,6 +843,17 @@
       ]
    },
    "Eagle": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Eagle_Icon.png",
+      "name": "Eagle",
+      "rarity": 4,
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Burst DMG",
+         "DPS"
+      ],
+      "birthday": "July 21",
+      "age": "13",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/3/37/Eagle_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/f/fd/Eagle_Item_2.png",
@@ -443,6 +866,16 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/08/Eagle_Signature.png"
    },
    "Enigma": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Enigma_Icon.png",
+      "name": "Enigma",
+      "rarity": 6,
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         ""
+      ],
+      "birthday": "October 16",
+      "age": "29",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Enigma_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Enigma_Item_2.png",
@@ -452,6 +885,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a8/Enigma_Signature.png"
    },
    "Erick": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Erick_Icon.png",
+      "name": "Erick",
+      "rarity": 4,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Dispeller"
+      ],
+      "birthday": "May 14",
+      "age": "12",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Erick_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/f/f3/Erick_Item_2.png",
@@ -464,6 +908,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/Erick_Signature.png"
    },
    "Eternity": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/38/Eternity_Icon.png",
+      "name": "Eternity",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Nasty Wound"
+      ],
+      "birthday": "December 25",
+      "age": "100+",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Eternity_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/0/04/Eternity_Item_2.png",
@@ -476,6 +931,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/6f/Eternity_Signature.png"
    },
    "Ezio_Auditore": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a6/Ezio_Auditore_Icon.png",
+      "name": "Ezio Auditore",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "Assassination",
+         "DPS",
+         "Riposte"
+      ],
+      "birthday": "June 24",
+      "age": "34",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/4/44/Ezio_Auditore_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/a/a5/Ezio_Auditore_Item_2.png",
@@ -488,6 +955,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/b3/Ezio_Auditore_Signature.png"
    },
    "Ezra": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7e/Ezra_Icon.png",
+      "name": "Ezra",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Shield",
+         "Debuff"
+      ],
+      "birthday": "June 1",
+      "age": "14",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/c/c6/Ezra_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/2/2d/Ezra_Item_2.png",
@@ -500,6 +979,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Ezra_Signature.png"
    },
    "Fatutu": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/35/Fatutu_Icon.png",
+      "name": "Fatutu",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Heal",
+         "Dispeller",
+         "Extra Action"
+      ],
+      "birthday": "September 28",
+      "age": "16",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/3/35/Fatutu_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/4/4f/Fatutu_Item_2.png",
@@ -512,6 +1003,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a7/Fatutu_Signature.png"
    },
    "Flutterpage": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/92/Flutterpage_Icon.png",
+      "name": "Flutterpage",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Support",
+         "Extra Action"
+      ],
+      "birthday": "July 14",
+      "age": "11",
       "dimensions": "59 1/16 x 55 1/8 x 23 5/8 in.",
       "medium": "Old Paper Scraps",
       "fragrance": "Wood Notes, Sandalwood, Aromatic Wood, Eucalyptus Leaves, Pine Needles",
@@ -524,6 +1027,18 @@
       ]
    },
    "Getian": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/32/Getian_Icon.png",
+      "name": "Getian",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Debuff",
+         "DPS"
+      ],
+      "birthday": "July 22",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/b/bf/Getian_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/6/68/Getian_Item_2.png",
@@ -536,6 +1051,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/f5/Getian_Signature.png"
    },
    "Hissabeth": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1b/Hissabeth_Icon.png",
+      "name": "Hissabeth",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control",
+         "Moxie"
+      ],
+      "birthday": "December 23",
+      "age": "19",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/7/77/Hissabeth_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/b/be/Hissabeth_Item_2.png",
@@ -548,6 +1075,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/07/Hissabeth_Signature.png"
    },
    "Horropedia": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d3/Horropedia_Icon.png",
+      "name": "Horropedia",
+      "rarity": 5,
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Dispeller",
+         "Debuff"
+      ],
+      "birthday": "January 3",
+      "age": "21",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/4/40/Horropedia_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Horropedia_Item_2.png",
@@ -560,6 +1099,16 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/ef/Horropedia_Signature.png"
    },
    "Igor": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e2/Igor_Icon.png",
+      "name": "Igor",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS"
+      ],
+      "birthday": "February 23",
+      "age": "56",
       "dimensions": "74 53/64 x 43 9/64 x 25 3/16 inches",
       "medium": "Leadership",
       "fragrance": "Leather, Fir, Rust, Birch Tar",
@@ -572,6 +1121,18 @@
       ]
    },
    "Isolde": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Isolde_Icon.png",
+      "name": "Isolde",
+      "rarity": 6,
+      "afflatus": "Spirit",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "DPS",
+         "Burn"
+      ],
+      "birthday": "November 23",
+      "age": "18",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/2/21/Isolde_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/6/63/Isolde_Item_2.png",
@@ -584,6 +1145,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Isolde_Signature.png"
    },
    "J": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/33/J_Icon.png",
+      "name": "J",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Shield",
+         "Riposte"
+      ],
+      "birthday": "April 18",
+      "age": "18",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/d/d0/J_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/5/50/J_Item_2.png",
@@ -596,6 +1169,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a4/J_Signature.png"
    },
    "Jessica": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Jessica_Icon.png",
+      "name": "Jessica",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Poison",
+         "DPS"
+      ],
+      "birthday": "April 11",
+      "age": "27",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/5/57/Jessica_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/d/db/Jessica_Item_2.png",
@@ -608,6 +1192,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a4/Jessica_Signature.png"
    },
    "Jiu_Niangzi": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Jiu_Niangzi_Icon.png",
+      "name": "Jiu Niangzi",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Extra Action"
+      ],
+      "birthday": "Unknown",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/1/1f/Jiu_Niangzi_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Jiu_Niangzi_Item_2.png",
@@ -620,6 +1216,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Jiu_Niangzi_Signature.png"
    },
    "John_Titor": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/John_Titor_Icon.png",
+      "name": "John Titor",
+      "rarity": 3,
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Dispeller",
+         "Purify"
+      ],
+      "birthday": "November 2",
+      "age": "18",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/d/d1/John_Titor_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/4/48/John_Titor_Item_2.png",
@@ -632,6 +1240,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/John_Titor_Signature.png"
    },
    "Kaalaa_Baunaa": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Kaalaa_Baunaa_Icon.png",
+      "name": "Kaalaa Baunaa",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Follow-up Attack"
+      ],
+      "birthday": "July 15",
+      "age": "27",
       "dimensions": "65 3/4\u00d718 17/64\u00d717 23/32in.",
       "medium": "Rising Gaze",
       "fragrance": "Eastern, Cinnamon, Khus, Champak, Wild Chamomile",
@@ -644,6 +1264,18 @@
       ]
    },
    "Kakania": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/85/Kakania_Icon.png",
+      "name": "Kakania",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DEF",
+         "Burst DMG"
+      ],
+      "birthday": "December 7",
+      "age": "19",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/4/43/Kakania_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/2/24/Kakania_Item_2.png",
@@ -656,6 +1288,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/ee/Kakania_Signature.png"
    },
    "Kanjira": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fc/Kanjira_Icon.png",
+      "name": "Kanjira",
+      "rarity": 5,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Poison",
+         "Debuff"
+      ],
+      "birthday": "April 8",
+      "age": "16",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/1/16/Kanjira_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/8/8f/Kanjira_Item_2.png",
@@ -668,6 +1312,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/bf/Kanjira_Signature.png"
    },
    "Kassandra": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Kassandra_Icon.png",
+      "name": "Kassandra",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Assassination",
+         "DPS",
+         "Support"
+      ],
+      "birthday": "Unknown",
+      "age": "27",
       "dimensions": "72 3/64\u00d723 15/64\u00d719 11/16 inches.",
       "medium": "Hounded",
       "items": [
@@ -680,6 +1336,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Kassandra_Signature.png"
    },
    "Kiperina": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Kiperina_Icon.png",
+      "name": "Kiperina",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "Shield",
+         "Support",
+         "Dispeller"
+      ],
+      "birthday": "April 19",
+      "age": "15",
       "dimensions": "61 1/32 x 20 5/16 x 18 7/64 in.",
       "medium": "Aurora",
       "fragrance": "Woody and Aromatic, Red Apple, Hearth Smoke, Sandalwood, Sage, Honey",
@@ -692,6 +1360,16 @@
       ]
    },
    "La_Source": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/La_Source_Icon.png",
+      "name": "La Source",
+      "rarity": 3,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Heal"
+      ],
+      "birthday": "January 29",
+      "age": "Unknown",
       "dimensions": "55 1/8 x 21 21/32 x 6 11/16 in.",
       "medium": "Spring Water",
       "fragrance": "Sea-breeze, Floral - Herb, Wild Strawberry, Fig Leaf, Clear Spring.",
@@ -704,6 +1382,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/39/La_Source_Signature.png"
    },
    "Leilani": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/26/Leilani_Icon.png",
+      "name": "Leilani",
+      "rarity": 3,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "September 23",
+      "age": "16",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/9/92/Leilani_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/2/24/Leilani_Item_2.png",
@@ -716,6 +1405,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/84/Leilani_Signature.png"
    },
    "Liang_Yue": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Liang_Yue_Icon.png",
+      "name": "Liang Yue",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Extra Action",
+         "Immunity"
+      ],
+      "birthday": "May 6",
+      "age": "17",
       "dimensions": "64 61/64 x 26 49/64 x 17 23/32 in.",
       "medium": "Temple ceremonial candles",
       "fragrance": "Oriental woody notes with old sandalwood, incense, bamboo leaves, and cedar.",
@@ -728,6 +1429,17 @@
       ]
    },
    "Lilya": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/19/Lilya_Icon.png",
+      "name": "Lilya",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "Burst DMG",
+         "DPS"
+      ],
+      "birthday": "November 14",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Lilya_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/b/bb/Lilya_Item_2.png",
@@ -740,6 +1452,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/aa/Lilya_Signature.png"
    },
    "Loggerhead": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/93/Loggerhead_Icon.png",
+      "name": "Loggerhead",
+      "rarity": 5,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Heal",
+         "DEF",
+         "Support"
+      ],
+      "birthday": "June 1",
+      "age": "96",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/3/32/Loggerhead_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/3/39/Loggerhead_Item_2.png",
@@ -752,6 +1476,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/57/Loggerhead_Signature.png"
    },
    "Lopera": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Lopera_Icon.png",
+      "name": "Lopera",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Burn",
+         "Extra Action"
+      ],
+      "birthday": "May 6",
+      "age": "15",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/a/a5/Lopera_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/5/57/Lopera_Item_2.png",
@@ -764,6 +1500,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/19/Lopera_Signature.png"
    },
    "Lorelei": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/cf/Lorelei_Icon.png",
+      "name": "Lorelei",
+      "rarity": 5,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "April 16",
+      "age": "16",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/6/62/Lorelei_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/0/08/Lorelei_Item_2.png",
@@ -776,10 +1523,34 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/4f/Lorelei_Signature.png"
    },
    "Lorentz_Butterfly": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Lorentz_Butterfly_Icon.png",
+      "name": "Lorentz Butterfly",
+      "rarity": 6,
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Lingering Glow",
+         "Extra Action"
+      ],
+      "birthday": "September 19",
+      "age": "24",
       "dimensions": "69 1/4\u00d734 3/8\u00d718 1/8 inches",
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/88/Lorentz_Butterfly_Signature.png"
    },
    "Lucy": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d2/Lucy_Icon.png",
+      "name": "Lucy",
+      "rarity": 6,
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Reaper",
+         "Extra Action"
+      ],
+      "birthday": "December 30",
+      "age": "181",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/3/39/Lucy_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/4/4e/Lucy_Item_2.png",
@@ -792,6 +1563,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/3f/Lucy_Signature.png"
    },
    "Marcus": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/43/Marcus_Icon.png",
+      "name": "Marcus",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Burst DMG"
+      ],
+      "birthday": "January 12",
+      "age": "17",
       "dimensions": "61 1/32 x 24 13/32 x 13 25/64 in.",
       "medium": "Avid Reader",
       "fragrance": "Aqua, Sage, Seawater, Cardamom, Aleppo Oak",
@@ -804,6 +1586,18 @@
       ]
    },
    "Marsha": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/db/Marsha_Icon.png",
+      "name": "Marsha",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Shield",
+         "Support",
+         "Lingering Glow"
+      ],
+      "birthday": "April 10",
+      "age": "24",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Marsha_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/9/9f/Marsha_Item_2.png",
@@ -816,6 +1610,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Marsha_Signature.png"
    },
    "Matilda": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/27/Matilda_Icon.png",
+      "name": "Matilda",
+      "rarity": 5,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Debuff",
+         "DPS"
+      ],
+      "birthday": "June 22",
+      "age": "14",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/5/57/Matilda_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/a/a5/Matilda_Item_2.png",
@@ -828,6 +1633,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/15/Matilda_Signature.png"
    },
    "Medicine_Pocket": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/42/Medicine_Pocket_Icon.png",
+      "name": "Medicine Pocket",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "Heal",
+         "Debuff",
+         "Control"
+      ],
+      "birthday": "November 24",
+      "age": "18",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/7/76/Medicine_Pocket_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/b/bf/Medicine_Pocket_Item_2.png",
@@ -840,6 +1657,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/35/Medicine_Pocket_Signature.png"
    },
    "Melania": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/Melania_Icon.png",
+      "name": "Melania",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "Burst DMG",
+         "DPS"
+      ],
+      "birthday": "March 20",
+      "age": "18",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/d/de/Melania_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/7/7c/Melania_Item_2.png",
@@ -852,6 +1680,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Melania_Signature.png"
    },
    "Mercuria": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Mercuria_Icon.png",
+      "name": "Mercuria",
+      "rarity": 6,
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS",
+         "Rank Up"
+      ],
+      "birthday": "February 18",
+      "age": "16",
       "dimensions": "65 3/4 x 17 23/32 x 10 15/64 in.",
       "medium": "Trace",
       "fragrance": "Oriental Fougere, Clary Sage, Citrus, Violet, Benzoin, Tobacco",
@@ -864,6 +1704,16 @@
       ]
    },
    "Mesmer_Jr.": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f5/Mesmer_Jr._Icon.png",
+      "name": "Mesmer Jr.",
+      "rarity": 4,
+      "afflatus": "Intellect",
+      "damage": "Mental",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "September 20",
+      "age": "16",
       "dimensions": "64 11/64\u00d725 13/64\u00d717 23/32in.",
       "medium": "Sodium Hypochlorite",
       "fragrance": "Aquatic - Coriander, Mint, Juniper Berries, Oakmoss, Calone",
@@ -876,6 +1726,18 @@
       ]
    },
    "Moldir": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Moldir_Icon.png",
+      "name": "Moldir",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "Riposte",
+         "Moxie"
+      ],
+      "birthday": "September 13",
+      "age": "24",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Moldir_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/3/3a/Moldir_Item_2.png",
@@ -888,6 +1750,16 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/44/Moldir_Signature.png"
    },
    "Mondlicht": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Mondlicht_Icon.png",
+      "name": "Mondlicht",
+      "rarity": 4,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS"
+      ],
+      "birthday": "January 1",
+      "age": "10",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/8/8a/Mondlicht_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/d/d5/Mondlicht_Item_2.png",
@@ -900,6 +1772,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Mondlicht_Signature.png"
    },
    "Mr._Duncan": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Mr._Duncan_Icon.png",
+      "name": "Mr. Duncan",
+      "rarity": 5,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Riposte",
+         "Reaper"
+      ],
+      "birthday": "June 30",
+      "age": "61",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/5/5b/Mr._Duncan_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Mr._Duncan_Item_2.png",
@@ -912,6 +1796,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/67/Mr._Duncan_Signature.png"
    },
    "Ms._Moissan": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Ms._Moissan_Icon.png",
+      "name": "Ms. Moissan",
+      "rarity": 4,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Control",
+         "Shield"
+      ],
+      "birthday": "November 25",
+      "age": "26",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/b/b4/Ms._Moissan_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/2/2c/Ms._Moissan_Item_2.png",
@@ -924,6 +1819,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/eb/Ms._Moissan_Signature.png"
    },
    "Ms._NewBabel": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/84/Ms._NewBabel_Icon.png",
+      "name": "Ms. NewBabel",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DEF",
+         "Shield",
+         "Ripostle"
+      ],
+      "birthday": "November 16",
+      "age": "25",
       "dimensions": "73 15/64\u00d754 39/64\u00d719 49/64in.",
       "medium": "Ambition",
       "fragrance": "Woody - Citron, Orange Blossom, Water Lily, Lemon Grass",
@@ -936,6 +1843,16 @@
       ]
    },
    "Ms._Radio": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Ms._Radio_Icon.png",
+      "name": "Ms. Radio",
+      "rarity": 2,
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Debuff"
+      ],
+      "birthday": "April 1",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/7/77/Ms._Radio_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/b/bf/Ms._Radio_Item_2.png",
@@ -948,6 +1865,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c4/Ms._Radio_Signature.png"
    },
    "Name_Day": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Name_Day_Icon.png",
+      "name": "Name Day",
+      "rarity": 5,
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "January 6",
+      "age": "23",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/2/2a/Name_Day_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Name_Day_Item_2.png",
@@ -960,6 +1888,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/67/Name_Day_Signature.png"
    },
    "Nautika": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/36/Nautika_Icon.png",
+      "name": "Nautika",
+      "rarity": 6,
+      "afflatus": "Spirit",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Bloodtithe",
+         "Adaptive"
+      ],
+      "birthday": "February 16",
+      "age": "19",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/d/d9/Nautika_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/9/9b/Nautika_Item_2.png",
@@ -972,6 +1912,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/cc/Nautika_Signature.png"
    },
    "Necrologist": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/15/Necrologist_Icon.png",
+      "name": "Necrologist",
+      "rarity": 5,
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS"
+      ],
+      "birthday": "November 2",
+      "age": "17",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/c/cd/Necrologist_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/1/12/Necrologist_Item_2.png",
@@ -984,6 +1935,16 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/90/Necrologist_Signature.png"
    },
    "Nick_Bottom": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/80/Nick_Bottom_Icon.png",
+      "name": "Nick Bottom",
+      "rarity": 4,
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "April 30",
+      "age": "20",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/3/3a/Nick_Bottom_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/e/e5/Nick_Bottom_Item_2.png",
@@ -996,6 +1957,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Nick_Bottom_Signature.png"
    },
    "Noire": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Noire_Icon.png",
+      "name": "Noire",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Extra Action"
+      ],
+      "birthday": "February 14",
+      "age": "41",
       "dimensions": "62 63/64 x 47 8/33 x 43 9/28 in.",
       "medium": "Blank Film",
       "fragrance": "Oriental foug\u00e8re with red currant, bergamot, tea, and cashmeran",
@@ -1008,6 +1981,17 @@
       ]
    },
    "ONiON": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b5/ONiON_Icon.png",
+      "name": "ONiON",
+      "rarity": 3,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Support"
+      ],
+      "birthday": "February 5",
+      "age": "24",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/b/bb/ONiON_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/4/45/ONiON_Item_2.png",
@@ -1020,6 +2004,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/51/ONiON_Signature.png"
    },
    "Oliver_Fog": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Oliver_Fog_Icon.png",
+      "name": "Oliver Fog",
+      "rarity": 4,
+      "afflatus": "Star",
+      "damage": "Real",
+      "tags": [
+         "DEF",
+         "Support"
+      ],
+      "birthday": "December 26",
+      "age": "15",
       "dimensions": "68 57/64\u00d729 17/32\u00d716 59/64in.",
       "medium": "Fog",
       "fragrance": "Woody - Leather, Ebony, Wormwood",
@@ -1032,6 +2027,17 @@
       ]
    },
    "Paper_Heron": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/62/Paper_Heron_Icon.png",
+      "name": "Paper Heron",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Inspiration"
+      ],
+      "birthday": "Unknown",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/6/64/Paper_Heron_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/b/bc/Paper_Heron_Item_2.png",
@@ -1044,6 +2050,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/bc/Paper_Heron_Signature.png"
    },
    "Pavia": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Pavia_Icon.png",
+      "name": "Pavia",
+      "rarity": 4,
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Self-healing"
+      ],
+      "birthday": "July 24",
+      "age": "25",
       "dimensions": "62 19/32 x 21 17/64 x 14 11/64 in.",
       "medium": "Beast Teeth",
       "fragrance": "Spicy, Woody - Mandarin, Musk, Leather, Carrot Seed",
@@ -1056,6 +2073,18 @@
       ]
    },
    "Pickles": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/ba/Pickles_Icon.png",
+      "name": "Pickles",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Support",
+         "Dispeller"
+      ],
+      "birthday": "October 27",
+      "age": "4",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/8/8c/Pickles_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/1/12/Pickles_Item_2.png",
@@ -1068,6 +2097,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/5c/Pickles_Signature.png"
    },
    "Pioneer": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Pioneer_Icon.png",
+      "name": "Pioneer",
+      "rarity": 3,
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Shield",
+         "Shift"
+      ],
+      "birthday": "July 9",
+      "age": "4",
       "dimensions": "74 51/64\u00d725 19/32\u00d713 25/32in.",
       "medium": "Merchandises",
       "fragrance": "Woody Chypre - Leather, Oakmoss, Patchouli, Aldehyde",
@@ -1080,6 +2121,17 @@
       ]
    },
    "Poltergeist": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fb/Poltergeist_Icon.png",
+      "name": "Poltergeist",
+      "rarity": 4,
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "DEF",
+         "Debuff"
+      ],
+      "birthday": "July 12",
+      "age": "15",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Poltergeist_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/6/67/Poltergeist_Item_2.png",
@@ -1092,6 +2144,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/d5/Poltergeist_Signature.png"
    },
    "Rabies": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Rabies_Icon.png",
+      "name": "Rabies",
+      "rarity": 4,
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Poison"
+      ],
+      "birthday": "December 14",
+      "age": "24",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/4/40/Rabies_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/1/14/Rabies_Item_2.png",
@@ -1104,6 +2167,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/49/Rabies_Signature.png"
    },
    "Ramona": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/17/Ramona_Icon.png",
+      "name": "Ramona",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Poison",
+         "Rewrite"
+      ],
+      "birthday": "April 13",
+      "age": "17",
       "dimensions": "66 1/8\u00d733 1/16\u00d731 1/8in.",
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Ramona_Signature.png",
       "items": [
@@ -1113,6 +2188,18 @@
       ]
    },
    "Recoleta": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/96/Recoleta_Icon.png",
+      "name": "Recoleta",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Moxie"
+      ],
+      "birthday": "July 15",
+      "age": "17",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Recoleta_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/1/19/Recoleta_Item_2.png",
@@ -1125,6 +2212,16 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/16/Recoleta_Signature.png"
    },
    "Reed": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b7/Reed_Icon.png",
+      "name": "Reed",
+      "rarity": 4,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Support"
+      ],
+      "birthday": "Unknown",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/f/f8/Reed_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/2/24/Reed_Item_2.png",
@@ -1137,6 +2234,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/0e/Reed_Signature.png"
    },
    "Regulus": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Regulus_Icon.png",
+      "name": "Regulus",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Support"
+      ],
+      "birthday": "August 15",
+      "age": "15",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/0/06/Regulus_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/9/99/Regulus_Item_2.png",
@@ -1149,6 +2257,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/3f/Regulus_Signature.png"
    },
    "Rubuska": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/Rubuska_Icon.png",
+      "name": "Rubuska",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Heal",
+         "Support",
+         "Bloodtithe"
+      ],
+      "birthday": "May 29th",
+      "age": "14",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/f/f7/Rubuska_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/f/f6/Rubuska_Item_2.png",
@@ -1161,6 +2281,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/2/20/Rubuska_Signature.png"
    },
    "Satsuki": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4e/Satsuki_Icon.png",
+      "name": "Satsuki",
+      "rarity": 5,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control"
+      ],
+      "birthday": "May 1",
+      "age": "16",
       "dimensions": "61 1/25 x 15 4/25 x 14 11/63 in.",
       "medium": "Tattoo",
       "fragrance": "Floral - Amber, Lily of the Valley, Cape Jasmine, Bellflower",
@@ -1173,6 +2304,16 @@
       ]
    },
    "Schneider": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Schneider_Icon.png",
+      "name": "Schneider",
+      "rarity": 5,
+      "afflatus": "Beast",
+      "damage": "Mental",
+      "tags": [
+         ""
+      ],
+      "birthday": "October 22",
+      "age": "18",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/a/a8/Schneider_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/9/94/Schneider_Item_2.png",
@@ -1185,6 +2326,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/9d/Schneider_Signature.png"
    },
    "Semmelweis": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Semmelweis_Icon.png",
+      "name": "Semmelweis",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "Support",
+         "DPS",
+         "HP Sacrifice"
+      ],
+      "birthday": "August 19",
+      "age": "19",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/3/38/Semmelweis_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/e/e4/Semmelweis_Item_2.png",
@@ -1197,6 +2350,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ca/Semmelweis_Signature.png"
    },
    "Sentinel": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Sentinel_Icon.png",
+      "name": "Sentinel",
+      "rarity": 6,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Bloodtithe",
+         "Support"
+      ],
+      "birthday": "December 22",
+      "age": "26",
       "dimensions": "62 63/64x20 55/64x15 23/64 in.",
       "medium": "Stone Statue",
       "fragrance": "Chypre - Oakmoss, Mint, Saltpeter, Myrrh, Aromatic Cinnamon, Sulfur",
@@ -1209,6 +2374,18 @@
       ]
    },
    "Shamane": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Shamane_Icon.png",
+      "name": "Shamane",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Debuff"
+      ],
+      "birthday": "March 22",
+      "age": "45",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/5/5b/Shamane_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/8/88/Shamane_Item_2.png",
@@ -1221,6 +2398,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Shamane_Signature.png"
    },
    "Sonetto": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Sonetto_Icon.png",
+      "name": "Sonetto",
+      "rarity": 5,
+      "afflatus": "Mineral",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Support",
+         "Control"
+      ],
+      "birthday": "January 10",
+      "age": "16",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/9/96/Sonetto_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/5/57/Sonetto_Item_2.png",
@@ -1233,6 +2422,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Sonetto_Signature.png"
    },
    "Sotheby": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c1/Sotheby_Icon.png",
+      "name": "Sotheby",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Real",
+      "tags": [
+         "Poison",
+         "Heal",
+         "DPS"
+      ],
+      "birthday": "April 15",
+      "age": "13",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Sotheby_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/2/2b/Sotheby_Item_2.png",
@@ -1245,6 +2446,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/be/Sotheby_Signature.png"
    },
    "Spathodea": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Spathodea_Icon.png",
+      "name": "Spathodea",
+      "rarity": 6,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Burst DMG",
+         "Burn"
+      ],
+      "birthday": "January 10",
+      "age": "14",
       "dimensions": "61 27/64x27 53/64x10 15/64 inches",
       "medium": "Uppercut",
       "fragrance": "Gourmet Food, Milk, Caramel, Sweet Pepper, Cardamom",
@@ -1257,6 +2470,17 @@
       ]
    },
    "Sputnik": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/75/Sputnik_Icon.png",
+      "name": "Sputnik",
+      "rarity": 3,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DEF",
+         "Control"
+      ],
+      "birthday": "October 4",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Sputnik_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/5/57/Sputnik_Item_2.png",
@@ -1269,6 +2493,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c7/Sputnik_Signature.png"
    },
    "Sweetheart": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Sweetheart_Icon.png",
+      "name": "Sweetheart",
+      "rarity": 5,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Control"
+      ],
+      "birthday": "June 1",
+      "age": "17",
       "dimensions": "67 23/32\u00d726 49/64\u00d79 29/64in.",
       "medium": "Adoration",
       "fragrance": "Floral - Aldehyde, Wet Grass, Iris, Patchouli",
@@ -1281,6 +2516,17 @@
       ]
    },
    "TTT": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/TTT_Icon.png",
+      "name": "TTT",
+      "rarity": 4,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DEF",
+         "Dispeller"
+      ],
+      "birthday": "March 12",
+      "age": "18",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/5/50/TTT_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/7/7a/TTT_Item_2.png",
@@ -1293,6 +2539,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/TTT_Signature.png"
    },
    "Tennant": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Tennant_Icon.png",
+      "name": "Tennant",
+      "rarity": 5,
+      "afflatus": "Beast",
+      "damage": "Real",
+      "tags": [
+         "Shield",
+         "Debuff",
+         "DPS"
+      ],
+      "birthday": "September 8",
+      "age": "25",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/5/54/Tennant_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/2/2c/Tennant_Item_2.png",
@@ -1305,6 +2563,16 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/d3/Tennant_Signature.png"
    },
    "The_Fool": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/83/The_Fool_Icon.png",
+      "name": "The Fool",
+      "rarity": 3,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DEF"
+      ],
+      "birthday": "September 4",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/3/38/The_Fool_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/6/6f/The_Fool_Item_2.png",
@@ -1317,6 +2585,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a4/The_Fool_Signature.png"
    },
    "Tooth_Fairy": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Tooth_Fairy_Icon.png",
+      "name": "Tooth Fairy",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Heal",
+         "Debuff",
+         "Purify"
+      ],
+      "birthday": "November 27",
+      "age": "25",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Tooth_Fairy_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/f/f9/Tooth_Fairy_Item_2.png",
@@ -1329,6 +2609,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Tooth_Fairy_Signature.png"
    },
    "Tuesday": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Tuesday_Icon.png",
+      "name": "Tuesday",
+      "rarity": 6,
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Debuff",
+         "Poison",
+         "Support"
+      ],
+      "birthday": "October 30",
+      "age": "21",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Tuesday_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/1/11/Tuesday_Item_2.png",
@@ -1341,6 +2633,17 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/47/Tuesday_Signature.png"
    },
    "Twins_Sleep": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Twins_Sleep_Icon.png",
+      "name": "Twins Sleep",
+      "rarity": 3,
+      "afflatus": "Spirit",
+      "damage": "Mental",
+      "tags": [
+         "Debuff",
+         "Control"
+      ],
+      "birthday": "April 27",
+      "age": "8",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/d/de/Twins_Sleep_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/0/00/Twins_Sleep_Item_2.png",
@@ -1353,6 +2656,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8e/Twins_Sleep_Signature.png"
    },
    "Ulrich": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4c/Ulrich_Icon.png",
+      "name": "Ulrich",
+      "rarity": 6,
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "Dynamo",
+         "Support",
+         "Extra Action"
+      ],
+      "birthday": "May 30",
+      "age": "Unknown",
       "dimensions": "71 46/71\u00d727 9/14\u00d718 9/10 in.",
       "medium": "Thought Current",
       "fragrance": "Woody Essential Oil, Metal, Fir, Calcium",
@@ -1365,6 +2680,18 @@
       ]
    },
    "Ulu": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b3/Ulu_Icon.png",
+      "name": "Ulu",
+      "rarity": 5,
+      "afflatus": "Mineral",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "DPS",
+         "Burn"
+      ],
+      "birthday": "January 12",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Ulu_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/1/17/Ulu_Item_2.png",
@@ -1377,6 +2704,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/fc/Ulu_Signature.png"
    },
    "Vila": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Vila_Icon.png",
+      "name": "Vila",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Heal",
+         "Purify"
+      ],
+      "birthday": "April 6",
+      "age": "26",
       "dimensions": "65 48/64 x 35 45/64 x 14 11/64 in.",
       "medium": "Water",
       "fragrance": "Aquatic, Sea Water, Linseed, Seaweed, White Birch",
@@ -1389,6 +2728,18 @@
       ]
    },
    "Voyager": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Voyager_Icon.png",
+      "name": "Voyager",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Control",
+         "Debuff"
+      ],
+      "birthday": "November 12",
+      "age": "Unknown",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Voyager_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/3/30/Voyager_Item_2.png",
@@ -1401,6 +2752,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/f4/Voyager_Signature.png"
    },
    "White_Rum": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/49/White_Rum_Icon.png",
+      "name": "White Rum",
+      "rarity": 4,
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "DPS",
+         "Control",
+         "Shift"
+      ],
+      "birthday": "January 15",
+      "age": "300",
       "items": [
          "https://static.wikia.nocookie.net/reverse1999/images/f/f4/White_Rum_Item_1.png",
          "https://static.wikia.nocookie.net/reverse1999/images/c/c3/White_Rum_Item_2.png",
@@ -1413,6 +2776,18 @@
       "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/White_Rum_Signature.png"
    },
    "Willow": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e8/Willow_Icon.png",
+      "name": "Willow",
+      "rarity": 6,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "DPS",
+         "Poison",
+         "Burst DMG"
+      ],
+      "birthday": "November 1",
+      "age": "25",
       "dimensions": "74 11/64 x 31 57/64 x 13 25/32 in.",
       "medium": "Wizened Willow Branch",
       "fragrance": "Amber Notes, Spirit Cat Essence, Musk, Myrrh, Ashen Amber",
@@ -1425,6 +2800,18 @@
       ]
    },
    "Windsong": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Windsong_Icon.png",
+      "name": "Windsong",
+      "rarity": 6,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Burst DMG",
+         "DPS",
+         "Extra Action"
+      ],
+      "birthday": "October 13",
+      "age": "22",
       "dimensions": "70 18/64 x 40 40/64 x 14 61/64 in.",
       "medium": "Blueprint",
       "fragrance": "Aromatic, Musk, Vodka, Soil, Moscow Rose",
@@ -1437,6 +2824,18 @@
       ]
    },
    "X": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c4/X_Icon.png",
+      "name": "X",
+      "rarity": 5,
+      "afflatus": "Intellect",
+      "damage": "Real",
+      "tags": [
+         "Dispeller",
+         "DPS",
+         "Control"
+      ],
+      "birthday": "May 30",
+      "age": "16",
       "dimensions": "68 1/2\u00d732 1/4\u00d77 7/8in.",
       "medium": "Machine",
       "fragrance": "Floral, Fruity, Spicy - Bergamot Orange, Sage, Incense",
@@ -1449,6 +2848,18 @@
       ]
    },
    "Yenisei": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/64/Yenisei_Icon.png",
+      "name": "Yenisei",
+      "rarity": 5,
+      "afflatus": "Star",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Heal",
+         "Immunity"
+      ],
+      "birthday": "March 4",
+      "age": "16",
       "dimensions": "63 25/32 \u00d7 20 63/64 \u00d7 11 1/32 in.",
       "medium": "Source Of Life",
       "fragrance": "Aquatic - Ginger, Icy Water, Geranium, Oakmoss",
@@ -1461,6 +2872,17 @@
       ]
    },
    "\u0417\u0438\u043c\u0430": {
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/71/%D0%97%D0%B8%D0%BC%D0%B0_Icon.png",
+      "name": "\u0417\u0438\u043c\u0430",
+      "rarity": 4,
+      "afflatus": "Plant",
+      "damage": "Mental",
+      "tags": [
+         "Support",
+         "Control"
+      ],
+      "birthday": "April 28",
+      "age": "29",
       "dimensions": "71 21/32\u00d738 47/64\u00d710 5/8in.",
       "medium": "Poem",
       "fragrance": "Woody - Vetiver, Patchouli, Soil",

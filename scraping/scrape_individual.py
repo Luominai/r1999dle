@@ -9,6 +9,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import NoSuchElementException, NoSuchWindowException
 from selenium.webdriver.remote.webdriver import WebDriver
 from scraping.utils import get_lazy_loaded_img, scroll_to
+from urllib.parse import unquote
 
 options = Options()
 options.page_load_strategy = "eager"
@@ -66,7 +67,7 @@ def parse_story(page: str):
         except NoSuchElementException:
             print(f"no element with {item} on {page}")
 
-    data[character_name]["items"] = story_item_urls
+    data[unquote(character_name)]["items"] = story_item_urls
     driver.quit()
 
 def parse_cover(page: str):

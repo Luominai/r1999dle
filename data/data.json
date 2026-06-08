@@ -1,8 +1,8 @@
 [
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/69/37_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428120823",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/69/37_Icon.png",
       "name": "37",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -14,9 +14,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/05/6_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428120822",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/05/6_Icon.png",
       "name": "6",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Intellect",
       "damage": "Mental",
       "tags": [
@@ -28,9 +28,9 @@
       "age": "22"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ae/A_Knight_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413015922",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ae/A_Knight_Icon.png",
       "name": "A Knight",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Spirit",
       "damage": "Real",
       "tags": [
@@ -40,9 +40,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/APPLe_Icon.png/revision/latest/scale-to-width-down/80?cb=20230530220522",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/APPLe_Icon.png",
       "name": "APPLe",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -53,9 +53,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/Aleph_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516005949",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/Aleph_Icon.png",
       "name": "Aleph",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Intellect",
       "damage": "Mental",
       "tags": [
@@ -67,9 +67,9 @@
       "age": "29"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Alexios_Icon.png/revision/latest/scale-to-width-down/80?cb=20250808232955",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Alexios_Icon.png",
       "name": "Alexios",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -80,9 +80,9 @@
       "age": "20"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/AliEn_T_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701082756",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/AliEn_T_Icon.png",
       "name": "AliEn T",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -93,9 +93,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/9b/An-an_Lee_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413182124",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/9b/An-an_Lee_Icon.png",
       "name": "An-an Lee",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Real",
       "tags": [
@@ -107,9 +107,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d9/Anjo_Nala_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507015436",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d9/Anjo_Nala_Icon.png",
       "name": "Anjo Nala",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Mental",
       "tags": [
@@ -121,9 +121,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a0/Argus_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506230527",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a0/Argus_Icon.png",
       "name": "Argus",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Real",
       "tags": [
@@ -135,9 +135,9 @@
       "age": "26"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Avgust_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428155916",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Avgust_Icon.png",
       "name": "Avgust",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -149,9 +149,9 @@
       "age": "8"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Baby_Blue_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421172528",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Baby_Blue_Icon.png",
       "name": "Baby Blue",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -162,9 +162,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Balloon_Party_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604204309",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Balloon_Party_Icon.png",
       "name": "Balloon Party",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -175,9 +175,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Barbara_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506231107",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Barbara_Icon.png",
       "name": "Barbara",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Spirit",
       "damage": "Mental",
       "tags": [
@@ -189,9 +189,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/65/Barcarola_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428123419",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/65/Barcarola_Icon.png",
       "name": "Barcarola",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -203,9 +203,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Beryl_Icon.png/revision/latest/scale-to-width-down/80?cb=20260113163555",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Beryl_Icon.png",
       "name": "Beryl",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Intellect",
       "damage": "Mental",
       "tags": [
@@ -217,9 +217,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Bette_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702164410",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Bette_Icon.png",
       "name": "Bette",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -230,9 +230,9 @@
       "age": "20"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Bkornblume_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604203807",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Bkornblume_Icon.png",
       "name": "Bkornblume",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Plant",
       "damage": "Real",
       "tags": [
@@ -244,9 +244,9 @@
       "age": "18"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Blonney_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428121704",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Blonney_Icon.png",
       "name": "Blonney",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -257,9 +257,9 @@
       "age": "20"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Brimley_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506042846",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Brimley_Icon.png",
       "name": "Brimley",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Mineral",
       "damage": "Mental",
       "tags": [
@@ -271,9 +271,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Brume_Icon.png/revision/latest/scale-to-width-down/80?cb=20260113163534",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Brume_Icon.png",
       "name": "Brume",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Mental",
       "tags": [
@@ -285,9 +285,9 @@
       "age": "20"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/58/Buddy_Fairchild_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516020618",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/58/Buddy_Fairchild_Icon.png",
       "name": "Buddy Fairchild",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Plant",
       "damage": "Real",
       "tags": [
@@ -299,9 +299,9 @@
       "age": "5"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/03/Bunny_Bunny_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701081824",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/03/Bunny_Bunny_Icon.png",
       "name": "Bunny Bunny",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -312,9 +312,9 @@
       "age": "21"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Centurion_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413180218",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Centurion_Icon.png",
       "name": "Centurion",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -325,9 +325,9 @@
       "age": "19"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c8/Charlie_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604203808",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c8/Charlie_Icon.png",
       "name": "Charlie",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -338,9 +338,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/20/Charon_Icon.png/revision/latest/scale-to-width-down/80?cb=20251207081252",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/20/Charon_Icon.png",
       "name": "Charon",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Spirit",
       "damage": "Mental",
       "tags": [
@@ -352,9 +352,9 @@
       "age": "2"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/31/Cheng_Heguang_Icon.png/revision/latest/scale-to-width-down/80?cb=20260423143834",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/31/Cheng_Heguang_Icon.png",
       "name": "Cheng Heguang",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -366,9 +366,9 @@
       "age": "22"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/86/Click_Icon.png/revision/latest/scale-to-width-down/80?cb=20250620134208",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/86/Click_Icon.png",
       "name": "Click",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Spirit",
       "damage": "Mental",
       "tags": [
@@ -379,9 +379,9 @@
       "age": "19"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/00/Corvus_Icon.png/revision/latest/scale-to-width-down/80?cb=20251212035454",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/00/Corvus_Icon.png",
       "name": "Corvus",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Intellect",
       "damage": "Mental",
       "tags": [
@@ -393,9 +393,9 @@
       "age": "34"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Cristallo_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629093454",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Cristallo_Icon.png",
       "name": "Cristallo",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -406,9 +406,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Darley_Clatter_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702163753",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Darley_Clatter_Icon.png",
       "name": "Darley Clatter",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Beast",
       "damage": "Mental",
       "tags": [
@@ -418,9 +418,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Desert_Flannel_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506042357",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Desert_Flannel_Icon.png",
       "name": "Desert Flannel",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -431,9 +431,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7d/Diggers_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428152233",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7d/Diggers_Icon.png",
       "name": "Diggers",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -445,9 +445,9 @@
       "age": "20"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8c/Dikke_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604204310",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8c/Dikke_Icon.png",
       "name": "Dikke",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Beast",
       "damage": "Mental",
       "tags": [
@@ -458,9 +458,9 @@
       "age": "19"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/Door_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702164901",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/Door_Icon.png",
       "name": "Door",
-      "rarity": "2",
+      "rarity": 2,
       "afflatus": "Intellect",
       "damage": "Real",
       "tags": [
@@ -470,9 +470,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/df/Druvis_III_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413000025",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/df/Druvis_III_Icon.png",
       "name": "Druvis III",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -484,9 +484,9 @@
       "age": "20"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Eagle_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629092627",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Eagle_Icon.png",
       "name": "Eagle",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Plant",
       "damage": "Real",
       "tags": [
@@ -497,9 +497,9 @@
       "age": "13"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Enigma_Icon.png/revision/latest/scale-to-width-down/80?cb=20240526151431",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Enigma_Icon.png",
       "name": "Enigma",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Intellect",
       "damage": "Real",
       "tags": [
@@ -509,9 +509,9 @@
       "age": "29"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Erick_Icon.png/revision/latest/scale-to-width-down/80?cb=20250619040642",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Erick_Icon.png",
       "name": "Erick",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -522,9 +522,9 @@
       "age": "12"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/38/Eternity_Icon.png/revision/latest/scale-to-width-down/80?cb=20250510153640",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/38/Eternity_Icon.png",
       "name": "Eternity",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -535,9 +535,9 @@
       "age": "100+"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a6/Ezio_Auditore_Icon.png/revision/latest/scale-to-width-down/80?cb=20250808055439",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a6/Ezio_Auditore_Icon.png",
       "name": "Ezio Auditore",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -549,9 +549,9 @@
       "age": "34"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7e/Ezra_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506041819",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7e/Ezra_Icon.png",
       "name": "Ezra",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -563,9 +563,9 @@
       "age": "14"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/35/Fatutu_Icon.png/revision/latest/scale-to-width-down/80?cb=20250419023243",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/35/Fatutu_Icon.png",
       "name": "Fatutu",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Mental",
       "tags": [
@@ -577,9 +577,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/92/Flutterpage_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506041400",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/92/Flutterpage_Icon.png",
       "name": "Flutterpage",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -591,9 +591,9 @@
       "age": "11"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/32/Getian_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506205131",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/32/Getian_Icon.png",
       "name": "Getian",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -605,9 +605,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1b/Hissabeth_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516022118",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1b/Hissabeth_Icon.png",
       "name": "Hissabeth",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -619,9 +619,9 @@
       "age": "19"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d3/Horropedia_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428122309",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d3/Horropedia_Icon.png",
       "name": "Horropedia",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Mineral",
       "damage": "Mental",
       "tags": [
@@ -633,9 +633,9 @@
       "age": "21"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e2/Igor_Icon.png/revision/latest/scale-to-width-down/80?cb=20260122094449",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e2/Igor_Icon.png",
       "name": "Igor",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -645,9 +645,9 @@
       "age": "56"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Isolde_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428122526",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Isolde_Icon.png",
       "name": "Isolde",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Spirit",
       "damage": "Real",
       "tags": [
@@ -659,9 +659,9 @@
       "age": "18"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/33/J_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507051321",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/33/J_Icon.png",
       "name": "J",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -673,9 +673,9 @@
       "age": "18"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Jessica_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428121239",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Jessica_Icon.png",
       "name": "Jessica",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Real",
       "tags": [
@@ -686,9 +686,9 @@
       "age": "27"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Jiu_Niangzi_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506204638",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Jiu_Niangzi_Icon.png",
       "name": "Jiu Niangzi",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -700,9 +700,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/John_Titor_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701082755",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/John_Titor_Icon.png",
       "name": "John Titor",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Intellect",
       "damage": "Real",
       "tags": [
@@ -714,9 +714,9 @@
       "age": "18"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Kaalaa_Baunaa_Icon.png/revision/latest/scale-to-width-down/80?cb=20250427001739",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Kaalaa_Baunaa_Icon.png",
       "name": "Kaalaa Baunaa",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Mental",
       "tags": [
@@ -728,9 +728,9 @@
       "age": "27"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/85/Kakania_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428122528",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/85/Kakania_Icon.png",
       "name": "Kakania",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -742,9 +742,9 @@
       "age": "19"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fc/Kanjira_Icon.png/revision/latest/scale-to-width-down/80?cb=20250427001332",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fc/Kanjira_Icon.png",
       "name": "Kanjira",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -756,9 +756,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Kassandra_Icon.png/revision/latest/scale-to-width-down/80?cb=20250808232933",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Kassandra_Icon.png",
       "name": "Kassandra",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -770,9 +770,9 @@
       "age": "27"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Kiperina_Icon.png/revision/latest/scale-to-width-down/80?cb=20250510161337",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Kiperina_Icon.png",
       "name": "Kiperina",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -784,9 +784,9 @@
       "age": "15"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/La_Source_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701083509",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/La_Source_Icon.png",
       "name": "La Source",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -796,9 +796,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/26/Leilani_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701083508",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/26/Leilani_Icon.png",
       "name": "Leilani",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -809,9 +809,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Liang_Yue_Icon.png/revision/latest/scale-to-width-down/80?cb=20250503185846",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Liang_Yue_Icon.png",
       "name": "Liang Yue",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -823,9 +823,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/19/Lilya_Icon.png/revision/latest/scale-to-width-down/80?cb=20250412235955",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/19/Lilya_Icon.png",
       "name": "Lilya",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -836,9 +836,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/93/Loggerhead_Icon.png/revision/latest/scale-to-width-down/80?cb=20250419023408",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/93/Loggerhead_Icon.png",
       "name": "Loggerhead",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -850,9 +850,9 @@
       "age": "96"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Lopera_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507015556",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Lopera_Icon.png",
       "name": "Lopera",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -864,9 +864,9 @@
       "age": "15"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/cf/Lorelei_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428123006",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/cf/Lorelei_Icon.png",
       "name": "Lorelei",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -877,9 +877,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Lorentz_Butterfly_Icon.png/revision/latest/scale-to-width-down/80?cb=20260525055240",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Lorentz_Butterfly_Icon.png",
       "name": "Lorentz Butterfly",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Intellect",
       "damage": "Mental",
       "tags": [
@@ -891,9 +891,9 @@
       "age": "24"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d2/Lucy_Icon.png/revision/latest/scale-to-width-down/80?cb=20250509180234",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d2/Lucy_Icon.png",
       "name": "Lucy",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Intellect",
       "damage": "Real",
       "tags": [
@@ -905,9 +905,9 @@
       "age": "181"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/43/Marcus_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428123420",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/43/Marcus_Icon.png",
       "name": "Marcus",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -918,9 +918,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/db/Marsha_Icon.png/revision/latest/scale-to-width-down/80?cb=20260122094451",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/d/db/Marsha_Icon.png",
       "name": "Marsha",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -932,9 +932,9 @@
       "age": "24"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/27/Matilda_Icon.png/revision/latest/scale-to-width-down/80?cb=20250519195359",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/27/Matilda_Icon.png",
       "name": "Matilda",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -945,9 +945,9 @@
       "age": "14"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/42/Medicine_Pocket_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421172648",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/42/Medicine_Pocket_Icon.png",
       "name": "Medicine Pocket",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Mental",
       "tags": [
@@ -959,9 +959,9 @@
       "age": "18"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/Melania_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428120409",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/Melania_Icon.png",
       "name": "Melania",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Mental",
       "tags": [
@@ -972,9 +972,9 @@
       "age": "18"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Mercuria_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421170220",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Mercuria_Icon.png",
       "name": "Mercuria",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Spirit",
       "damage": "Mental",
       "tags": [
@@ -986,9 +986,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f5/Mesmer_Jr._Icon.png/revision/latest/scale-to-width-down/80?cb=20250516161556",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f5/Mesmer_Jr._Icon.png",
       "name": "Mesmer Jr.",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Intellect",
       "damage": "Mental",
       "tags": [
@@ -998,9 +998,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Moldir_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516020714",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Moldir_Icon.png",
       "name": "Moldir",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -1012,9 +1012,9 @@
       "age": "24"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Mondlicht_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506040912",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Mondlicht_Icon.png",
       "name": "Mondlicht",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -1024,9 +1024,9 @@
       "age": "10"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Mr._Duncan_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516035307",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Mr._Duncan_Icon.png",
       "name": "Mr. Duncan",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -1038,9 +1038,9 @@
       "age": "61"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Ms._Moissan_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629094358",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Ms._Moissan_Icon.png",
       "name": "Ms. Moissan",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -1051,9 +1051,9 @@
       "age": "26"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/84/Ms._NewBabel_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421171417",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/84/Ms._NewBabel_Icon.png",
       "name": "Ms. NewBabel",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -1065,9 +1065,9 @@
       "age": "25"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Ms._Radio_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702164902",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Ms._Radio_Icon.png",
       "name": "Ms. Radio",
-      "rarity": "2",
+      "rarity": 2,
       "afflatus": "Spirit",
       "damage": "Mental",
       "tags": [
@@ -1077,9 +1077,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Name_Day_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516160520",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Name_Day_Icon.png",
       "name": "Name Day",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Mineral",
       "damage": "Mental",
       "tags": [
@@ -1090,9 +1090,9 @@
       "age": "23"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/36/Nautika_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516020306",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/3/36/Nautika_Icon.png",
       "name": "Nautika",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Spirit",
       "damage": "Real",
       "tags": [
@@ -1104,9 +1104,9 @@
       "age": "19"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/15/Necrologist_Icon.png/revision/latest/scale-to-width-down/80?cb=20250421170916",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/15/Necrologist_Icon.png",
       "name": "Necrologist",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Mineral",
       "damage": "Mental",
       "tags": [
@@ -1117,9 +1117,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/80/Nick_Bottom_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701081825",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/80/Nick_Bottom_Icon.png",
       "name": "Nick Bottom",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Beast",
       "damage": "Mental",
       "tags": [
@@ -1129,9 +1129,9 @@
       "age": "20"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Noire_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516022403",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Noire_Icon.png",
       "name": "Noire",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -1143,9 +1143,9 @@
       "age": "41"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b5/ONiON_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702164411",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b5/ONiON_Icon.png",
       "name": "ONiON",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -1156,9 +1156,9 @@
       "age": "24"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Oliver_Fog_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629093455",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Oliver_Fog_Icon.png",
       "name": "Oliver Fog",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Star",
       "damage": "Real",
       "tags": [
@@ -1169,9 +1169,9 @@
       "age": "15"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/62/Paper_Heron_Icon.png/revision/latest/scale-to-width-down/80?cb=20260416193346",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/62/Paper_Heron_Icon.png",
       "name": "Paper Heron",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Real",
       "tags": [
@@ -1182,9 +1182,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Pavia_Icon.png/revision/latest/scale-to-width-down/80?cb=20250812010903",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Pavia_Icon.png",
       "name": "Pavia",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Beast",
       "damage": "Mental",
       "tags": [
@@ -1195,9 +1195,9 @@
       "age": "25"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/ba/Pickles_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428120408",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/ba/Pickles_Icon.png",
       "name": "Pickles",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Mental",
       "tags": [
@@ -1209,9 +1209,9 @@
       "age": "4"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Pioneer_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507051858",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Pioneer_Icon.png",
       "name": "Pioneer",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Spirit",
       "damage": "Mental",
       "tags": [
@@ -1223,9 +1223,9 @@
       "age": "4"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fb/Poltergeist_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629094357",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fb/Poltergeist_Icon.png",
       "name": "Poltergeist",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Spirit",
       "damage": "Mental",
       "tags": [
@@ -1236,9 +1236,9 @@
       "age": "15"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Rabies_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629093951",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Rabies_Icon.png",
       "name": "Rabies",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Plant",
       "damage": "Real",
       "tags": [
@@ -1249,9 +1249,9 @@
       "age": "24"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/17/Ramona_Icon.png/revision/latest/scale-to-width-down/80?cb=20260525055238",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/17/Ramona_Icon.png",
       "name": "Ramona",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -1263,9 +1263,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/96/Recoleta_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516022258",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/96/Recoleta_Icon.png",
       "name": "Recoleta",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -1277,9 +1277,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b7/Reed_Icon.png/revision/latest/scale-to-width-down/80?cb=20260416193427",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b7/Reed_Icon.png",
       "name": "Reed",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -1289,9 +1289,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Regulus_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413035503",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Regulus_Icon.png",
       "name": "Regulus",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -1302,9 +1302,9 @@
       "age": "15"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/Rubuska_Icon.png/revision/latest/scale-to-width-down/80?cb=20251212041936",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/Rubuska_Icon.png",
       "name": "Rubuska",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -1316,9 +1316,9 @@
       "age": "14"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4e/Satsuki_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604205243",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4e/Satsuki_Icon.png",
       "name": "Satsuki",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -1329,9 +1329,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Schneider_Icon.png/revision/latest/scale-to-width-down/80?cb=20250620133641",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Schneider_Icon.png",
       "name": "Schneider",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Beast",
       "damage": "Mental",
       "tags": [
@@ -1341,9 +1341,9 @@
       "age": "18"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Semmelweis_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428123007",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Semmelweis_Icon.png",
       "name": "Semmelweis",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -1355,9 +1355,9 @@
       "age": "19"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Sentinel_Icon.png/revision/latest/scale-to-width-down/80?cb=20250626140818",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Sentinel_Icon.png",
       "name": "Sentinel",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -1369,9 +1369,9 @@
       "age": "26"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Shamane_Icon.png/revision/latest/scale-to-width-down/80?cb=20250427000713",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Shamane_Icon.png",
       "name": "Shamane",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -1383,9 +1383,9 @@
       "age": "45"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Sonetto_Icon.png/revision/latest/scale-to-width-down/80?cb=20250620131832",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Sonetto_Icon.png",
       "name": "Sonetto",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Mineral",
       "damage": "Real",
       "tags": [
@@ -1397,9 +1397,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c1/Sotheby_Icon.png/revision/latest/scale-to-width-down/80?cb=20250413022616",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c1/Sotheby_Icon.png",
       "name": "Sotheby",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Real",
       "tags": [
@@ -1411,9 +1411,9 @@
       "age": "13"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Spathodea_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506041821",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Spathodea_Icon.png",
       "name": "Spathodea",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -1425,9 +1425,9 @@
       "age": "14"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/75/Sputnik_Icon.png/revision/latest/scale-to-width-down/80?cb=20250702163755",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/75/Sputnik_Icon.png",
       "name": "Sputnik",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -1438,9 +1438,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Sweetheart_Icon.png/revision/latest/scale-to-width-down/80?cb=20250510150959",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Sweetheart_Icon.png",
       "name": "Sweetheart",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -1451,9 +1451,9 @@
       "age": "17"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/TTT_Icon.png/revision/latest/scale-to-width-down/80?cb=20250629093952",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/TTT_Icon.png",
       "name": "TTT",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -1464,9 +1464,9 @@
       "age": "18"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Tennant_Icon.png/revision/latest/scale-to-width-down/80?cb=20250604205242",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Tennant_Icon.png",
       "name": "Tennant",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Beast",
       "damage": "Real",
       "tags": [
@@ -1478,9 +1478,9 @@
       "age": "25"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/83/The_Fool_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506040913",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/8/83/The_Fool_Icon.png",
       "name": "The Fool",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -1490,9 +1490,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Tooth_Fairy_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428121706",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Tooth_Fairy_Icon.png",
       "name": "Tooth Fairy",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -1504,9 +1504,9 @@
       "age": "25"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Tuesday_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506230523",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Tuesday_Icon.png",
       "name": "Tuesday",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Spirit",
       "damage": "Mental",
       "tags": [
@@ -1518,9 +1518,9 @@
       "age": "21"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Twins_Sleep_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516160530",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Twins_Sleep_Icon.png",
       "name": "Twins Sleep",
-      "rarity": "3",
+      "rarity": 3,
       "afflatus": "Spirit",
       "damage": "Mental",
       "tags": [
@@ -1531,9 +1531,9 @@
       "age": "8"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4c/Ulrich_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516020414",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4c/Ulrich_Icon.png",
       "name": "Ulrich",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Intellect",
       "damage": "Real",
       "tags": [
@@ -1545,9 +1545,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b3/Ulu_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506042356",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b3/Ulu_Icon.png",
       "name": "Ulu",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Mineral",
       "damage": "Mental",
       "tags": [
@@ -1559,9 +1559,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Vila_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428152047",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Vila_Icon.png",
       "name": "Vila",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -1573,9 +1573,9 @@
       "age": "26"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Voyager_Icon.png/revision/latest/scale-to-width-down/80?cb=20250507051322",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Voyager_Icon.png",
       "name": "Voyager",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -1587,9 +1587,9 @@
       "age": "Unknown"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/49/White_Rum_Icon.png/revision/latest/scale-to-width-down/80?cb=20250516035309",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/4/49/White_Rum_Icon.png",
       "name": "White Rum",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Intellect",
       "damage": "Real",
       "tags": [
@@ -1601,9 +1601,9 @@
       "age": "300"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e8/Willow_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506041401",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e8/Willow_Icon.png",
       "name": "Willow",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [
@@ -1615,9 +1615,9 @@
       "age": "25"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Windsong_Icon.png/revision/latest/scale-to-width-down/80?cb=20250428152049",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Windsong_Icon.png",
       "name": "Windsong",
-      "rarity": "6",
+      "rarity": 6,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -1629,9 +1629,9 @@
       "age": "22"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c4/X_Icon.png/revision/latest/scale-to-width-down/80?cb=20250620162524",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c4/X_Icon.png",
       "name": "X",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Intellect",
       "damage": "Real",
       "tags": [
@@ -1643,9 +1643,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/64/Yenisei_Icon.png/revision/latest/scale-to-width-down/80?cb=20250506204644",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/6/64/Yenisei_Icon.png",
       "name": "Yenisei",
-      "rarity": "5",
+      "rarity": 5,
       "afflatus": "Star",
       "damage": "Mental",
       "tags": [
@@ -1657,9 +1657,9 @@
       "age": "16"
    },
    {
-      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/71/%D0%97%D0%B8%D0%BC%D0%B0_Icon.png/revision/latest/scale-to-width-down/80?cb=20250701082342",
+      "image": "https://static.wikia.nocookie.net/reverse1999/images/7/71/%D0%97%D0%B8%D0%BC%D0%B0_Icon.png",
       "name": "\u0417\u0438\u043c\u0430",
-      "rarity": "4",
+      "rarity": 4,
       "afflatus": "Plant",
       "damage": "Mental",
       "tags": [

@@ -30,7 +30,7 @@ def parse_row(row: WebElement):
 
     image = get_lazy_loaded_img(image_cell.find_element(By.TAG_NAME, "img"), "src")
     name = name_cell.find_element(By.TAG_NAME, "a").text
-    rarity = rarity_cell.text
+    rarity = int(rarity_cell.text)
     afflatus = afflatus_cell.find_element(By.TAG_NAME, "a").text
     damage = damage_cell.text
     tags = tags_cell.text.split("\n")

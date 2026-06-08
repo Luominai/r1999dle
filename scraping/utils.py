@@ -14,6 +14,8 @@ def get_lazy_loaded_img(cell: WebElement, attribute):
         time.sleep(0.1)
         image = cell.get_attribute(attribute)
 
+    if image is str:
+        image = image.split(".png")[0] + ".png"
     return image
 
 # only chrome has a built in scrollTo function in selenium, but all browsers can replicate the effect with JS
