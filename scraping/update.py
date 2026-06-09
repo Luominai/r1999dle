@@ -5,31 +5,36 @@ from cover_scraper import CoverScraper
 from story_scraper import StoryScraper
 from scraper import Scraper
 
-overview_scraper = OverviewScraper("overviews.json")
-cover_scraper = CoverScraper("covers.json", "overviews.json")
-story_scraper = StoryScraper("stories.json", "overviews.json")
+overviews_path = "overviews.json"
+covers_path = "covers.json"
+stories_path = "stories.json"
+output_path = "merged.json"
+
+overview_scraper = OverviewScraper(overviews_path)
+cover_scraper = CoverScraper(covers_path, overviews_path)
+story_scraper = StoryScraper(stories_path, overviews_path)
 
 # overview_scraper.scrape(force_update=False)
 cover_scraper.scrape()
 story_scraper.scrape()
 
 overviews = {}
-with open("overviews.json", "r") as file: overviews = json.load(file)
+with open(overviews_path, "r") as file: overviews = json.load(file)
 
 covers = {}
-with open("covers.json", "r") as file: covers = json.load(file)
+with open(covers_path, "r") as file: covers = json.load(file)
 
 stories = {}
-with open("stories.json", "r") as file: stories = json.load(file)
+with open(stories_path, "r") as file: stories = json.load(file)
 
 try:
-    with open("merged.json", "w") as file:
+    with open(output_path, "w") as file:
         data = {}
         for key in overviews:
             data[key] = overviews[key] | covers[key] | stories[key]
         json.dump(data, file, indent=4)
 except FileNotFoundError:
-    with open("merged.json", "x") as file:
+    with open(output_path, "x") as file:
         data = {}
         for key in overviews:
             data[key] = overviews[key] | covers[key] | stories[key]
