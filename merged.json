@@ -1,0 +1,3182 @@
+{
+    "37": {
+        "name": "37",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/69/37_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/37",
+        "lookup_name": "37",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Follow-up Attack",
+            "Support"
+        ],
+        "birthday": "July 27",
+        "age": "16",
+        "dimensions": "64 29/64\u00d732 3/16\u00d77 9/32 inches.",
+        "medium": "Numbers",
+        "fragrance": "Aquatic, Sea Water, Salt Flower, Coastal Pine, Driftwood",
+        "inspiration": "The Brilliant Morning Star [Star], Mathematical Calculations",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/49/37_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/a/ab/37_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2d/37_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/17/37_Item_3.png"
+        ]
+    },
+    "6": {
+        "name": "6",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/0/05/6_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/6",
+        "lookup_name": "6",
+        "rarity": 6,
+        "afflatus": "Intellect",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Debuff",
+            "Purify"
+        ],
+        "birthday": "February 13",
+        "age": "22",
+        "dimensions": "69 17/32\u00d721 29/64\u00d714 11/64 inches.",
+        "medium": "Balance",
+        "fragrance": "Woody, Fir, Incense, Ambergris, Water",
+        "inspiration": "The Wise Men of the Cave [Intelligence], Wisdom's Legacy",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8a/6_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/f/ff/6_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/ac/6_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/eb/6_Item_3.png"
+        ]
+    },
+    "A_Knight": {
+        "name": "A Knight",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ae/A_Knight_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/A_Knight",
+        "lookup_name": "A_Knight",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "damage": "Real",
+        "tags": [
+            "DPS"
+        ],
+        "birthday": "February 29",
+        "age": "Unknown",
+        "dimensions": "59 3/50\u00d731 6/25\u00d75 3/25in.",
+        "medium": "Unnamed Blood",
+        "fragrance": "Leather - Amber, Oakmoss, Premium Ointment",
+        "inspiration": "Knight's Spirit [Spirit] Knight Art",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/3b/A_Knight_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/6f/A_Knight_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/54/A_Knight_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e5/A_Knight_Item_3.png"
+        ]
+    },
+    "APPLe": {
+        "name": "APPLe",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/APPLe_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/APPLe",
+        "lookup_name": "APPLe",
+        "rarity": 4,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Heal"
+        ],
+        "birthday": "January 4",
+        "age": "Unknown",
+        "dimensions": "15 9/32x7 1/8x4 23/32in.",
+        "medium": "Apple",
+        "fragrance": "Floral, Fruity - Apple (Rose variety), Coumarin (C9H602)",
+        "inspiration": "Thoughts of the Universe [Star] Academic Research",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/f0/APPLe_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/6b/APPLe_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bb/APPLe_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/53/APPLe_Item_3.png"
+        ]
+    },
+    "Aleph": {
+        "name": "Aleph",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/Aleph_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Aleph",
+        "lookup_name": "Aleph",
+        "rarity": 6,
+        "afflatus": "Intellect",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Inspiration",
+            "Burst DMG"
+        ],
+        "birthday": "February 28",
+        "age": "29",
+        "dimensions": "74 13/32 x 23 5/8 x 22 5/32 in.",
+        "medium": "The Mask in the Mirror",
+        "fragrance": "Woody, Rust, Mercury, Vetiver, Cedar, Benzoin",
+        "inspiration": "The Curse of Hyperthymesia [Intelligence] Multiple Consultants",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/88/Aleph_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7c/Aleph_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c2/Aleph_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/54/Aleph_Item_3.png"
+        ]
+    },
+    "Alexios": {
+        "name": "Alexios",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Alexios_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Alexios",
+        "lookup_name": "Alexios",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "Assassination",
+            "DPS"
+        ],
+        "birthday": "Unknown",
+        "age": "20",
+        "dimensions": "72 3/64\u00d727 3/4\u00d721 17/64 inches.",
+        "medium": "Cruelty",
+        "fragrance": "Leather - Iron, Ash, Birch Tar, Civet Musk",
+        "inspiration": "Roaring Blood and Bone [Beast], Demigod \"Deimos\"",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/53/Alexios_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Alexios_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/85/Alexios_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c8/Alexios_Item_3.png"
+        ]
+    },
+    "AliEn_T": {
+        "name": "AliEn T",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/AliEn_T_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/AliEn_T",
+        "lookup_name": "AliEn_T",
+        "rarity": 3,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "DEF",
+            "Control"
+        ],
+        "birthday": "July 10",
+        "age": "Unknown",
+        "dimensions": "8 21/32 x 6 19/64 x 6 19/64 in.",
+        "medium": "Light Beam",
+        "fragrance": "Chypre - Oakmoss, Grass, Leather, Industrial Glue, Brown Scotch Tape",
+        "inspiration": "Kindness from a Distant Star [Star] Inspection of the Blue Planet",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/33/AliEn_T_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/4/43/AliEn_T_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/dc/AliEn_T_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/fb/AliEn_T_Item_3.png"
+        ]
+    },
+    "An-an_Lee": {
+        "name": "An-an Lee",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/9/9b/An-an_Lee_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/An-an_Lee",
+        "lookup_name": "An-an_Lee",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "Control",
+            "DPS"
+        ],
+        "birthday": "July 27",
+        "age": "16",
+        "dimensions": "72 7/16 x 36 7/32 x 20 5/64 in.",
+        "medium": "Ghost-detecting Sound Wave",
+        "fragrance": "Leafy - Lily, Daffodil, Mint, Incense",
+        "inspiration": "Spirit of the White Flower [Plant] Scientific Exorcism",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/An-an_Lee_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/0/0d/An-an_Lee_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ea/An-an_Lee_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2e/An-an_Lee_Item_3.png"
+        ]
+    },
+    "Anjo_Nala": {
+        "name": "Anjo Nala",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d9/Anjo_Nala_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Anjo_Nala",
+        "lookup_name": "Anjo_Nala",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Control",
+            "Burst DMG"
+        ],
+        "birthday": "April 5",
+        "age": "Unknown",
+        "dimensions": "64 19/25 x 26 18/25 x 12 3/5 in.",
+        "medium": "Succubus lineage",
+        "fragrance": "Floral, Chypre, Rose, Patchouli, Musk, Ambroxan",
+        "inspiration": "A Yearning Nature, [Beast], An Angel of Music",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c0/Anjo_Nala_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/3/3d/Anjo_Nala_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/67/Anjo_Nala_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/87/Anjo_Nala_Item_3.png"
+        ]
+    },
+    "Argus": {
+        "name": "Argus",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a0/Argus_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Argus",
+        "lookup_name": "Argus",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Debuff",
+            "Support"
+        ],
+        "birthday": "December 11",
+        "age": "26",
+        "dimensions": "69 3/10 x 30 7/10 x 16 9/10 in.",
+        "medium": "Shotgun",
+        "fragrance": "Leather - Hide, Tolu Balsam, Patchouli, Gunpowder",
+        "inspiration": "Unyielding Hard Oak [Plant] Wild Hunt",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/00/Argus_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/0/0f/Argus_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/68/Argus_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7c/Argus_Item_3.png"
+        ]
+    },
+    "Avgust": {
+        "name": "Avgust",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Avgust_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Avgust",
+        "lookup_name": "Avgust",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Dispeller",
+            "Heal"
+        ],
+        "birthday": "August 7",
+        "age": "8",
+        "dimensions": "47 16/64 x 28 17/64 x 10 40/64 in.",
+        "medium": "Sunlight",
+        "fragrance": "Flowery Gourmand, Sunflower, Chocolate, Beeswax, Coal Ash",
+        "inspiration": "Sunflower Seed [Plant], Natural-born Perception\"",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ca/Avgust_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/0/06/Avgust_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/dd/Avgust_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7f/Avgust_Item_3.png"
+        ]
+    },
+    "Baby_Blue": {
+        "name": "Baby Blue",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Baby_Blue_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Baby_Blue",
+        "lookup_name": "Baby_Blue",
+        "rarity": 5,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "Control",
+            "Debuff"
+        ],
+        "birthday": "March 14",
+        "age": "17",
+        "dimensions": "74 51/64\u00d754 21/64\u00d75 29/32in.",
+        "medium": "Sugar Cube",
+        "fragrance": "Floral, Fruity - Raspberry, English Pear, Black Tea",
+        "inspiration": "Sleep-talking in the Starry Night [Star] Adventures in Wonderland",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/9d/Baby_Blue_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/66/Baby_Blue_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/77/Baby_Blue_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/ad/Baby_Blue_Item_3.png"
+        ]
+    },
+    "Balloon_Party": {
+        "name": "Balloon Party",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Balloon_Party_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Balloon_Party",
+        "lookup_name": "Balloon_Party",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "Heal",
+            "DEF"
+        ],
+        "birthday": "April 14",
+        "age": "17",
+        "dimensions": "78 11/32 x 42 1/8 x 5 29/32 in.",
+        "medium": "Hydrogen",
+        "fragrance": "Old-school Chypre - Vetiver, Seaweed, Lime, Amber",
+        "inspiration": "Remains of a Rock Formation [Mineral] Bone Balloon",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/e7/Balloon_Party_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/b/be/Balloon_Party_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e4/Balloon_Party_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Balloon_Party_Item_3.png"
+        ]
+    },
+    "Barbara": {
+        "name": "Barbara",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Barbara_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Barbara",
+        "lookup_name": "Barbara",
+        "rarity": 5,
+        "afflatus": "Spirit",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Shield",
+            "Heal"
+        ],
+        "birthday": "July 5",
+        "age": "Unknown",
+        "dimensions": "59 9/20 x 21 13/10 x 10 15/640 in.",
+        "medium": "Observation",
+        "fragrance": "Gourmand - Vanilla, Salt, Cream, Cardamom",
+        "inspiration": "Lamb's Long Dream [Spirit] Editor on the Road",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/0c/Barbara_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/8/87/Barbara_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e6/Barbara_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/48/Barbara_Item_3.png"
+        ]
+    },
+    "Barcarola": {
+        "name": "Barcarola",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/65/Barcarola_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Barcarola",
+        "lookup_name": "Barcarola",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Support",
+            "Inspiration"
+        ],
+        "birthday": "November 13",
+        "age": "17",
+        "dimensions": "69 17/25 x 33 1/4 x 23 3/5 in.",
+        "medium": "Synthetic Instrument",
+        "fragrance": "Aquatic - Lilac, Reeds, Lilies, Vanilla",
+        "inspiration": "Free Notes [Star] Cruise Musician",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c7/Barcarola_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/65/Barcarola_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/22/Barcarola_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/53/Barcarola_Item_3.png"
+        ]
+    },
+    "Beryl": {
+        "name": "Beryl",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Beryl_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Beryl",
+        "lookup_name": "Beryl",
+        "rarity": 6,
+        "afflatus": "Intellect",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Lingering Glow",
+            "Extra Action"
+        ],
+        "birthday": "December 21",
+        "age": "Unknown",
+        "dimensions": "65 3/4\u00d730 3/64\u00d718 27/32 inches.",
+        "medium": "Crystal refraction",
+        "fragrance": "Chypre, cypress, juniper, sandalwood, violet",
+        "inspiration": "The Predetermined Image [Intelligence] The Observer",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/1e/Beryl_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Beryl_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c1/Beryl_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a0/Beryl_Item_3.png"
+        ]
+    },
+    "Bette": {
+        "name": "Bette",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Bette_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Bette",
+        "lookup_name": "Bette",
+        "rarity": 3,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "Shield"
+        ],
+        "birthday": "June 22",
+        "age": "20",
+        "dimensions": "68 57/64\u00d731 7/64\u00d723 5/8in.",
+        "medium": "Film Stock",
+        "fragrance": "Leather - Cinnamon, Cocoa, Vanilla, Amber, Tolu Balsam",
+        "inspiration": "Resilience of the Gravels [Mineral] Clumsy Imitation",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Bette_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/2/23/Bette_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a0/Bette_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/65/Bette_Item_3.png"
+        ]
+    },
+    "Bkornblume": {
+        "name": "Bkornblume",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Bkornblume_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Bkornblume",
+        "lookup_name": "Bkornblume",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "damage": "Real",
+        "tags": [
+            "Debuff",
+            "Burst DMG",
+            "Control"
+        ],
+        "birthday": "February 9",
+        "age": "18",
+        "dimensions": "67 21/64\u00d740 35/64\u00d78 21/32in.",
+        "medium": "Cornflower",
+        "fragrance": "Leafy - Oud, Linden, Arborvitae",
+        "inspiration": "Whispers of the Wild Chrysanthemum [Plant] Voice Capture",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/5c/Bkornblume_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/0/0a/Bkornblume_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/cf/Bkornblume_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/0f/Bkornblume_Item_3.png"
+        ]
+    },
+    "Blonney": {
+        "name": "Blonney",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Blonney_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Blonney",
+        "lookup_name": "Blonney",
+        "rarity": 5,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "Burst DMG",
+            "DPS"
+        ],
+        "birthday": "July 22",
+        "age": "20",
+        "dimensions": "65 9/64 in x 30 13/64 in x 15 9/64 in",
+        "medium": "Design drawing",
+        "fragrance": "Flora, rose, pink pepper, raspberry flower, papyrus",
+        "inspiration": "Relatives from Venus (Star) - Monster Designer",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/69/Blonney_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Blonney_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e1/Blonney_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7d/Blonney_Item_3.png"
+        ]
+    },
+    "Brimley": {
+        "name": "Brimley",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Brimley_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Brimley",
+        "lookup_name": "Brimley",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Dispeller",
+            "Extra Action"
+        ],
+        "birthday": "October 31",
+        "age": "Unknown",
+        "dimensions": "22 5/32\u00d720 43/64\u00d77 7/8 inches",
+        "medium": "Merino Wool",
+        "fragrance": "Tobacco Notes, Coffee, Tobacco, Oud, Whiskey",
+        "inspiration": "Hoofmarks on Rock [Mineral] Roaming Ranger",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/52/Brimley_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/9/95/Brimley_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/11/Brimley_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d8/Brimley_Item_3.png"
+        ]
+    },
+    "Brume": {
+        "name": "Brume",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Brume_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Brume",
+        "lookup_name": "Brume",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Dynamo"
+        ],
+        "birthday": "December 19",
+        "age": "20",
+        "dimensions": "66 15/16\u00d727 23/64\u00d725 19/32in.",
+        "medium": "Firelight",
+        "fragrance": "Aromatic woods, bergamot, ylang-ylang, sandalwood, dragonscale, musk.",
+        "inspiration": "Iridescent Ash [Beast], The Final Journey.",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/e4/Brume_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/4/48/Brume_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/cb/Brume_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/99/Brume_Item_3.png"
+        ]
+    },
+    "Buddy_Fairchild": {
+        "name": "Buddy Fairchild",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/5/58/Buddy_Fairchild_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Buddy_Fairchild",
+        "lookup_name": "Buddy_Fairchild",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Burst DMG",
+            "Moxie"
+        ],
+        "birthday": "May 20",
+        "age": "5",
+        "dimensions": "47 15/64 x 17 23/32 x 7 7/8 inches.",
+        "medium": "Dried Pinecone",
+        "fragrance": "Fougere - Oakmoss, Clary Sage, Juniper Berries",
+        "inspiration": "Fiery Pinefruit [Plant], Friend of Animals",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/b2/Buddy_Fairchild_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/9/9a/Buddy_Fairchild_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/4a/Buddy_Fairchild_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/aa/Buddy_Fairchild_Item_3.png"
+        ]
+    },
+    "Bunny_Bunny": {
+        "name": "Bunny Bunny",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/0/03/Bunny_Bunny_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Bunny_Bunny",
+        "lookup_name": "Bunny_Bunny",
+        "rarity": 4,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "Heal",
+            "Nasty Wound"
+        ],
+        "birthday": "November 6",
+        "age": "21",
+        "dimensions": "64 61/64 x 37 21/64 x 11 13/16 in.",
+        "medium": "Wheatgrass",
+        "fragrance": "Woody - Chestnut, Guaiac Wood, Caramel, Clove",
+        "inspiration": "Beast Going After Dreams [Beast] Great Strength",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8e/Bunny_Bunny_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/53/Bunny_Bunny_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/12/Bunny_Bunny_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c8/Bunny_Bunny_Item_3.png"
+        ]
+    },
+    "Centurion": {
+        "name": "Centurion",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Centurion_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Centurion",
+        "lookup_name": "Centurion",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Burst DMG"
+        ],
+        "birthday": "August 13",
+        "age": "19",
+        "dimensions": "57 31/64 x 46 29/64 x 43 45/64 in.",
+        "medium": "Gold Plating",
+        "fragrance": "Oriental - Frankincense, Pepper, Raspberry, Iris, Fir",
+        "inspiration": "Golden Glamor of the Female Beast [Beast] Extreme Luck",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/47/Centurion_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/6f/Centurion_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/09/Centurion_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/1e/Centurion_Item_3.png"
+        ]
+    },
+    "Charlie": {
+        "name": "Charlie",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c8/Charlie_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Charlie",
+        "lookup_name": "Charlie",
+        "rarity": 5,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Dispeller"
+        ],
+        "birthday": "April 23",
+        "age": "16",
+        "dimensions": "66 17/32x36 1/2x17 9/16in.",
+        "medium": "Play",
+        "fragrance": "Woody - Rose, Guaiac Wood, Honey",
+        "inspiration": "Interpretation of the Stars [Star] Shade Creation",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Charlie_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2c/Charlie_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/3b/Charlie_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/de/Charlie_Item_3.png"
+        ]
+    },
+    "Charon": {
+        "name": "Charon",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/2/20/Charon_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Charon",
+        "lookup_name": "Charon",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "damage": "Mental",
+        "tags": [
+            "Dynamo",
+            "Support",
+            "Extra Action"
+        ],
+        "birthday": "June 27",
+        "age": "2",
+        "dimensions": "71 21/32x23 15/64x20 55/64 in.",
+        "medium": "Death",
+        "fragrance": "Woody - Beech, Poppy, Guaiac Wood, Benzoin, Paraffin, Styx Water",
+        "inspiration": "Coffin of Souls [Spirit], Burial of the Deceased",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/2/2e/Charon_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Charon_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Charon_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Charon_Item_3.png"
+        ]
+    },
+    "Cheng_Heguang": {
+        "name": "Cheng Heguang",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/3/31/Cheng_Heguang_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Cheng_Heguang",
+        "lookup_name": "Cheng_Heguang",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Follow-up Attack",
+            "Support"
+        ],
+        "birthday": "July 3",
+        "age": "22",
+        "dimensions": "70 15/32\u00d722 53/64\u00d722 3/64 in.",
+        "medium": "Upright Heart and Integrity",
+        "fragrance": "Oriental Fougere, Grapefruit, Magnolia, Oud Wood, Cedar",
+        "inspiration": "Frosty Blade [Star], Ode to Gallantry",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/f8/Cheng_Heguang_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ef/Cheng_Heguang_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/56/Cheng_Heguang_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d1/Cheng_Heguang_Item_3.png"
+        ]
+    },
+    "Click": {
+        "name": "Click",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/8/86/Click_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Click",
+        "lookup_name": "Click",
+        "rarity": 5,
+        "afflatus": "Spirit",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Debuff"
+        ],
+        "birthday": "June 28",
+        "age": "19",
+        "dimensions": "70 5/64\u00d727 61/64\u00d717 23/32in.",
+        "medium": "Smoke of Gunpowder",
+        "fragrance": "Woody, Fougere - Arborvitae, Gunpowder, Olive Leaf, Daisy",
+        "inspiration": "Determined Soul [Spirit] War Photography",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/65/Click_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/6b/Click_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/df/Click_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/05/Click_Item_3.png"
+        ]
+    },
+    "Corvus": {
+        "name": "Corvus",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/0/00/Corvus_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Corvus",
+        "lookup_name": "Corvus",
+        "rarity": 6,
+        "afflatus": "Intellect",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Dynamo"
+        ],
+        "birthday": "August 2",
+        "age": "34",
+        "dimensions": "70 5/64 x 33 9/32 x 25 11/32 in.",
+        "medium": "Threadwork",
+        "fragrance": "Woody Oriental, Cedar, Incense, Lily",
+        "inspiration": "The Railway's Roar [Intelligence] Conductress",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a5/Corvus_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/a/ad/Corvus_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a3/Corvus_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Corvus_Item_3.png"
+        ]
+    },
+    "Cristallo": {
+        "name": "Cristallo",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Cristallo_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Cristallo",
+        "lookup_name": "Cristallo",
+        "rarity": 4,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "Nasty Wound",
+            "Support"
+        ],
+        "birthday": "December 30",
+        "age": "16",
+        "dimensions": "52 3/4 x 25 63/64 x 21 21/32 in.",
+        "medium": "Saline",
+        "fragrance": "Woody, Fruity, Floral - Incense, Oakmoss, Pear, Freesia",
+        "inspiration": "Transparent Lead Glass [Mineral] Self Cure",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/17/Cristallo_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/d/de/Cristallo_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/db/Cristallo_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c0/Cristallo_Item_3.png"
+        ]
+    },
+    "Darley_Clatter": {
+        "name": "Darley Clatter",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Darley_Clatter_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Darley_Clatter",
+        "lookup_name": "Darley_Clatter",
+        "rarity": 3,
+        "afflatus": "Beast",
+        "damage": "Mental",
+        "tags": [
+            "Support"
+        ],
+        "birthday": "January 19",
+        "age": "Unknown",
+        "dimensions": "26 49/64\u00d726 3/8\u00d79 29/64in.",
+        "medium": "Horse Mane",
+        "fragrance": "Fruity - Apple, Caramel, Carrot, Gold",
+        "inspiration": "Creaking Foal [Beast] Gallop &amp; Slew",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/08/Darley_Clatter_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/7/70/Darley_Clatter_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/53/Darley_Clatter_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d1/Darley_Clatter_Item_3.png"
+        ]
+    },
+    "Desert_Flannel": {
+        "name": "Desert Flannel",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Desert_Flannel_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Desert_Flannel",
+        "lookup_name": "Desert_Flannel",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "DPS"
+        ],
+        "birthday": "September 22",
+        "age": "17",
+        "dimensions": "64 61/64\u00d726 47/64\u00d716 9/64 inches",
+        "medium": "Flannel Flower",
+        "fragrance": "Floral, Desert Rose, Frankincense, Ebony",
+        "inspiration": "Sprinting Birds of Prey [Beast], Freelance Digital Pet Owner",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/40/Desert_Flannel_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Desert_Flannel_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/4f/Desert_Flannel_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Desert_Flannel_Item_3.png"
+        ]
+    },
+    "Diggers": {
+        "name": "Diggers",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7d/Diggers_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Diggers",
+        "lookup_name": "Diggers",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "Control",
+            "Shield",
+            "Debuff"
+        ],
+        "birthday": "February 15",
+        "age": "20",
+        "dimensions": "70 5/64x28 15/32x18 1/2 inches",
+        "medium": "Fantasize",
+        "fragrance": "Citrus Aromatic - Lime, Pepper, Pine, Lavender",
+        "inspiration": "Flexible Building Blocks [Plant] Art Promotion",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a3/Diggers_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/7/70/Diggers_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Diggers_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e8/Diggers_Item_3.png"
+        ]
+    },
+    "Dikke": {
+        "name": "Dikke",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8c/Dikke_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Dikke",
+        "lookup_name": "Dikke",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Heal"
+        ],
+        "birthday": "October 10",
+        "age": "19",
+        "dimensions": "68 1/2 x 43 25/32 x 8 21/32 in.",
+        "medium": "Law",
+        "fragrance": "Oriental - Frankincense, Incense, Pepper, Ash",
+        "inspiration": "Wild Justice [Beast] Judgment on the Court",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ca/Dikke_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/cc/Dikke_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a8/Dikke_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/50/Dikke_Item_3.png"
+        ]
+    },
+    "Door": {
+        "name": "Door",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/Door_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Door",
+        "lookup_name": "Door",
+        "rarity": 2,
+        "afflatus": "Intellect",
+        "damage": "Real",
+        "tags": [
+            "Support"
+        ],
+        "birthday": "August 2",
+        "age": "Unknown",
+        "dimensions": "6 19/64 x 4 23/32 x 25/64 in.",
+        "medium": "Others",
+        "fragrance": "Fern - Papyrus, Anise",
+        "inspiration": "Mirror within the Mirror [Intelligence] Self Reflection",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/16/Door_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/a/ae/Door_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/3c/Door_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e6/Door_Item_3.png"
+        ]
+    },
+    "Druvis_III": {
+        "name": "Druvis III",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/d/df/Druvis_III_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Druvis_III",
+        "lookup_name": "Druvis_III",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Control",
+            "Support"
+        ],
+        "birthday": "October 23",
+        "age": "20",
+        "dimensions": "66 59/64\u00d728 3/4\u00d77 3/22in.",
+        "medium": "Wood",
+        "fragrance": "Woody - Cedar, Tuberose, Amber",
+        "inspiration": "Thirst of the Woods <span class=\"color-blue\" style=\"color:var(--blue);\">[Plant]</span>: Staff Production",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/7/71/Druvis_III_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/cf/Druvis_III_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e5/Druvis_III_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f8/Druvis_III_Item_3.png"
+        ]
+    },
+    "Eagle": {
+        "name": "Eagle",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Eagle_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Eagle",
+        "lookup_name": "Eagle",
+        "rarity": 4,
+        "afflatus": "Plant",
+        "damage": "Real",
+        "tags": [
+            "Burst DMG",
+            "DPS"
+        ],
+        "birthday": "July 21",
+        "age": "13",
+        "dimensions": "56 19/64\u00d716 3/8\u00d77 3/32in.",
+        "medium": "Insignia",
+        "fragrance": "Chypre - Mint, Freesia, Papyrus",
+        "inspiration": "Innocence of the Buds [Plant] Environmental Perception",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/08/Eagle_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/3/37/Eagle_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/fd/Eagle_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/05/Eagle_Item_3.png"
+        ]
+    },
+    "Enigma": {
+        "name": "Enigma",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Enigma_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Enigma",
+        "lookup_name": "Enigma",
+        "rarity": 6,
+        "afflatus": "Intellect",
+        "damage": "Real",
+        "tags": [
+            ""
+        ],
+        "birthday": "October 16",
+        "age": "29",
+        "dimensions": "70 15/32 x 25 13/64 x 22 53/64 in.",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a8/Enigma_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Enigma_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Enigma_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a4/Enigma_Item_3.png"
+        ]
+    },
+    "Erick": {
+        "name": "Erick",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Erick_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Erick",
+        "lookup_name": "Erick",
+        "rarity": 4,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Dispeller"
+        ],
+        "birthday": "May 14",
+        "age": "12",
+        "dimensions": "61 15/64 x 44 31/64 x 18 57/64 in.",
+        "medium": "Storybook",
+        "fragrance": "Woody - Musk, Vetiver",
+        "inspiration": "Little Mast [Star] Discretionary Plunder",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/Erick_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Erick_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f3/Erick_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/3d/Erick_Item_3.png"
+        ]
+    },
+    "Eternity": {
+        "name": "Eternity",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/3/38/Eternity_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Eternity",
+        "lookup_name": "Eternity",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Nasty Wound"
+        ],
+        "birthday": "December 25",
+        "age": "100+",
+        "dimensions": "74 4/5\u00d722 21/25\u00d716 9/25in.",
+        "medium": "Blue Blood",
+        "fragrance": "Aquatic - Sea Water, Basil, Patchouli, Ambergris",
+        "inspiration": "Everlasting Tridacninae [Mineral] Sale of Magical Items",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/6f/Eternity_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Eternity_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/04/Eternity_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/25/Eternity_Item_3.png"
+        ]
+    },
+    "Ezio_Auditore": {
+        "name": "Ezio Auditore",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a6/Ezio_Auditore_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Ezio_Auditore",
+        "lookup_name": "Ezio_Auditore",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "Assassination",
+            "DPS",
+            "Riposte"
+        ],
+        "birthday": "June 24",
+        "age": "34",
+        "dimensions": "72 3/64 x24 13/32 x23 15/64 in.",
+        "medium": "Stealth",
+        "fragrance": "Woody, Leather, Silver, Benzoin, Iris",
+        "inspiration": "The Prophet of Florence [Star], Assassin of the Brotherhood",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/b3/Ezio_Auditore_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/4/44/Ezio_Auditore_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a5/Ezio_Auditore_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/55/Ezio_Auditore_Item_3.png"
+        ]
+    },
+    "Ezra": {
+        "name": "Ezra",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7e/Ezra_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Ezra",
+        "lookup_name": "Ezra",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Shield",
+            "Debuff"
+        ],
+        "birthday": "June 1",
+        "age": "14",
+        "dimensions": "61 1/32\u00d726 49/64\u00d712 9/32in.",
+        "medium": "Pine Needle Bed",
+        "fragrance": "Woody Floral, Porcini, Soil, Moss, Turnera Diffusa",
+        "inspiration": "Star-like Spore Patterns [Star], Mushroom Research",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Ezra_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c6/Ezra_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2d/Ezra_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bf/Ezra_Item_3.png"
+        ]
+    },
+    "Fatutu": {
+        "name": "Fatutu",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/3/35/Fatutu_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Fatutu",
+        "lookup_name": "Fatutu",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Mental",
+        "tags": [
+            "Heal",
+            "Dispeller",
+            "Extra Action"
+        ],
+        "birthday": "September 28",
+        "age": "16",
+        "dimensions": "61 x 28 9/25 x 18 1/10 in.",
+        "medium": "Shells",
+        "fragrance": "Leafy - Orange Blossom, Green Grass, Fig Leaf, Guaiac Wood",
+        "inspiration": "Island Whimsy [Mineral] Shell Reading",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a7/Fatutu_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/3/35/Fatutu_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/4f/Fatutu_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/51/Fatutu_Item_3.png"
+        ]
+    },
+    "Flutterpage": {
+        "name": "Flutterpage",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/9/92/Flutterpage_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Flutterpage",
+        "lookup_name": "Flutterpage",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Support",
+            "Extra Action"
+        ],
+        "birthday": "July 14",
+        "age": "11",
+        "dimensions": "59 1/16 x 55 1/8 x 23 5/8 in.",
+        "medium": "Old Paper Scraps",
+        "fragrance": "Wood Notes, Sandalwood, Aromatic Wood, Eucalyptus Leaves, Pine Needles",
+        "inspiration": "Starry Night Breeze [Star] Wind Rider",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/de/Flutterpage_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e4/Flutterpage_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/fe/Flutterpage_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/af/Flutterpage_Item_3.png"
+        ]
+    },
+    "Getian": {
+        "name": "Getian",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/3/32/Getian_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Getian",
+        "lookup_name": "Getian",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "Debuff",
+            "DPS"
+        ],
+        "birthday": "July 22",
+        "age": "Unknown",
+        "dimensions": "78 47/64\u00d733 5/64\u00d719 11/16in.",
+        "medium": "A Journey Between Sky and Earth",
+        "fragrance": "Oriental Woods, Oud Wood, Rosemary, Mahogany",
+        "inspiration": "A Lone Song in Mountains [Beast] Dance for Amusement",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/f5/Getian_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bf/Getian_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/68/Getian_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/19/Getian_Item_3.png"
+        ]
+    },
+    "Hissabeth": {
+        "name": "Hissabeth",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1b/Hissabeth_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Hissabeth",
+        "lookup_name": "Hissabeth",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Control",
+            "Moxie"
+        ],
+        "birthday": "December 23",
+        "age": "19",
+        "dimensions": "68 1/2 x 22 53/64 x 16 17/32 in.",
+        "medium": "Pursuit",
+        "fragrance": "Fruity Aromatic, Embers, Cherry, Melilot, Bitter Orange, Frankincense.",
+        "inspiration": "Speculation Among the Branches [Plant], Nine in One",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/07/Hissabeth_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/7/77/Hissabeth_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/be/Hissabeth_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/02/Hissabeth_Item_3.png"
+        ]
+    },
+    "Horropedia": {
+        "name": "Horropedia",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d3/Horropedia_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Horropedia",
+        "lookup_name": "Horropedia",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Dispeller",
+            "Debuff"
+        ],
+        "birthday": "January 3",
+        "age": "21",
+        "dimensions": "69 17/64 in x 29 15/64 in x 13 5/32 in",
+        "medium": "Logic",
+        "fragrance": "Aromatic woody notes, juniper, labdanum, dried rosin",
+        "inspiration": "Will of the Bedrock (Mineral) - Logical Deduction",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/ef/Horropedia_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/4/40/Horropedia_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Horropedia_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7b/Horropedia_Item_3.png"
+        ]
+    },
+    "Igor": {
+        "name": "Igor",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e2/Igor_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Igor",
+        "lookup_name": "Igor",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "DPS"
+        ],
+        "birthday": "February 23",
+        "age": "56",
+        "dimensions": "74 53/64 x 43 9/64 x 25 3/16 inches",
+        "medium": "Leadership",
+        "fragrance": "Leather, Fir, Rust, Birch Tar",
+        "inspiration": "Strategic Vision [Beast], The Commander",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Igor_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/5f/Igor_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/91/Igor_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/37/Igor_Item_3.png"
+        ]
+    },
+    "Isolde": {
+        "name": "Isolde",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Isolde_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Isolde",
+        "lookup_name": "Isolde",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "DPS",
+            "Burn"
+        ],
+        "birthday": "November 23",
+        "age": "18",
+        "dimensions": "62 63/64\u00d737 1/64\u00d727 9/16 inches.",
+        "medium": "Manifestation",
+        "fragrance": "Rich Bouquet, Laurel Leaves, Frankincense, Red Myrrh, Indole",
+        "inspiration": "Spirit Vessel [Spirit], Opera Singer",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Isolde_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/2/21/Isolde_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/63/Isolde_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Isolde_Item_3.png"
+        ]
+    },
+    "J": {
+        "name": "J",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/3/33/J_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/J",
+        "lookup_name": "J",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Shield",
+            "Riposte"
+        ],
+        "birthday": "April 18",
+        "age": "18",
+        "dimensions": "70 55/64 x 22 53/64 x 20 15/32 in.",
+        "medium": "Leather scabbard",
+        "fragrance": "Aromatic woody notes of labdanum, nard, birch tar, juniper",
+        "inspiration": "Roaring elements [Beast] metal forging",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a4/J_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d0/J_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/50/J_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e7/J_Item_3.png"
+        ]
+    },
+    "Jessica": {
+        "name": "Jessica",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Jessica_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Jessica",
+        "lookup_name": "Jessica",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Real",
+        "tags": [
+            "Poison",
+            "DPS"
+        ],
+        "birthday": "April 11",
+        "age": "27",
+        "dimensions": "68 7/64 in x 27 9/16 in x 23 5/8 in.",
+        "medium": "Mushroom blanket",
+        "fragrance": "Chypre, Narcissus, Moss, Aldehydes, Soil, Musk",
+        "inspiration": "Lakebed Branch (Plant) - Green Lake Fairy",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a4/Jessica_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/57/Jessica_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/db/Jessica_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/68/Jessica_Item_3.png"
+        ]
+    },
+    "Jiu_Niangzi": {
+        "name": "Jiu Niangzi",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Jiu_Niangzi_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Jiu_Niangzi",
+        "lookup_name": "Jiu_Niangzi",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Burst DMG",
+            "Extra Action"
+        ],
+        "birthday": "Unknown",
+        "age": "Unknown",
+        "dimensions": "62 13/64\u00d725 25/64\u00d77 3/32in.",
+        "medium": "The Tipsy Jade",
+        "fragrance": "Oriental Spices - Curcuma Aromatica, Sweet Fermented Rice, Sichuan Pepper",
+        "inspiration": "The Unyielding Nature Of Rock [Mineral] Liquor Maker",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Jiu_Niangzi_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/1/1f/Jiu_Niangzi_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Jiu_Niangzi_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/de/Jiu_Niangzi_Item_3.png"
+        ]
+    },
+    "John_Titor": {
+        "name": "John Titor",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/John_Titor_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/John_Titor",
+        "lookup_name": "John_Titor",
+        "rarity": 3,
+        "afflatus": "Intellect",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "Dispeller",
+            "Purify"
+        ],
+        "birthday": "November 2",
+        "age": "18",
+        "dimensions": "64 9/51 x 24 1/64 x 18 13/42 in.",
+        "medium": "Intelligence Quotient",
+        "fragrance": "Fougere - Tonka Bean, Oakmoss, Lavender, Vetiver",
+        "inspiration": "Preview of Intelligence [Intelligence] Programming",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/John_Titor_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d1/John_Titor_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/48/John_Titor_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bf/John_Titor_Item_3.png"
+        ]
+    },
+    "Kaalaa_Baunaa": {
+        "name": "Kaalaa Baunaa",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Kaalaa_Baunaa_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Kaalaa_Baunaa",
+        "lookup_name": "Kaalaa_Baunaa",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Burst DMG",
+            "Follow-up Attack"
+        ],
+        "birthday": "July 15",
+        "age": "27",
+        "dimensions": "65 3/4\u00d718 17/64\u00d717 23/32in.",
+        "medium": "Rising Gaze",
+        "fragrance": "Eastern, Cinnamon, Khus, Champak, Wild Chamomile",
+        "inspiration": "Meteoric Determination [Mineral] Astrological Observation",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/fc/Kaalaa_Baunaa_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/cc/Kaalaa_Baunaa_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/01/Kaalaa_Baunaa_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/77/Kaalaa_Baunaa_Item_3.png"
+        ]
+    },
+    "Kakania": {
+        "name": "Kakania",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/8/85/Kakania_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Kakania",
+        "lookup_name": "Kakania",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "DEF",
+            "Burst DMG"
+        ],
+        "birthday": "December 7",
+        "age": "19",
+        "dimensions": "64 61/64\u00d715 2/5\u00d724 4/5 inches.",
+        "medium": "Lens",
+        "fragrance": "Woody, Vetiver, Nutmeg, Eucalyptus, Mint",
+        "inspiration": "Spirit Perch [Plant], Psychoanalysis",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/ee/Kakania_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/4/43/Kakania_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/24/Kakania_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/46/Kakania_Item_3.png"
+        ]
+    },
+    "Kanjira": {
+        "name": "Kanjira",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fc/Kanjira_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Kanjira",
+        "lookup_name": "Kanjira",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Poison",
+            "Debuff"
+        ],
+        "birthday": "April 8",
+        "age": "16",
+        "dimensions": "62 13/64\u00d724 5/16\u00d79 1/16in.",
+        "medium": "Pillis Ophidiae",
+        "fragrance": "Gourmet, Cardamom, Tonka Bean, Turmeric, Mango",
+        "inspiration": "Duckweed's Traces [Plant] Snake Whisperer",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/bf/Kanjira_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/1/16/Kanjira_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/8f/Kanjira_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e1/Kanjira_Item_3.png"
+        ]
+    },
+    "Kassandra": {
+        "name": "Kassandra",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Kassandra_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Kassandra",
+        "lookup_name": "Kassandra",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "Assassination",
+            "DPS",
+            "Support"
+        ],
+        "birthday": "Unknown",
+        "age": "27",
+        "dimensions": "72 3/64\u00d723 15/64\u00d719 11/16 inches.",
+        "medium": "Hounded",
+        "fragrance": "Marine - Salt, Amber, Vetiver",
+        "inspiration": "Limestone of Wander [Mineral], the Eagle Bearer",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Kassandra_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/0/0f/Kassandra_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e7/Kassandra_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/66/Kassandra_Item_3.png"
+        ]
+    },
+    "Kiperina": {
+        "name": "Kiperina",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Kiperina_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Kiperina",
+        "lookup_name": "Kiperina",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "Shield",
+            "Support",
+            "Dispeller"
+        ],
+        "birthday": "April 19",
+        "age": "15",
+        "dimensions": "61 1/32 x 20 5/16 x 18 7/64 in.",
+        "medium": "Aurora",
+        "fragrance": "Woody and Aromatic, Red Apple, Hearth Smoke, Sandalwood, Sage, Honey",
+        "inspiration": "Faint Glimmer at the Horizon [Star], Strolling Through the Sky",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Kiperina_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f6/Kiperina_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/93/Kiperina_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/62/Kiperina_Item_3.png"
+        ]
+    },
+    "La_Source": {
+        "name": "La Source",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/La_Source_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/La_Source",
+        "lookup_name": "La_Source",
+        "rarity": 3,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "Heal"
+        ],
+        "birthday": "January 29",
+        "age": "Unknown",
+        "dimensions": "55 1/8 x 21 21/32 x 6 11/16 in.",
+        "medium": "Spring Water",
+        "fragrance": "Sea-breeze, Floral - Herb, Wild Strawberry, Fig Leaf, Clear Spring.",
+        "inspiration": "Surging Spring of the Forest [Plant] Twisting Wishes",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/39/La_Source_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/1/19/La_Source_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a9/La_Source_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c6/La_Source_Item_3.png"
+        ]
+    },
+    "Lady_by_the_Lake": {
+        "name": "Lady by the Lake",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/62/Lady_by_the_Lake_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Lady_by_the_Lake",
+        "lookup_name": "Lady_by_the_Lake",
+        "rarity": 4,
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Support"
+        ],
+        "birthday": "April 7",
+        "age": "93",
+        "dimensions": "46 \u00d7 36 \u00d7 1 1/2 in.",
+        "medium": "Cubism",
+        "fragrance": "Aquatic - Bergamot, Mint, Geranium, Mineral",
+        "inspiration": "Reflection of Essence [Plant] Witness on the Canvas",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/9d/Lady_by_the_Lake_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e3/Lady_by_the_Lake_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c2/Lady_by_the_Lake_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/4e/Lady_by_the_Lake_Item_3.png"
+        ]
+    },
+    "Leilani": {
+        "name": "Leilani",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/2/26/Leilani_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Leilani",
+        "lookup_name": "Leilani",
+        "rarity": 3,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "DPS"
+        ],
+        "birthday": "September 23",
+        "age": "16",
+        "dimensions": "62 13/64 x 40 7/32 x 24 13/32 in.",
+        "medium": "Common Hibiscus",
+        "fragrance": "Sea-breeze - Sea Water, Salt, Seaweed, Lemon, Leaf",
+        "inspiration": "Prey of the Waves [Beast] Solo Combat",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/84/Leilani_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/9/92/Leilani_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/24/Leilani_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/9a/Leilani_Item_3.png"
+        ]
+    },
+    "Liang_Yue": {
+        "name": "Liang Yue",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Liang_Yue_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Liang_Yue",
+        "lookup_name": "Liang_Yue",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Immunity"
+        ],
+        "birthday": "May 6",
+        "age": "17",
+        "dimensions": "64 61/64 x 26 49/64 x 17 23/32 in.",
+        "medium": "Temple ceremonial candles",
+        "fragrance": "Oriental woody notes with old sandalwood, incense, bamboo leaves, and cedar.",
+        "inspiration": "The Beast Dancing-Performing Zhenzi [Star] Vigile Patrol Officer",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Liang_Yue_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/3/32/Liang_Yue_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/35/Liang_Yue_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a5/Liang_Yue_Item_3.png"
+        ]
+    },
+    "Lilya": {
+        "name": "Lilya",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/1/19/Lilya_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Lilya",
+        "lookup_name": "Lilya",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "Burst DMG",
+            "DPS"
+        ],
+        "birthday": "November 14",
+        "age": "Unknown",
+        "dimensions": "71 17/64 x 20 23/64 x 8 17/64 in.",
+        "medium": "Vodka",
+        "fragrance": "Fougere - Patchouli, Nutmeg, Incense",
+        "inspiration": "Flare Trail [Star] Soaring on a Broom",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/aa/Lilya_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Lilya_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bb/Lilya_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/69/Lilya_Item_3.png"
+        ]
+    },
+    "Loggerhead": {
+        "name": "Loggerhead",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/9/93/Loggerhead_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Loggerhead",
+        "lookup_name": "Loggerhead",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "Heal",
+            "DEF",
+            "Support"
+        ],
+        "birthday": "June 1",
+        "age": "96",
+        "dimensions": "61 27/64\u00d723 5/8\u00d722 5/32 inches",
+        "medium": "Latham Circuit",
+        "fragrance": "Leather notes with Amber, Patchouli, Oak, Motor Oil, and Lemongrass",
+        "inspiration": "Frame-by-frame Revelation [Plant], The Recorder",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/57/Loggerhead_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/3/32/Loggerhead_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/39/Loggerhead_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/61/Loggerhead_Item_3.png"
+        ]
+    },
+    "Lopera": {
+        "name": "Lopera",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Lopera_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Lopera",
+        "lookup_name": "Lopera",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "Burn",
+            "Extra Action"
+        ],
+        "birthday": "May 6",
+        "age": "15",
+        "dimensions": "62 2/3 x 26 9/20 x 13 4/5 in.",
+        "medium": "Determination",
+        "fragrance": "Citrus, Bitter Orange Leaf, Blood Orange, Geranium, Tonka Bean",
+        "inspiration": "The Innocence of a Cunning Beast [Beast] Plainclothes Agent",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/19/Lopera_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a5/Lopera_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/57/Lopera_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/00/Lopera_Item_3.png"
+        ]
+    },
+    "Lorelei": {
+        "name": "Lorelei",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/c/cf/Lorelei_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Lorelei",
+        "lookup_name": "Lorelei",
+        "rarity": 5,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "DPS"
+        ],
+        "birthday": "April 16",
+        "age": "16",
+        "dimensions": "63 25/32 x 28 2/5 x 20 4/5 inches.",
+        "medium": "Drifting",
+        "fragrance": "White Flower, Bitter Orange, Honeysuckle, Agarwood, Leather",
+        "inspiration": "Stagnant Starlight [Star], Anchorage",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/4f/Lorelei_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/62/Lorelei_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/08/Lorelei_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/9f/Lorelei_Item_3.png"
+        ]
+    },
+    "Lorentz_Butterfly": {
+        "name": "Lorentz Butterfly",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Lorentz_Butterfly_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Lorentz_Butterfly",
+        "lookup_name": "Lorentz_Butterfly",
+        "rarity": 6,
+        "afflatus": "Intellect",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Lingering Glow",
+            "DPS",
+            "Rewrite"
+        ],
+        "birthday": "September 19",
+        "age": "24",
+        "dimensions": "69 1/4\u00d734 3/8\u00d718 1/8 inches",
+        "medium": "Chaos",
+        "fragrance": "Woody - Chaotic Particles, Blood, Cedar, Incense, Lily, Sandalwood",
+        "inspiration": "Disordered Flutter [Intelligence] Chaos Researcher",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/88/Lorentz_Butterfly_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/62/Lorentz_Butterfly_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d5/Lorentz_Butterfly_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/83/Lorentz_Butterfly_Item_3.png"
+        ]
+    },
+    "Lucy": {
+        "name": "Lucy",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d2/Lucy_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Lucy",
+        "lookup_name": "Lucy",
+        "rarity": 6,
+        "afflatus": "Intellect",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Reaper",
+            "Extra Action"
+        ],
+        "birthday": "December 30",
+        "age": "181",
+        "dimensions": "74\u00d742 15/16\u00d722 13/16 inches.",
+        "medium": "Steel",
+        "fragrance": "Leather, Patchouli, Aluminum Alloy, Rust, Hay, Laurel Leaves",
+        "inspiration": "Metallic Wisdom [Intelligence], Scientific Progress",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/3f/Lucy_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/3/39/Lucy_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/4e/Lucy_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d5/Lucy_Item_3.png"
+        ]
+    },
+    "Marcus": {
+        "name": "Marcus",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/4/43/Marcus_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Marcus",
+        "lookup_name": "Marcus",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Burst DMG"
+        ],
+        "birthday": "January 12",
+        "age": "17",
+        "dimensions": "61 1/32 x 24 13/32 x 13 25/64 in.",
+        "medium": "Avid Reader",
+        "fragrance": "Aqua, Sage, Seawater, Cardamom, Aleppo Oak",
+        "inspiration": "Watchful Pod [Plant], Watchtower Guardian",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/9f/Marcus_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/9/9c/Marcus_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c8/Marcus_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/ae/Marcus_Item_3.png"
+        ]
+    },
+    "Marsha": {
+        "name": "Marsha",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/d/db/Marsha_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Marsha",
+        "lookup_name": "Marsha",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "Shield",
+            "Support",
+            "Lingering Glow"
+        ],
+        "birthday": "April 10",
+        "age": "24",
+        "dimensions": "65 23/64 x 27 31/64 x 25 9/16 inches",
+        "medium": "Chivalry",
+        "fragrance": "Aromatic Herb, Blue Gum Leaf, Vervain, Wild Mint, Beeswax",
+        "inspiration": "Virtue of Endurance [Beast], Field Medic",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Marsha_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Marsha_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/9f/Marsha_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/9d/Marsha_Item_3.png"
+        ]
+    },
+    "Matilda": {
+        "name": "Matilda",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/2/27/Matilda_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Matilda",
+        "lookup_name": "Matilda",
+        "rarity": 5,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "Debuff",
+            "DPS"
+        ],
+        "birthday": "June 22",
+        "age": "14",
+        "dimensions": "64 61/64\u00d720 5/64\u00d720 5/64in.",
+        "medium": "Competitiveness",
+        "fragrance": "Citrus Fougere - Orange Blossom, Cardamom, Basil, Bergamot, Caramel",
+        "inspiration": "Prediction of the Polestar [Star] Orbuculum Divination",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/15/Matilda_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/57/Matilda_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a5/Matilda_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/95/Matilda_Item_3.png"
+        ]
+    },
+    "Medicine_Pocket": {
+        "name": "Medicine Pocket",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/4/42/Medicine_Pocket_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Medicine_Pocket",
+        "lookup_name": "Medicine_Pocket",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Mental",
+        "tags": [
+            "Heal",
+            "Debuff",
+            "Control"
+        ],
+        "birthday": "November 24",
+        "age": "18",
+        "dimensions": "70 15/32\u00d721 17/64\u00d711 13/16in.",
+        "medium": "Bell",
+        "fragrance": "Woody - Incense, White Flower, Resin, Musk",
+        "inspiration": "Ringing Beast [Beast] Drug Tester",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/35/Medicine_Pocket_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/7/76/Medicine_Pocket_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bf/Medicine_Pocket_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/53/Medicine_Pocket_Item_3.png"
+        ]
+    },
+    "Melania": {
+        "name": "Melania",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/Melania_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Melania",
+        "lookup_name": "Melania",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Mental",
+        "tags": [
+            "Burst DMG",
+            "DPS"
+        ],
+        "birthday": "March 20",
+        "age": "18",
+        "dimensions": "69 11/16\u00d732 21/64\u00d716 17/32in.",
+        "medium": "Plan",
+        "fragrance": "Floral - Bergamot, Mandarin, Pink Pepper, Elemi",
+        "inspiration": "Cunning Beast [Beast] Security Check",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Melania_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/d/de/Melania_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7c/Melania_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Melania_Item_3.png"
+        ]
+    },
+    "Mercuria": {
+        "name": "Mercuria",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Mercuria_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Mercuria",
+        "lookup_name": "Mercuria",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "DPS",
+            "Rank Up"
+        ],
+        "birthday": "February 18",
+        "age": "16",
+        "dimensions": "65 3/4 x 17 23/32 x 10 15/64 in.",
+        "medium": "Trace",
+        "fragrance": "Oriental Fougere, Clary Sage, Citrus, Violet, Benzoin, Tobacco",
+        "inspiration": "The Echo of Celestial Bodies [Spirit] Energy Perception",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/fa/Mercuria_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7f/Mercuria_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/5f/Mercuria_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/0f/Mercuria_Item_3.png"
+        ]
+    },
+    "Mesmer_Jr.": {
+        "name": "Mesmer Jr.",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f5/Mesmer_Jr._Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Mesmer_Jr.",
+        "lookup_name": "Mesmer_Jr.",
+        "rarity": 4,
+        "afflatus": "Intellect",
+        "damage": "Mental",
+        "tags": [
+            "Support"
+        ],
+        "birthday": "September 20",
+        "age": "16",
+        "dimensions": "64 11/64\u00d725 13/64\u00d717 23/32in.",
+        "medium": "Sodium Hypochlorite",
+        "fragrance": "Aquatic - Coriander, Mint, Juniper Berries, Oakmoss, Calone",
+        "inspiration": "Rational Believer [Intelligence] Artificial Somnambulism",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Mesmer_Jr._Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/8/8f/Mesmer_Jr._Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a7/Mesmer_Jr._Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a3/Mesmer_Jr._Item_3.png"
+        ]
+    },
+    "Moldir": {
+        "name": "Moldir",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Moldir_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Moldir",
+        "lookup_name": "Moldir",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "Riposte",
+            "Moxie"
+        ],
+        "birthday": "September 13",
+        "age": "24",
+        "dimensions": "70 15/32\u00d721 17/64\u00d715 3/4 in.",
+        "medium": "Majority",
+        "fragrance": "Woody - Guaiac Wood, White Lily, Vetiver",
+        "inspiration": "Whisper of the Cornered Beast [Beast], Sentinel Unit Lieutenant",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/44/Moldir_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Moldir_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/3a/Moldir_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/db/Moldir_Item_3.png"
+        ]
+    },
+    "Mondlicht": {
+        "name": "Mondlicht",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Mondlicht_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Mondlicht",
+        "lookup_name": "Mondlicht",
+        "rarity": 4,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "DPS"
+        ],
+        "birthday": "January 1",
+        "age": "10",
+        "dimensions": "49 39/64 x 46 1/16 x 11 1/32 in.",
+        "medium": "Silver Bullet",
+        "fragrance": "Woody, Fruity, Floral - Blackcurrant, Quince, Fir, Water Lily, Musk",
+        "inspiration": "Forged Silver of Hatred [Mineral] Hunter of the Evil Beast",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Mondlicht_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/8/8a/Mondlicht_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d5/Mondlicht_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e5/Mondlicht_Item_3.png"
+        ]
+    },
+    "Mr._Duncan": {
+        "name": "Mr. Duncan",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Mr._Duncan_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Mr._Duncan",
+        "lookup_name": "Mr._Duncan",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Riposte",
+            "Reaper"
+        ],
+        "birthday": "June 30",
+        "age": "61",
+        "dimensions": "70 43/50 x 24 4/7 x 12 1/5 in.",
+        "medium": "Sense of Honor",
+        "fragrance": "Leather, Pink Pepper, Vetiver, Clary Sage, Benzoin",
+        "inspiration": "Sentimental Beast [Beast] Veteran",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/67/Mr._Duncan_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/5b/Mr._Duncan_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Mr._Duncan_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f2/Mr._Duncan_Item_3.png"
+        ]
+    },
+    "Ms._Moissan": {
+        "name": "Ms. Moissan",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Ms._Moissan_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Ms._Moissan",
+        "lookup_name": "Ms._Moissan",
+        "rarity": 4,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "Control",
+            "Shield"
+        ],
+        "birthday": "November 25",
+        "age": "26",
+        "dimensions": "64 9/16 x 31 x 27 9/16 in.",
+        "medium": "Kaolinite",
+        "fragrance": "Citrus - Tangerine, Bitter Orange, Lily, Lemon",
+        "inspiration": "Shaped White Rock [Mineral] Ceramic Making",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/eb/Ms._Moissan_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/b/b4/Ms._Moissan_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2c/Ms._Moissan_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/83/Ms._Moissan_Item_3.png"
+        ]
+    },
+    "Ms._NewBabel": {
+        "name": "Ms. NewBabel",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/8/84/Ms._NewBabel_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Ms._NewBabel",
+        "lookup_name": "Ms._NewBabel",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "DEF",
+            "Shield",
+            "Ripostle"
+        ],
+        "birthday": "November 16",
+        "age": "25",
+        "dimensions": "73 15/64\u00d754 39/64\u00d719 49/64in.",
+        "medium": "Ambition",
+        "fragrance": "Woody - Citron, Orange Blossom, Water Lily, Lemon Grass",
+        "inspiration": "Wandering Beast on the Mountain [Mineral] Critter's Sale",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/2/23/Ms._NewBabel_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/9/99/Ms._NewBabel_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/1a/Ms._NewBabel_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d2/Ms._NewBabel_Item_3.png"
+        ]
+    },
+    "Ms._Radio": {
+        "name": "Ms. Radio",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Ms._Radio_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Ms._Radio",
+        "lookup_name": "Ms._Radio",
+        "rarity": 2,
+        "afflatus": "Spirit",
+        "damage": "Mental",
+        "tags": [
+            "Debuff"
+        ],
+        "birthday": "April 1",
+        "age": "Unknown",
+        "dimensions": "13 45/64 x 13 5/64 x 2 1/16 in.",
+        "medium": "EM Waves",
+        "fragrance": "Floral - Leaf, Zinnia, Jasmine, Water",
+        "inspiration": "The Spreading of the EM Spirit [Spirit] Data Transmission",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c4/Ms._Radio_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/7/77/Ms._Radio_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bf/Ms._Radio_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2c/Ms._Radio_Item_3.png"
+        ]
+    },
+    "Name_Day": {
+        "name": "Name Day",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Name_Day_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Name_Day",
+        "lookup_name": "Name_Day",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "DPS"
+        ],
+        "birthday": "January 6",
+        "age": "23",
+        "dimensions": "69 19/64 x 23 5/64 x 12 19/32 in.",
+        "medium": "A Faraway Land",
+        "fragrance": "Spicy Aromatic, Ivan Chai, Cedar, Candle Flame, Amber, Raspberry",
+        "inspiration": "Snow-Covered Salt Flats [Mineral], Collection of Relics",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/6/67/Name_Day_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2a/Name_Day_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Name_Day_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ef/Name_Day_Item_3.png"
+        ]
+    },
+    "Nautika": {
+        "name": "Nautika",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/3/36/Nautika_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Nautika",
+        "lookup_name": "Nautika",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Bloodtithe",
+            "Adaptive"
+        ],
+        "birthday": "February 16",
+        "age": "19",
+        "dimensions": "67 23/32 x 27 9/16 x 25 19/32 inches.",
+        "medium": "Anything Unknown",
+        "fragrance": "Aquatic, Woody - Bergamot Orange, Seaweed, Grey Amber",
+        "inspiration": "Mother Spirit's Glow [Spirit], Myth Archaeology",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/cc/Nautika_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d9/Nautika_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/9b/Nautika_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7b/Nautika_Item_3.png"
+        ]
+    },
+    "Necrologist": {
+        "name": "Necrologist",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/1/15/Necrologist_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Necrologist",
+        "lookup_name": "Necrologist",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "DPS"
+        ],
+        "birthday": "November 2",
+        "age": "17",
+        "dimensions": "66 17/32 x 120 7/16 x 9 1/16 in.",
+        "medium": "Last Wishes",
+        "fragrance": "Woody - Chamomile, Lavender, Vetiver, White Chrysanthemum",
+        "inspiration": "The Tombstone in Peace [Mineral] Entrustment of Legacy",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/90/Necrologist_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/cd/Necrologist_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/12/Necrologist_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/44/Necrologist_Item_3.png"
+        ]
+    },
+    "Nick_Bottom": {
+        "name": "Nick Bottom",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/8/80/Nick_Bottom_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Nick_Bottom",
+        "lookup_name": "Nick_Bottom",
+        "rarity": 4,
+        "afflatus": "Beast",
+        "damage": "Mental",
+        "tags": [
+            "Support"
+        ],
+        "birthday": "April 30",
+        "age": "20",
+        "dimensions": "71 17/64\u00d720 23/64\u00d78 17/64in.",
+        "medium": "Moment of Reminiscence",
+        "fragrance": "Woody - Cardamom, Cistus, Sandalwood",
+        "inspiration": "Wandering Beasts [Beast] Craftsman's Work",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Nick_Bottom_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/3/3a/Nick_Bottom_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e5/Nick_Bottom_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/8f/Nick_Bottom_Item_3.png"
+        ]
+    },
+    "Noire": {
+        "name": "Noire",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Noire_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Noire",
+        "lookup_name": "Noire",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Burst DMG",
+            "Extra Action"
+        ],
+        "birthday": "February 14",
+        "age": "41",
+        "dimensions": "62 63/64 x 47 8/33 x 43 9/28 in.",
+        "medium": "Blank Film",
+        "fragrance": "Oriental foug\u00e8re with red currant, bergamot, tea, and cashmeran",
+        "inspiration": "Puppet Rehearsals [Wood] Cinematic Narratives",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/10/Noire_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e5/Noire_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2d/Noire_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/55/Noire_Item_3.png"
+        ]
+    },
+    "ONiON": {
+        "name": "ONiON",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b5/ONiON_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/ONiON",
+        "lookup_name": "ONiON",
+        "rarity": 3,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Support"
+        ],
+        "birthday": "February 5",
+        "age": "24",
+        "dimensions": "65 3/4\u00d721 21/32\u00d714 31/32in.",
+        "medium": "Viewfinder",
+        "fragrance": "Herbal Spices - 4-Anisaldehyde, Oregano, Basil",
+        "inspiration": "Stubborn Journalist [Mineral] Strange News",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/51/ONiON_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bb/ONiON_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/45/ONiON_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/b5/ONiON_Item_3.png"
+        ]
+    },
+    "Oliver_Fog": {
+        "name": "Oliver Fog",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Oliver_Fog_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Oliver_Fog",
+        "lookup_name": "Oliver_Fog",
+        "rarity": 4,
+        "afflatus": "Star",
+        "damage": "Real",
+        "tags": [
+            "DEF",
+            "Support"
+        ],
+        "birthday": "December 26",
+        "age": "15",
+        "dimensions": "68 57/64\u00d729 17/32\u00d716 59/64in.",
+        "medium": "Fog",
+        "fragrance": "Woody - Leather, Ebony, Wormwood",
+        "inspiration": "Planets by the Fog [Star] Fog Purification",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Oliver_Fog_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/1/1b/Oliver_Fog_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/83/Oliver_Fog_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/27/Oliver_Fog_Item_3.png"
+        ]
+    },
+    "Paper_Heron": {
+        "name": "Paper Heron",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/62/Paper_Heron_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Paper_Heron",
+        "lookup_name": "Paper_Heron",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Inspiration"
+        ],
+        "birthday": "Unknown",
+        "age": "Unknown",
+        "dimensions": "66 17/32\u00d715 3/4\u00d723 5/8 in.",
+        "medium": "Qi of Heaven and Earth",
+        "fragrance": "Fougere, Pink Peony, Mint, Moss, Patchouli",
+        "inspiration": "Unbroken Mei Branch [Plant], Wandering at Ease",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/bc/Paper_Heron_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/64/Paper_Heron_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bc/Paper_Heron_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e7/Paper_Heron_Item_3.png"
+        ]
+    },
+    "Pavia": {
+        "name": "Pavia",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Pavia_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Pavia",
+        "lookup_name": "Pavia",
+        "rarity": 4,
+        "afflatus": "Beast",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Self-healing"
+        ],
+        "birthday": "July 24",
+        "age": "25",
+        "dimensions": "62 19/32 x 21 17/64 x 14 11/64 in.",
+        "medium": "Beast Teeth",
+        "fragrance": "Spicy, Woody - Mandarin, Musk, Leather, Carrot Seed",
+        "inspiration": "Mourning of the Feral Pack [Beast] Night View",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/9c/Pavia_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/5c/Pavia_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/3f/Pavia_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d8/Pavia_Item_3.png"
+        ]
+    },
+    "Pickles": {
+        "name": "Pickles",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/b/ba/Pickles_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Pickles",
+        "lookup_name": "Pickles",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Support",
+            "Dispeller"
+        ],
+        "birthday": "October 27",
+        "age": "4",
+        "dimensions": "27 61/64\u00d723 25/32\u00d720 15/32in.",
+        "medium": "Philosophical Thinking",
+        "fragrance": "Woody - Birch, Cedar, Patchouli, Amber Wood",
+        "inspiration": "Indigo Dog Statue [Mineral] Dog Philosophy",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/5/5c/Pickles_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/8/8c/Pickles_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/12/Pickles_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/12/Pickles_Item_3.png"
+        ]
+    },
+    "Pioneer": {
+        "name": "Pioneer",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Pioneer_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Pioneer",
+        "lookup_name": "Pioneer",
+        "rarity": 3,
+        "afflatus": "Spirit",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Shield",
+            "Shift"
+        ],
+        "birthday": "July 9",
+        "age": "4",
+        "dimensions": "74 51/64\u00d725 19/32\u00d713 25/32in.",
+        "medium": "Merchandises",
+        "fragrance": "Woody Chypre - Leather, Oakmoss, Patchouli, Aldehyde",
+        "inspiration": "A Mannequin's Soul [Spirit] Social Conversation",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Pioneer_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2a/Pioneer_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Pioneer_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/eb/Pioneer_Item_3.png"
+        ]
+    },
+    "Poltergeist": {
+        "name": "Poltergeist",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fb/Poltergeist_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Poltergeist",
+        "lookup_name": "Poltergeist",
+        "rarity": 4,
+        "afflatus": "Spirit",
+        "damage": "Mental",
+        "tags": [
+            "DEF",
+            "Debuff"
+        ],
+        "birthday": "July 12",
+        "age": "15",
+        "dimensions": "64 11/64 x 25 43/64 x 12 19/32 in.",
+        "medium": "Timidity",
+        "fragrance": "Aquatic - Sea Water, Strawberry, Neroli Oil, Sage",
+        "inspiration": "Drowned Ghost [Spirit] Poltergeist's Harassment",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/d5/Poltergeist_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Poltergeist_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/67/Poltergeist_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ef/Poltergeist_Item_3.png"
+        ]
+    },
+    "Rabies": {
+        "name": "Rabies",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Rabies_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Rabies",
+        "lookup_name": "Rabies",
+        "rarity": 4,
+        "afflatus": "Plant",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Poison"
+        ],
+        "birthday": "December 14",
+        "age": "24",
+        "dimensions": "65\u20029/25\u00d735\u200213/25\u00d748\u200217/43in.",
+        "medium": "Straw",
+        "fragrance": "Leather - Tobacco, Orris Root, Birch Resin, Cocoa",
+        "inspiration": "The Accompanying Figure of Corn Poppies[Plant] Cornfield Watcher",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/49/Rabies_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/4/40/Rabies_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/14/Rabies_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/44/Rabies_Item_3.png"
+        ]
+    },
+    "Ramona": {
+        "name": "Ramona",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/1/17/Ramona_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Ramona",
+        "lookup_name": "Ramona",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Poison",
+            "Rewrite"
+        ],
+        "birthday": "April 13",
+        "age": "17",
+        "dimensions": "66 1/8\u00d733 1/16\u00d731 1/8in.",
+        "medium": "Smoke and Spark",
+        "fragrance": "Woody Fougere - Clary Sage, Lavender, Helichrysum, Orchid, Cedar",
+        "inspiration": "Guiding Herb [Plant] Exorcist",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Ramona_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Ramona_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/79/Ramona_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/44/Ramona_Item_3.png"
+        ]
+    },
+    "Recoleta": {
+        "name": "Recoleta",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/9/96/Recoleta_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Recoleta",
+        "lookup_name": "Recoleta",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Burst DMG",
+            "Moxie"
+        ],
+        "birthday": "July 15",
+        "age": "17",
+        "dimensions": "65 3/4 x 19 5/16 x 17 23/32 in.",
+        "medium": "Visceral Realism",
+        "fragrance": "Fruity Floral, Ink, Cattail, Iris, Labdanum, Cinnamon",
+        "inspiration": "Ghosts of the Past [Mineral], Literary Symbolism",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/16/Recoleta_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Recoleta_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/19/Recoleta_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/4c/Recoleta_Item_3.png"
+        ]
+    },
+    "Reed": {
+        "name": "Reed",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b7/Reed_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Reed",
+        "lookup_name": "Reed",
+        "rarity": 4,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "Support"
+        ],
+        "birthday": "Unknown",
+        "age": "Unknown",
+        "dimensions": "Dimensions: 64 31/32\u00d716 17/32\u00d79 27/32in.",
+        "medium": "Curiosity",
+        "fragrance": "Leafy - Galbanum, Mint, White Tea, Amber",
+        "inspiration": "Writings of a Reed [Plant] Traveling Editor",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/0e/Reed_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f8/Reed_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/24/Reed_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/42/Reed_Item_3.png"
+        ]
+    },
+    "Regulus": {
+        "name": "Regulus",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Regulus_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Regulus",
+        "lookup_name": "Regulus",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Support"
+        ],
+        "birthday": "August 15",
+        "age": "15",
+        "dimensions": "62 13/64\u00d735 15/64\u00d717 23/32in.",
+        "medium": "Regulus",
+        "fragrance": "Fruity - Blackcurrant, Cardamom, Kumquat",
+        "inspiration": "Blazing of the Faraway Stars [Star] Disc Jockey",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/3/3f/Regulus_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/0/06/Regulus_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/99/Regulus_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/dd/Regulus_Item_3.png"
+        ]
+    },
+    "Rubuska": {
+        "name": "Rubuska",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/Rubuska_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Rubuska",
+        "lookup_name": "Rubuska",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "Heal",
+            "Support",
+            "Bloodtithe"
+        ],
+        "birthday": "May 29th",
+        "age": "14",
+        "dimensions": "61 1/64 x 32 9/32 x 17 23/32 in.",
+        "medium": "Shadow",
+        "fragrance": "Floral Chypre, Rose, Patchouli, Red Berries",
+        "inspiration": "The Shadow in the Flute [Mineral] Wanderer",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/2/20/Rubuska_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f7/Rubuska_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f6/Rubuska_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/23/Rubuska_Item_3.png"
+        ]
+    },
+    "Satsuki": {
+        "name": "Satsuki",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4e/Satsuki_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Satsuki",
+        "lookup_name": "Satsuki",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Control"
+        ],
+        "birthday": "May 1",
+        "age": "16",
+        "dimensions": "61 1/25 x 15 4/25 x 14 11/63 in.",
+        "medium": "Tattoo",
+        "fragrance": "Floral - Amber, Lily of the Valley, Cape Jasmine, Bellflower",
+        "inspiration": "Host of the Hares [Plant] Teahouse Service",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/be/Satsuki_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a8/Satsuki_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/b1/Satsuki_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e3/Satsuki_Item_3.png"
+        ]
+    },
+    "Schneider": {
+        "name": "Schneider",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Schneider_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Schneider",
+        "lookup_name": "Schneider",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "damage": "Mental",
+        "tags": [
+            ""
+        ],
+        "birthday": "October 22",
+        "age": "18",
+        "dimensions": "62 13/64x18 11/32x8 5/64in.",
+        "medium": "Feather",
+        "fragrance": "Fruity - Mandarin, Bergamot Orange, Musk, Tobacco",
+        "inspiration": "The Struggling Cricket [Beast] Gang Management",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/9d/Schneider_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a8/Schneider_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/94/Schneider_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/9b/Schneider_Item_3.png"
+        ]
+    },
+    "Semmelweis": {
+        "name": "Semmelweis",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Semmelweis_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Semmelweis",
+        "lookup_name": "Semmelweis",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "Support",
+            "DPS",
+            "HP Sacrifice"
+        ],
+        "birthday": "August 19",
+        "age": "19",
+        "dimensions": "65 3/4\u00d719 5/16\u00d710 1/4in.",
+        "medium": "Blood Agate",
+        "fragrance": "Woody - Pepper, Yew, Labdanum, Cedar, Leather",
+        "inspiration": "Beguiling Wiles [Mineral] Field Investigation",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ca/Semmelweis_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/3/38/Semmelweis_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e4/Semmelweis_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/b1/Semmelweis_Item_3.png"
+        ]
+    },
+    "Sentinel": {
+        "name": "Sentinel",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Sentinel_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Sentinel",
+        "lookup_name": "Sentinel",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Bloodtithe",
+            "Support"
+        ],
+        "birthday": "December 22",
+        "age": "26",
+        "dimensions": "62 63/64x20 55/64x15 23/64 in.",
+        "medium": "Stone Statue",
+        "fragrance": "Chypre - Oakmoss, Mint, Saltpeter, Myrrh, Aromatic Cinnamon, Sulfur",
+        "inspiration": "Sulfur of Inferno [Mineral], Fight Fire with Fire",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/2/29/Sentinel_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e5/Sentinel_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/ad/Sentinel_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/66/Sentinel_Item_3.png"
+        ]
+    },
+    "Shamane": {
+        "name": "Shamane",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Shamane_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Shamane",
+        "lookup_name": "Shamane",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Burst DMG",
+            "Debuff"
+        ],
+        "birthday": "March 22",
+        "age": "45",
+        "dimensions": "78 11/32x19 1/16x23 5/8in.",
+        "medium": "Bodhi Tree",
+        "fragrance": "Oriental Woods, Red Sandalwood, Nard, Sal Tree, Blackcurrant",
+        "inspiration": "Meditations of the Wounded Beast [Beast] Shaman",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Shamane_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/5b/Shamane_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/88/Shamane_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f2/Shamane_Item_3.png"
+        ]
+    },
+    "Sonetto": {
+        "name": "Sonetto",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Sonetto_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Sonetto",
+        "lookup_name": "Sonetto",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Support",
+            "Control"
+        ],
+        "birthday": "January 10",
+        "age": "16",
+        "dimensions": "62 63/64\u00d721 31/32\u00d78 17/64in.",
+        "medium": "Curiosity",
+        "fragrance": "Woody - Vetiver, Arborvitae, Poivre Rose, Spice",
+        "inspiration": "Trained Loyal Dogs [Mineral] Foreign Affairs",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Sonetto_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/9/96/Sonetto_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/57/Sonetto_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/4/47/Sonetto_Item_3.png"
+        ]
+    },
+    "Sotheby": {
+        "name": "Sotheby",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c1/Sotheby_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Sotheby",
+        "lookup_name": "Sotheby",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Real",
+        "tags": [
+            "Poison",
+            "Heal",
+            "DPS"
+        ],
+        "birthday": "April 15",
+        "age": "13",
+        "dimensions": "64 9/16\u00d728 7/10\u00d727 9/16in.",
+        "medium": "Emerald",
+        "fragrance": "Floral - Cananga Tree, Daisy, Vanilla",
+        "inspiration": "Concerto of the Woods [Plant] Potion Production",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/b/be/Sotheby_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Sotheby_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2b/Sotheby_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f2/Sotheby_Item_3.png"
+        ]
+    },
+    "Spathodea": {
+        "name": "Spathodea",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Spathodea_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Spathodea",
+        "lookup_name": "Spathodea",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Burst DMG",
+            "Burn"
+        ],
+        "birthday": "January 10",
+        "age": "14",
+        "dimensions": "61 27/64x27 53/64x10 15/64 inches",
+        "medium": "Uppercut",
+        "fragrance": "Gourmet Food, Milk, Caramel, Sweet Pepper, Cardamom",
+        "inspiration": "The fluttering of a clever sparrow [Beast], The Reincarnator",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/d8/Spathodea_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/4/4f/Spathodea_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/84/Spathodea_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e3/Spathodea_Item_3.png"
+        ]
+    },
+    "Sputnik": {
+        "name": "Sputnik",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/7/75/Sputnik_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Sputnik",
+        "lookup_name": "Sputnik",
+        "rarity": 3,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "DEF",
+            "Control"
+        ],
+        "birthday": "October 4",
+        "age": "Unknown",
+        "dimensions": "37 51/64\u00d729 9/64\u00d729 9/64in.",
+        "medium": "Second Cosmic Velocity",
+        "fragrance": "Fougere - Geranium, Sea Water, Incense, Burnt Metal",
+        "inspiration": "The First Satellite [Star] Circular Motion",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c7/Sputnik_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Sputnik_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/5/57/Sputnik_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/71/Sputnik_Item_3.png"
+        ]
+    },
+    "Sweetheart": {
+        "name": "Sweetheart",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Sweetheart_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Sweetheart",
+        "lookup_name": "Sweetheart",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Control"
+        ],
+        "birthday": "June 1",
+        "age": "17",
+        "dimensions": "67 23/32\u00d726 49/64\u00d79 29/64in.",
+        "medium": "Adoration",
+        "fragrance": "Floral - Aldehyde, Wet Grass, Iris, Patchouli",
+        "inspiration": "Soft Feathers of the Odd Pelican [Beast] Eye-catcher",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Sweetheart_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c6/Sweetheart_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Sweetheart_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/22/Sweetheart_Item_3.png"
+        ]
+    },
+    "TTT": {
+        "name": "TTT",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/TTT_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/TTT",
+        "lookup_name": "TTT",
+        "rarity": 4,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "DEF",
+            "Dispeller"
+        ],
+        "birthday": "March 12",
+        "age": "18",
+        "dimensions": "75 19/32\u00d729 17/32\u00d721 17/64in.",
+        "medium": "Hyperlink",
+        "fragrance": "Fruity - Vetiver, Plum, Poivre, Rose, Hyacinth",
+        "inspiration": "Peek of the Star [Star] Radio Jamming",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/TTT_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/50/TTT_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7a/TTT_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/21/TTT_Item_3.png"
+        ]
+    },
+    "Tennant": {
+        "name": "Tennant",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Tennant_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Tennant",
+        "lookup_name": "Tennant",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "damage": "Real",
+        "tags": [
+            "Shield",
+            "Debuff",
+            "DPS"
+        ],
+        "birthday": "September 8",
+        "age": "25",
+        "dimensions": "72 1/16\u00d738 7/64\u00d723in.",
+        "medium": "Lie",
+        "fragrance": "Oriental - Nutmeg, Sage, Musk, Patchouli",
+        "inspiration": "Deceitful Nature of Beast [Beast] Diamond Synthesis",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/d3/Tennant_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/54/Tennant_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/2/2c/Tennant_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/00/Tennant_Item_3.png"
+        ]
+    },
+    "The_Fool": {
+        "name": "The Fool",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/8/83/The_Fool_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/The_Fool",
+        "lookup_name": "The_Fool",
+        "rarity": 3,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "DEF"
+        ],
+        "birthday": "September 4",
+        "age": "Unknown",
+        "dimensions": "66 59/64\u00d726 31/32\u00d719 11/16in.",
+        "medium": "Mask",
+        "fragrance": "Oriental Fougere - Bergamot Orange, Pine, Tonka Bean, Vetiver",
+        "inspiration": "Foolish Stars Behind the Scenes [Star] Theatrical Performance",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/a4/The_Fool_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/3/38/The_Fool_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/6/6f/The_Fool_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/9/97/The_Fool_Item_3.png"
+        ]
+    },
+    "Tooth_Fairy": {
+        "name": "Tooth Fairy",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Tooth_Fairy_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Tooth_Fairy",
+        "lookup_name": "Tooth_Fairy",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "Heal",
+            "Debuff",
+            "Purify"
+        ],
+        "birthday": "November 27",
+        "age": "25",
+        "dimensions": "67 1/8 in \u00d719 5/32 in \u00d714 1/16 in",
+        "medium": "Tooth enamel",
+        "fragrance": "Aromatics, aldehydes, cashmere, black pepper, cedar",
+        "inspiration": "Veil of Stars (Star) - Rearing Tooth Spirits",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Tooth_Fairy_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Tooth_Fairy_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f9/Tooth_Fairy_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/b3/Tooth_Fairy_Item_3.png"
+        ]
+    },
+    "Tuesday": {
+        "name": "Tuesday",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Tuesday_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Tuesday",
+        "lookup_name": "Tuesday",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "damage": "Mental",
+        "tags": [
+            "Debuff",
+            "Poison",
+            "Support"
+        ],
+        "birthday": "October 30",
+        "age": "21",
+        "dimensions": "65 7/20 x 19 3/10 x 12 99/100 in.",
+        "medium": "Fear",
+        "fragrance": "Floral - Narcissus, Honeysuckle, Ginger, Basil",
+        "inspiration": "Phantom Hospitality [Spirit] Motel Owner",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/4/47/Tuesday_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Tuesday_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/11/Tuesday_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/e/eb/Tuesday_Item_3.png"
+        ]
+    },
+    "Twins_Sleep": {
+        "name": "Twins Sleep",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Twins_Sleep_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Twins_Sleep",
+        "lookup_name": "Twins_Sleep",
+        "rarity": 3,
+        "afflatus": "Spirit",
+        "damage": "Mental",
+        "tags": [
+            "Debuff",
+            "Control"
+        ],
+        "birthday": "April 27",
+        "age": "8",
+        "dimensions": "52 2/5\u00d733 9/13\u00d77 11/14in.",
+        "medium": "Innocence",
+        "fragrance": "Fruity - Blackcurrant, Bergamot Orange, Jasmine, Birch",
+        "inspiration": "Twins of Gnosis [Spirit] Mirror Tricks",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8e/Twins_Sleep_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/d/de/Twins_Sleep_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/0/00/Twins_Sleep_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c4/Twins_Sleep_Item_3.png"
+        ]
+    },
+    "Ulrich": {
+        "name": "Ulrich",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4c/Ulrich_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Ulrich",
+        "lookup_name": "Ulrich",
+        "rarity": 6,
+        "afflatus": "Intellect",
+        "damage": "Real",
+        "tags": [
+            "Dynamo",
+            "Support",
+            "Extra Action"
+        ],
+        "birthday": "May 30",
+        "age": "Unknown",
+        "dimensions": "71 46/71\u00d727 9/14\u00d718 9/10 in.",
+        "medium": "Thought Current",
+        "fragrance": "Woody Essential Oil, Metal, Fir, Calcium",
+        "inspiration": "Rhythm of Wisdom [Intelligence], Decipherment",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/fa/Ulrich_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/ee/Ulrich_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/84/Ulrich_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/3d/Ulrich_Item_3.png"
+        ]
+    },
+    "Ulu": {
+        "name": "Ulu",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b3/Ulu_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Ulu",
+        "lookup_name": "Ulu",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "DPS",
+            "Burn"
+        ],
+        "birthday": "January 12",
+        "age": "Unknown",
+        "dimensions": "86 7/32\u00d742 33/64\u00d77 3/32 inches",
+        "medium": "Obsidian",
+        "fragrance": "Woody, Guaiacum, Redcurrant, Chestnut, Amber",
+        "inspiration": "Heart of the Red Rock [Mineral] The Original Sacred Flame",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/fc/Ulu_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Ulu_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/17/Ulu_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/76/Ulu_Item_3.png"
+        ]
+    },
+    "Vila": {
+        "name": "Vila",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Vila_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Vila",
+        "lookup_name": "Vila",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Heal",
+            "Purify"
+        ],
+        "birthday": "April 6",
+        "age": "26",
+        "dimensions": "65 48/64 x 35 45/64 x 14 11/64 in.",
+        "medium": "Water",
+        "fragrance": "Aquatic, Sea Water, Linseed, Seaweed, White Birch",
+        "inspiration": "Branch of Lake Willow [Plant], Transmission of Knowledge",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/d/d5/Vila_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/1/1f/Vila_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/15/Vila_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/bc/Vila_Item_3.png"
+        ]
+    },
+    "Voyager": {
+        "name": "Voyager",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Voyager_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Voyager",
+        "lookup_name": "Voyager",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Control",
+            "Debuff"
+        ],
+        "birthday": "November 12",
+        "age": "Unknown",
+        "dimensions": "64 11/64 x 34 7/8 x 22 53/64 in.",
+        "medium": "Entropy",
+        "fragrance": "Floral - Lavender, Violet, Lily of the Valley, Amber",
+        "inspiration": "Interstellar Traveler [Star] Instrumental Performance",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/f4/Voyager_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Voyager_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/30/Voyager_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/7b/Voyager_Item_3.png"
+        ]
+    },
+    "White_Rum": {
+        "name": "White Rum",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/4/49/White_Rum_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/White_Rum",
+        "lookup_name": "White_Rum",
+        "rarity": 4,
+        "afflatus": "Intellect",
+        "damage": "Real",
+        "tags": [
+            "DPS",
+            "Control",
+            "Shift"
+        ],
+        "birthday": "January 15",
+        "age": "300",
+        "dimensions": "27 3/11\u00d714 9/25\u00d75 7/10 inches",
+        "medium": "Bottle",
+        "fragrance": "Foug\u00e8re aquatic, seawater, water lily, rum, patchouli",
+        "inspiration": "A mind adrift, [Intelligence], drifting in a bottle",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/White_Rum_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/f/f4/White_Rum_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/c3/White_Rum_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/db/White_Rum_Item_3.png"
+        ]
+    },
+    "Willow": {
+        "name": "Willow",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e8/Willow_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Willow",
+        "lookup_name": "Willow",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "DPS",
+            "Poison",
+            "Burst DMG"
+        ],
+        "birthday": "November 1",
+        "age": "25",
+        "dimensions": "74 11/64 x 31 57/64 x 13 25/32 in.",
+        "medium": "Wizened Willow Branch",
+        "fragrance": "Amber Notes, Spirit Cat Essence, Musk, Myrrh, Ashen Amber",
+        "inspiration": "Budding Wizened Tree [Plant] Ritual Witch",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/c7/Willow_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/7/72/Willow_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/19/Willow_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/1/1a/Willow_Item_3.png"
+        ]
+    },
+    "Windsong": {
+        "name": "Windsong",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Windsong_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Windsong",
+        "lookup_name": "Windsong",
+        "rarity": 6,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "Burst DMG",
+            "DPS",
+            "Extra Action"
+        ],
+        "birthday": "October 13",
+        "age": "22",
+        "dimensions": "70 18/64 x 40 40/64 x 14 61/64 in.",
+        "medium": "Blueprint",
+        "fragrance": "Aromatic, Musk, Vodka, Soil, Moscow Rose",
+        "inspiration": "The longing of the Lone Star [Star], Geology Research",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/a/af/Windsong_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/b/b1/Windsong_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a3/Windsong_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/3/3c/Windsong_Item_3.png"
+        ]
+    },
+    "X": {
+        "name": "X",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c4/X_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/X",
+        "lookup_name": "X",
+        "rarity": 5,
+        "afflatus": "Intellect",
+        "damage": "Real",
+        "tags": [
+            "Dispeller",
+            "DPS",
+            "Control"
+        ],
+        "birthday": "May 30",
+        "age": "16",
+        "dimensions": "68 1/2\u00d732 1/4\u00d77 7/8in.",
+        "medium": "Machine",
+        "fragrance": "Floral, Fruity, Spicy - Bergamot Orange, Sage, Incense",
+        "inspiration": "Ingenuity of the Sage [Intelligence] Enchanted Item",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/c/ca/X_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/5/57/X_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/a/a6/X_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/7/72/X_Item_3.png"
+        ]
+    },
+    "Yenisei": {
+        "name": "Yenisei",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/6/64/Yenisei_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/Yenisei",
+        "lookup_name": "Yenisei",
+        "rarity": 5,
+        "afflatus": "Star",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Heal",
+            "Immunity"
+        ],
+        "birthday": "March 4",
+        "age": "16",
+        "dimensions": "63 25/32 \u00d7 20 63/64 \u00d7 11 1/32 in.",
+        "medium": "Source Of Life",
+        "fragrance": "Aquatic - Ginger, Icy Water, Geranium, Oakmoss",
+        "inspiration": "The Glisterning Ripples [Star] Keeper of Water",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Yenisei_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/e/e7/Yenisei_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/b/b1/Yenisei_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/8/88/Yenisei_Item_3.png"
+        ]
+    },
+    "\u0417\u0438\u043c\u0430": {
+        "name": "\u0417\u0438\u043c\u0430",
+        "image": "https://static.wikia.nocookie.net/reverse1999/images/7/71/%D0%97%D0%B8%D0%BC%D0%B0_Icon.png",
+        "page": "https://reverse1999.fandom.com/wiki/%D0%97%D0%B8%D0%BC%D0%B0",
+        "lookup_name": "\u0417\u0438\u043c\u0430",
+        "rarity": 4,
+        "afflatus": "Plant",
+        "damage": "Mental",
+        "tags": [
+            "Support",
+            "Control"
+        ],
+        "birthday": "April 28",
+        "age": "29",
+        "dimensions": "71 21/32\u00d738 47/64\u00d710 5/8in.",
+        "medium": "Poem",
+        "fragrance": "Woody - Vetiver, Patchouli, Soil",
+        "inspiration": "Solitude of the Chinese Fir [Plant] Poem Composition",
+        "signature": "https://static.wikia.nocookie.net/reverse1999/images/9/94/%D0%97%D0%B8%D0%BC%D0%B0_Signature.png",
+        "items": [
+            "https://static.wikia.nocookie.net/reverse1999/images/0/04/%D0%97%D0%B8%D0%BC%D0%B0_Item_1.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/c/ce/%D0%97%D0%B8%D0%BC%D0%B0_Item_2.png",
+            "https://static.wikia.nocookie.net/reverse1999/images/d/d7/%D0%97%D0%B8%D0%BC%D0%B0_Item_3.png"
+        ]
+    }
+}

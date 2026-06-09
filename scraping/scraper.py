@@ -17,28 +17,28 @@ class Scraper:
         self.options.add_argument("--headless=new")
         self.output_path = output_path
 
-    def get_pages_to_scrape(self, force_update = False):
+    def get_pages_to_scrape(self):
         pass
 
-    def scrape(self, num_threads = 10):
-        self.start_time: int = 0
+    def scrape(self, num_threads = 10, force_update = False):
         self.progress = 0
+        self.force_update = force_update
         self.get_pages_to_scrape()
         self.num_pages = len(self.pages)
+        self.start_time = time.time()
 
         for i in range(num_threads):
             t = Thread(target=self.work)
             self.threads.append(t)
 
-        start = time.time()
         for t in self.threads:
             t.start()
 
         for t in self.threads:
             t.join()
 
-        end = time.time()
-        print(end - start)
+        end_time = time.time()
+        print(end_time - self.start_time)
 
         with open(self.output_path, "w") as file:
             # print(self.data)
@@ -66,7 +66,7 @@ class Scraper:
             except:
                 print(f"retry failed for {page}. Aborting")
         except NoSuchWindowException:
-            print(f"browsing context discarded. Retrying")
+            print(f"browsing context discarded for {page}. Retrying")
             try:
                 self.parse_page(page)
             except:
@@ -94,3 +94,4 @@ class Scraper:
     @staticmethod
     def scroll_to(driver: WebDriver, element: WebElement):
         driver.execute_script("arguments[0].scrollIntoView()", element)
+        

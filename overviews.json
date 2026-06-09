@@ -1,8 +1,8 @@
 {
     "37": {
-        "display_name": "37",
+        "name": "37",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/69/37_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/37",
+        "page": "https://reverse1999.fandom.com/wiki/37",
         "lookup_name": "37",
         "rarity": 6,
         "afflatus": "Star",
@@ -16,9 +16,9 @@
         "age": "16"
     },
     "6": {
-        "display_name": "6",
+        "name": "6",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/0/05/6_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/6",
+        "page": "https://reverse1999.fandom.com/wiki/6",
         "lookup_name": "6",
         "rarity": 6,
         "afflatus": "Intellect",
@@ -32,9 +32,9 @@
         "age": "22"
     },
     "A_Knight": {
-        "display_name": "A Knight",
+        "name": "A Knight",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ae/A_Knight_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/A_Knight",
+        "page": "https://reverse1999.fandom.com/wiki/A_Knight",
         "lookup_name": "A_Knight",
         "rarity": 6,
         "afflatus": "Spirit",
@@ -46,9 +46,9 @@
         "age": "Unknown"
     },
     "APPLe": {
-        "display_name": "APPLe",
+        "name": "APPLe",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/APPLe_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/APPLe",
+        "page": "https://reverse1999.fandom.com/wiki/APPLe",
         "lookup_name": "APPLe",
         "rarity": 4,
         "afflatus": "Star",
@@ -61,9 +61,9 @@
         "age": "Unknown"
     },
     "Aleph": {
-        "display_name": "Aleph",
+        "name": "Aleph",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/Aleph_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Aleph",
+        "page": "https://reverse1999.fandom.com/wiki/Aleph",
         "lookup_name": "Aleph",
         "rarity": 6,
         "afflatus": "Intellect",
@@ -77,9 +77,9 @@
         "age": "29"
     },
     "Alexios": {
-        "display_name": "Alexios",
+        "name": "Alexios",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d6/Alexios_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Alexios",
+        "page": "https://reverse1999.fandom.com/wiki/Alexios",
         "lookup_name": "Alexios",
         "rarity": 5,
         "afflatus": "Beast",
@@ -92,9 +92,9 @@
         "age": "20"
     },
     "AliEn_T": {
-        "display_name": "AliEn T",
+        "name": "AliEn T",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/AliEn_T_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/AliEn_T",
+        "page": "https://reverse1999.fandom.com/wiki/AliEn_T",
         "lookup_name": "AliEn_T",
         "rarity": 3,
         "afflatus": "Star",
@@ -107,9 +107,9 @@
         "age": "Unknown"
     },
     "An-an_Lee": {
-        "display_name": "An-an Lee",
+        "name": "An-an Lee",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/9/9b/An-an_Lee_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/An-an_Lee",
+        "page": "https://reverse1999.fandom.com/wiki/An-an_Lee",
         "lookup_name": "An-an_Lee",
         "rarity": 6,
         "afflatus": "Plant",
@@ -123,9 +123,9 @@
         "age": "16"
     },
     "Anjo_Nala": {
-        "display_name": "Anjo Nala",
+        "name": "Anjo Nala",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d9/Anjo_Nala_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Anjo_Nala",
+        "page": "https://reverse1999.fandom.com/wiki/Anjo_Nala",
         "lookup_name": "Anjo_Nala",
         "rarity": 6,
         "afflatus": "Beast",
@@ -139,9 +139,9 @@
         "age": "Unknown"
     },
     "Argus": {
-        "display_name": "Argus",
+        "name": "Argus",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a0/Argus_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Argus",
+        "page": "https://reverse1999.fandom.com/wiki/Argus",
         "lookup_name": "Argus",
         "rarity": 6,
         "afflatus": "Plant",
@@ -155,9 +155,9 @@
         "age": "26"
     },
     "Avgust": {
-        "display_name": "Avgust",
+        "name": "Avgust",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Avgust_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Avgust",
+        "page": "https://reverse1999.fandom.com/wiki/Avgust",
         "lookup_name": "Avgust",
         "rarity": 5,
         "afflatus": "Plant",
@@ -171,9 +171,9 @@
         "age": "8"
     },
     "Baby_Blue": {
-        "display_name": "Baby Blue",
+        "name": "Baby Blue",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/c/ce/Baby_Blue_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Baby_Blue",
+        "page": "https://reverse1999.fandom.com/wiki/Baby_Blue",
         "lookup_name": "Baby_Blue",
         "rarity": 5,
         "afflatus": "Star",
@@ -186,9 +186,9 @@
         "age": "17"
     },
     "Balloon_Party": {
-        "display_name": "Balloon Party",
+        "name": "Balloon Party",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Balloon_Party_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Balloon_Party",
+        "page": "https://reverse1999.fandom.com/wiki/Balloon_Party",
         "lookup_name": "Balloon_Party",
         "rarity": 5,
         "afflatus": "Mineral",
@@ -201,9 +201,9 @@
         "age": "17"
     },
     "Barbara": {
-        "display_name": "Barbara",
+        "name": "Barbara",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6a/Barbara_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Barbara",
+        "page": "https://reverse1999.fandom.com/wiki/Barbara",
         "lookup_name": "Barbara",
         "rarity": 5,
         "afflatus": "Spirit",
@@ -217,9 +217,9 @@
         "age": "Unknown"
     },
     "Barcarola": {
-        "display_name": "Barcarola",
+        "name": "Barcarola",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/65/Barcarola_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Barcarola",
+        "page": "https://reverse1999.fandom.com/wiki/Barcarola",
         "lookup_name": "Barcarola",
         "rarity": 6,
         "afflatus": "Star",
@@ -233,9 +233,9 @@
         "age": "17"
     },
     "Beryl": {
-        "display_name": "Beryl",
+        "name": "Beryl",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8b/Beryl_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Beryl",
+        "page": "https://reverse1999.fandom.com/wiki/Beryl",
         "lookup_name": "Beryl",
         "rarity": 6,
         "afflatus": "Intellect",
@@ -249,9 +249,9 @@
         "age": "Unknown"
     },
     "Bette": {
-        "display_name": "Bette",
+        "name": "Bette",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Bette_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Bette",
+        "page": "https://reverse1999.fandom.com/wiki/Bette",
         "lookup_name": "Bette",
         "rarity": 3,
         "afflatus": "Mineral",
@@ -264,9 +264,9 @@
         "age": "20"
     },
     "Bkornblume": {
-        "display_name": "Bkornblume",
+        "name": "Bkornblume",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Bkornblume_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Bkornblume",
+        "page": "https://reverse1999.fandom.com/wiki/Bkornblume",
         "lookup_name": "Bkornblume",
         "rarity": 5,
         "afflatus": "Plant",
@@ -280,9 +280,9 @@
         "age": "18"
     },
     "Blonney": {
-        "display_name": "Blonney",
+        "name": "Blonney",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a9/Blonney_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Blonney",
+        "page": "https://reverse1999.fandom.com/wiki/Blonney",
         "lookup_name": "Blonney",
         "rarity": 5,
         "afflatus": "Star",
@@ -295,9 +295,9 @@
         "age": "20"
     },
     "Brimley": {
-        "display_name": "Brimley",
+        "name": "Brimley",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ec/Brimley_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Brimley",
+        "page": "https://reverse1999.fandom.com/wiki/Brimley",
         "lookup_name": "Brimley",
         "rarity": 5,
         "afflatus": "Mineral",
@@ -311,9 +311,9 @@
         "age": "Unknown"
     },
     "Brume": {
-        "display_name": "Brume",
+        "name": "Brume",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d0/Brume_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Brume",
+        "page": "https://reverse1999.fandom.com/wiki/Brume",
         "lookup_name": "Brume",
         "rarity": 6,
         "afflatus": "Beast",
@@ -327,9 +327,9 @@
         "age": "20"
     },
     "Buddy_Fairchild": {
-        "display_name": "Buddy Fairchild",
+        "name": "Buddy Fairchild",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/5/58/Buddy_Fairchild_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Buddy_Fairchild",
+        "page": "https://reverse1999.fandom.com/wiki/Buddy_Fairchild",
         "lookup_name": "Buddy_Fairchild",
         "rarity": 5,
         "afflatus": "Plant",
@@ -343,9 +343,9 @@
         "age": "5"
     },
     "Bunny_Bunny": {
-        "display_name": "Bunny Bunny",
+        "name": "Bunny Bunny",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/0/03/Bunny_Bunny_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Bunny_Bunny",
+        "page": "https://reverse1999.fandom.com/wiki/Bunny_Bunny",
         "lookup_name": "Bunny_Bunny",
         "rarity": 4,
         "afflatus": "Beast",
@@ -358,9 +358,9 @@
         "age": "21"
     },
     "Centurion": {
-        "display_name": "Centurion",
+        "name": "Centurion",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Centurion_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Centurion",
+        "page": "https://reverse1999.fandom.com/wiki/Centurion",
         "lookup_name": "Centurion",
         "rarity": 6,
         "afflatus": "Beast",
@@ -373,9 +373,9 @@
         "age": "19"
     },
     "Charlie": {
-        "display_name": "Charlie",
+        "name": "Charlie",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c8/Charlie_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Charlie",
+        "page": "https://reverse1999.fandom.com/wiki/Charlie",
         "lookup_name": "Charlie",
         "rarity": 5,
         "afflatus": "Star",
@@ -388,9 +388,9 @@
         "age": "16"
     },
     "Charon": {
-        "display_name": "Charon",
+        "name": "Charon",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/2/20/Charon_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Charon",
+        "page": "https://reverse1999.fandom.com/wiki/Charon",
         "lookup_name": "Charon",
         "rarity": 6,
         "afflatus": "Spirit",
@@ -404,9 +404,9 @@
         "age": "2"
     },
     "Cheng_Heguang": {
-        "display_name": "Cheng Heguang",
+        "name": "Cheng Heguang",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/3/31/Cheng_Heguang_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Cheng_Heguang",
+        "page": "https://reverse1999.fandom.com/wiki/Cheng_Heguang",
         "lookup_name": "Cheng_Heguang",
         "rarity": 6,
         "afflatus": "Star",
@@ -420,9 +420,9 @@
         "age": "22"
     },
     "Click": {
-        "display_name": "Click",
+        "name": "Click",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/8/86/Click_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Click",
+        "page": "https://reverse1999.fandom.com/wiki/Click",
         "lookup_name": "Click",
         "rarity": 5,
         "afflatus": "Spirit",
@@ -435,9 +435,9 @@
         "age": "19"
     },
     "Corvus": {
-        "display_name": "Corvus",
+        "name": "Corvus",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/0/00/Corvus_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Corvus",
+        "page": "https://reverse1999.fandom.com/wiki/Corvus",
         "lookup_name": "Corvus",
         "rarity": 6,
         "afflatus": "Intellect",
@@ -451,9 +451,9 @@
         "age": "34"
     },
     "Cristallo": {
-        "display_name": "Cristallo",
+        "name": "Cristallo",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Cristallo_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Cristallo",
+        "page": "https://reverse1999.fandom.com/wiki/Cristallo",
         "lookup_name": "Cristallo",
         "rarity": 4,
         "afflatus": "Mineral",
@@ -466,9 +466,9 @@
         "age": "16"
     },
     "Darley_Clatter": {
-        "display_name": "Darley Clatter",
+        "name": "Darley Clatter",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Darley_Clatter_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Darley_Clatter",
+        "page": "https://reverse1999.fandom.com/wiki/Darley_Clatter",
         "lookup_name": "Darley_Clatter",
         "rarity": 3,
         "afflatus": "Beast",
@@ -480,9 +480,9 @@
         "age": "Unknown"
     },
     "Desert_Flannel": {
-        "display_name": "Desert Flannel",
+        "name": "Desert Flannel",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c9/Desert_Flannel_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Desert_Flannel",
+        "page": "https://reverse1999.fandom.com/wiki/Desert_Flannel",
         "lookup_name": "Desert_Flannel",
         "rarity": 5,
         "afflatus": "Beast",
@@ -495,9 +495,9 @@
         "age": "17"
     },
     "Diggers": {
-        "display_name": "Diggers",
+        "name": "Diggers",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7d/Diggers_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Diggers",
+        "page": "https://reverse1999.fandom.com/wiki/Diggers",
         "lookup_name": "Diggers",
         "rarity": 5,
         "afflatus": "Plant",
@@ -511,9 +511,9 @@
         "age": "20"
     },
     "Dikke": {
-        "display_name": "Dikke",
+        "name": "Dikke",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8c/Dikke_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Dikke",
+        "page": "https://reverse1999.fandom.com/wiki/Dikke",
         "lookup_name": "Dikke",
         "rarity": 5,
         "afflatus": "Beast",
@@ -526,9 +526,9 @@
         "age": "19"
     },
     "Door": {
-        "display_name": "Door",
+        "name": "Door",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/2/29/Door_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Door",
+        "page": "https://reverse1999.fandom.com/wiki/Door",
         "lookup_name": "Door",
         "rarity": 2,
         "afflatus": "Intellect",
@@ -540,9 +540,9 @@
         "age": "Unknown"
     },
     "Druvis_III": {
-        "display_name": "Druvis III",
+        "name": "Druvis III",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/d/df/Druvis_III_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Druvis_III",
+        "page": "https://reverse1999.fandom.com/wiki/Druvis_III",
         "lookup_name": "Druvis_III",
         "rarity": 6,
         "afflatus": "Plant",
@@ -556,9 +556,9 @@
         "age": "20"
     },
     "Eagle": {
-        "display_name": "Eagle",
+        "name": "Eagle",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Eagle_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Eagle",
+        "page": "https://reverse1999.fandom.com/wiki/Eagle",
         "lookup_name": "Eagle",
         "rarity": 4,
         "afflatus": "Plant",
@@ -571,9 +571,9 @@
         "age": "13"
     },
     "Enigma": {
-        "display_name": "Enigma",
+        "name": "Enigma",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Enigma_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Enigma",
+        "page": "https://reverse1999.fandom.com/wiki/Enigma",
         "lookup_name": "Enigma",
         "rarity": 6,
         "afflatus": "Intellect",
@@ -585,9 +585,9 @@
         "age": "29"
     },
     "Erick": {
-        "display_name": "Erick",
+        "name": "Erick",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Erick_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Erick",
+        "page": "https://reverse1999.fandom.com/wiki/Erick",
         "lookup_name": "Erick",
         "rarity": 4,
         "afflatus": "Star",
@@ -600,9 +600,9 @@
         "age": "12"
     },
     "Eternity": {
-        "display_name": "Eternity",
+        "name": "Eternity",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/3/38/Eternity_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Eternity",
+        "page": "https://reverse1999.fandom.com/wiki/Eternity",
         "lookup_name": "Eternity",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -615,9 +615,9 @@
         "age": "100+"
     },
     "Ezio_Auditore": {
-        "display_name": "Ezio Auditore",
+        "name": "Ezio Auditore",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a6/Ezio_Auditore_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Ezio_Auditore",
+        "page": "https://reverse1999.fandom.com/wiki/Ezio_Auditore",
         "lookup_name": "Ezio_Auditore",
         "rarity": 6,
         "afflatus": "Star",
@@ -631,9 +631,9 @@
         "age": "34"
     },
     "Ezra": {
-        "display_name": "Ezra",
+        "name": "Ezra",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/7/7e/Ezra_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Ezra",
+        "page": "https://reverse1999.fandom.com/wiki/Ezra",
         "lookup_name": "Ezra",
         "rarity": 6,
         "afflatus": "Star",
@@ -647,9 +647,9 @@
         "age": "14"
     },
     "Fatutu": {
-        "display_name": "Fatutu",
+        "name": "Fatutu",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/3/35/Fatutu_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Fatutu",
+        "page": "https://reverse1999.fandom.com/wiki/Fatutu",
         "lookup_name": "Fatutu",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -663,9 +663,9 @@
         "age": "16"
     },
     "Flutterpage": {
-        "display_name": "Flutterpage",
+        "name": "Flutterpage",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/9/92/Flutterpage_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Flutterpage",
+        "page": "https://reverse1999.fandom.com/wiki/Flutterpage",
         "lookup_name": "Flutterpage",
         "rarity": 6,
         "afflatus": "Star",
@@ -679,9 +679,9 @@
         "age": "11"
     },
     "Getian": {
-        "display_name": "Getian",
+        "name": "Getian",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/3/32/Getian_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Getian",
+        "page": "https://reverse1999.fandom.com/wiki/Getian",
         "lookup_name": "Getian",
         "rarity": 6,
         "afflatus": "Beast",
@@ -695,9 +695,9 @@
         "age": "Unknown"
     },
     "Hissabeth": {
-        "display_name": "Hissabeth",
+        "name": "Hissabeth",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1b/Hissabeth_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Hissabeth",
+        "page": "https://reverse1999.fandom.com/wiki/Hissabeth",
         "lookup_name": "Hissabeth",
         "rarity": 6,
         "afflatus": "Plant",
@@ -711,9 +711,9 @@
         "age": "19"
     },
     "Horropedia": {
-        "display_name": "Horropedia",
+        "name": "Horropedia",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d3/Horropedia_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Horropedia",
+        "page": "https://reverse1999.fandom.com/wiki/Horropedia",
         "lookup_name": "Horropedia",
         "rarity": 5,
         "afflatus": "Mineral",
@@ -727,9 +727,9 @@
         "age": "21"
     },
     "Igor": {
-        "display_name": "Igor",
+        "name": "Igor",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e2/Igor_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Igor",
+        "page": "https://reverse1999.fandom.com/wiki/Igor",
         "lookup_name": "Igor",
         "rarity": 6,
         "afflatus": "Beast",
@@ -741,9 +741,9 @@
         "age": "56"
     },
     "Isolde": {
-        "display_name": "Isolde",
+        "name": "Isolde",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/d/da/Isolde_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Isolde",
+        "page": "https://reverse1999.fandom.com/wiki/Isolde",
         "lookup_name": "Isolde",
         "rarity": 6,
         "afflatus": "Spirit",
@@ -757,9 +757,9 @@
         "age": "18"
     },
     "J": {
-        "display_name": "J",
+        "name": "J",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/3/33/J_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/J",
+        "page": "https://reverse1999.fandom.com/wiki/J",
         "lookup_name": "J",
         "rarity": 6,
         "afflatus": "Beast",
@@ -773,9 +773,9 @@
         "age": "18"
     },
     "Jessica": {
-        "display_name": "Jessica",
+        "name": "Jessica",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Jessica_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Jessica",
+        "page": "https://reverse1999.fandom.com/wiki/Jessica",
         "lookup_name": "Jessica",
         "rarity": 6,
         "afflatus": "Plant",
@@ -788,9 +788,9 @@
         "age": "27"
     },
     "Jiu_Niangzi": {
-        "display_name": "Jiu Niangzi",
+        "name": "Jiu Niangzi",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Jiu_Niangzi_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Jiu_Niangzi",
+        "page": "https://reverse1999.fandom.com/wiki/Jiu_Niangzi",
         "lookup_name": "Jiu_Niangzi",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -804,9 +804,9 @@
         "age": "Unknown"
     },
     "John_Titor": {
-        "display_name": "John Titor",
+        "name": "John Titor",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/John_Titor_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/John_Titor",
+        "page": "https://reverse1999.fandom.com/wiki/John_Titor",
         "lookup_name": "John_Titor",
         "rarity": 3,
         "afflatus": "Intellect",
@@ -820,9 +820,9 @@
         "age": "18"
     },
     "Kaalaa_Baunaa": {
-        "display_name": "Kaalaa Baunaa",
+        "name": "Kaalaa Baunaa",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Kaalaa_Baunaa_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Kaalaa_Baunaa",
+        "page": "https://reverse1999.fandom.com/wiki/Kaalaa_Baunaa",
         "lookup_name": "Kaalaa_Baunaa",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -836,9 +836,9 @@
         "age": "27"
     },
     "Kakania": {
-        "display_name": "Kakania",
+        "name": "Kakania",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/8/85/Kakania_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Kakania",
+        "page": "https://reverse1999.fandom.com/wiki/Kakania",
         "lookup_name": "Kakania",
         "rarity": 6,
         "afflatus": "Plant",
@@ -852,9 +852,9 @@
         "age": "19"
     },
     "Kanjira": {
-        "display_name": "Kanjira",
+        "name": "Kanjira",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fc/Kanjira_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Kanjira",
+        "page": "https://reverse1999.fandom.com/wiki/Kanjira",
         "lookup_name": "Kanjira",
         "rarity": 5,
         "afflatus": "Plant",
@@ -868,9 +868,9 @@
         "age": "16"
     },
     "Kassandra": {
-        "display_name": "Kassandra",
+        "name": "Kassandra",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Kassandra_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Kassandra",
+        "page": "https://reverse1999.fandom.com/wiki/Kassandra",
         "lookup_name": "Kassandra",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -884,9 +884,9 @@
         "age": "27"
     },
     "Kiperina": {
-        "display_name": "Kiperina",
+        "name": "Kiperina",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/1/18/Kiperina_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Kiperina",
+        "page": "https://reverse1999.fandom.com/wiki/Kiperina",
         "lookup_name": "Kiperina",
         "rarity": 6,
         "afflatus": "Star",
@@ -900,9 +900,9 @@
         "age": "15"
     },
     "La_Source": {
-        "display_name": "La Source",
+        "name": "La Source",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/La_Source_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/La_Source",
+        "page": "https://reverse1999.fandom.com/wiki/La_Source",
         "lookup_name": "La_Source",
         "rarity": 3,
         "afflatus": "Plant",
@@ -914,9 +914,9 @@
         "age": "Unknown"
     },
     "Lady_by_the_Lake": {
-        "display_name": "Lady by the Lake",
+        "name": "Lady by the Lake",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/62/Lady_by_the_Lake_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Lady_by_the_Lake",
+        "page": "https://reverse1999.fandom.com/wiki/Lady_by_the_Lake",
         "lookup_name": "Lady_by_the_Lake",
         "rarity": 4,
         "damage": "Mental",
@@ -928,9 +928,9 @@
         "age": "93"
     },
     "Leilani": {
-        "display_name": "Leilani",
+        "name": "Leilani",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/2/26/Leilani_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Leilani",
+        "page": "https://reverse1999.fandom.com/wiki/Leilani",
         "lookup_name": "Leilani",
         "rarity": 3,
         "afflatus": "Beast",
@@ -943,9 +943,9 @@
         "age": "16"
     },
     "Liang_Yue": {
-        "display_name": "Liang Yue",
+        "name": "Liang Yue",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Liang_Yue_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Liang_Yue",
+        "page": "https://reverse1999.fandom.com/wiki/Liang_Yue",
         "lookup_name": "Liang_Yue",
         "rarity": 6,
         "afflatus": "Star",
@@ -959,9 +959,9 @@
         "age": "17"
     },
     "Lilya": {
-        "display_name": "Lilya",
+        "name": "Lilya",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/1/19/Lilya_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Lilya",
+        "page": "https://reverse1999.fandom.com/wiki/Lilya",
         "lookup_name": "Lilya",
         "rarity": 6,
         "afflatus": "Star",
@@ -974,9 +974,9 @@
         "age": "Unknown"
     },
     "Loggerhead": {
-        "display_name": "Loggerhead",
+        "name": "Loggerhead",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/9/93/Loggerhead_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Loggerhead",
+        "page": "https://reverse1999.fandom.com/wiki/Loggerhead",
         "lookup_name": "Loggerhead",
         "rarity": 5,
         "afflatus": "Plant",
@@ -990,9 +990,9 @@
         "age": "96"
     },
     "Lopera": {
-        "display_name": "Lopera",
+        "name": "Lopera",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Lopera_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Lopera",
+        "page": "https://reverse1999.fandom.com/wiki/Lopera",
         "lookup_name": "Lopera",
         "rarity": 6,
         "afflatus": "Beast",
@@ -1006,9 +1006,9 @@
         "age": "15"
     },
     "Lorelei": {
-        "display_name": "Lorelei",
+        "name": "Lorelei",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/c/cf/Lorelei_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Lorelei",
+        "page": "https://reverse1999.fandom.com/wiki/Lorelei",
         "lookup_name": "Lorelei",
         "rarity": 5,
         "afflatus": "Star",
@@ -1021,9 +1021,9 @@
         "age": "16"
     },
     "Lorentz_Butterfly": {
-        "display_name": "Lorentz Butterfly",
+        "name": "Lorentz Butterfly",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Lorentz_Butterfly_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Lorentz_Butterfly",
+        "page": "https://reverse1999.fandom.com/wiki/Lorentz_Butterfly",
         "lookup_name": "Lorentz_Butterfly",
         "rarity": 6,
         "afflatus": "Intellect",
@@ -1038,9 +1038,9 @@
         "age": "24"
     },
     "Lucy": {
-        "display_name": "Lucy",
+        "name": "Lucy",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/d/d2/Lucy_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Lucy",
+        "page": "https://reverse1999.fandom.com/wiki/Lucy",
         "lookup_name": "Lucy",
         "rarity": 6,
         "afflatus": "Intellect",
@@ -1054,9 +1054,9 @@
         "age": "181"
     },
     "Marcus": {
-        "display_name": "Marcus",
+        "name": "Marcus",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/4/43/Marcus_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Marcus",
+        "page": "https://reverse1999.fandom.com/wiki/Marcus",
         "lookup_name": "Marcus",
         "rarity": 6,
         "afflatus": "Plant",
@@ -1069,9 +1069,9 @@
         "age": "17"
     },
     "Marsha": {
-        "display_name": "Marsha",
+        "name": "Marsha",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/d/db/Marsha_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Marsha",
+        "page": "https://reverse1999.fandom.com/wiki/Marsha",
         "lookup_name": "Marsha",
         "rarity": 6,
         "afflatus": "Beast",
@@ -1085,9 +1085,9 @@
         "age": "24"
     },
     "Matilda": {
-        "display_name": "Matilda",
+        "name": "Matilda",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/2/27/Matilda_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Matilda",
+        "page": "https://reverse1999.fandom.com/wiki/Matilda",
         "lookup_name": "Matilda",
         "rarity": 5,
         "afflatus": "Star",
@@ -1100,9 +1100,9 @@
         "age": "14"
     },
     "Medicine_Pocket": {
-        "display_name": "Medicine Pocket",
+        "name": "Medicine Pocket",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/4/42/Medicine_Pocket_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Medicine_Pocket",
+        "page": "https://reverse1999.fandom.com/wiki/Medicine_Pocket",
         "lookup_name": "Medicine_Pocket",
         "rarity": 6,
         "afflatus": "Beast",
@@ -1116,9 +1116,9 @@
         "age": "18"
     },
     "Melania": {
-        "display_name": "Melania",
+        "name": "Melania",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ed/Melania_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Melania",
+        "page": "https://reverse1999.fandom.com/wiki/Melania",
         "lookup_name": "Melania",
         "rarity": 6,
         "afflatus": "Beast",
@@ -1131,9 +1131,9 @@
         "age": "18"
     },
     "Mercuria": {
-        "display_name": "Mercuria",
+        "name": "Mercuria",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/5/59/Mercuria_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Mercuria",
+        "page": "https://reverse1999.fandom.com/wiki/Mercuria",
         "lookup_name": "Mercuria",
         "rarity": 6,
         "afflatus": "Spirit",
@@ -1147,9 +1147,9 @@
         "age": "16"
     },
     "Mesmer_Jr.": {
-        "display_name": "Mesmer Jr.",
+        "name": "Mesmer Jr.",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f5/Mesmer_Jr._Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Mesmer_Jr.",
+        "page": "https://reverse1999.fandom.com/wiki/Mesmer_Jr.",
         "lookup_name": "Mesmer_Jr.",
         "rarity": 4,
         "afflatus": "Intellect",
@@ -1161,9 +1161,9 @@
         "age": "16"
     },
     "Moldir": {
-        "display_name": "Moldir",
+        "name": "Moldir",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/8/8d/Moldir_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Moldir",
+        "page": "https://reverse1999.fandom.com/wiki/Moldir",
         "lookup_name": "Moldir",
         "rarity": 6,
         "afflatus": "Beast",
@@ -1177,9 +1177,9 @@
         "age": "24"
     },
     "Mondlicht": {
-        "display_name": "Mondlicht",
+        "name": "Mondlicht",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e0/Mondlicht_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Mondlicht",
+        "page": "https://reverse1999.fandom.com/wiki/Mondlicht",
         "lookup_name": "Mondlicht",
         "rarity": 4,
         "afflatus": "Mineral",
@@ -1191,9 +1191,9 @@
         "age": "10"
     },
     "Mr._Duncan": {
-        "display_name": "Mr. Duncan",
+        "name": "Mr. Duncan",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4b/Mr._Duncan_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Mr._Duncan",
+        "page": "https://reverse1999.fandom.com/wiki/Mr._Duncan",
         "lookup_name": "Mr._Duncan",
         "rarity": 5,
         "afflatus": "Beast",
@@ -1207,9 +1207,9 @@
         "age": "61"
     },
     "Ms._Moissan": {
-        "display_name": "Ms. Moissan",
+        "name": "Ms. Moissan",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Ms._Moissan_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Ms._Moissan",
+        "page": "https://reverse1999.fandom.com/wiki/Ms._Moissan",
         "lookup_name": "Ms._Moissan",
         "rarity": 4,
         "afflatus": "Mineral",
@@ -1222,9 +1222,9 @@
         "age": "26"
     },
     "Ms._NewBabel": {
-        "display_name": "Ms. NewBabel",
+        "name": "Ms. NewBabel",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/8/84/Ms._NewBabel_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Ms._NewBabel",
+        "page": "https://reverse1999.fandom.com/wiki/Ms._NewBabel",
         "lookup_name": "Ms._NewBabel",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -1238,9 +1238,9 @@
         "age": "25"
     },
     "Ms._Radio": {
-        "display_name": "Ms. Radio",
+        "name": "Ms. Radio",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/f/ff/Ms._Radio_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Ms._Radio",
+        "page": "https://reverse1999.fandom.com/wiki/Ms._Radio",
         "lookup_name": "Ms._Radio",
         "rarity": 2,
         "afflatus": "Spirit",
@@ -1252,9 +1252,9 @@
         "age": "Unknown"
     },
     "Name_Day": {
-        "display_name": "Name Day",
+        "name": "Name Day",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b9/Name_Day_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Name_Day",
+        "page": "https://reverse1999.fandom.com/wiki/Name_Day",
         "lookup_name": "Name_Day",
         "rarity": 5,
         "afflatus": "Mineral",
@@ -1267,9 +1267,9 @@
         "age": "23"
     },
     "Nautika": {
-        "display_name": "Nautika",
+        "name": "Nautika",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/3/36/Nautika_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Nautika",
+        "page": "https://reverse1999.fandom.com/wiki/Nautika",
         "lookup_name": "Nautika",
         "rarity": 6,
         "afflatus": "Spirit",
@@ -1283,9 +1283,9 @@
         "age": "19"
     },
     "Necrologist": {
-        "display_name": "Necrologist",
+        "name": "Necrologist",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/1/15/Necrologist_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Necrologist",
+        "page": "https://reverse1999.fandom.com/wiki/Necrologist",
         "lookup_name": "Necrologist",
         "rarity": 5,
         "afflatus": "Mineral",
@@ -1298,9 +1298,9 @@
         "age": "17"
     },
     "Nick_Bottom": {
-        "display_name": "Nick Bottom",
+        "name": "Nick Bottom",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/8/80/Nick_Bottom_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Nick_Bottom",
+        "page": "https://reverse1999.fandom.com/wiki/Nick_Bottom",
         "lookup_name": "Nick_Bottom",
         "rarity": 4,
         "afflatus": "Beast",
@@ -1312,9 +1312,9 @@
         "age": "20"
     },
     "Noire": {
-        "display_name": "Noire",
+        "name": "Noire",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/2/28/Noire_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Noire",
+        "page": "https://reverse1999.fandom.com/wiki/Noire",
         "lookup_name": "Noire",
         "rarity": 6,
         "afflatus": "Plant",
@@ -1328,9 +1328,9 @@
         "age": "41"
     },
     "ONiON": {
-        "display_name": "ONiON",
+        "name": "ONiON",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b5/ONiON_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/ONiON",
+        "page": "https://reverse1999.fandom.com/wiki/ONiON",
         "lookup_name": "ONiON",
         "rarity": 3,
         "afflatus": "Mineral",
@@ -1343,9 +1343,9 @@
         "age": "24"
     },
     "Oliver_Fog": {
-        "display_name": "Oliver Fog",
+        "name": "Oliver Fog",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/9/94/Oliver_Fog_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Oliver_Fog",
+        "page": "https://reverse1999.fandom.com/wiki/Oliver_Fog",
         "lookup_name": "Oliver_Fog",
         "rarity": 4,
         "afflatus": "Star",
@@ -1358,9 +1358,9 @@
         "age": "15"
     },
     "Paper_Heron": {
-        "display_name": "Paper Heron",
+        "name": "Paper Heron",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/62/Paper_Heron_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Paper_Heron",
+        "page": "https://reverse1999.fandom.com/wiki/Paper_Heron",
         "lookup_name": "Paper_Heron",
         "rarity": 6,
         "afflatus": "Plant",
@@ -1373,9 +1373,9 @@
         "age": "Unknown"
     },
     "Pavia": {
-        "display_name": "Pavia",
+        "name": "Pavia",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c5/Pavia_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Pavia",
+        "page": "https://reverse1999.fandom.com/wiki/Pavia",
         "lookup_name": "Pavia",
         "rarity": 4,
         "afflatus": "Beast",
@@ -1388,9 +1388,9 @@
         "age": "25"
     },
     "Pickles": {
-        "display_name": "Pickles",
+        "name": "Pickles",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/b/ba/Pickles_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Pickles",
+        "page": "https://reverse1999.fandom.com/wiki/Pickles",
         "lookup_name": "Pickles",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -1404,9 +1404,9 @@
         "age": "4"
     },
     "Pioneer": {
-        "display_name": "Pioneer",
+        "name": "Pioneer",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a2/Pioneer_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Pioneer",
+        "page": "https://reverse1999.fandom.com/wiki/Pioneer",
         "lookup_name": "Pioneer",
         "rarity": 3,
         "afflatus": "Spirit",
@@ -1420,9 +1420,9 @@
         "age": "4"
     },
     "Poltergeist": {
-        "display_name": "Poltergeist",
+        "name": "Poltergeist",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/f/fb/Poltergeist_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Poltergeist",
+        "page": "https://reverse1999.fandom.com/wiki/Poltergeist",
         "lookup_name": "Poltergeist",
         "rarity": 4,
         "afflatus": "Spirit",
@@ -1435,9 +1435,9 @@
         "age": "15"
     },
     "Rabies": {
-        "display_name": "Rabies",
+        "name": "Rabies",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/7/73/Rabies_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Rabies",
+        "page": "https://reverse1999.fandom.com/wiki/Rabies",
         "lookup_name": "Rabies",
         "rarity": 4,
         "afflatus": "Plant",
@@ -1450,9 +1450,9 @@
         "age": "24"
     },
     "Ramona": {
-        "display_name": "Ramona",
+        "name": "Ramona",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/1/17/Ramona_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Ramona",
+        "page": "https://reverse1999.fandom.com/wiki/Ramona",
         "lookup_name": "Ramona",
         "rarity": 6,
         "afflatus": "Plant",
@@ -1466,9 +1466,9 @@
         "age": "17"
     },
     "Recoleta": {
-        "display_name": "Recoleta",
+        "name": "Recoleta",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/9/96/Recoleta_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Recoleta",
+        "page": "https://reverse1999.fandom.com/wiki/Recoleta",
         "lookup_name": "Recoleta",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -1482,9 +1482,9 @@
         "age": "17"
     },
     "Reed": {
-        "display_name": "Reed",
+        "name": "Reed",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b7/Reed_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Reed",
+        "page": "https://reverse1999.fandom.com/wiki/Reed",
         "lookup_name": "Reed",
         "rarity": 4,
         "afflatus": "Plant",
@@ -1496,9 +1496,9 @@
         "age": "Unknown"
     },
     "Regulus": {
-        "display_name": "Regulus",
+        "name": "Regulus",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c3/Regulus_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Regulus",
+        "page": "https://reverse1999.fandom.com/wiki/Regulus",
         "lookup_name": "Regulus",
         "rarity": 6,
         "afflatus": "Star",
@@ -1511,9 +1511,9 @@
         "age": "15"
     },
     "Rubuska": {
-        "display_name": "Rubuska",
+        "name": "Rubuska",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/f/f7/Rubuska_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Rubuska",
+        "page": "https://reverse1999.fandom.com/wiki/Rubuska",
         "lookup_name": "Rubuska",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -1527,9 +1527,9 @@
         "age": "14"
     },
     "Satsuki": {
-        "display_name": "Satsuki",
+        "name": "Satsuki",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4e/Satsuki_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Satsuki",
+        "page": "https://reverse1999.fandom.com/wiki/Satsuki",
         "lookup_name": "Satsuki",
         "rarity": 5,
         "afflatus": "Plant",
@@ -1542,9 +1542,9 @@
         "age": "16"
     },
     "Schneider": {
-        "display_name": "Schneider",
+        "name": "Schneider",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Schneider_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Schneider",
+        "page": "https://reverse1999.fandom.com/wiki/Schneider",
         "lookup_name": "Schneider",
         "rarity": 5,
         "afflatus": "Beast",
@@ -1556,9 +1556,9 @@
         "age": "18"
     },
     "Semmelweis": {
-        "display_name": "Semmelweis",
+        "name": "Semmelweis",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/1/1c/Semmelweis_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Semmelweis",
+        "page": "https://reverse1999.fandom.com/wiki/Semmelweis",
         "lookup_name": "Semmelweis",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -1572,9 +1572,9 @@
         "age": "19"
     },
     "Sentinel": {
-        "display_name": "Sentinel",
+        "name": "Sentinel",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Sentinel_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Sentinel",
+        "page": "https://reverse1999.fandom.com/wiki/Sentinel",
         "lookup_name": "Sentinel",
         "rarity": 6,
         "afflatus": "Mineral",
@@ -1588,9 +1588,9 @@
         "age": "26"
     },
     "Shamane": {
-        "display_name": "Shamane",
+        "name": "Shamane",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/1/11/Shamane_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Shamane",
+        "page": "https://reverse1999.fandom.com/wiki/Shamane",
         "lookup_name": "Shamane",
         "rarity": 6,
         "afflatus": "Beast",
@@ -1604,9 +1604,9 @@
         "age": "45"
     },
     "Sonetto": {
-        "display_name": "Sonetto",
+        "name": "Sonetto",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/6e/Sonetto_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Sonetto",
+        "page": "https://reverse1999.fandom.com/wiki/Sonetto",
         "lookup_name": "Sonetto",
         "rarity": 5,
         "afflatus": "Mineral",
@@ -1620,9 +1620,9 @@
         "age": "16"
     },
     "Sotheby": {
-        "display_name": "Sotheby",
+        "name": "Sotheby",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c1/Sotheby_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Sotheby",
+        "page": "https://reverse1999.fandom.com/wiki/Sotheby",
         "lookup_name": "Sotheby",
         "rarity": 6,
         "afflatus": "Plant",
@@ -1636,9 +1636,9 @@
         "age": "13"
     },
     "Spathodea": {
-        "display_name": "Spathodea",
+        "name": "Spathodea",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/5/56/Spathodea_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Spathodea",
+        "page": "https://reverse1999.fandom.com/wiki/Spathodea",
         "lookup_name": "Spathodea",
         "rarity": 6,
         "afflatus": "Beast",
@@ -1652,9 +1652,9 @@
         "age": "14"
     },
     "Sputnik": {
-        "display_name": "Sputnik",
+        "name": "Sputnik",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/7/75/Sputnik_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Sputnik",
+        "page": "https://reverse1999.fandom.com/wiki/Sputnik",
         "lookup_name": "Sputnik",
         "rarity": 3,
         "afflatus": "Star",
@@ -1667,9 +1667,9 @@
         "age": "Unknown"
     },
     "Sweetheart": {
-        "display_name": "Sweetheart",
+        "name": "Sweetheart",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/a/ab/Sweetheart_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Sweetheart",
+        "page": "https://reverse1999.fandom.com/wiki/Sweetheart",
         "lookup_name": "Sweetheart",
         "rarity": 5,
         "afflatus": "Beast",
@@ -1682,9 +1682,9 @@
         "age": "17"
     },
     "TTT": {
-        "display_name": "TTT",
+        "name": "TTT",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b8/TTT_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/TTT",
+        "page": "https://reverse1999.fandom.com/wiki/TTT",
         "lookup_name": "TTT",
         "rarity": 4,
         "afflatus": "Star",
@@ -1697,9 +1697,9 @@
         "age": "18"
     },
     "Tennant": {
-        "display_name": "Tennant",
+        "name": "Tennant",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/9/95/Tennant_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Tennant",
+        "page": "https://reverse1999.fandom.com/wiki/Tennant",
         "lookup_name": "Tennant",
         "rarity": 5,
         "afflatus": "Beast",
@@ -1713,9 +1713,9 @@
         "age": "25"
     },
     "The_Fool": {
-        "display_name": "The Fool",
+        "name": "The Fool",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/8/83/The_Fool_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/The_Fool",
+        "page": "https://reverse1999.fandom.com/wiki/The_Fool",
         "lookup_name": "The_Fool",
         "rarity": 3,
         "afflatus": "Star",
@@ -1727,9 +1727,9 @@
         "age": "Unknown"
     },
     "Tooth_Fairy": {
-        "display_name": "Tooth Fairy",
+        "name": "Tooth Fairy",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/a/a1/Tooth_Fairy_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Tooth_Fairy",
+        "page": "https://reverse1999.fandom.com/wiki/Tooth_Fairy",
         "lookup_name": "Tooth_Fairy",
         "rarity": 6,
         "afflatus": "Star",
@@ -1743,9 +1743,9 @@
         "age": "25"
     },
     "Tuesday": {
-        "display_name": "Tuesday",
+        "name": "Tuesday",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/2/24/Tuesday_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Tuesday",
+        "page": "https://reverse1999.fandom.com/wiki/Tuesday",
         "lookup_name": "Tuesday",
         "rarity": 6,
         "afflatus": "Spirit",
@@ -1759,9 +1759,9 @@
         "age": "21"
     },
     "Twins_Sleep": {
-        "display_name": "Twins Sleep",
+        "name": "Twins Sleep",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/60/Twins_Sleep_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Twins_Sleep",
+        "page": "https://reverse1999.fandom.com/wiki/Twins_Sleep",
         "lookup_name": "Twins_Sleep",
         "rarity": 3,
         "afflatus": "Spirit",
@@ -1774,9 +1774,9 @@
         "age": "8"
     },
     "Ulrich": {
-        "display_name": "Ulrich",
+        "name": "Ulrich",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/4/4c/Ulrich_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Ulrich",
+        "page": "https://reverse1999.fandom.com/wiki/Ulrich",
         "lookup_name": "Ulrich",
         "rarity": 6,
         "afflatus": "Intellect",
@@ -1790,9 +1790,9 @@
         "age": "Unknown"
     },
     "Ulu": {
-        "display_name": "Ulu",
+        "name": "Ulu",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/b/b3/Ulu_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Ulu",
+        "page": "https://reverse1999.fandom.com/wiki/Ulu",
         "lookup_name": "Ulu",
         "rarity": 5,
         "afflatus": "Mineral",
@@ -1806,9 +1806,9 @@
         "age": "Unknown"
     },
     "Vila": {
-        "display_name": "Vila",
+        "name": "Vila",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/e/ea/Vila_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Vila",
+        "page": "https://reverse1999.fandom.com/wiki/Vila",
         "lookup_name": "Vila",
         "rarity": 6,
         "afflatus": "Plant",
@@ -1822,9 +1822,9 @@
         "age": "26"
     },
     "Voyager": {
-        "display_name": "Voyager",
+        "name": "Voyager",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/0/0b/Voyager_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Voyager",
+        "page": "https://reverse1999.fandom.com/wiki/Voyager",
         "lookup_name": "Voyager",
         "rarity": 6,
         "afflatus": "Star",
@@ -1838,9 +1838,9 @@
         "age": "Unknown"
     },
     "White_Rum": {
-        "display_name": "White Rum",
+        "name": "White Rum",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/4/49/White_Rum_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/White_Rum",
+        "page": "https://reverse1999.fandom.com/wiki/White_Rum",
         "lookup_name": "White_Rum",
         "rarity": 4,
         "afflatus": "Intellect",
@@ -1854,9 +1854,9 @@
         "age": "300"
     },
     "Willow": {
-        "display_name": "Willow",
+        "name": "Willow",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/e/e8/Willow_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Willow",
+        "page": "https://reverse1999.fandom.com/wiki/Willow",
         "lookup_name": "Willow",
         "rarity": 6,
         "afflatus": "Plant",
@@ -1870,9 +1870,9 @@
         "age": "25"
     },
     "Windsong": {
-        "display_name": "Windsong",
+        "name": "Windsong",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/63/Windsong_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Windsong",
+        "page": "https://reverse1999.fandom.com/wiki/Windsong",
         "lookup_name": "Windsong",
         "rarity": 6,
         "afflatus": "Star",
@@ -1886,9 +1886,9 @@
         "age": "22"
     },
     "X": {
-        "display_name": "X",
+        "name": "X",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/c/c4/X_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/X",
+        "page": "https://reverse1999.fandom.com/wiki/X",
         "lookup_name": "X",
         "rarity": 5,
         "afflatus": "Intellect",
@@ -1902,9 +1902,9 @@
         "age": "16"
     },
     "Yenisei": {
-        "display_name": "Yenisei",
+        "name": "Yenisei",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/6/64/Yenisei_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/Yenisei",
+        "page": "https://reverse1999.fandom.com/wiki/Yenisei",
         "lookup_name": "Yenisei",
         "rarity": 5,
         "afflatus": "Star",
@@ -1918,9 +1918,9 @@
         "age": "16"
     },
     "\u0417\u0438\u043c\u0430": {
-        "display_name": "\u0417\u0438\u043c\u0430",
+        "name": "\u0417\u0438\u043c\u0430",
         "image": "https://static.wikia.nocookie.net/reverse1999/images/7/71/%D0%97%D0%B8%D0%BC%D0%B0_Icon.png",
-        "character_page": "https://reverse1999.fandom.com/wiki/%D0%97%D0%B8%D0%BC%D0%B0",
+        "page": "https://reverse1999.fandom.com/wiki/%D0%97%D0%B8%D0%BC%D0%B0",
         "lookup_name": "\u0417\u0438\u043c\u0430",
         "rarity": 4,
         "afflatus": "Plant",
