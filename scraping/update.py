@@ -1,10 +1,12 @@
 import json
+import threading
 import time
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.common.exceptions import NoSuchElementException, NoSuchWindowException
 from scraping.utils import get_lazy_loaded_img
 
 r1999_wiki = "https://reverse1999.fandom.com/wiki/Crew_Members"
@@ -95,7 +97,76 @@ def update_cover_data(force_update = False, path_to_overviews = "data/data.json"
     for name, cover in cover_data.items():
         if is_complete(cover) and f"https://reverse1999.fandom.com/wiki/{name}" in pages:
             pages.remove(f"https://reverse1999.fandom.com/wiki/{name}")
+    
     story_pages = [page + "/Story" for page in pages]
+    threads: list[threading.Thread] = []
+    batch_size = 10
+    data = {}
+    num_pages = 0
+    progress = 0
+
+    def parse_cover(page: str):
+        url_parts = page.split("/")
+        character_name = str(url_parts[-1])
+
+        driver = webdriver.Firefox(options=options)
+        driver.get(page)
+
+        cover_info = ["proportions", "medium", "fragrance", "inspo", "signature"]
+        tag_names = ["div", "div", "div", "div", "a"]
+        output_fields = ["dimensions", "medium", "fragrance", "inspiration", "signature"]
+
+        def find_cell(driver, info_type, tag_name):
+            try:
+                return driver.find_element(By.CSS_SELECTOR, f"[data-source={info_type}]").find_element(By.TAG_NAME, tag_name)
+            except NoSuchElementException:
+                return None
+        cells = [find_cell(driver, cover_info[i], tag_names[i]) for i in range(len(cover_info))]
+        
+        for i, cell in enumerate(cells):
+            field = output_fields[i]
+            # If cell is none, we have an error. Print the error
+            if cell is None:
+                print(f"failed to get {field} for ${page}")
+            # Signature requires special handling because it is an img
+            elif field == "signature":
+                data[character_name][field] = get_lazy_loaded_img(cell, "href")
+            # All other fields can be found in innerHTML
+            else:
+                data[character_name][field] = cell.get_attribute("innerHTML")
+
+        driver.quit()
+
+    def get_eta():
+        elapsed = time.time() - start
+        time_per_page = elapsed / progress
+        eta = time_per_page * (num_pages - progress)
+        mins = eta // 60
+        secs = eta % 60
+        return f"{int(mins)}m{round(secs)}s"
+
+    def work():
+        if len(pages) <= 0:
+            return
+            
+        page = pages.pop()
+        try:
+            parse_cover(page)
+        except TimeoutError:
+            print(f"timed out on {page}. Retrying")
+            try:
+                parse_cover(page)
+            except:
+                print(f"retry failed for {page}. Aborting")
+        except NoSuchWindowException:
+            print(f"browsing context discarded. Retrying")
+            try:
+                parse_cover(page)
+            except:
+                print(f"retry failed for {page}. Aborting")
+        progress += 1
+        print(f"{progress}/{num_pages} {get_eta()}" )
+        work()
 
     
     
