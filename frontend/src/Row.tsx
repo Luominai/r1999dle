@@ -1,4 +1,5 @@
 import type Character from "./types/Character"
+import star from "./assets/star.png"
 
 interface RowProps {
     character: Character
@@ -20,7 +21,7 @@ export default function Row({character}: RowProps) {
                             style={{
                                 margin: "-5px"
                             }}
-                            src={"src/assets/star.png"}
+                            src={star}
                         />
                     )
                 })}
