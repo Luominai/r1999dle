@@ -6,19 +6,23 @@ interface RowProps {
 
 export default function Row({character}: RowProps) {
     return (
-        <div style={{
-            display: "flex",
-            gap: "100px",
-            border: "1px solid black",
-            height: "100px",
-            justifyContent: "space-around"
-        }}>
-            <img src={character.image}></img>
-            <div>{character.name}</div>
-            <div>{character.rarity}</div>
-            <div>{character.afflatus}</div>
-            <div>{character.damage}</div>
-            <div>{character.tags}</div>
-        </div>
+        <tr className="row">
+            <th scope="row">
+                <img src={character.image} className="cell image-cell"></img>
+            </th>
+            <td className="cell name-cell">{character.name}</td>
+            {/* <td className="cell rarity-cell">{character.rarity}</td> */}
+            <td className="cell afflatus-cell">{character.afflatus}</td>
+            <td className="cell damage-cell">{character.damage === "Real" ? "Reality" : character.damage}</td>
+            <td className="cell tags-cell">{character.tags.map((tag) => 
+                <div style={{
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center"
+                }}>
+                    {tag}
+                </div>
+            )}</td>
+        </tr>
     )
 }
