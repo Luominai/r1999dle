@@ -14,7 +14,7 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 	})
 
 	return (
-		<div style={{ width: "100%", display: "flex", justifyContent: "center", marginTop: "20px"}}>
+		<div style={{ display: "flex", justifyContent: "center", marginTop: "20px"}}>
 			<div style={{display: "flex", flexDirection: "column", minWidth: "200px", flexGrow: 1, maxWidth: "600px"}}>
 				<input
 					className="text-input"
@@ -27,7 +27,7 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 				/>
 				{dropdownVisible
 					?
-					<div style={{ position: "relative", minWidth: "200px", flexGrow: 1, maxWidth: "600px", zIndex: "999"}}>
+					<div style={{ position: "relative", minWidth: "200px", flexGrow: 1, maxWidth: "600px", zIndex: "2"}}>
 						<div className="dropdown-container">
 							{subset.map((character) =>
 								<div className="dropdown-item"
