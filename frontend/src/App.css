@@ -1,33 +1,92 @@
-/* .row {
-    display: flex;
-    gap: 0px;
-    height: 80px;
-    justify-content: space-around;
-    color: #c07d5c;
-    background-color: rgba(0, 0, 0, 0.536);
+:root {
+    --text-color: #df8253;
+    --border-color: #d76228;
+    --translucent-bg-color: rgba(0, 0, 0, 0.65);
+    --opaque-bg-color: #212121;
+    --opaque-bg-highlight-color: #323232;
+}
 
-    .cell {
-        border: 1px solid #B55829;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
+#root {
+    font-size: small;
+}
+
+@media (min-width: 768px) {
+    #root {
+        font-size: medium;
     }
-} */
+}
 
 table {
     table-layout: fixed;
     width: 100%;
     margin: 20px auto;
     border-collapse: collapse;
-    border: 1px solid #B55829;
-    background-color: rgba(0, 0, 0, 0.623);
+    border: 1px solid var(--text-color);
+    background-color: var(--translucent-bg-color);
+    backdrop-filter: blur(3px);
+    z-index: -1;
 }
 
 .row td, .row th {
-    color: #c07d5c;
-    border-top: 1px solid #d76228;
-    img {
-        height: 72px;
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: center
+    };
+}
+
+.row th img {
+    height: 72px;
+    /* border: 2px solid rgba(255, 255, 255, 0.368); */
+    border: 1px solid var(--border-color);
+    border-top-left-radius: 20px;
+    padding: 4px;
+    background-color: #ddceac
+}
+
+tbody .row {
+    height: 96px;
+}
+
+@media (min-width: 768px) {
+    tbody .row {
+        height: 108px;
     }
+}
+
+.text-input {
+    background-color: var(--opaque-bg-color);
+    font-size: medium;
+    color: var(--text-color);
+    padding: 4px;
+}
+
+.text-input:focus {
+    outline-color: var(--border-color);
+    outline-style: solid;
+}
+
+.dropdown-container {
+    position: absolute;
+    max-height: 300px;
+    overflow-y: scroll;
+    box-sizing: border-box;
+    border: 1px solid var(--border-color);
+    background-color: var(--opaque-bg-color);
+    color: var(--text-color);
+    width: 100%;
+}
+
+.dropdown-item {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+    padding: 4px;
+}
+
+.dropdown-item:hover {
+    background-color: var(--opaque-bg-highlight-color);
 }
