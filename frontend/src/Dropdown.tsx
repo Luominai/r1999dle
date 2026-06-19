@@ -22,8 +22,8 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 					value={query}
 					placeholder="Enter a character's name"
 					onChange={(e) => setQuery(e.target.value)}
-					onFocus={(e) => setDropdownVisible(true) }
-					onBlur={(e) => setDropdownVisible(false)}
+					onFocus={(_) => setDropdownVisible(true) }
+					onBlur={(_) => setDropdownVisible(false)}
 				/>
 				{dropdownVisible
 					?
@@ -31,7 +31,7 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 						<div className="dropdown-container">
 							{subset.map((character) =>
 								<div className="dropdown-item"
-									onMouseDown={(e) => {
+									onMouseDown={(_) => {
 										onSelect(character)
 										setQuery("")
 										console.log(character.name)

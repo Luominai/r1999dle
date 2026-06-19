@@ -14,7 +14,7 @@ export default function Row({character}: RowProps) {
             </th>
             <td className="cell name-cell">{character.name}</td>
             <td className="cell rarity-cell" style={{padding: "5px"}}>
-                {Array.from({length: character.rarity}).map((e) => {
+                {Array.from({length: character.rarity}).map((_) => {
                     return (
                         <img 
                             style={{
