@@ -38,12 +38,25 @@ table {
 }
 
 .row th img {
-    height: 72px;
-    /* border: 2px solid rgba(255, 255, 255, 0.368); */
+    height: 48px;
     border: 1px solid var(--border-color);
     border-top-left-radius: 20px;
     padding: 4px;
     background-color: #ddceac
+}
+
+@media (min-width: 600px) {
+    .row th img {
+        height: 60px;
+        border-top-left-radius: 25px;
+    }
+}
+
+@media (min-width: 768px) {
+    .row th img {
+        height: 72px;
+        border-top-left-radius: 30px;
+    }
 }
 
 tbody .row {
