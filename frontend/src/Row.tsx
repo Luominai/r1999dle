@@ -20,7 +20,7 @@ export default function Row({character}: RowProps) {
                             style={{
                                 margin: "-5px"
                             }}
-                            src={"https://huiji-thumb.huijistatic.com/res1999/uploads/thumb/2/29/Img_star.png/30px-Img_star.png"}
+                            src={"src/assets/star.png"}
                         />
                     )
                 })}
