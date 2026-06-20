@@ -54,6 +54,7 @@ function App() {
 			{
 				completed && resultsPageOpen
 				? 
+					// @ts-ignore
 					<Results character={dailyCharacter} correct={correct} onClose={() => setResultsPageOpen(false)}/>
 				:
 					<></>
@@ -90,6 +91,7 @@ function App() {
 					}
 
 					// if every value is truthy, we have the correct answer
+					// @ts-ignore
 					if (Object.values(compare(selected, dailyCharacter)).every((val) => val == true)) {
 						setCompleted(true)
 						setCorrect(true)
