@@ -34,7 +34,6 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 									onMouseDown={(_) => {
 										onSelect(character)
 										setQuery("")
-										console.log(character.name)
 									}}>
 									<img src={character.image} style={{ height: "72px" }}></img>
 									{character.name}
