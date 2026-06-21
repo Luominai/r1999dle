@@ -6,6 +6,7 @@ from urllib.parse import unquote
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.remote.webdriver import WebDriver
+import re
 
 class CoverScraper(Scraper):
     def __init__(self, output_path, overviews_path):
@@ -44,9 +45,9 @@ class CoverScraper(Scraper):
         url_parts = page.split("/")
         lookup_name = unquote(str(url_parts[-1]))
 
-        cover_info = ["proportions", "medium", "fragrance", "inspo", "signature"]
-        tag_names = ["div", "div", "div", "div", "a"]
-        output_fields = ["dimensions", "medium", "fragrance", "inspiration", "signature"]
+        cover_info = ["proportions", "medium", "fragrance", "inspo", "signature", "release"]
+        tag_names = ["div", "div", "div", "div", "a", "div"]
+        output_fields = ["dimensions", "medium", "fragrance", "inspiration", "signature", "release"]
         cells = [CoverScraper.find_cell(driver, cover_info[i], tag_names[i]) for i in range(len(cover_info))]
         
         for i, cell in enumerate(cells):
@@ -57,9 +58,17 @@ class CoverScraper(Scraper):
             # Signature requires special handling because it is an img
             elif field == "signature":
                 self.data[lookup_name][field] = Scraper.get_lazy_loaded_img(cell, "href")
+            # Release needs a bit more parsing
+            elif field == "release":
+                text = cell.get_attribute("innerText")
+                if text is not None:
+                    dates = [s for s in text.split("\n") if s != ""]
+                    dates = [s.replace(",", "") for s in dates]
+                    dates = [" ".join(s.split(" ")[:3]) for s in dates]
+                    self.data[lookup_name][field] = dates
             # All other fields can be found in innerHTML
             else:
-                self.data[lookup_name][field] = cell.get_attribute("innerHTML")
+                self.data[lookup_name][field] = cell.get_attribute("innerText")
 
         driver.quit()
 

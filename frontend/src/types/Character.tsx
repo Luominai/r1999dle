@@ -12,5 +12,6 @@ export default interface Character {
     medium: string,
     fragrance: string,
     inspiration: string,
-    signature: string
+    signature: string,
+    release: Array<string>
 }

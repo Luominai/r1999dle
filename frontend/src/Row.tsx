@@ -1,5 +1,5 @@
 import type Character from "./types/Character"
-import star from "./assets/star.png"
+import { toDate } from "./utils"
 
 interface RowProps {
   character?: Character
@@ -7,9 +7,10 @@ interface RowProps {
     image: boolean,
     name: boolean,
     rarity: boolean,
+    release: number,
     afflatus: boolean,
     damage: boolean,
-    tags: -1 | 0 | 1
+    tags: number
   }
 }
 
@@ -40,18 +41,7 @@ export default function Row({ character, correctness }: RowProps) {
           </div>
         </th>
         <td className="cell">{character.name}</td>
-        <td className="cell">
-          {Array.from({ length: character.rarity }).map((_) => {
-            return (
-              <img
-                style={{
-                  margin: "-5px"
-                }}
-                src={star}
-              />
-            )
-          })}
-        </td>
+        <td className="cell">{character.release}</td>
         <td className="cell">{character.afflatus}</td>
         <td className="cell">{character.damage === "Real" ? "Reality" : character.damage}</td>
         <td className="cell">
@@ -77,18 +67,17 @@ export default function Row({ character, correctness }: RowProps) {
         </div>
       </th>
       <td className="cell" style={{ backgroundColor: correctness.name ? green : red }}>{character.name}</td>
-      <td className="cell" style={{ padding: "5px", backgroundColor: correctness.rarity ? green : red }}>
-        {Array.from({ length: character.rarity }).map((_) => {
-          return (
-            <img
-              style={{
-                margin: "-5px"
-              }}
-              src={star}
-            />
-          )
-        })}
-      </td>
+      <td className="cell" style={{
+        backgroundColor: correctness.release === 0 ? green
+          : red
+      }}>{character.release.map((str) => {
+        const date = toDate(str)
+        return (
+          <div>
+            {date.toDateString().split(" ").slice(1).join(" ")}
+          </div>
+        )
+      })}</td>
       <td className="cell" style={{
         backgroundColor: correctness.afflatus ? green : red
       }}>{character.afflatus}</td>

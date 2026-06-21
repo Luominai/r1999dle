@@ -1,5 +1,5 @@
 import { useState } from "react"
-import characterData from "./assets/merged.json"
+import characterData from "./assets/complete.json"
 import type Character from "./types/Character"
 
 type onSelectFunction = (c: Character) => any
@@ -8,7 +8,6 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 	const [dropdownVisible, setDropdownVisible] = useState(false)
 	const [query, setQuery] = useState("")
 
-	//@ts-ignore
 	const subset: Array<Character> = Object.values(characterData).filter((data) => {
 		return data.name.toLowerCase().startsWith(query.toLowerCase())
 	})
