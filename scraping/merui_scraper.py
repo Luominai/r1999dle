@@ -18,24 +18,11 @@ profiles_list: list[dict] = chompjs.parse_js_object(profiles_str)
 # convert the keys to camelcase
 data = {}
 for profile in profiles_list:
-    char_data = {}
-    for key, value in profile.items():
-        parts = [part.lower() for part in key.split(" ")]
-        for i in range(1, len(parts)):
-            part = parts[i]
-            parts[i] = part[0].upper() + part[1:]
-
-        lower_key = "".join(parts)
-
-        # the two characters named 6 and 37 get parsed as ints instead of strings. so we fix that here
-        # lady by the lake has her name wrapped in <i> tags which we also fix here
-        if lower_key == "name":
-            char_data[lower_key] = BeautifulSoup(str(value), features="html.parser").get_text()
-        else:
-            char_data[lower_key] = value
-        
-    # Keys in snake case
-    data["_".join(part.lower() for part in char_data["name"].split(" "))] = char_data
+    # parse the name field to get a url-ready string
+    name = str(profile["Name"])
+    name = "_".join(part.lower() for part in name.split(" "))
+    name = BeautifulSoup(name, features="html.parser").get_text()
+    data[name] = profile
 
 # setup work pool
 pool = [key for key in data.keys()]
@@ -59,15 +46,15 @@ def parse_voicelines():
     # then find the voicelines corresponding to the default garment
     voicelines = html.find(attrs={"data-garment-index": idx_of_default, "class": lambda classes: "voice-garment-panel" in classes}) # type: ignore
     voicelines = voicelines.find_all(name="div", attrs={"data-voice-line-index": True}) # type: ignore
-    data[name]["voicelines"] = {}
+    data[name]["Voicelines"] = {}
     for row in voicelines:
         voiceline_name = row.find(name="span").get_text() # type: ignore
         transcription = row.find(attrs={"data-en" : True}).get_text("\n") # type: ignore
         path = f'https://voice.merui.net/en/{row.find(attrs={"data-audio-path" : True})["data-audio-path"]}.ogg' # type: ignore
 
-        data[name]["voicelines"][voiceline_name] = {
-            "transcription": transcription,
-            "path": path
+        data[name]["Voicelines"][voiceline_name] = {
+            "Transcription": transcription,
+            "Path": path
         }
 
     parse_voicelines()    
