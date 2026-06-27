@@ -49,12 +49,13 @@ def parse_voicelines():
         return
 
     name = pool.pop()
-    url = f"https://uttu.merui.net/profiles/{name}/?page=info&tab=voice&garment=default_"
+    url = f"https://uttu.merui.net/profiles/{name}"
     print(url)
     text = requests.get(url).text
     html = BeautifulSoup(text, features="html.parser")
 
-    voicelines = html.find_all(name="div", attrs={"data-voice-line-index": True}) # type: ignore
+    voicelines = html.find(attrs={"data-garment-index": 0, "class": lambda classes: "voice-garment-panel" in classes}) # type: ignore
+    voicelines = voicelines.find_all(name="div", attrs={"data-voice-line-index": True}) # type: ignore
     data[name]["voicelines"] = {}
     for row in voicelines:
         voiceline_name = row.find(name="span").get_text() # type: ignore
