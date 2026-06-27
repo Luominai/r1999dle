@@ -1,0 +1,2438 @@
+[
+    {
+        "id": 3154,
+        "name": "Silverwing Eagle",
+        "version": "3.7",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Ultimate",
+            "Support",
+            "Follow-up Attack"
+        ],
+        "otherName": "Eagle",
+        "alpha": null
+    },
+    {
+        "id": 3147,
+        "name": "Ms. Stranger",
+        "version": "3.7",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS"
+        ],
+        "otherName": [
+            "Moth",
+            "Pupa",
+            "Ms. Grace",
+            "Kayla",
+            "Cecilie",
+            "Newman",
+            "Alice",
+            "Roya",
+            "Lily"
+        ],
+        "alpha": null
+    },
+    {
+        "id": 3146,
+        "name": "Rhiannon",
+        "version": "3.7",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "Universal Fit"
+        ],
+        "otherName": [
+            "Aderyn Tywyll"
+        ],
+        "alpha": null
+    },
+    {
+        "id": 3145,
+        "name": "Everecho",
+        "version": "3.8",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Heal",
+            "Conduit",
+            "Support"
+        ],
+        "otherName": "",
+        "alpha": null
+    },
+    {
+        "id": 3144,
+        "name": "Copp\u00e9lia",
+        "version": "3.7",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Conduit",
+            "Support"
+        ],
+        "otherName": "",
+        "alpha": "Coppelia"
+    },
+    {
+        "id": 3143,
+        "name": "Enigma",
+        "version": "3.6",
+        "rarity": 6,
+        "afflatus": "Intelligence",
+        "race": "Human",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "Shield",
+            "Dynamo",
+            "Support",
+            "Array"
+        ],
+        "otherName": [
+            "Adler Hofmann"
+        ],
+        "alpha": null
+    },
+    {
+        "id": 3142,
+        "name": "Ramona",
+        "version": "3.5",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Poison",
+            "Rewrite"
+        ],
+        "otherName": "",
+        "alpha": ""
+    },
+    {
+        "id": 3141,
+        "name": "Paper Heron",
+        "version": "3.4",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Inspiration",
+            "Support",
+            "Array",
+            "Eureka"
+        ],
+        "otherName": "\u9e6d\u9e36\u526a",
+        "alpha": "L\u00f9s\u012b Ji\u01cen"
+    },
+    {
+        "id": 3140,
+        "name": "Cornerstone",
+        "version": "3.8",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            ""
+        ],
+        "otherName": [
+            "Stasia"
+        ],
+        "alpha": null
+    },
+    {
+        "id": 3139,
+        "name": "Lorentz Butterfly",
+        "version": "3.5",
+        "rarity": 6,
+        "afflatus": "Intelligence",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "Lingering Glow",
+            "DPS",
+            "Rewrite"
+        ],
+        "otherName": [
+            "Marguerite Martin",
+            "Jones"
+        ],
+        "alpha": null
+    },
+    {
+        "id": 3138,
+        "name": "Reed",
+        "version": "3.4",
+        "rarity": 4,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Support"
+        ],
+        "otherName": "\u82a6\u8349\u7ed3"
+    },
+    {
+        "id": 3137,
+        "name": "Cheng Heguang",
+        "version": "3.4",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "Support",
+            "Extra Action",
+            "DPS",
+            "Follow-up Attack"
+        ],
+        "otherName": "\u7a0b\u548c\u5149",
+        "alpha": null
+    },
+    {
+        "id": 3136,
+        "name": "<i>Lady by the Lake</i>",
+        "version": "3.5",
+        "rarity": 4,
+        "afflatus": "Plant",
+        "race": "Awakened",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Support"
+        ],
+        "otherName": "",
+        "alpha": null
+    },
+    {
+        "id": 3135,
+        "name": "Brume",
+        "version": "3.2",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Dynamo",
+            "Support",
+            "Channel",
+            "Array"
+        ],
+        "otherName": "Ad\u00e8le Tavernier",
+        "alpha": null
+    },
+    {
+        "id": 3134,
+        "name": "Beryl",
+        "version": "3.2",
+        "rarity": 6,
+        "afflatus": "Intelligence",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Lingering Glow",
+            "Extra Action",
+            "Rank Up"
+        ],
+        "otherName": "Beryl Bouanich",
+        "alpha": null
+    },
+    {
+        "id": 3132,
+        "name": "Corvus",
+        "version": "3.1",
+        "rarity": 6,
+        "afflatus": "Intelligence",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Dynamo",
+            "Channel",
+            "Array"
+        ],
+        "otherName": "\u0418\u0433\u043b\u0438\u043a\u0430",
+        "alpha": "Iglika"
+    },
+    {
+        "id": 3128,
+        "name": "Charon",
+        "version": "3.0",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "race": "Awakened",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Support",
+            "Dynamo",
+            "DPS",
+            "Channel",
+            "Array"
+        ],
+        "otherName": "Paul Haumann",
+        "alpha": null
+    },
+    {
+        "id": 3127,
+        "name": "Marsha",
+        "version": "3.3",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Shield",
+            "Lingering Glow",
+            "Support",
+            "Purify"
+        ],
+        "otherName": "Marsha Rosenhart",
+        "alpha": null
+    },
+    {
+        "id": 3126,
+        "name": "Sentinel",
+        "version": "3.0",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "Bloodtithe",
+            "DPS",
+            "Bullet"
+        ],
+        "otherName": "Marianne de T\u00e9n\u00e9brun",
+        "alpha": null
+    },
+    {
+        "id": 3125,
+        "name": "Rubuska",
+        "version": "3.1",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Heal",
+            "Bloodtithe",
+            "Support"
+        ],
+        "otherName": "\u0420\u0443\u0431\u0443\u0441\u043a\u0430",
+        "alpha": null
+    },
+    {
+        "id": 3124,
+        "name": "Kassandra",
+        "version": "s01",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Human",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Ultimate",
+            "Support",
+            "Assassination"
+        ],
+        "otherName": "\u039a\u03b1\u03c3\u03c3\u03b1\u03bd\u03b4\u03c1\u03b1",
+        "alpha": null
+    },
+    {
+        "id": 3123,
+        "name": "Ezio Auditore",
+        "version": "s01",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Human",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Poison",
+            "Ultimate",
+            "Extra Action",
+            "Assassination"
+        ],
+        "otherName": "Ezio Auditore da Firenze",
+        "alpha": null
+    },
+    {
+        "id": 3122,
+        "name": "Alexios",
+        "version": "s01",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "race": "Human",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Ultimate",
+            "Assassination"
+        ],
+        "otherName": "\u0391\u03bb\u03b5\u03be\u03b9\u03bf\u03c2",
+        "alpha": null
+    },
+    {
+        "id": 3121,
+        "name": "Moldir",
+        "version": "2.8",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Mixed",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "Ultimate",
+            "DPS",
+            "Riposte"
+        ],
+        "otherName": "\u041c\u04e9\u043b\u0434\u0456\u0440 \u0415\u0440\u0430\u0441\u044b\u043b\u043e\u0432\u043d\u0430 \u0423\u043b\u0430\u043d\u043e\u0432\u0430",
+        "shortName": "\u041c\u04e9\u043b\u0434\u0456\u0440 \u0423\u043b\u0430\u043d\u043e\u0432\u0430",
+        "alpha": "Moldir Erasylovna Ulanova"
+    },
+    {
+        "id": 3120,
+        "name": "Nautika",
+        "version": "2.8",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "race": "Infected",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Bloodtithe",
+            "Channel"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Bloodtithe"
+                ]
+            }
+        ],
+        "otherName": "Nautika Amundsen",
+        "alpha": null
+    },
+    {
+        "id": 3118,
+        "name": "Name Day",
+        "version": "2.7",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Support",
+            "Ultimate",
+            "Dispeller"
+        ],
+        "otherName": "\u0438\u043c\u0435\u043d\u0438\u043d\u044b",
+        "alpha": "Leonid",
+        "other2": "\u041b\u0435\u043e\u043d\u0438\u0434"
+    },
+    {
+        "id": 3117,
+        "name": "Kiperina",
+        "version": "2.7",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Shield",
+            "Inspiration",
+            "Support",
+            "Eureka"
+        ],
+        "otherName": "\u0410\u043b\u0438\u043d\u0430 \u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432\u0430",
+        "alpha": "Alina Medvedeva"
+    },
+    {
+        "id": 3116,
+        "name": "Hissabeth",
+        "version": "2.7",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Ultimate",
+            "Control"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Ultimate"
+                ]
+            }
+        ],
+        "otherName": "Sylvie",
+        "alpha": null
+    },
+    {
+        "id": 3115,
+        "name": "Buddy Fairchild",
+        "version": "2.8",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Ultimate"
+        ],
+        "otherName": "",
+        "alpha": null
+    },
+    {
+        "id": 3114,
+        "name": "Recoleta",
+        "version": "2.6",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Ultimate",
+            "Support"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Ultimate"
+                ]
+            }
+        ],
+        "otherName": "Ficciones",
+        "alpha": null
+    },
+    {
+        "id": 3113,
+        "name": "Aleph",
+        "version": "2.6",
+        "rarity": 6,
+        "afflatus": "Intelligence",
+        "race": "Human",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Support",
+            "Inspiration",
+            "Channel",
+            "Eureka"
+        ],
+        "otherName": "\u05d0",
+        "alpha": null
+    },
+    {
+        "id": 3112,
+        "name": "Loggerhead",
+        "version": "2.5",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "race": "Awakened",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Heal"
+        ],
+        "otherName": "Latham"
+    },
+    {
+        "id": 3111,
+        "name": "Noire",
+        "version": "2.5",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Ultimate",
+            "Control"
+        ],
+        "otherName": "\u83f2\u6797\u58eb\u591a",
+        "alpha": "Fei Lam Si Do"
+    },
+    {
+        "id": 3110,
+        "name": "Liang Yue",
+        "version": "2.5",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Mixed",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Immunity"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Extra Action"
+                ]
+            }
+        ],
+        "otherName": "\u6881\u6708"
+    },
+    {
+        "id": 3109,
+        "name": "Fatutu",
+        "version": "2.4",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Heal",
+            "Extra Action",
+            "Purify"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3108,
+        "name": "Barcarola",
+        "version": "2.4",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Inspiration",
+            "Support",
+            "Eureka"
+        ],
+        "otherName": "Barcarola Stradivari"
+    },
+    {
+        "id": 3107,
+        "name": "Ulrich",
+        "version": "2.8",
+        "rarity": 6,
+        "afflatus": "Intelligence",
+        "race": "Awakened",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Dynamo",
+            "Support",
+            "Channel",
+            "Array"
+        ],
+        "otherName": "",
+        "alpha": null
+    },
+    {
+        "id": 3106,
+        "name": "Brimley",
+        "version": "2.3",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "race": "Awakened",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Support",
+            "Extra Action",
+            "Purify"
+        ],
+        "otherName": "Slouch Hat"
+    },
+    {
+        "id": 3105,
+        "name": "Flutterpage",
+        "version": "2.3",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Mixed",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "Extra Action",
+            "DPS",
+            "Channel",
+            "Eureka"
+        ],
+        "otherName": "Liberti"
+    },
+    {
+        "id": 3104,
+        "name": "Willow",
+        "version": "2.3",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Poison",
+            "Channel"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Poison"
+                ]
+            }
+        ],
+        "otherName": "Charlotte O'Hagan"
+    },
+    {
+        "id": 3103,
+        "name": "Mr. Duncan",
+        "version": "2.2",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "race": "Human",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Riposte",
+            "Bullet"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3102,
+        "name": "Lopera",
+        "version": "2.2",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "Burn",
+            "Channel",
+            "Bullet",
+            "Array"
+        ],
+        "otherName": "Carlotta Lopez Rivera"
+    },
+    {
+        "id": 3101,
+        "name": "White Rum",
+        "version": "2.2",
+        "rarity": 4,
+        "afflatus": "Intelligence",
+        "race": "Awakened",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Shift",
+            "Control",
+            "Channel"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3100,
+        "name": "Anjo Nala",
+        "version": "2.2",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Beyond",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Ultimate",
+            "Control",
+            "Channel"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Extra Action"
+                ]
+            }
+        ],
+        "otherName": "Nala Hari"
+    },
+    {
+        "id": 3099,
+        "name": "Barbara",
+        "version": "2.1",
+        "rarity": 5,
+        "afflatus": "Spirit",
+        "race": "Mixed",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Shield",
+            "Support"
+        ],
+        "otherName": "Dolly"
+    },
+    {
+        "id": 3098,
+        "name": "Tuesday",
+        "version": "2.1",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Poison",
+            "Support",
+            "Array"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Poison"
+                ]
+            }
+        ],
+        "otherName": "Christine"
+    },
+    {
+        "id": 3097,
+        "name": "Argus",
+        "version": "2.1",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Rank Up",
+            "Support",
+            "Dispeller"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Rank Up"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3096,
+        "name": "Pioneer",
+        "version": "2.0",
+        "rarity": 3,
+        "afflatus": "Spirit",
+        "race": "Awakened",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Shield",
+            "Shift",
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3095,
+        "name": "Mercuria",
+        "version": "2.0",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "Rank Up",
+            "DPS"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Rank Up"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3094,
+        "name": "J",
+        "version": "2.0",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Mixed",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "Shield",
+            "Burn",
+            "Support",
+            "Riposte"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Riposte"
+                ]
+            }
+        ],
+        "otherName": "Joe Brown"
+    },
+    {
+        "id": 3092,
+        "name": "Igor",
+        "version": "3.3",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Mixed",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Ultimate",
+            "Bullet"
+        ],
+        "otherName": "\u0418\u0433\u043e\u0440\u044c",
+        "alpha": null
+    },
+    {
+        "id": 3091,
+        "name": "Lorelei",
+        "version": "1.9",
+        "rarity": 5,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "DPS"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3088,
+        "name": "Semmelweis",
+        "version": "1.9",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Infected",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "HP Sacrifice",
+            "Support",
+            "Array"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Bloodtithe"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3087,
+        "name": "Vila",
+        "version": "1.8",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Heal",
+            "Rank Up",
+            "Support",
+            "Purify"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Rank Up"
+                ]
+            }
+        ],
+        "otherName": "\u0412\u0438\u043b\u0430"
+    },
+    {
+        "id": 3086,
+        "name": "Lucy",
+        "version": "1.9",
+        "rarity": 6,
+        "afflatus": "Intelligence",
+        "race": "Awakened",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Dynamo"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Dynamo"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3084,
+        "name": "Getian",
+        "version": "1.6",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "Support",
+            "Channel",
+            "Eureka"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Ultimate"
+                ]
+            }
+        ],
+        "otherName": "\u845b\u5929"
+    },
+    {
+        "id": 3083,
+        "name": "Jiu Niangzi",
+        "version": "1.6",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Mixed",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Channel"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Extra Action"
+                ]
+            }
+        ],
+        "otherName": "\u66f2\u5a18"
+    },
+    {
+        "id": 3082,
+        "name": "Yenisei",
+        "version": "1.6",
+        "rarity": 5,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Heal",
+            "Immunity"
+        ],
+        "otherName": "\u0415\u043d\u0438\u0441\u0435\u0439"
+    },
+    {
+        "id": 3081,
+        "name": "Isolde",
+        "version": "1.7",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Burn",
+            "Support"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Lingering Glow"
+                ]
+            }
+        ],
+        "otherName": "Isolde von Dittarsdorf"
+    },
+    {
+        "id": 3080,
+        "name": "Kakania",
+        "version": "1.9",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Heal",
+            "Support"
+        ],
+        "otherName": "Klara Vingler"
+    },
+    {
+        "id": 3079,
+        "name": 6,
+        "version": "1.4",
+        "rarity": 6,
+        "afflatus": "Intelligence",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Support",
+            "DPS",
+            "Purify",
+            "Eureka"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Debuff"
+                ]
+            }
+        ],
+        "otherName": "Atticus",
+        "alpha": "Six"
+    },
+    {
+        "id": 3078,
+        "name": "Avgust",
+        "version": "1.8",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Heal",
+            "Support",
+            "Dispeller"
+        ],
+        "otherName": "\u0410\u0432\u043a\u0441\u0438\u0432\u0438\u0439"
+    },
+    {
+        "id": 3077,
+        "name": "Windsong",
+        "version": "1.8",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Eureka"
+        ],
+        "otherName": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430"
+    },
+    {
+        "id": 3076,
+        "name": "Ulu",
+        "version": "1.5",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Burn",
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3075,
+        "name": "Desert Flannel",
+        "version": "1.5",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "DPS"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3074,
+        "name": "Ezra Theodore",
+        "version": "1.5",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Human",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Shield",
+            "Support",
+            "Eureka"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Dynamo"
+                ]
+            },
+            {
+                "tags": [
+                    "Bloodtithe"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3073,
+        "name": "Spathodea",
+        "version": "1.5",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Burn"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Lingering Glow"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3072,
+        "name": "Shamane",
+        "version": "1.3",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Ultimate",
+            "Support"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Ultimate"
+                ]
+            }
+        ],
+        "otherName": "Pushya Sharma"
+    },
+    {
+        "id": 3071,
+        "name": "Kanjira",
+        "version": "1.3",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Poison",
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3070,
+        "name": "Kaalaa Baunaa",
+        "version": "1.3",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Follow-up Attack"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Extra Action"
+                ]
+            }
+        ],
+        "otherName": "Black Dwarf"
+    },
+    {
+        "id": 3066,
+        "name": 37,
+        "version": "1.4",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Extra Action",
+            "Support",
+            "Follow-up Attack",
+            "Eureka"
+        ],
+        "otherName": "",
+        "alpha": "Thirty-Seven"
+    },
+    {
+        "id": 3065,
+        "name": "Marcus",
+        "version": "1.7",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Rank Up",
+            "Eureka"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Rank Up"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3064,
+        "name": "Diggers",
+        "version": "1.1",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Control"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3063,
+        "name": "Pickles",
+        "version": "1.1",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Dispeller"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Extra Action"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3062,
+        "name": "Melania",
+        "version": "1.1",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Ultimate"
+                ]
+            }
+        ],
+        "otherName": "Melania Ramirez"
+    },
+    {
+        "id": 3061,
+        "name": "Horropedia",
+        "version": "1.2",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Support",
+            "Dispeller"
+        ],
+        "otherName": "Joshua"
+    },
+    {
+        "id": 3060,
+        "name": "Blonney",
+        "version": "1.2",
+        "rarity": 5,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Support"
+        ],
+        "otherName": "Jennifer Woods"
+    },
+    {
+        "id": 3059,
+        "name": "Door",
+        "version": "1.0",
+        "rarity": 2,
+        "afflatus": "Intelligence",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3058,
+        "name": "Erick",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Dispeller"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3057,
+        "name": "Mesmer Jr.",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Intelligence",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Control"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3056,
+        "name": "Jessica",
+        "version": "1.2",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Beyond",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Poison"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Poison"
+                ]
+            },
+            {
+                "tags": [
+                    "Poison"
+                ]
+            }
+        ],
+        "otherName": "Changeling"
+    },
+    {
+        "id": 3055,
+        "name": "Sputnik",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Star",
+        "race": "Awakened",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Control"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3054,
+        "name": "ONiON",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3053,
+        "name": "Tooth Fairy",
+        "version": "1.2",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Heal",
+            "Support",
+            "Purify"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Inspiration"
+                ]
+            }
+        ],
+        "otherName": "Dr. Campbell"
+    },
+    {
+        "id": 3052,
+        "name": "Ms. Newbabel",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Shield",
+            "Riposte"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Riposte",
+                    "Shield"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3051,
+        "name": "Eternity",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Support",
+                    "Genesis DMG"
+                ]
+            },
+            {
+                "tags": [
+                    "Bloodtithe",
+                    "Ultimate"
+                ]
+            }
+        ],
+        "otherName": "Winnifred"
+    },
+    {
+        "id": 3050,
+        "name": "Darley Clatter",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3049,
+        "name": "Click",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Spirit",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "DPS"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3048,
+        "name": "Voyager",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Beyond",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "DPS",
+            "Control"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Inspiration"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3047,
+        "name": "Medicine Pocket",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Genderless",
+        "tags": [
+            "Heal",
+            "Support",
+            "Control"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Heal",
+                    "Support"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3046,
+        "name": "Poltergeist",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Spirit",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3045,
+        "name": "Bette",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Shield",
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3044,
+        "name": "Ms. Moissan",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Shield",
+            "Control"
+        ],
+        "otherName": "Hannah Geier"
+    },
+    {
+        "id": 3043,
+        "name": "Tennant",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Shield",
+            "Support",
+            "Bullet"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Shield",
+                    "Bullet"
+                ]
+            }
+        ],
+        "otherName": "Ada Tennant"
+    },
+    {
+        "id": 3042,
+        "name": "Rabies",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Poison"
+        ],
+        "otherName": "Adam Mi\u0142osz"
+    },
+    {
+        "id": 3041,
+        "name": "Matilda",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Support"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Inspiration"
+                ]
+            }
+        ],
+        "otherName": "Matilda Bouanich"
+    },
+    {
+        "id": 3040,
+        "name": "Twins Sleep",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Spirit",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "Control"
+        ],
+        "otherName": "Lisa & Louise"
+    },
+    {
+        "id": 3039,
+        "name": "An-an Lee",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Support",
+            "DPS",
+            "Control"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Rank Up",
+                    "Neg Status"
+                ]
+            },
+            {
+                "tags": [
+                    "Inspiration"
+                ]
+            }
+        ],
+        "otherName": "\u6ce5\u9bed\u7684\u58eb",
+        "alpha": "Nai Maang Dik Si"
+    },
+    {
+        "id": 3038,
+        "name": "Satsuki",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "race": "Mixed",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Control"
+        ],
+        "otherName": "\u7690\u6708"
+    },
+    {
+        "id": 3037,
+        "name": "Necrologist",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Dispeller"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3036,
+        "name": "John Titor",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Intelligence",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Shield",
+            "Purify",
+            "Dispeller"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3035,
+        "name": "Leilani",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3034,
+        "name": "aliEn T",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Star",
+        "race": "Beyond",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Control"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3033,
+        "name": "TTT",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Control",
+            "Dispeller"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3032,
+        "name": "Centurion",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Ultimate"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3031,
+        "name": "Cristallo",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Support"
+        ],
+        "otherName": "Hilma"
+    },
+    {
+        "id": 3030,
+        "name": "La Source",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Heal"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3029,
+        "name": "Schneider",
+        "version": "CBT",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "???",
+            "null",
+            null
+        ],
+        "otherName": "",
+        "alpha": ""
+    },
+    {
+        "id": 3028,
+        "name": "APPLe",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Star",
+        "race": "Awakened",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Heal"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3027,
+        "name": "Ms. Radio",
+        "version": "1.0",
+        "rarity": 2,
+        "afflatus": "Spirit",
+        "race": "Awakened",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Control"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3026,
+        "name": "Mondlicht",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Bullet"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3025,
+        "name": "Regulus",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Inspiration"
+                ]
+            },
+            {
+                "tags": [
+                    "Conduit"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3024,
+        "name": "Balloon Party",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Heal"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3023,
+        "name": "Sonetto",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Mineral",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Support",
+            "Control"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3022,
+        "name": "Dikke",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "Heal"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3020,
+        "name": "Bkornblume",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Support",
+            "Control"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Support",
+                    "Ultimate"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3018,
+        "name": "Oliver Fog",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3017,
+        "name": "Charlie",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Dispeller"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3016,
+        "name": "Baby Blue",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Support",
+            "Control"
+        ],
+        "otherName": "Rebecca Jones"
+    },
+    {
+        "id": 3015,
+        "name": "Pavia",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Beast",
+        "race": "Mixed",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "DPS"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3014,
+        "name": "Bunny Bunny",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Heal",
+            "Purify"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3013,
+        "name": "\u0417\u0438\u043c\u0430",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Support",
+            "Control"
+        ],
+        "otherName": "Zima"
+    },
+    {
+        "id": 3012,
+        "name": "The Fool",
+        "version": "1.0",
+        "rarity": 3,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Genderless",
+        "tags": [
+            "DPS"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3011,
+        "name": "Sweetheart",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Control"
+        ],
+        "otherName": "Marilyn"
+    },
+    {
+        "id": 3010,
+        "name": "X",
+        "version": "1.0",
+        "rarity": 5,
+        "afflatus": "Intelligence",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS",
+            "Dispeller",
+            "Control"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3009,
+        "name": "Sotheby",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "Heal",
+            "Poison"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Heal",
+                    "Poison"
+                ]
+            }
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3007,
+        "name": "A Knight",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Spirit",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Male",
+        "tags": [
+            "DPS"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Ultimate"
+                ]
+            }
+        ],
+        "otherName": "Roland"
+    },
+    {
+        "id": 3006,
+        "name": "Eagle",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3005,
+        "name": "Nick Bottom",
+        "version": "1.0",
+        "rarity": 4,
+        "afflatus": "Beast",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Male",
+        "tags": [
+            "Support"
+        ],
+        "otherName": ""
+    },
+    {
+        "id": 3004,
+        "name": "Lilya",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Star",
+        "race": "Arcanist",
+        "dmgType": "Reality",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Follow-up Attack"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Ultimate"
+                ]
+            },
+            {
+                "tags": [
+                    "Extra Action",
+                    "Bullet"
+                ]
+            }
+        ],
+        "otherName": "\u041b\u0438\u043b\u044f"
+    },
+    {
+        "id": 3003,
+        "name": "Druvis III",
+        "version": "1.0",
+        "rarity": 6,
+        "afflatus": "Plant",
+        "race": "Arcanist",
+        "dmgType": "Mental",
+        "gender": "Female",
+        "tags": [
+            "DPS",
+            "Support",
+            "Control"
+        ],
+        "euphoria": [
+            {
+                "tags": [
+                    "Petrify"
+                ]
+            },
+            {
+                "tags": [
+                    "Rank Up"
+                ]
+            }
+        ],
+        "otherName": "Druvis Weyerhaeuser III"
+    }
+]
