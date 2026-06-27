@@ -1,5 +1,4 @@
 from threading import Thread
-
 from bs4 import BeautifulSoup
 import requests
 import json
@@ -54,7 +53,11 @@ def parse_voicelines():
     text = requests.get(url).text
     html = BeautifulSoup(text, features="html.parser")
 
-    voicelines = html.find(attrs={"data-garment-index": 0, "class": lambda classes: "voice-garment-panel" in classes}) # type: ignore
+    # first figure out which index is the default garment
+    idx_of_default = html.find(attrs={"data-voice-garment-name" : "default_"})["data-garment-index"] # type: ignore
+
+    # then find the voicelines corresponding to the default garment
+    voicelines = html.find(attrs={"data-garment-index": idx_of_default, "class": lambda classes: "voice-garment-panel" in classes}) # type: ignore
     voicelines = voicelines.find_all(name="div", attrs={"data-voice-line-index": True}) # type: ignore
     data[name]["voicelines"] = {}
     for row in voicelines:

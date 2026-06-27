@@ -4539,57 +4539,133 @@
         "otherName": "\u05d0",
         "alpha": null,
         "voicelines": {
+            "First Encounter": {
+                "transcription": "I see the disarray and disintegration of reality, the manifestation of fate,\nthe brilliance of transcendentality, the ethereal images, and I see ... you.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_1.ogg"
+            },
+            "Suitcase Climate": {
+                "transcription": "Chaos, evil, desolation, cold\u2014they all can twist one's mind.\nMadness cannot be defined; it can only be described,\nfor, like this rain, it is the outward manifestation of greater turmoil.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_2_2.ogg"
+            },
+            "To the Future": {
+                "transcription": "If there is no future within our reach, then all our efforts are inconsequential.\nWe are trapped in a cruel cycle of false realities crafted by some divine architect.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_3_2.ogg"
+            },
+            "Idle": {
+                "transcription": "Everything is futile, yes, but at least this exhausting suffering won't last forever.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_4.ogg"
+            },
+            "Greetings": {
+                "transcription": "One lives, while the other dies.\nOne preaches peace and tolerance, while the other commits unforgivable crimes.\nSo, which one are you seeking?",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_5.ogg"
+            },
+            "Morning": {
+                "transcription": "The fresh air and morning rays are a gift from fate, allowing us all to escape the veil of darkness.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_6.ogg"
+            },
+            "Bond: Morning": {
+                "transcription": "Only when the sun kisses the horizon do I dare to gaze at the solar sovereign, burning in its most primal and pristine form.\nUnder its radiance, everything thrives and transforms.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_7.ogg"
+            },
+            "Night": {
+                "transcription": "Careful, the night stimulates the madness lingering in our minds.\nIt's best you don't rush into things\u2014you have a long night ahead.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_8.ogg"
+            },
+            "Bond: Night": {
+                "transcription": "It's often on a tranquil night like this that the seed of conflict and chaos quietly sprouts.\nYes, every seemingly trivial mystery will eventually turn into a harrowing nightmare.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_9.ogg"
+            },
+            "Hat and Hair": {
+                "transcription": "There's no need to pry; you'll find no existence beneath my mask.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_10.ogg"
+            },
+            "Sleeves and Hands": {
+                "transcription": "The scope of human society must be expanded, and all forms of hidden or disguised suppression eliminated\u2014\nstarting with the act of shaking hands.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_11_2.ogg"
+            },
+            "Clothing and Torso": {
+                "transcription": "There is no true self hidden beneath our outer visage.\nNo, there is nothing \"true\" about what is simply shaped by society.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_12_2.ogg"
+            },
+            "Hobby": {
+                "transcription": "This is the era of enlightenment, materialism, and Spinozism. This is the era of reason\u2014\nand that is exactly why we must pay attention to the ever-marginalized \"madness.\"",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_13_2.ogg"
+            },
+            "Praise": {
+                "transcription": "You're quite different from any other seeker of answers. Why do you not inquire?",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_14.ogg"
+            },
+            "Intimacy": {
+                "transcription": "I once imagined that the infinite world curled up inside a particle,\nreducing my endless toil to observing a single point.\nAs I witnessed it constantly fold and unfold, revealing one secret after another, I would learn the truth of everything.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_15.ogg"
+            },
+            "Chitchat I": {
+                "transcription": "While I quite enjoy\u00a0\nThe Rise and Fall of Sanity\n,\nI will refrain from offering further comments until Recoleta stops romanticizing her childish adventures.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_16.ogg"
+            },
+            "Chitchat II": {
+                "transcription": "I witnessed those ants climbing the Atacama cliffs, their line stretching for over 328 feet.\nAfter a full day's venture, eight of them fell into despair.\nBut the episode was fleeting, and their silent expedition soon continued.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_17.ogg"
+            },
+            "Monologue": {
+                "transcription": "At first, I sought relentlessly, fearing that this ever-flowing river of memories might only be a fleeting blessing.\nBy the time the sun had come and gone a thousand times over, the blessing had turned into a curse.\nAnd finally, on the three thousandth day, it transfused into my very existence.",
+                "path": "https://voice.merui.net/en/hero3113_mainvoc/play_hero3113_mainvoc_18.ogg"
+            },
             "Deployment": {
-                "transcription": "The moon is rising.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_55.ogg"
+                "transcription": "In the infinite loop of time ...",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_19.ogg"
             },
             "Pre-Battle": {
-                "transcription": "The finale is yet to begin.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_56.ogg"
+                "transcription": "We will experience all this over and over again.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_20.ogg"
             },
             "Select Incantation I": {
-                "transcription": "I ... No, he is lost in the rhythm.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_57.ogg"
+                "transcription": "I\u2014no, he'll know what to do.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_21.ogg"
             },
             "Select Incantation II": {
-                "transcription": "His dance has not yet found its form.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_58.ogg"
+                "transcription": "Always arguing.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_22.ogg"
             },
             "Select 3-star Incantation": {
-                "transcription": "The gaze of the living.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_59.ogg"
+                "transcription": "An emphasis on hope.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_23.ogg"
             },
             "Select Ultimate": {
-                "transcription": "The purest of imagery.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_60.ogg"
+                "transcription": "A symbol of beauty.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_24.ogg"
             },
             "Cast Arcane Skill I": {
-                "transcription": "Until it slips free from the grip of eternity.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_62.ogg"
+                "transcription": "All forms of power at your fingertips.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_26.ogg"
             },
             "Cast Arcane Skill II": {
-                "transcription": "A dance with no end.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_64.ogg"
+                "transcription": "A blessing bestowed by fate!",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_28.ogg"
             },
             "Cast Ultimate": {
-                "transcription": "Death is not to be sought after.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_65.ogg"
+                "transcription": "Enough ... futile, all of it! Nothing but a mockery of capricious fate.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_29.ogg"
             },
             "Attacked I": {
-                "transcription": "... No.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_66.ogg"
+                "transcription": "Ugh ...",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_30.ogg"
             },
             "Attacked II": {
-                "transcription": "Futile. All of it.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_67.ogg"
+                "transcription": "Hmm.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_31.ogg"
             },
             "Battle Victory": {
-                "transcription": "The raven meets my gaze and caws a single word, \"Nevermore.\"\nThus ends the story\u2014and his purpose.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_68.ogg"
+                "transcription": "In the repeating cycle,\nwe may feel regret, or even perish in the chaos.\nFortunately, this time, we were given a perfect ending.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_32.ogg"
             },
             "Insight": {
-                "transcription": "In the mirror, I glimpsed eternity. Then, it shattered\u2014melted, and the face of death took its shape.",
-                "path": "https://voice.merui.net/en/hero311303_vo_skin/play_hero311303_fightingvoc_70.ogg"
+                "transcription": "The arcane currency called Sharpodonty and the Dust dropped from the Supreme Law ...\nWhat answers do they provide?",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_34.ogg"
+            },
+            "Bottom of Insight": {
+                "transcription": "They died in that peculiar prison, but in a sense, they live on.\nNow, there's only one prisoner left.",
+                "path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_33.ogg"
             }
         }
     },
@@ -7919,57 +7995,133 @@
         ],
         "otherName": "\u0412\u0438\u043b\u0430",
         "voicelines": {
+            "First Encounter": {
+                "transcription": "Thank you for inviting me, Ms. Vertin. A typical room is more than fine ...\nOh, by the way, do you happen to have a swimming pool here?",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_1.ogg"
+            },
+            "Suitcase Climate": {
+                "transcription": "Yes, we always feel most at home in the water.\nIt falls from the sky, flows into the sea,\nand eventually runs through our mouths and gills.\nNo, Rusalki will never stay away from it for long.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_2.ogg"
+            },
+            "To the Future": {
+                "transcription": "The future? We will build new homes,\nand the sun will melt the thick snow, and our fields will grow new crops.\nOur dream will be realized on this land. Perhaps by then, our peace will last forever.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_3.ogg"
+            },
+            "Idle": {
+                "transcription": "You just taught me a lesson. It seems that kids lose their focus quickly, no matter their age.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_4.ogg"
+            },
+            "Greetings": {
+                "transcription": "Oh, Ms. Vertin ...\nI suggest we spend more time together like this to share more ideas and philosophy.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_5.ogg"
+            },
+            "Morning": {
+                "transcription": "We get up on time, clean our rooms, and even have regular meals ... Strange, I know.\nWhat must I do for you to join us?",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_6.ogg"
+            },
+            "Bond: Morning": {
+                "transcription": "Dear comrade, I think you should make a daily schedule and put it ... Let me see ...\nHere, so everyone can see it.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_7.ogg"
+            },
+            "Night": {
+                "transcription": "You had a productive day and deserve a relaxing night.\nNo reason for anyone to get in your way.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_8.ogg"
+            },
+            "Bond: Night": {
+                "transcription": "\u041e\u0442\u043f\u0443\u0441\u0442\u0438 \u0432\u0447\u0435\u0440\u0430\u0448\u043d\u0438\u0439 \u0434\u0435\u043d\u044c, \u043e\u0441\u0442\u0430\u0432\u044c \u0432 \u043f\u0440\u043e\u0448\u043b\u043e\u043c\n\u041a\u0430\u0436\u0434\u044b\u0439 \u0448\u0430\u0433 \u0440\u0438\u0441\u0443\u0435\u0442 \u043d\u043e\u0432\u044b\u0439 \u0434\u0435\u043d\u044c.\n\u041d\u0435 \u0441\u043c\u043e\u0442\u0440\u0438 \u043d\u0430\u0437\u0430\u0434, \u043d\u0435\u0442 \u0442\u0435\u043d\u0435\u0439 B \u0434\u043d\u0435\u0432\u043d\u043e\u043c\n\u0421\u0432\u0435\u0442\u043b\u044b\u0435 \u043d\u0435\u0431\u0435\u0441\u0430, \u043c\u044b \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0443\u0435\u043c",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_9.ogg"
+            },
+            "Hat and Hair": {
+                "transcription": "My mother used to roll and braid my hair when it was still wet.\nLuckily, the wind was very dry in my hometown, so all I had to do was take a walk for my hair to become fluffy again.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_10.ogg"
+            },
+            "Sleeves and Hands": {
+                "transcription": "There are only two places in the human world where I've felt free to show my scales.\nThe first was Rayashki, and the other is here.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_11.ogg"
+            },
+            "Clothing and Torso": {
+                "transcription": "These paint stains and water spots were left after class.\nThe children get so excited when they're focused on their work ...\nbut I actually like the mess. It makes for a dazzling display, a little like the scales on my tail, don't you think?",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_12.ogg"
+            },
+            "Hobby": {
+                "transcription": "I learned ballroom dancing from humans and aqua dancing from Rusalki,\nbut neither would ever dance with someone from the other race. Silly, isn't it?\nOh, it's okay ... I'm long over it.\nBut if anyone ever told you that Rusalki don't dance, let me prove them wrong.\nJust give me your hand, and you'll see.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_13.ogg"
+            },
+            "Praise": {
+                "transcription": "To us, you are a warrior, a giver, and, most importantly,\na leader who shares our goals.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_14.ogg"
+            },
+            "Intimacy": {
+                "transcription": "Whenever I introduce myself, I often have to explain that I'm not a Vodyanoi.\nMs. Vertin, perhaps you could tell them more about the Rusalki? ...\nOn second thought, perhaps not; those stories aren't ... very pleasant.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_15.ogg"
+            },
+            "Chitchat I": {
+                "transcription": "Back in the old days, we often danced around the campfire.\nAfter that, we talked about life and told the children the true history of our land.\nSometimes, we would just sit in silence, waiting for the future to arrive ...\nI learned this from living among the humans.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_16.ogg"
+            },
+            "Chitchat II": {
+                "transcription": "The cold water doesn't bother Rusalki ... So when I saw that girl in the lake \u2026\nHer face had turned blue as ice, poor kid.\nDid she have to bathe in water to cast her arcane skill?",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_17.ogg"
+            },
+            "Monologue": {
+                "transcription": "We met here like the confluence of rivers. Singing as we run forward together, leaving the past behind.\nCaring for everyone, no matter where they are from.",
+                "path": "https://voice.merui.net/en/hero3087_mainvoc/play_hero3087_mainvoc_18.ogg"
+            },
             "Deployment": {
-                "transcription": "Be fearless, whether you're in icy wind or scorching heat.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_55.ogg"
+                "transcription": "We make an ideal team.",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_19.ogg"
             },
             "Pre-Battle": {
-                "transcription": "Come together to conquer this great wave!",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_56.ogg"
+                "transcription": "Join with us, comrades!",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_20.ogg"
             },
             "Select Incantation I": {
-                "transcription": "Experience fuels knowledge.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_57.ogg"
+                "transcription": "I will remember your sacrifice.",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_21.ogg"
             },
             "Select Incantation II": {
-                "transcription": "Knowledge drives progress.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_58.ogg"
+                "transcription": "I admire your courage.",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_22.ogg"
             },
             "Select 3-star Incantation": {
-                "transcription": "Embrace new experiences.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_59.ogg"
+                "transcription": "We are like-minded.",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_23.ogg"
             },
             "Select Ultimate": {
-                "transcription": "See how my scales glisten in the sunlight.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_60.ogg"
+                "transcription": "We share the same dream.",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_24.ogg"
             },
             "Cast Arcane Skill I": {
-                "transcription": "Splash in the water.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_62.ogg"
+                "transcription": "Sharp fangs.",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_26.ogg"
             },
             "Cast Arcane Skill II": {
-                "transcription": "Devote yourselves to one another.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_64.ogg"
+                "transcription": "For the good of all!",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_28.ogg"
             },
             "Cast Ultimate": {
-                "transcription": "The sparkling of the sea, the shimmering of scales\u2014there is always a light to follow.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_65.ogg"
+                "transcription": "To a brighter future for everyone!",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_29.ogg"
             },
             "Attacked I": {
-                "transcription": "I must push on.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_66.ogg"
+                "transcription": "Cheer up!",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_30.ogg"
             },
             "Attacked II": {
-                "transcription": "Easy there!",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_67.ogg"
+                "transcription": "Don't worry.",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_31.ogg"
             },
             "Battle Victory": {
-                "transcription": "Although we come from different lands,\nwe share the same dream.\nThere is still much to be hopeful for.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_68.ogg"
+                "transcription": "Keep going! For our dream, comrade!",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_32.ogg"
             },
             "Insight": {
-                "transcription": "The white sand, the warm sun\u2014there's so much to cherish in this part of the world.",
-                "path": "https://voice.merui.net/en/hero308703_vo_skin/play_hero308703_fightingvoc_70.ogg"
+                "transcription": "Thank you for your help, dear comrade.",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_34.ogg"
+            },
+            "Bottom of Insight": {
+                "transcription": "From icebergs to mountains, from the sea to the land, I have traveled between these worlds countless times.\nThen I found Rayashki, at the intersection of these worlds ... Small but hopeful.\nAlone in its dream ... but maybe not so in the future.",
+                "path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_33.ogg"
             }
         }
     },
@@ -9219,61 +9371,133 @@
         ],
         "otherName": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
         "voicelines": {
+            "First Encounter": {
+                "transcription": "When we shake hands, we enter a relationship like that of two intersecting lines.\nIt's a pleasure to work with you, Ms. Timekeeper.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_1.ogg"
+            },
+            "Suitcase Climate": {
+                "transcription": "Dive into the clouds, soak into the soil, move dizzyingly back and forth between the earth and sky.\nYes, exactly what a ley line researcher does.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_2.ogg"
+            },
+            "To the Future": {
+                "transcription": "Best case scenario, people call me Professor or Doctor Windsong;\nworse, they call me: liar, con woman;\ndo you know what is worse still? When they say nothing,\nlooking past me as if I was invisible.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_3.ogg"
+            },
+            "Idle": {
+                "transcription": "Hey, hey ... Did you leave anything behind?\nWell, well, how forgetful\u2014You left me here alone!",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_4.ogg"
+            },
+            "Greetings": {
+                "transcription": "You're finally here!\nI could use a sponsor like you. So there is a new discovery of mine \u2026",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_5.ogg"
+            },
+            "Morning": {
+                "transcription": "I almost starved to death. That morning,\nfor once, my arcane skill came in use; I found a winning lottery ticket on the street.\nI say winning, but it wasn't worth much, only enough for some stale bread ...\nI ate it so fast. I don't even remember the taste.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_6.ogg"
+            },
+            "Bond: Morning": {
+                "transcription": "Oh ... Why bother waking up?\nThere is nothing to see outside the window, except the lush, vibrant natural scape.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_7.ogg"
+            },
+            "Night": {
+                "transcription": "Look at that shooting star. It's moving eastward towards Lyra, not a good omen ...\nIf you meet someone selling that on the street, you'd best keep an eye on your wallet.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_8.ogg"
+            },
+            "Bond: Night": {
+                "transcription": "I had a dream ... I was being applauded, surrounded by a sea of other researchers ...\nAs far as the why goes, my brain still needs time to work it out.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_9.ogg"
+            },
+            "Hat and Hair": {
+                "transcription": "Touching one's forehead is a gesture of friendliness among Felidae and other cat-shaped critters.\nI've seen Carbuncles doing it. But perhaps you could explain why you are doing this?",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_10.ogg"
+            },
+            "Sleeves and Hands": {
+                "transcription": "Are those chapped hands bothering you?\nTry this amber oil. I made it specifically for field investigations \u2026",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_11.ogg"
+            },
+            "Clothing and Torso": {
+                "transcription": "This coat is worth around 20 rubles.\nI pawned it during some financial difficulties, but I was lucky enough to be able to pay for it every time.\nI doubt it's worth much now.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_12.ogg"
+            },
+            "Hobby": {
+                "transcription": "Never drink to help you through adversity, it will just make things worse ...\nOnly drink to celebrate or commiserate, should the times call for it.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_13.ogg"
+            },
+            "Praise": {
+                "transcription": "You've really read my research paper?\nI don't know how to show my gratitude ... I think I might cry. Don't stop me.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_14.ogg"
+            },
+            "Intimacy": {
+                "transcription": "C-could you lend me some money?\nI am aware that research grants require applications and must proceed through proper channels,\nbut that's why I came to you \u2026",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_15.ogg"
+            },
+            "Chitchat I": {
+                "transcription": "In my hometown, especially during winter, it's hard to catch those parts of natural life that easily change.\nEven spending days hunkering down and waiting, observing,\nalmost nothing will pass through the snow, except my footprints.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_16.ogg"
+            },
+            "Chitchat II": {
+                "transcription": "Genius Researcher Faces Funding Dilemma ...\nDamn it! This isn't even newsworthy!\nI'm tired of hearing of these struggling researchers.\nThese so-called geniuses should learn to swallow their pride if they wanna earn their bread.",
+                "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_17.ogg"
+            },
             "Monologue": {
-                "transcription": "In the study of ley lines, there is no such thing as a \"pole\"\u2014no \"end of lines\".\nWe endlessly draw new maps, trying to draw conclusions from them.\nOnes that might build things and bring others together.\nIt isn't about whether the theory is right or wrong, only that it gives us useful answers.",
+                "transcription": "In the study of ley lines, there is no such thing as a \"pole\"\u2014no \"end of lines.\"\nWe endlessly draw new maps, trying to draw conclusions from them.\nOnes that might build things and bring others together.\nIt isn't about whether the theory is right or wrong, only that it gives us useful answers.",
                 "path": "https://voice.merui.net/en/hero3077_mainvoc/play_hero3077_mainvoc_18.ogg"
             },
             "Deployment": {
-                "transcription": "Fangs out? I'm in. A silver bullet for a few pounds sterling\u2014deal?",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_55.ogg"
+                "transcription": "It depends on the budget.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_19.ogg"
             },
             "Pre-Battle": {
-                "transcription": "Relax. Accidents in the field are more common than you think.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_56.ogg"
+                "transcription": "Keep the sample.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_20.ogg"
             },
             "Select Incantation I": {
-                "transcription": "The right tool for the right job.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_57.ogg"
+                "transcription": "A good point.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_21.ogg"
             },
             "Select Incantation II": {
-                "transcription": "Like shooting vampires in a coffin.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_58.ogg"
+                "transcription": "A new hypothesis.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_22.ogg"
             },
             "Select 3-star Incantation": {
-                "transcription": "This'll put the fear of the sun in them.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_59.ogg"
+                "transcription": "A perfect demonstration.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_23.ogg"
             },
             "Select Ultimate": {
-                "transcription": "Their fangs may dull with age, but their minds only get sharper.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_60.ogg"
+                "transcription": "An academic question.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_24.ogg"
             },
             "Cast Arcane Skill I": {
-                "transcription": "Right through the heart.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_62.ogg"
+                "transcription": "Calculating distance.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_26.ogg"
             },
             "Cast Arcane Skill II": {
-                "transcription": "No shadow\u2014no chance.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_64.ogg"
+                "transcription": "No other study could show you this!",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_28.ogg"
             },
             "Cast Ultimate": {
-                "transcription": "A shadow walker, a light bringer.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_65.ogg"
+                "transcription": "Limited scale, infinite lines.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_29.ogg"
             },
             "Attacked I": {
-                "transcription": "Don't get infected.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_66.ogg"
+                "transcription": "\u0411\u043b\u0438\u043d!",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_30.ogg"
             },
             "Attacked II": {
-                "transcription": "It's not over yet!",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_67.ogg"
+                "transcription": "Don't touch the device!",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_31.ogg"
             },
             "Battle Victory": {
-                "transcription": "They could still be around, watch out for strange mist.\nI'll check the ley energy.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_68.ogg"
+                "transcription": "We worked on this collaboration together. I'll write you into my paper.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_32.ogg"
             },
             "Insight": {
-                "transcription": "The last threshold\u2014from darkness into dawn.",
-                "path": "https://voice.merui.net/en/hero307704_vo_skin/play_hero307704_fightingvoc_70.ogg"
+                "transcription": "Next, to draw a bigger picture.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_34.ogg"
+            },
+            "Bottom of Insight": {
+                "transcription": "The whole world in my hands\u2014I always knew it could be.",
+                "path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_33.ogg"
             }
         }
     },
@@ -10501,57 +10725,133 @@
         ],
         "otherName": "",
         "voicelines": {
+            "First Encounter": {
+                "transcription": "Greetings, Marcus here!\nI've heard a lot about you from a ... special ... someone ...\nYour collection is something I can't wait to get my hands on!\nSo here's my ID, employment certificate, transfer records, medical report, and ...\nHuh? You don't need these?",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_1.ogg"
+            },
+            "Suitcase Climate": {
+                "transcription": "Ah, the fog is rising. Excuse me, I have to light up the lighthouse.\nYou know what they say: a man loses his footing on moss, and a ship loses its bearings in fog.",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_2.ogg"
+            },
+            "To the Future": {
+                "transcription": "Choices, choices, more choices.",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_3.ogg"
+            },
+            "Idle": {
+                "transcription": "Mmm ... Hmm ... Ah! I-I wasn't sleeping!",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_4.ogg"
+            },
+            "Greetings": {
+                "transcription": "Please watch your step! Books are everywhere,\nand if you step on them ... that hurts me ...",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_5.ogg"
+            },
+            "Morning": {
+                "transcription": "When was the last time I ate breakfast with this many people?\nAh yes, I remember the days of black bread on the verge of going moldy.\nI'm glad those days are long behind me.",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_6.ogg"
+            },
+            "Bond: Morning": {
+                "transcription": "I had a dream last night.\nThe world had vanished, only a staircase remained in front of me.\nNo matter how much I climbed, no end was in sight. The one good thing about the dream, though,\nwas the talking Sachertorte encouraging me along the way. Hmm. Can we really call this one a nightmare?",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_7.ogg"
+            },
+            "Night": {
+                "transcription": "Hah. I'm neither in Romania nor on the Flannan Isles, but in a suitcase ...\nNever would I have imagined I'd live in such a big and comfy ... suitcase ...\nIs this what the life of a book is like?",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_8.ogg"
+            },
+            "Bond: Night": {
+                "transcription": "Thanks for lighting up the lantern for me. Is it this time of the day already?\nOw, my neck \u2026",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_9.ogg"
+            },
+            "Hat and Hair": {
+                "transcription": "Um? A-are you wiping your hands? On my face ...?",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_10.ogg"
+            },
+            "Sleeves and Hands": {
+                "transcription": "Don't worry, Timekeeper. These are old marks, carrying precious memories.\nEach mark proves I protected someone in time of need. I take comfort in that.",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_11.ogg"
+            },
+            "Clothing and Torso": {
+                "transcription": "I bought this case in Bucharest.\nStylish, durable, and holds a lot.\nIs it heavy for me? Hmm ... It used to be, but not anymore.",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_12.ogg"
+            },
+            "Hobby": {
+                "transcription": "The world overwhelms me.\n\"Reading\" quiets the world, turns it into a book,\nand helps me understand it word by word.\nI am no longer afraid, and I no longer overlook the details.",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_13.ogg"
+            },
+            "Praise": {
+                "transcription": "She gave weight to the word \"teacher,\"\nand you gave meaning to the word \"ally.\"\nI ... admire your courage in taking on the \"Storm.\"",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_14.ogg"
+            },
+            "Intimacy": {
+                "transcription": "Books are simple, unlike people.\nEven a smile can have different meanings.\nLike the look on your face right now, what does it mean?",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_15.ogg"
+            },
+            "Chitchat I": {
+                "transcription": "A popular detective story, interesting.\nAccording to this, James Harvey and I could be the same person,\nbecause we've never shown up together at the same time.",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_16.ogg"
+            },
+            "Chitchat II": {
+                "transcription": "Some endings are not the finale, but a brief farewell.\nI will continue to read and write as I used to,\nuntil the day I look back and see a whole new chapter.",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_17.ogg"
+            },
+            "Monologue": {
+                "transcription": "New books are always thicker after being read.\nThe extra thickness is probably the growth of knowledge and the mind taking flight.",
+                "path": "https://voice.merui.net/en/hero3065_mainvoc/play_hero3065_mainvoc_18.ogg"
+            },
             "Deployment": {
-                "transcription": "M-me?\u00a0Okay,\u00a0on\u00a0my\u00a0way\u00a0...",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_55.ogg"
+                "transcription": "Oh, were you looking for me? Here I am!",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_19.ogg"
             },
             "Pre-Battle": {
-                "transcription": "I'll\u00a0try\u00a0my\u00a0best\u00a0...",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_56.ogg"
+                "transcription": "I'll ... I'll do my best!",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_20.ogg"
             },
             "Select Incantation I": {
-                "transcription": "Hmm\u00a0...\u00a0Let\u00a0me\u00a0see.",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_57.ogg"
+                "transcription": "This book?",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_21.ogg"
             },
             "Select Incantation II": {
-                "transcription": "Everything's\u00a0packed,\u00a0I\u00a0think\u00a0...",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_58.ogg"
+                "transcription": "Or this one?",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_22.ogg"
             },
             "Select 3-star Incantation": {
-                "transcription": "There's\u00a0a\u00a0first\u00a0time\u00a0for\u00a0everything.",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_59.ogg"
+                "transcription": "Are we really doing this ...?",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_23.ogg"
             },
             "Select Ultimate": {
-                "transcription": "You\u00a0can\u00a0do\u00a0this,\u00a0Marcus!",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_60.ogg"
+                "transcription": "You can do this, Marcus!",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_24.ogg"
             },
             "Cast Arcane Skill I": {
-                "transcription": "Write\u00a0faster!",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_62.ogg"
+                "transcription": "To transcribe \u2026",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_26.ogg"
             },
             "Cast Arcane Skill II": {
-                "transcription": "I\u00a0need\u00a0to\u00a0find\u00a0some\u00a0shade\u00a0...",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_64.ogg"
+                "transcription": "I-I can't read it ...",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_28.ogg"
             },
             "Cast Ultimate": {
-                "transcription": "This\u00a0place\u00a0is\u00a0a\u00a0real\u00a0page-turner!",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_65.ogg"
+                "transcription": "Mm \u2026 And now it's easier to understand!",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_29.ogg"
             },
             "Attacked I": {
-                "transcription": "You\u00a0splashed\u00a0my\u00a0book!",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_66.ogg"
+                "transcription": "Careful with the pages!",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_30.ogg"
             },
             "Attacked II": {
-                "transcription": "You\u00a0got\u00a0sand\u00a0between\u00a0the\u00a0pages!",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_67.ogg"
+                "transcription": "Um, did I miss something?",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_31.ogg"
             },
             "Battle Victory": {
-                "transcription": "It's\u00a0fun\u00a0to\u00a0read\u00a0on\u00a0the\u00a0beach,\nbut\u00a0now\u00a0I'm\u00a0seeing\u00a0spots\u00a0...",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_68.ogg"
+                "transcription": "Reading complete! Was I helpful, Timekeeper ...?",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_32.ogg"
             },
             "Insight": {
-                "transcription": "You're\u00a0right.\u00a0It's\u00a0nice\u00a0to\u00a0put\u00a0down\u00a0the\u00a0books\u00a0now\u00a0and\u00a0then\u00a0and\u00a0see\u00a0the\u00a0world\u00a0with\u00a0your\u00a0own\u00a0eyes.",
-                "path": "https://voice.merui.net/en/hero306503_vo_skin/play_hero306503_fightingvoc_70.ogg"
+                "transcription": "Yes! A brand new chapter for me!",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_34.ogg"
+            },
+            "Bottom of Insight": {
+                "transcription": "Oh, thank you! I will double my efforts!\nI'll even double the size of my case!",
+                "path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_33.ogg"
             }
         }
     },
@@ -18933,57 +19233,133 @@
         ],
         "otherName": "\u041b\u0438\u043b\u044f",
         "voicelines": {
+            "First Encounter": {
+                "transcription": "As long as you watch my flight once, you will never forget my name.\nI am Lilya. In other words, I am your Goddess of Victory.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_01.ogg"
+            },
+            "Suitcase Climate": {
+                "transcription": "The wind ... It's most comfortable now. Let's take off!",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_02.ogg"
+            },
+            "To the Future": {
+                "transcription": "I'm not sure what's going on now, but it would be nice to soar into the air.\nWe will need your help. Take us to the future, will you?",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_03.ogg"
+            },
+            "Idle": {
+                "transcription": "Oh? Oh ...! Hey ... \u0417\u0434\u0440\u0430\u0301\u0432\u0441\u0442\u0432\u0443\u0439?\nCan anyone hear my voice? Any man alive?",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_04.ogg"
+            },
+            "Greetings": {
+                "transcription": "Don't be in and out. You're bugging me.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_05.ogg"
+            },
+            "Morning": {
+                "transcription": "Good morning, Mr. Golden Sun!",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_06.ogg"
+            },
+            "Bond: Morning": {
+                "transcription": "Come and tell me what dreams you had yesterday.\nNo one cares about your dreams though.\nI just want to listen to something for breakfast to shatter the boredom.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_07.ogg"
+            },
+            "Night": {
+                "transcription": "Go. Don't be annoying. I am going to take care of my lady Su-01\u0432\u0435 now.\nYou want to help? What if you break it?",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_08.ogg"
+            },
+            "Bond: Night": {
+                "transcription": "There's still a vacancy behind me on my broomstick. Would you like to ride together?\nOf course, if you dare to vomit on my back, I won't spare you.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_09.ogg"
+            },
+            "Hat and Hair": {
+                "transcription": "You should be grateful that I am too lazy to move now.\nOr you should know the first-class pilot's got a first-class head-butt, too.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_10.ogg"
+            },
+            "Sleeves and Hands": {
+                "transcription": "You must learn to control your wrist first to ride a broomstick ...\nYou know, there are many recruits who break their legs every year.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_11.ogg"
+            },
+            "Clothing and Torso": {
+                "transcription": "Feel awesome? Now it's my turn to pet you.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_12.ogg"
+            },
+            "Hobby": {
+                "transcription": "If you haven't tried Kholodets with \u0431\u043b\u0438\u043d, you've never really lived.\nCome here! I will show you the real Russian style.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_13.ogg"
+            },
+            "Praise": {
+                "transcription": "How can anyone not know how to appreciate Su-01\u0432\u0435!\nLook at her elegant lines. Look at her wonderful propulsion system.\nListen to her operation. It is music from heaven.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_14.ogg"
+            },
+            "Intimacy": {
+                "transcription": "Hasn't the flight been approved yet? Forget it. Sit in your seat.\nI will lift your body up, and make sure you look like flying in the air ...",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_15.ogg"
+            },
+            "Chitchat I": {
+                "transcription": "If all the rules of the flight manual shall be followed, I'd rather take the train.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_16.ogg"
+            },
+            "Chitchat II": {
+                "transcription": "\u041d\u0435 \u0441\u043b\u044b\u0448\u043d\u044b \u0432 \u0441\u0430\u0434\u0443 \u0434\u0430\u0436\u0435 \u0448\u043e\u0440\u043e\u0445\u0438\n\u0412\u0441\u0451 \u0437\u0434\u0435\u0441\u044c \u0437\u0430\u043c\u0435\u0440\u043b\u043e \u0434\u043e \u0443\u0442\u0440\u0430\n\u0415\u0441\u043b\u0438 \u0431 \u0437\u043d\u0430\u043b\u0438 \u0432\u044b, \u043a\u0430\u043a \u043c\u043d\u0435 \u0434\u043e\u0440\u043e\u0433\u0438\n\u041f\u043e\u0434\u043c\u043e\u0441\u043a\u043e\u0432\u043d\u044b\u0435 \u0432\u0435\u0447\u0435\u0440\u0430.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_17.ogg"
+            },
+            "Monologue": {
+                "transcription": "I like the feeling of flying high at the highest speed.\nI can split the air like a knife.\nNothing could catch me, they can only see my red shadow.",
+                "path": "https://voice.merui.net/en/mianvoc_hero3004/play_mianvoc_hero3004_18.ogg"
+            },
             "Deployment": {
-                "transcription": "That's right, I'm still your ref.",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_55.ogg"
+                "transcription": "No wingman is needed.",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_19.ogg"
             },
             "Pre-Battle": {
-                "transcription": "Let's see who will be the champion!",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_56.ogg"
+                "transcription": "Look at my back.",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_20.ogg"
             },
             "Select Incantation I": {
-                "transcription": "No fighting!",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_57.ogg"
+                "transcription": "Fine.",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_21.ogg"
             },
             "Select Incantation II": {
-                "transcription": "We have an emergency!",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_58.ogg"
+                "transcription": "Wanna watch the aerial stunts?",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_22.ogg"
             },
             "Select 3-star Incantation": {
-                "transcription": "*engine rumbling*",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_59.ogg"
+                "transcription": "\u0425\u043e\u0440\u043e\u0448\u043e!",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_23.ogg"
             },
             "Select Ultimate": {
-                "transcription": "\u0411\u0435\u0440\u0435\u0433\u0438\u0441\u044c, \u0430 \u0442\u043e \u044f \u0441\u0432\u0435\u0434\u0443 \u0442\u0432\u043e\u0439 \u0441\u0447\u0435\u0442 \u043a \u043d\u0443\u043b\u044e.",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_60.ogg"
+                "transcription": "\u0412\u0414\u0412 \u2013 \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u0431\u0435\u0434!",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_24.ogg"
             },
             "Cast Arcane Skill I": {
-                "transcription": "First warning.",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_62.ogg"
+                "transcription": "Right wind!",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_26.ogg"
             },
             "Cast Arcane Skill II": {
-                "transcription": "No cheating. Got it?",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_64.ogg"
+                "transcription": "... Oh oh.",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_28.ogg"
             },
             "Cast Ultimate": {
-                "transcription": "Red card! Off the track!",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_65.ogg"
+                "transcription": "Swallow my exhaust!",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_29.ogg"
             },
             "Attacked I": {
-                "transcription": "\u042d\u0439 \u0441\u043b\u0435\u0434\u0438 \u0437\u0430 \u0434\u043e\u0440\u043e\u0433\u043e\u0439!",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_66.ogg"
+                "transcription": "Haven't you eaten?",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_30.ogg"
             },
             "Attacked II": {
-                "transcription": "Humph!",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_67.ogg"
+                "transcription": "Chi!",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_31.ogg"
             },
             "Battle Victory": {
-                "transcription": "More exciting than flying over the Foundation, eh?",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_68.ogg"
+                "transcription": "Hah ... Red-38 is about to return.",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_32.ogg"
             },
             "Insight": {
-                "transcription": "I don't mean to brag, but I'll be stealing the champion's thunder before long.",
-                "path": "https://voice.merui.net/en/hero300404_vo_skin/play_hero300404_fightingvoc_70.ogg"
+                "transcription": "Limit? Still a long way off. Go ahead.",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_34.ogg"
+            },
+            "Bottom of Insight": {
+                "transcription": "Well done. Now I will bring countless victories as red flash.\nYou ... you made the right choice. I'll give you half of the medals.\nThank me for being generous.",
+                "path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_33.ogg"
             }
         }
     },
