@@ -1,5 +1,5 @@
 import { useState } from "react"
-import characterData from "./assets/complete.json"
+import characterData from "./assets/data.json"
 import type Character from "./types/Character"
 
 type onSelectFunction = (c: Character) => any
@@ -9,7 +9,7 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 	const [query, setQuery] = useState("")
 
 	const subset: Array<Character> = Object.values(characterData).filter((data) => {
-		return data.name.toLowerCase().startsWith(query.toLowerCase())
+		return data["Name"].toLowerCase().startsWith(query.toLowerCase())
 	})
 
 	return (
@@ -34,8 +34,8 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 										onSelect(character)
 										setQuery("")
 									}}>
-									<img src={character.image} style={{ height: "72px" }}></img>
-									{character.name}
+									<img src={character["Image"]} style={{ height: "72px" }}></img>
+									{character["Name"]}
 								</div>
 							)}
 						</div>

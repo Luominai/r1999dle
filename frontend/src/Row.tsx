@@ -37,15 +37,14 @@ export default function Row({ character, correctness }: RowProps) {
       <tr className="row">
         <th scope="row">
           <div>
-            <img src={character.image} className="cell"></img>
+            <img src={character["Image"]} className="cell"></img>
           </div>
         </th>
-        <td className="cell">{character.name}</td>
-        <td className="cell">{character.release}</td>
-        <td className="cell">{character.afflatus}</td>
-        <td className="cell">{character.damage === "Real" ? "Reality" : character.damage}</td>
+        <td className="cell">{character["Version"]}</td>
+        <td className="cell">{character["Afflatus"]}</td>
+        <td className="cell">{character["DMG Type"] === "Real" ? "Reality" : character["DMG Type"]}</td>
         <td className="cell">
-          {character.tags.map((tag) =>
+          {character["Tags"].map((tag) =>
             <div key={tag} style={{
               display: "flex",
               alignItems: "center",
@@ -63,31 +62,26 @@ export default function Row({ character, correctness }: RowProps) {
     <tr className="row">
       <th scope="row" style={{ backgroundColor: correctness.image ? green : red }}>
         <div>
-          <img src={character.image} className="cell"></img>
+          <img src={character["Image"]} className="cell"></img>
         </div>
       </th>
-      <td className="cell" style={{ backgroundColor: correctness.name ? green : red }}>{character.name}</td>
+      <td className="cell" style={{ backgroundColor: correctness.name ? green : red }}>{character["Name"]}</td>
       <td className="cell" style={{
         backgroundColor: correctness.release === 0 ? green
           : red
-      }}>{character.release.map((str) => {
-        const date = toDate(str)
-        return (
-          <div>
-            {date.toDateString().split(" ").slice(1).join(" ")}
-          </div>
-        )
-      })}</td>
+      }}>{
+        character["Version"]
+      }</td>
       <td className="cell" style={{
         backgroundColor: correctness.afflatus ? green : red
-      }}>{character.afflatus}</td>
-      <td className="cell" style={{ backgroundColor: correctness.damage ? green : red }}>{character.damage === "Real" ? "Reality" : character.damage}</td>
+      }}>{character["Afflatus"]}</td>
+      <td className="cell" style={{ backgroundColor: correctness.damage ? green : red }}>{character["DMG Type"] === "Real" ? "Reality" : character["DMG Type"]}</td>
       <td className="cell" style={{
         backgroundColor: correctness.tags === 1 ? green
           : correctness.tags === 0 ? yellow
             : red
       }}>
-        {character.tags.map((tag) =>
+        {character["Tags"].map((tag) =>
           <div style={{
             display: "flex",
             alignItems: "center",

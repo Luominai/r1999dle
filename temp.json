@@ -166,7 +166,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/314701.webp",
         "Era": "20th century",
-        "Location": "Iceland",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "We're well past introductions, Timekeeper, but I'm grateful to do so again with a name of my own.\nI'm Ms. Stranger, though I'm glad you've welcomed me here not as a stranger but as a friend.",
@@ -315,7 +315,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/314601.webp",
         "Era": "1930s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Vertin! I knew you'd catch up!\nDoes that mean you'll join us in our adventures?\nWait ... It's more like the other way around, isn't it? Since you're taking us wherever you go.",
@@ -469,7 +469,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/314501.webp",
         "Era": "1990s",
-        "Location": "Poland",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "When the wind began to stir, mother rose and wandered afar.\nThat Spinning Wheel has a familiar glow ... Warm. Bright.\nLike the sunlight that used to fall from the dome.",
@@ -619,7 +619,7 @@
         "Alpha": "Coppelia",
         "Image": "https://assets.merui.net/character/headicon_middle/314401.webp",
         "Era": "1930s",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "You saved me a room here ...? What do you mean \"saved\"?\n... You mean I'm free to stay or leave whenever I like?\nHmm, are you a Timekeeper or an innkeeper?",
@@ -770,7 +770,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/314301.webp",
         "Era": "1990s",
-        "Location": "Germany",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "No need for further introductions, Timekeeper.\nNow that I'm here, our cooperation is 200% confirmed.\nSo, if you don't mind, I'd like to hear your plan so the LSCC can prepare their next steps.",
@@ -920,7 +920,7 @@
         "Alpha": "",
         "Image": "https://assets.merui.net/character/headicon_middle/314201.webp",
         "Era": "early 20th century",
-        "Location": "Mexico",
+        "Location": "Central America",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Never figured that I'd be summoned by a spinning wheel one day.\nThat's a whole new kind of bizarre. Compared to that, this Suitcase of yours is almost normal ...",
@@ -1072,7 +1072,7 @@
         "Alpha": "L\u00f9s\u012b Ji\u01cen",
         "Image": "https://assets.merui.net/character/headicon_middle/314101.webp",
         "Era": "late 14th century",
-        "Location": "China",
+        "Location": "East Asia",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Oooof, that was quite a spin ...\nWell now, would you look at you? Time truly does gallop like a wild horse, eh?\nI am Paper Heron, humble Daoist, wanderer\u2014and very glad to make your acquaintance.",
@@ -1229,7 +1229,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/314001.webp",
         "Era": "1990s",
-        "Location": "Poland",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "A pleasure to finally meet you, Timekeeper. I'm Cornerstone, the Foundation's architect.\nAh, straight to the handshake\u2014I like it.\nSo, what do you need doing? I'll get it done and then some.",
@@ -1380,7 +1380,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/313901.webp",
         "Era": "1990s",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "You spin the wheel in the primordial waters of the lake, and here I appear in an instant.\nPerhaps this simple tool is how fate is woven\u2014the purest form of arcanum.",
@@ -1678,7 +1678,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/313701.webp",
         "Era": "early 17th century",
-        "Location": "China",
+        "Location": "East Asia",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Since I've renounced my role, you needn't address me by any title. Please, call me Cheng.\nThis is a beautiful place ... The lake mirrors the mountains, just as they do in my hometown.\nA hidden paradise indeed.\nMy apologies for troubling you with a lengthy stay. You have my sincerest thanks!",
@@ -1827,7 +1827,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/313601.webp",
         "Era": "1910s",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Oh, oh my! Thank God you let me stay here ... No, indeed, thank YOU, Timekeeper!\nLook at this place! Isn't it the perfect spot for a frame? This is beyond even my wildest imagination ...",
@@ -1979,7 +1979,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/313501.webp",
         "Era": "1930s",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "If anyone here needs a lift, you know who to call!\nI may not have driven much outside of Paris, but if I can survive those roundabouts,\nI can handle just about anything.\nJust tell me where to go, and consider it done.",
@@ -2301,7 +2301,7 @@
         "Alpha": "Iglika",
         "Image": "https://assets.merui.net/character/headicon_middle/313201.webp",
         "Era": "1910s",
-        "Location": "Oreinósia",
+        "Location": "Balkans",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I am fully aware that I'm a guest here. So please, go ahead and conduct your identity check.",
@@ -2449,7 +2449,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/312801.webp",
         "Era": "early 20th century",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "What you're looking at is only a vessel of memories, a dead man following his duty,\na witness to the emptiness and the void that comes after war.",
@@ -2600,7 +2600,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/312701.webp",
         "Era": "1896",
-        "Location": "Germany",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "This Suitcase of yours ... You carried it through the fires of war, yet inside it is a place of joy and comfort.\nThat fact alone fills me with wonder.",
@@ -2751,7 +2751,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/312601.webp",
         "Era": "early 20th century",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Je vous salue, Timekeeper. May our cooperation be a pleasant one.\nYou needst not worry about my accommodations\u2014\nlittle more could I ask for but the peace and quiet of your suitcase.",
@@ -3053,7 +3053,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/312401.webp",
         "Era": "431 BCE",
-        "Location": "Sparta",
+        "Location": "Balkans",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I am the misthios, Kassandra of Sparta. Name your request, and I will do all that I can.\nProvided you have the Drachma.",
@@ -3221,7 +3221,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/312301.webp",
         "Era": "late 15th century",
-        "Location": "Florence",
+        "Location": "Italy",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Agiamo nell'ombra per servire la luce.\nWe are Assassins.",
@@ -3371,7 +3371,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/312201.webp",
         "Era": "431 BCE",
-        "Location": "Sparta",
+        "Location": "",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I have been chosen by destiny to bring order to this world.\nThere are only two choices available to you:\nfollow me and rule or stand against me and perish. Choose wisely.",
@@ -3523,7 +3523,7 @@
         "Alpha": "Moldir Erasylovna Ulanova",
         "Image": "https://assets.merui.net/character/headicon_middle/312101.webp",
         "Era": "1990s",
-        "Location": "Kazakhstan",
+        "Location": "East Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I understand it isn't easy for us to place our trust in one another, Timekeeper.\nBut you have my word\u2014I will not speak of this place to anyone, not even my father.\nThis collaboration remains strictly between you and me.",
@@ -3673,7 +3673,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/312001.webp",
         "Era": "1990s",
-        "Location": "Norway",
+        "Location": "Northern Europe",
         "Voicelines": {
             "Lobby Entrance": {
                 "Transcription": "The first maps actually came from stories,\nyou know\u2014about hidden streams, huge glaciers, and endless water.\nAnd the first adventurers? They believed these stories\u2014and they wanted to prove it. That's why they set out to see the world.",
@@ -3840,7 +3840,7 @@
         "Other2": "\u041b\u0435\u043e\u043d\u0438\u0434",
         "Image": "https://assets.merui.net/character/headicon_middle/311801.webp",
         "Era": "1980s",
-        "Location": "USSR",
+        "Location": "East Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Oh, hey. We've already met before at the Foundation.\nI'm not here on a mission at the moment, so relax.\nBut do let me know if you need help with anything.",
@@ -3991,7 +3991,7 @@
         "Alpha": "Alina Medvedeva",
         "Image": "https://assets.merui.net/character/headicon_middle/311701.webp",
         "Era": "1980s",
-        "Location": "USSR",
+        "Location": "East Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "In the Utrennyaya we have something called a \"suitcase trick.\"\nWe would put a suitcase down over a hidden trapdoor,\nand one by one we'd disappear into it. The audience loved it ...\nThis trick though, is much, much better. Do we all leave from the suitcase as well?",
@@ -4141,7 +4141,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/311601.webp",
         "Era": "1980s",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "It's a pleasure to meet you, Ms. Vertin. I'm certain we'll work well together.\n<Ask her about the free snacks!>\nDon't be rude ... You know, boss, I've got a bit of a sweet tooth ...\n<Hiss!>",
@@ -4440,7 +4440,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/311401.webp",
         "Era": "1990s",
-        "Location": "Chile",
+        "Location": "South America",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Fabuloso!\nNow I have an experience even more noteworthy than spending two weeks hiding out in a university bathroom\n\u2014being carried around in a suitcase!",
@@ -4888,7 +4888,7 @@
         "Alpha": "Fei Lam Si Do",
         "Image": "https://assets.merui.net/character/headicon_middle/311101.webp",
         "Era": "1990s",
-        "Location": "China",
+        "Location": "East Asia",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "A small world compressed in a suitcase, the changing daylight and background scenery ...\nI like this setting. Isn't this very much like a scene from a movie?\nThe moment our two protagonists meet each other for the first time?",
@@ -5037,7 +5037,7 @@
         "Other Name": "\u6881\u6708",
         "Image": "https://assets.merui.net/character/headicon_middle/311001.webp",
         "Era": "1990s",
-        "Location": "China",
+        "Location": "East Asia",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Number 007405, Liang Yue reporting for duty. Ma'am, please allow me to handle any investigations,\nfrom surveying crime scenes to hunting down perpetrators.\nOh, you want to be friends? I see. Then I will adjust my mindset.",
@@ -5194,7 +5194,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/310901.webp",
         "Era": "1990s",
-        "Location": "Nukutaeao",
+        "Location": "Oceania",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Thank you for letting me stay here!\nHope it's not too much trouble for you. I'll move out as soon as I find a place to settle with my people ...\nSomewhere we can really call home.\nReally? You're letting me keep the keys?",
@@ -5645,7 +5645,7 @@
         "Other Name": "Slouch Hat",
         "Image": "https://assets.merui.net/character/headicon_middle/310601.webp",
         "Era": "1930s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Good to see you again, mate!\nSee this outfit here? It memorializes a great adventure.\nI thought it fitting as I'm headed on a new journey with you!\nI'm ready and willing, just as always!",
@@ -5796,7 +5796,7 @@
         "Other Name": "Liberti",
         "Image": "https://assets.merui.net/character/headicon_middle/310501.webp",
         "Era": "1930s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hello. Call me Flutterpage. I used to live in Millwall with my mum and dad and sister ...\nBut that don't matter no more, does it?",
@@ -5945,7 +5945,7 @@
         "Other Name": "Charlotte O'Hagan",
         "Image": "https://assets.merui.net/character/headicon_middle/310401.webp",
         "Era": "1930s",
-        "Location": "Ireland",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "So, you all live in a suitcase, eh?\nOf course, I understand that the Foundation\nhas more urgent needs than finding a proper place to house their employees.",
@@ -6094,7 +6094,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/310301.webp",
         "Era": "1990s",
-        "Location": "Brazil",
+        "Location": "South America",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Ol\u00e1, kid! It's me, Duncan, your old friend!",
@@ -6245,7 +6245,7 @@
         "Other Name": "Carlotta Lopez Rivera",
         "Image": "https://assets.merui.net/character/headicon_middle/310201.webp",
         "Era": "1990s",
-        "Location": "Colombia",
+        "Location": "South America",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "This place brings back memories of my old house ...\nSay, does this place have a retirement wing?\nThen it'd be a one-stop nostalgia station for me! Haha ...",
@@ -6395,7 +6395,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/310101.webp",
         "Era": "mid 17th century",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Listen well, matey. I'm not one of those jabbering ship toys you find in a water park souvenir shop\u2014\nI'm the real deal.",
@@ -6710,7 +6710,7 @@
         "Other Name": "Dolly",
         "Image": "https://assets.merui.net/character/headicon_middle/309901.webp",
         "Era": "1990s",
-        "Location": "Scotland",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I'm Barbara, an editor at\u00a0UTTU\u00a0magazine. It's an honor to join your team, Ms. Vertin.\nUmm ... may I take a look around?",
@@ -7605,7 +7605,7 @@
         "Alpha": null,
         "Image": "https://assets.merui.net/character/headicon_middle/309201.webp",
         "Era": "early 20th century",
-        "Location": "USSR",
+        "Location": "East Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "If I may, Timekeeper, you could've made good use of this Suitcase to change the game,\nrather than merely hiding from the rain.\nThat is something I've longed for\u2014a shelter from the \"Storm\" for my army.",
@@ -7753,7 +7753,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/309101.webp",
         "Era": "early 20th century",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "You called my name, did you not? I heard you before ... a long, long time ago.\nThe conch shell whispered to me when I was little. Your voice was there, among many others.\n... How nice, Vertin.",
@@ -7904,7 +7904,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/308801.webp",
         "Era": "1990s",
-        "Location": "Hungary",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hello, Timekeeper. I have long heard of your stories. Hopefully my visit won't trouble you too much ...\nBut perhaps for you, this isn't much trouble.",
@@ -8054,7 +8054,7 @@
         "Other Name": "\u0412\u0438\u043b\u0430",
         "Image": "https://assets.merui.net/character/headicon_middle/308701.webp",
         "Era": "1990s",
-        "Location": "Rayashki",
+        "Location": "Arctic",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Thank you for inviting me, Ms. Vertin. A typical room is more than fine ...\nOh, by the way, do you happen to have a swimming pool here?",
@@ -8202,7 +8202,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/308601.webp",
         "Era": "1820s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "A hand-operated spinning wheel half drenched in water ...\nThis indicates a low level of technological development here.\nDo not worry, Timekeeper, I am equipped with 15 adaptive plugs suitable for any situation.\nI will start by running the drainage program ...",
@@ -8376,7 +8376,7 @@
         "Other Name": "\u845b\u5929",
         "Image": "https://assets.merui.net/character/headicon_middle/308401.webp",
         "Era": "220",
-        "Location": "China",
+        "Location": "East Asia",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I have cast an incantation on you.\nIt allows us to communicate and exchange our names as the code of etiquette requires.\nI'm Getian.",
@@ -8525,7 +8525,7 @@
         "Other Name": "\u66f2\u5a18",
         "Image": "https://assets.merui.net/character/headicon_middle/308301.webp",
         "Era": "Unknown",
-        "Location": "China",
+        "Location": "East Asia",
         "Voicelines": {
             "Lobby Entrance": {
                 "Transcription": "*yawns*\nI can have whatever I need at any time here, the rainwater, the fruits.\nThough I have a shelter in town, the life there is not as cozy as what I'm living now.",
@@ -8677,7 +8677,7 @@
         "Other Name": "\u0415\u043d\u0438\u0441\u0435\u0439",
         "Image": "https://assets.merui.net/character/headicon_middle/308201.webp",
         "Era": "early 19th century",
-        "Location": "Russia",
+        "Location": "East Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Greetings. *gasps because of coldness*\nI don't think I will ever get used to the coldness of water when I'm not performing divination.",
@@ -8827,7 +8827,7 @@
         "Other Name": "Isolde von Dittarsdorf",
         "Image": "https://assets.merui.net/character/headicon_middle/308101.webp",
         "Era": "20th century",
-        "Location": "Austria-Hungary",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Thank you for your generosity, miss.\nI think I'll stay here for a few days ...\nOh? You prepared a room for me?\nSo you did. Look how ... dainty it is. I am grateful.",
@@ -8975,7 +8975,7 @@
         "Other Name": "Klara Vingler",
         "Image": "https://assets.merui.net/character/headicon_middle/308001.webp",
         "Era": "early 20th century",
-        "Location": "Austria-Hungary",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "A suitcase immune to the \"Storm\" ... It's ... Yes, it's a wonderful idea.\nAnd so comfortable and spacious too ... It could save many lives.",
@@ -9127,7 +9127,7 @@
         "Alpha": "Six",
         "Image": "https://assets.merui.net/character/headicon_middle/307901.webp",
         "Era": "1980s",
-        "Location": "Apeiron",
+        "Location": "Balkans",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "A spinning wheel is meant to turn around, just like fate is bound to happen.\nIn many cases, we don't have a choice.",
@@ -9276,7 +9276,7 @@
         "Other Name": "\u0410\u0432\u043a\u0441\u0438\u0432\u0438\u0439",
         "Image": "https://assets.merui.net/character/headicon_middle/307801.webp",
         "Era": "1990s",
-        "Location": "Rayashki",
+        "Location": "Arctic",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "So Ms. Suitcase Keeper, are you the quiet type in this group too?",
@@ -9425,7 +9425,7 @@
         "Other Name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
         "Image": "https://assets.merui.net/character/headicon_middle/307701.webp",
         "Era": "1990s",
-        "Location": "Transnistria",
+        "Location": "East Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "When we shake hands, we enter a relationship like that of two intersecting lines.\nIt's a pleasure to work with you, Ms. Timekeeper.",
@@ -9574,7 +9574,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/307601.webp",
         "Era": "Unknown",
-        "Location": "Australia",
+        "Location": "Oceania",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "There's also a room for me?\nBut it's hardly the best arrangement, given that\nI don't need a room and my stay may pose a fire hazard.\nPlease, an airy fireplace will suit me just fine.",
@@ -9722,7 +9722,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/307501.webp",
         "Era": "1990s",
-        "Location": "Australia",
+        "Location": "Oceania",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Paychecks assured, pets allowed, full board, safety insurance ...\nOh, and even regular travel?\nThe career benefits you provide are much better than what Laplace offers.",
@@ -9873,7 +9873,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/307401.webp",
         "Era": "1990s",
-        "Location": "Australia",
+        "Location": "Oceania",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Ms. Vertin, it's a great honor that you invite me, a human, here in your suitcase.\nI do enjoy seeing old friends, and I am more than happy to meet new friends.",
@@ -10022,7 +10022,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/307301.webp",
         "Era": "1990s",
-        "Location": "Australia",
+        "Location": "Oceania",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Yoohoo! I ran here as fast as I could, right after today's training!\nYou said there would be a new doorplate for my room. What is it like?\nOh, wait, let me guess. Is it like a ball of fire or a rainbow?",
@@ -10171,7 +10171,7 @@
         "Other Name": "Pushya Sharma",
         "Image": "https://assets.merui.net/character/headicon_middle/307201.webp",
         "Era": "1960s",
-        "Location": "India",
+        "Location": "South Asia",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Huh, what is this place?\nTsk-tsk, the serene lake, and the clear horizon at the end of the vast treeless plain ...\nI would have thought I was back in the good old mountains if I didn't see you here.\nAlright, do you mind showing me around, my grave-looking friend?",
@@ -10320,7 +10320,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/307101.webp",
         "Era": "1960s",
-        "Location": "India",
+        "Location": "South Asia",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I'm Kanjira, and this is Punji! I hope you're not afraid of her ... Wow ... This place is sooo cool!",
@@ -10469,7 +10469,7 @@
         "Other Name": "Black Dwarf",
         "Image": "https://assets.merui.net/character/headicon_middle/307001.webp",
         "Era": "1960s",
-        "Location": "India",
+        "Location": "",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Most star scryers won't read their own future.\nWe are supposed to remain philosophical about almost everything, either good or bad ...\nBut I broke the rule. Or say, I've seen it coming.",
@@ -10621,7 +10621,7 @@
         "Alpha": "Thirty-Seven",
         "Image": "https://assets.merui.net/character/headicon_middle/306601.webp",
         "Era": "1990s",
-        "Location": "Apeiron",
+        "Location": "Balkans",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "The Mandelbrot set ...\nThat's right! It's just like the island! I'm a part of the set, just as I'm a part of the island.",
@@ -10770,7 +10770,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/306501.webp",
         "Era": "early 20th century",
-        "Location": "Romania",
+        "Location": "Unknown",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Greetings, Marcus here!\nI've heard a lot about you from a ... special ... someone ...\nYour collection is something I can't wait to get my hands on!\nSo here's my ID, employment certificate, transfer records, medical report, and ...\nHuh? You don't need these?",
@@ -10918,7 +10918,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/306401.webp",
         "Era": "1960s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Ladies and gentlemen, before you stands the great-artist-to-be,\nthe voice of peace, the adversary of banality and violence. I give you -- Diggers!",
@@ -11067,7 +11067,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/306301.webp",
         "Era": "1960s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "(You smell like a friend.)\n(Before you pat me on the head,)\n(could you please try and tell me, does every species have the same kind of soul?)\n\"Instead of a pat on the head, the puppy prefers a handshake like a friend.\"",
@@ -11215,7 +11215,7 @@
         "Other Name": "Melania Ramirez",
         "Image": "https://assets.merui.net/character/headicon_middle/306201.webp",
         "Era": "1960s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "An unexpected encounter ... A room, a frame, and an old TV ...\nI need some time to figure out the situation here, approximately 12 minutes and 31 seconds ...",
@@ -11804,7 +11804,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/305801.webp",
         "Era": "1980s",
-        "Location": "Norway",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Welcome to sail with us!\nWell, now, go to the back of the ship and make it move! Don't be dawdling!",
@@ -11952,7 +11952,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/305701.webp",
         "Era": "1990s",
-        "Location": "Germany",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "It's my pleasure to meet you, my fellow.",
@@ -12100,7 +12100,7 @@
         "Other Name": "Changeling",
         "Image": "https://assets.merui.net/character/headicon_middle/305601.webp",
         "Era": "1990s",
-        "Location": "Ireland",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hello, dear friend. From now on, we can be together all the time.\nI thought of many things we can do. Firstly ...\nlet's roll in the grass!",
@@ -12248,7 +12248,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/305501.webp",
         "Era": "1950s",
-        "Location": "USSR",
+        "Location": "East Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hi, I am Sputnik-1's ... twin sister.\nNo, no, no, I don't know her.",
@@ -12537,7 +12537,7 @@
         "Other Name": "Dr. Campbell",
         "Image": "https://assets.merui.net/character/headicon_middle/305301.webp",
         "Era": "1990s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hello, I think we have been acquainted.\n... I am responsible for your teeth, every night you fall asleep.",
@@ -13276,7 +13276,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/304801.webp",
         "Era": "mid 20th century",
-        "Location": "USSR",
+        "Location": "Unknown",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Heh heh ...",
@@ -13864,7 +13864,7 @@
         "Other Name": "Hannah Geier",
         "Image": "https://assets.merui.net/character/headicon_middle/304401.webp",
         "Era": "early 20th century",
-        "Location": "Germany",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hello, Ms. Timekeeper. We're a team now.\nIf you encounter any difficulties with your assignment or the study of arcanum,\nplease feel free to ask me any questions, just as Ms. Sotheby does.",
@@ -14013,7 +14013,7 @@
         "Other Name": "Ada Tennant",
         "Image": "https://assets.merui.net/character/headicon_middle/304301.webp",
         "Era": "1940s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Greetings to you, fair lady, may I present you a rose?\nOh, seems like you won't fall for this cheap flattery. I'm ashamed.",
@@ -14161,7 +14161,7 @@
         "Other Name": "Adam Mi\u0142osz",
         "Image": "https://assets.merui.net/character/headicon_middle/304201.webp",
         "Era": "1940s",
-        "Location": "Poland",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Purrrrrrr ... Ra ... bies ... Rabies ...",
@@ -14310,7 +14310,7 @@
         "Other Name": "Matilda Bouanich",
         "Image": "https://assets.merui.net/character/headicon_middle/304101.webp",
         "Era": "1990s",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hey, why are you here?\n... Wait, does it mean Sonetto is also ...",
@@ -14607,7 +14607,7 @@
         "Alpha": "Nai Maang Dik Si",
         "Image": "https://assets.merui.net/character/headicon_middle/303901.webp",
         "Era": "1990s",
-        "Location": "China",
+        "Location": "East Asia",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I'll take care of this case, thank you boss!\nI'm Nai Maang Dik Si, of course you'd better call me An'an. Let's make a fortune together!",
@@ -14755,7 +14755,7 @@
         "Other Name": "\u7690\u6708",
         "Image": "https://assets.merui.net/character/headicon_middle/303801.webp",
         "Era": "1910s",
-        "Location": "Japan",
+        "Location": "East Asia",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "\u306f\u3058\u3081\u307e\u3057\u3066\u3002\u3069\u3046\u305e\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002\nMs. ... Timekeeper, is it?",
@@ -14903,7 +14903,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/303701.webp",
         "Era": "1940s",
-        "Location": "Liechtenstein",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hello, I'm the Necrologist.\nI am adept at listening to and managing others' affairs.\nThis of course includes yours as well, whether in the present or perhaps, in the future.",
@@ -15196,7 +15196,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/303501.webp",
         "Era": "20th century",
-        "Location": "USA",
+        "Location": "Oceania",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Aloha! Welcome to ...\nOh, welcome me to your place!",
@@ -15780,7 +15780,7 @@
         "Other Name": "Hilma",
         "Image": "https://assets.merui.net/character/headicon_middle/303101.webp",
         "Era": "1940s",
-        "Location": "Sweden",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hello. Could you help me?\nOver there, please. Thank you.",
@@ -15927,7 +15927,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/303001.webp",
         "Era": "1850s",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Have you heard that story? A magical golden lamp,\nrub it 3 times and there was a genie, who can satisfy all your wishes?\nYes you say? Well then, go to that guy instead!",
@@ -16070,7 +16070,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/302801.webp",
         "Era": "1960s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "... Greetings, madam. I am here.",
@@ -16507,7 +16507,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/302501.webp",
         "Era": "mid 20th century",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Who's in front of you?\nHumph! The Admired Captain, The Coolest Radio DJ, The Genius Alchemist!\nHumph! Call me whatever you like.",
@@ -16654,7 +16654,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/302401.webp",
         "Era": "1960s",
-        "Location": "Germany",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Balloons ... you need some balloons here.\nThat's why I brought them. Say cheese.",
@@ -16950,7 +16950,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/302201.webp",
         "Era": "middle ages",
-        "Location": "France",
+        "Location": "Western Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Silence.\nSpeak. From whence dost thou hail and what is thy purpose?",
@@ -17100,7 +17100,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/302001.webp",
         "Era": "1980s",
-        "Location": "Germany",
+        "Location": "Central Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Are you a brave speaker?\nYou look like one ... Hmm, and sound like too.",
@@ -17248,7 +17248,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/301801.webp",
         "Era": "mid 20th century",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I'm Oliver Fog, special commissioner of the London Climate Management Agency.\nThree hours from getting off ... Ok, let's start.",
@@ -17396,7 +17396,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/301701.webp",
         "Era": "1650s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Ah! The troopers are here! Get out of ...\nHuh? You are not one of them? I am so, so sorry!",
@@ -17545,7 +17545,7 @@
         "Other Name": "Rebecca Jones",
         "Image": "https://assets.merui.net/character/headicon_middle/301601.webp",
         "Era": "early 20th century",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "I am ... Who am I? I don't know ...\nIt's okay, in Wonderland ... everyone is Alice ...",
@@ -17988,7 +17988,7 @@
         "Other Name": "Zima",
         "Image": "https://assets.merui.net/character/headicon_middle/301301.webp",
         "Era": "early 20th century",
-        "Location": "Russia",
+        "Location": "East Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435 ...\nNo, nothing ...\nThe name is ... on the paper ...\nPlease ... have a look ...",
@@ -18135,7 +18135,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/301201.webp",
         "Era": "1650s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Don't panic, my lord,\n<The chasing troopers are also part of the play.>",
@@ -18576,7 +18576,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/300901.webp",
         "Era": "early 20th century",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Hi! I am Sotheby. As you can see, I am an excellent and knowledgeable lady!\nHuh, that farmer ... he actually owns a whole group of bicorns!",
@@ -19018,7 +19018,7 @@
         "Other Name": "",
         "Image": "https://assets.merui.net/character/headicon_middle/300501.webp",
         "Era": "1590s",
-        "Location": "England",
+        "Location": "Northern Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "Good day! My name is Nick Bottom, the weaver in town.\nI've also acted in dramas. Let me play the lion. Let me play the hero ...\nAhaha, yes, yes, now I will but make an ass!",
@@ -19169,7 +19169,7 @@
         "Other Name": "\u041b\u0438\u043b\u044f",
         "Image": "https://assets.merui.net/character/headicon_middle/300401.webp",
         "Era": "late 20th century",
-        "Location": "USSR",
+        "Location": "East Europe",
         "Voicelines": {
             "First Encounter": {
                 "Transcription": "As long as you watch my flight once, you will never forget my name.\nI am Lilya. In other words, I am your Goddess of Victory.",

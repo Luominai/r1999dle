@@ -5,7 +5,7 @@ import Dropdown from './Dropdown'
 import type Character from './types/Character'
 import bg from "./assets/Hongshan_Forest_Zoo_Collab_Special_Art_01.webp"
 import Rand from 'rand-seed';
-import characterData from "./assets/complete.json"
+import characterData from "./assets/data.json"
 import Results from './Results'
 import { compare } from './utils'
 
