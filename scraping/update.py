@@ -108,7 +108,7 @@ def get_assets():
     # convert the image to webp and save
     im = Image.open(f"{assets_path}/{data[name]["ID"]}_temp.png")
     im.save(headicon_small, "WEBP")
-    data[name]["Icon_Small"] = f"https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/{data[name]["ID"]}01_headicon_small.webp"
+    data[name]["Icon_Small"] = f"https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/{data[name]["ID"]}01_headicon_small.webp"
     os.remove(f"{assets_path}/{data[name]["ID"]}_temp.png")
 
     # get the merui profile page of the character
