@@ -11,8 +11,7 @@ export default interface Character {
     Gender: string,
     Tags: Array<string>,
     Other_Name: string,
-    Image: string,
-    Icon: string,
+    Icon_Small: string,
     Voicelines: {
         First_Encounter: Voiceline,
         Suitcase_Climate: Voiceline,

@@ -98,6 +98,20 @@ def get_assets():
         return
 
     name = pool.pop()
+
+    # get character images based on id
+    assets_path = "frontend/src/assets/charicons"
+    headicon_small = f"{assets_path}/{data[name]["ID"]}01_headicon_small.webp"
+    with open(f"{assets_path}/{data[name]["ID"]}_temp.png", 'wb') as f:
+        f.write(requests.get(f"https://raw.githubusercontent.com/myssal/Reverse-1999-CN-Asset/refs/heads/master/singlebg/headicon_small/{data[name]["ID"]}01.png").content)
+    
+    # convert the image to webp and save
+    im = Image.open(f"{assets_path}/{data[name]["ID"]}_temp.png")
+    im.save(headicon_small, "WEBP")
+    data[name]["Icon_Small"] = f"https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/{data[name]["ID"]}01_headicon_small.webp"
+    os.remove(f"{assets_path}/{data[name]["ID"]}_temp.png")
+
+    # get the merui profile page of the character
     url = f"https://uttu.merui.net/profiles/{name}"
     print(url)
     text = requests.get(url).text
@@ -123,18 +137,6 @@ def get_assets():
             "Transcription": transcription,
             "Path": path
         }
-
-    # get character images based on id
-    assets_path = "frontend/src/assets/charicons"
-    headicon_small = f"{assets_path}/{data[name]["ID"]}01_headicon_small.webp"
-    with open(f"{assets_path}/{data[name]["ID"]}_temp.png", 'wb') as f:
-        f.write(requests.get(f"https://raw.githubusercontent.com/myssal/Reverse-1999-CN-Asset/refs/heads/master/singlebg/headicon_small/{data[name]["ID"]}01.png").content)
-    
-    # convert the image to webp and save
-    im = Image.open(f"{assets_path}/{data[name]["ID"]}_temp.png")
-    im.save(headicon_small, "WEBP")
-    data[name]["Icon"] = headicon_small
-    os.remove(f"{assets_path}/{data[name]["ID"]}_temp.png")
 
     get_assets()    
 

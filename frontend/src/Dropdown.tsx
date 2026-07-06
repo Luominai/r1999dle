@@ -34,7 +34,7 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 										onSelect(character)
 										setQuery("")
 									}}>
-									<img src={character.Icon} style={{ height: "72px" }}></img>
+									<img src={character.Icon_Small} style={{ height: "72px" }}></img>
 									{character.Name}
 								</div>
 							)}

@@ -18,6 +18,7 @@
         ],
         "Other_Name": "Eagle",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/315401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "It's really great to see you again, Ms. Vertin\u2014oh\u2014LSCC Intern Researcher Eagle, reporting in!\nI hope you still recognize me ... I've gotten a little taller.",
@@ -147,8 +148,7 @@
                 "Transcription": "Improved components and faster processors ... Thank you very much!\nI promise to put them to the very best use!",
                 "Path": "https://voice.merui.net/en/hero3154_vo/play_hero3154_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/315401_headicon_small.webp"
+        }
     },
     "ms._stranger": {
         "Era": "20th century",
@@ -166,6 +166,7 @@
         ],
         "Other_Name": "Moth",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "We're well past introductions, Timekeeper, but I'm grateful to do so again with a name of my own.\nI'm Ms. Stranger, though I'm glad you've welcomed me here not as a stranger but as a friend.",
@@ -295,8 +296,7 @@
                 "Transcription": "The rightful owners of those names are gone, yet their thief was granted a second life.\nI hope, in time, I can find some way to honor them.",
                 "Path": "https://voice.merui.net/en/hero3147_vo/play_hero3147_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/314701_headicon_small.webp"
+        }
     },
     "rhiannon": {
         "Era": "1930s",
@@ -315,6 +315,7 @@
         ],
         "Other_Name": "Aderyn Tywyll",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Vertin! I knew you'd catch up!\nDoes that mean you'll join us in our adventures?\nWait ... It's more like the other way around, isn't it? Since you're taking us wherever you go.",
@@ -448,8 +449,7 @@
                 "Transcription": "I used to be afraid when I'd look through Glynd\u0175r's eyes;\nsoaring up so high can be truly frightening, but now I can dive from the highest cliff without hesitation ...\nBecause I know myself now. I wonder if you feel the same. Do you, Vertin?",
                 "Path": "https://voice.merui.net/en/hero3146_mainvoc/play_hero3146_mainvoc_55.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/314601_headicon_small.webp"
+        }
     },
     "everecho": {
         "Era": "1990s",
@@ -469,6 +469,7 @@
         ],
         "Other_Name": "",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "When the wind began to stir, mother rose and wandered afar.\nThat Spinning Wheel has a familiar glow ... Warm. Bright.\nLike the sunlight that used to fall from the dome.",
@@ -598,8 +599,7 @@
                 "Transcription": "I still think about that building ...\nI was told that before I lost my memories, I wished my friends a bright future.\nAnd now ... here I am, walking into it with them.",
                 "Path": "https://voice.merui.net/en/hero3145_vo/play_hero3145_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/314501_headicon_small.webp"
+        }
     },
     "copp\u00e9lia": {
         "Era": "1930s",
@@ -619,6 +619,7 @@
         ],
         "Other_Name": "",
         "Alpha": "Coppelia",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You saved me a room here ...? What do you mean \"saved\"?\n... You mean I'm free to stay or leave whenever I like?\nHmm, are you a Timekeeper or an innkeeper?",
@@ -748,8 +749,7 @@
                 "Transcription": "So many sounds echoing inside me, but none of them have my voice.",
                 "Path": "https://voice.merui.net/en/hero3144_vo/play_hero3144_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/314401_headicon_small.webp"
+        }
     },
     "enigma": {
         "Era": "1990s",
@@ -770,6 +770,7 @@
         ],
         "Other_Name": "Adler Hofmann",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "No need for further introductions, Timekeeper.\nNow that I'm here, our cooperation is 200% confirmed.\nSo, if you don't mind, I'd like to hear your plan so the LSCC can prepare their next steps.",
@@ -899,8 +900,7 @@
                 "Transcription": "Mit einem ungest\u00f6rten Raum, einem Stift und Papier\nkann ein Forscher innerhalb eines endlichen Raumes die Unendlichkeit erforschen.\nLeider scheint es einen solchen Ort in dieser Welt nicht zu geben.",
                 "Path": "https://voice.merui.net/en/hero3143_vo/play_hero3143_fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/314301_headicon_small.webp"
+        }
     },
     "ramona": {
         "Era": "early 20th century",
@@ -920,6 +920,7 @@
         ],
         "Other_Name": "",
         "Alpha": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Never figured that I'd be summoned by a spinning wheel one day.\nThat's a whole new kind of bizarre. Compared to that, this Suitcase of yours is almost normal ...",
@@ -1049,8 +1050,7 @@
                 "Transcription": "If you do your work right the first time, you won't have to do it again.\nSimplify your rituals when possible, always keep the incense burning,\nand have the incantations memorized before you begin.\nPut a little brains into your work, and it goes by much faster.",
                 "Path": "https://voice.merui.net/en/hero3142_vo/play_hero3142_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/314201_headicon_small.webp"
+        }
     },
     "paper_heron": {
         "Era": "late 14th century",
@@ -1072,6 +1072,7 @@
         ],
         "Other_Name": "\u9e6d\u9e36\u526a",
         "Alpha": "L\u00f9s\u012b Ji\u01cen",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Oooof, that was quite a spin ...\nWell now, would you look at you? Time truly does gallop like a wild horse, eh?\nI am Paper Heron, humble Daoist, wanderer\u2014and very glad to make your acquaintance.",
@@ -1209,8 +1210,7 @@
                 "Transcription": "Ah, there it goes. Now, now, don't look like that; I'll make you another next time. Deal?",
                 "Path": "https://voice.merui.net/en/hero3141_mainvoc/play_hero3141_mainvoc_59.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/314101_headicon_small.webp"
+        }
     },
     "cornerstone": {
         "Era": "1990s",
@@ -1229,6 +1229,7 @@
         ],
         "Other_Name": "Stasia",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A pleasure to finally meet you, Timekeeper. I'm Cornerstone, the Foundation's architect.\nAh, straight to the handshake\u2014I like it.\nSo, what do you need doing? I'll get it done and then some.",
@@ -1358,8 +1359,7 @@
                 "Transcription": "An architect must listen intently, to the point where we forget ourselves,\nbefore we can see what's been overlooked.\nThat's how we come to truly understand these structures.",
                 "Path": "https://voice.merui.net/en/hero3140_vo/play_hero3140_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/314001_headicon_small.webp"
+        }
     },
     "lorentz_butterfly": {
         "Era": "1990s",
@@ -1380,6 +1380,7 @@
         ],
         "Other_Name": "Marguerite Martin",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You spin the wheel in the primordial waters of the lake, and here I appear in an instant.\nPerhaps this simple tool is how fate is woven\u2014the purest form of arcanum.",
@@ -1509,8 +1510,7 @@
                 "Transcription": "\"Ms. Jones the Investigator\" and \"Marguerite the Meteorological Observer\" are merely costumes I wear.\n\"Lorentz Butterfly,\" though, she is exceptional, meaningful\u2014\na symbol of chaos itself.",
                 "Path": "https://voice.merui.net/en/hero3139_vo/play_hero3139_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/313901_headicon_small.webp"
+        }
     },
     "reed": {
         "Era": "1990s",
@@ -1527,6 +1527,7 @@
             "Support"
         ],
         "Other_Name": "\u82a6\u8349\u7ed3",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You must be the Timekeeper! I've read about you in my notebooks;\nthey, I mean my past selves, would want to send their regards, but none of us have ever met you in person\u2014\nso, it's an honor to meet you!",
@@ -1656,8 +1657,7 @@
                 "Transcription": "Hopefully, I won't have any regrets when my time comes.",
                 "Path": "https://voice.merui.net/en/hero3138_vo/play_hero3138_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/313801_headicon_small.webp"
+        }
     },
     "cheng_heguang": {
         "Era": "early 17th century",
@@ -1678,6 +1678,7 @@
         ],
         "Other_Name": "\u7a0b\u548c\u5149",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Since I've renounced my role, you needn't address me by any title. Please, call me Cheng.\nThis is a beautiful place ... The lake mirrors the mountains, just as they do in my hometown.\nA hidden paradise indeed.\nMy apologies for troubling you with a lengthy stay. You have my sincerest thanks!",
@@ -1807,8 +1808,7 @@
                 "Transcription": "I know I am but meager in the face of the evils of the world.\nBut I will not let it stay my hand\u2014for the weight of injustice lies heavy in my heart.\nAnd with your aid, I may lighten it\u2014if only a little.",
                 "Path": "https://voice.merui.net/en/hero3137_vo/play_hero3137_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/313701_headicon_small.webp"
+        }
     },
     "lady_by_the_lake": {
         "Era": "1910s",
@@ -1827,6 +1827,7 @@
         ],
         "Other_Name": "",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Oh, oh my! Thank God you let me stay here ... No, indeed, thank YOU, Timekeeper!\nLook at this place! Isn't it the perfect spot for a frame? This is beyond even my wildest imagination ...",
@@ -1956,8 +1957,7 @@
                 "Transcription": "Oh! So all these things you've done ... you're trying to remove those indigo marks?\nGood heavens, I must express my gratitude ... You really wish to bring back my true image.\nOver the years,\nI had begun to see myself as nothing more than a hiding place for unwanted things ...\nI've nearly forgotten what it feels like to simply be ... me.",
                 "Path": "https://voice.merui.net/en/hero3136_vo/play_hero3136_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/313601_headicon_small.webp"
+        }
     },
     "brume": {
         "Era": "1930s",
@@ -1979,6 +1979,7 @@
         ],
         "Other_Name": "Ad\u00e8le Tavernier",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "If anyone here needs a lift, you know who to call!\nI may not have driven much outside of Paris, but if I can survive those roundabouts,\nI can handle just about anything.\nJust tell me where to go, and consider it done.",
@@ -2112,8 +2113,7 @@
                 "Transcription": "Je crois que j'ai toujours su que le destin me rattraperait, que je ne pourrais pas l'\u00e9viter \u00e9ternellement.\nMaintenant que c'est arriv\u00e9, il est temps de rattraper tout ce que j'ai manqu\u00e9.",
                 "Path": "https://voice.merui.net/en/hero3135_vo/play_hero3135_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/313501_headicon_small.webp"
+        }
     },
     "beryl": {
         "Era": "1930s",
@@ -2134,6 +2134,7 @@
         ],
         "Other_Name": "Beryl Bouanich",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ah, the inside of the suitcase ... a place Matilda has often spoken of. It is an honor to finally see it for myself.\nWe have much to speak about, you and I\u2014how fortunate that we have been granted the time to do so.",
@@ -2279,8 +2280,7 @@
                 "Transcription": "A steady point in the ever-flowing river\u2014an island respite, where the weary may rest before braving the current again ...\nThere is no need to be concerned; I do not intend to pry into anyone's fate.\nFor now, I wish only to discern what course my own stream may take when we set forth again.",
                 "Path": "https://voice.merui.net/en/hero3134_mainvoc/play_hero3134_mainvoc_58.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/313401_headicon_small.webp"
+        }
     },
     "corvus": {
         "Era": "1910s",
@@ -2301,6 +2301,7 @@
         ],
         "Other_Name": "\u0418\u0433\u043b\u0438\u043a\u0430",
         "Alpha": "Iglika",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I am fully aware that I'm a guest here. So please, go ahead and conduct your identity check.",
@@ -2426,8 +2427,7 @@
                 "Transcription": "Greater power to protect those in need ... I will not waste it.",
                 "Path": "https://voice.merui.net/en/hero3132_vo/play_hero3132_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/313201_headicon_small.webp"
+        }
     },
     "charon": {
         "Era": "early 20th century",
@@ -2449,6 +2449,7 @@
         ],
         "Other_Name": "Paul Haumann",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "What you're looking at is only a vessel of memories, a dead man following his duty,\na witness to the emptiness and the void that comes after war.",
@@ -2578,8 +2579,7 @@
                 "Transcription": "This body endures\u2014even after the guns fell silent.\nPerhaps it will only find rest when there is an end to war itself.\nUntil that day, I will remain, bound as both a guide\u2014and a warning.",
                 "Path": "https://voice.merui.net/en/hero3128_vo/play_hero3128_fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/312801_headicon_small.webp"
+        }
     },
     "marsha": {
         "Era": "1896",
@@ -2600,6 +2600,7 @@
         ],
         "Other_Name": "Marsha Rosenhart",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "This Suitcase of yours ... You carried it through the fires of war, yet inside it is a place of joy and comfort.\nThat fact alone fills me with wonder.",
@@ -2729,8 +2730,7 @@
                 "Transcription": "This joy wells up from the bottom of my heart ... I want to preserve it and savor it again.",
                 "Path": "https://voice.merui.net/en/hero3127_vo/play_hero3127_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/312701_headicon_small.webp"
+        }
     },
     "sentinel": {
         "Era": "early 20th century",
@@ -2751,6 +2751,7 @@
         ],
         "Other_Name": "Marianne de T\u00e9n\u00e9brun",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Je vous salue, Timekeeper. May our cooperation be a pleasant one.\nYou needst not worry about my accommodations\u2014\nlittle more could I ask for but the peace and quiet of your suitcase.",
@@ -2880,8 +2881,7 @@
                 "Transcription": "Progress comes hand in hand with iniquity.\nNow my eyes, grown more discerning, see through their lies, and I shall halt their wicked schemes.",
                 "Path": "https://voice.merui.net/en/hero3126_vo/play_hero3126_fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/312601_headicon_small.webp"
+        }
     },
     "rubuska": {
         "Era": "1910s",
@@ -2901,6 +2901,7 @@
         ],
         "Other_Name": "\u0420\u0443\u0431\u0443\u0441\u043a\u0430",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hah! Rubuska, the greatest vampire of the century, graces you with her presence!\nNow, where is my welcome banquet? I do hope there's banitsa ...",
@@ -3030,8 +3031,7 @@
                 "Transcription": "Hey, come feel my teeth\u2014do you think they're getting sharper?",
                 "Path": "https://voice.merui.net/en/hero3125_vo/play_hero3125_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/312501_headicon_small.webp"
+        }
     },
     "kassandra": {
         "Era": "431 BCE",
@@ -3053,6 +3053,7 @@
         ],
         "Other_Name": "\u039a\u03b1\u03c3\u03c3\u03b1\u03bd\u03b4\u03c1\u03b1",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I am the misthios, Kassandra of Sparta. Name your request, and I will do all that I can.\nProvided you have the Drachma.",
@@ -3198,8 +3199,7 @@
                 "Transcription": "This place is as wondrous as the Forge of Hephaistos!\nThe Spear of Leonidas is shivering in my hand. It must be thanks to your gift.",
                 "Path": "https://voice.merui.net/en/hero3124_vo/play_hero3124_fightingvoc_39.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/312401_headicon_small.webp"
+        }
     },
     "ezio_auditore": {
         "Era": "late 15th century",
@@ -3221,6 +3221,7 @@
         ],
         "Other_Name": "Ezio Auditore da Firenze",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Agiamo nell'ombra per servire la luce.\nWe are Assassins.",
@@ -3350,8 +3351,7 @@
                 "Transcription": "I do not remember making the decision to become an Assassin. This life, it chose me.",
                 "Path": "https://voice.merui.net/en/hero3123_vo/play_hero3123_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/312301_headicon_small.webp"
+        }
     },
     "alexios": {
         "Era": "431 BCE",
@@ -3371,6 +3371,7 @@
         ],
         "Other_Name": "\u0391\u03bb\u03b5\u03be\u03b9\u03bf\u03c2",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I have been chosen by destiny to bring order to this world.\nThere are only two choices available to you:\nfollow me and rule or stand against me and perish. Choose wisely.",
@@ -3500,8 +3501,7 @@
                 "Transcription": "Don't presume that you reward me. That isn't the manner of our relationship.\nDeimos is not pleased by mere trinkets.\nHowever, I will accept them as a token of your worship as befits a god.",
                 "Path": "https://voice.merui.net/en/hero3122_vo/play_hero3122_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/312201_headicon_small.webp"
+        }
     },
     "moldir": {
         "Era": "1990s",
@@ -3523,6 +3523,7 @@
         "Other_Name": "\u041c\u04e9\u043b\u0434\u0456\u0440 \u0415\u0440\u0430\u0441\u044b\u043b\u043e\u0432\u043d\u0430 \u0423\u043b\u0430\u043d\u043e\u0432\u0430",
         "Short_Name": "\u041c\u04e9\u043b\u0434\u0456\u0440 \u0423\u043b\u0430\u043d\u043e\u0432\u0430",
         "Alpha": "Moldir Erasylovna Ulanova",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I understand it isn't easy for us to place our trust in one another, Timekeeper.\nBut you have my word\u2014I will not speak of this place to anyone, not even my father.\nThis collaboration remains strictly between you and me.",
@@ -3652,8 +3653,7 @@
                 "Transcription": "I lost half my life to the \"Storm,\" and I haven't seen the stars from Saryarka since.\nNow I live and fight in a time that isn't mine in the hope that I will see the world I once knew again.\nI'm not happy with what happened, but I do not regret the path I have chosen.",
                 "Path": "https://voice.merui.net/en/hero3121_vo/play_hero3121_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/312101_headicon_small.webp"
+        }
     },
     "nautika": {
         "Era": "1990s",
@@ -3673,6 +3673,7 @@
         ],
         "Other_Name": "Nautika Amundsen",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312001_headicon_small.webp",
         "Voicelines": {
             "Lobby_Entrance": {
                 "Transcription": "The first maps actually came from stories,\nyou know\u2014about hidden streams, huge glaciers, and endless water.\nAnd the first adventurers? They believed these stories\u2014and they wanted to prove it. That's why they set out to see the world.",
@@ -3818,8 +3819,7 @@
                 "Transcription": "There it was. A shiny, mysterious stone. I'll never forget the moment I first saw it.\nSo much was hidden inside that little piece of rock.\nIt glowed, calling me to that polar desert, just as it had called my family for generations.\nAnd, somehow, it eased my pain.\nThat's why I'll never give up. Why I'll never stop moving forward.",
                 "Path": "https://voice.merui.net/en/hero3120_mainvoc/play_hero3120_mainvoc_91.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/312001_headicon_small.webp"
+        }
     },
     "name_day": {
         "Era": "1980s",
@@ -3840,6 +3840,7 @@
         "Other_Name": "\u0438\u043c\u0435\u043d\u0438\u043d\u044b",
         "Alpha": "Leonid",
         "Other2": "\u041b\u0435\u043e\u043d\u0438\u0434",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Oh, hey. We've already met before at the Foundation.\nI'm not here on a mission at the moment, so relax.\nBut do let me know if you need help with anything.",
@@ -3969,8 +3970,7 @@
                 "Transcription": "Do you think this golden rabbit would like some friends?\nI've thought about making more, but I don't have the same kind of wood anymore.\nI worry that they might never form a natural bond, like ... ever.",
                 "Path": "https://voice.merui.net/en/hero3118_vo/play_hero3118_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/311801_headicon_small.webp"
+        }
     },
     "kiperina": {
         "Era": "1980s",
@@ -3991,6 +3991,7 @@
         ],
         "Other_Name": "\u0410\u043b\u0438\u043d\u0430 \u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432\u0430",
         "Alpha": "Alina Medvedeva",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "In the Utrennyaya we have something called a \"suitcase trick.\"\nWe would put a suitcase down over a hidden trapdoor,\nand one by one we'd disappear into it. The audience loved it ...\nThis trick though, is much, much better. Do we all leave from the suitcase as well?",
@@ -4120,8 +4121,7 @@
                 "Transcription": "Everyone holds their breath when I'm up on the wire,\nbut as soon as I get to the other end, they burst out with cheers and applause.\nI like to think my act inspires them to face the challenges in their own lives.",
                 "Path": "https://voice.merui.net/en/hero3117_vo/play_hero3117_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/311701_headicon_small.webp"
+        }
     },
     "hissabeth": {
         "Era": "1980s",
@@ -4141,6 +4141,7 @@
         ],
         "Other_Name": "Sylvie",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "It's a pleasure to meet you, Ms. Vertin. I'm certain we'll work well together.\n<Ask her about the free snacks!>\nDon't be rude ... You know, boss, I've got a bit of a sweet tooth ...\n<Hiss!>",
@@ -4270,8 +4271,7 @@
                 "Transcription": "What's this? I've got to warn you, if you think we'll be satisfied with just a bit of progression,\nyou've got another thing coming. We snakes are always greedy for the sunlight.",
                 "Path": "https://voice.merui.net/en/hero3116_vo/play_hero3116_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/311601_headicon_small.webp"
+        }
     },
     "buddy_fairchild": {
         "Era": "1990s",
@@ -4290,6 +4290,7 @@
         ],
         "Other_Name": "",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A brand new home, and a whole new world to discover!\nWhat took the Foundation so dang long to introduce me to ya?\nDon't tell me they really believe that hooey in the papers?\nWhat'd it say again? ... \"Miami Animal Jailbreak Perpetrated by Squirrel\"?",
@@ -4419,8 +4420,7 @@
                 "Transcription": "People call me an \"arcanist,\" but shoot, ain't a squirrel just a squirrel?\nJust 'cause I got a larger tail and can talk English, don't mean I'm some kinda different breed!\nI mean, you don't look exactly like yer momma, but yer still an arcanist, ain't ya? Same idea!",
                 "Path": "https://voice.merui.net/en/hero3115_vo/play_hero3115_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/311501_headicon_small.webp"
+        }
     },
     "recoleta": {
         "Era": "1990s",
@@ -4440,6 +4440,7 @@
         ],
         "Other_Name": "Ficciones",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Fabuloso!\nNow I have an experience even more noteworthy than spending two weeks hiding out in a university bathroom\n\u2014being carried around in a suitcase!",
@@ -4569,8 +4570,7 @@
                 "Transcription": "The kind of person \"I\" aspire to become\u2014\nan embodiment of the dream to wander, a foolishly brave protagonist\u2014\nmust also be a knight who fights for literature, don't you think?",
                 "Path": "https://voice.merui.net/en/hero3114_vo/play_hero3114_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/311401_headicon_small.webp"
+        }
     },
     "aleph": {
         "Era": "late 20th century",
@@ -4591,6 +4591,7 @@
         ],
         "Other_Name": "\u05d0",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I see the disarray and disintegration of reality, the manifestation of fate,\nthe brilliance of transcendentality, the ethereal images, and I see ... you.",
@@ -4720,8 +4721,7 @@
                 "Transcription": "They died in that peculiar prison, but in a sense, they live on.\nNow, there's only one prisoner left.",
                 "Path": "https://voice.merui.net/en/hero3113_vo/play_hero3113_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/311301_headicon_small.webp"
+        }
     },
     "loggerhead": {
         "Era": "20th century",
@@ -4738,6 +4738,7 @@
             "Heal"
         ],
         "Other_Name": "Latham",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "So this is THE suitcase! I always wanted to see it for myself!\nOh, Timekeeper, do you think you could swing me a bigger room\u2014somewhere dark and dry too?\nI have a lot of memory films to store, 'cause I can't keep them in the Foundation's warehouse anymore ...",
@@ -4867,8 +4868,7 @@
                 "Transcription": "People will say that you can waste film, but I disagree, every moment is worth recording!\nEven the motion of a nameless wildflower should be preserved!\nSee, just a shot like that can carry the memories of an entire era!",
                 "Path": "https://voice.merui.net/en/hero3112_vo/play_hero3112_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/311201_headicon_small.webp"
+        }
     },
     "noire": {
         "Era": "1990s",
@@ -4888,6 +4888,7 @@
         ],
         "Other_Name": "\u83f2\u6797\u58eb\u591a",
         "Alpha": "Fei Lam Si Do",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A small world compressed in a suitcase, the changing daylight and background scenery ...\nI like this setting. Isn't this very much like a scene from a movie?\nThe moment our two protagonists meet each other for the first time?",
@@ -5017,8 +5018,7 @@
                 "Transcription": "I'm not making films to earn fame or bask in the spotlight, but to tell the stories I want.\nStill, it's important to reflect on myself now and then\u2014the camera knows me better than anyone.",
                 "Path": "https://voice.merui.net/en/hero3111_vo/play_hero3111_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/311101_headicon_small.webp"
+        }
     },
     "liang_yue": {
         "Era": "1990s",
@@ -5037,6 +5037,7 @@
             "Immunity"
         ],
         "Other_Name": "\u6881\u6708",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Number 007405, Liang Yue reporting for duty. Ma'am, please allow me to handle any investigations,\nfrom surveying crime scenes to hunting down perpetrators.\nOh, you want to be friends? I see. Then I will adjust my mindset.",
@@ -5174,8 +5175,7 @@
                 "Transcription": "Qiangliang may be fearsome, but it's not ferocious.\nI can feel that it's open to your touch. You're welcome to give it a try next time.",
                 "Path": "https://voice.merui.net/en/hero3110_mainvoc/play_hero3110_mainvoc_58.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/311001_headicon_small.webp"
+        }
     },
     "fatutu": {
         "Era": "1990s",
@@ -5194,6 +5194,7 @@
             "Purify"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Thank you for letting me stay here!\nHope it's not too much trouble for you. I'll move out as soon as I find a place to settle with my people ...\nSomewhere we can really call home.\nReally? You're letting me keep the keys?",
@@ -5323,8 +5324,7 @@
                 "Transcription": "One evening, we were knocking the fruits off a tree that Kamuta was napping on and woke him up.\nAs I sat on that branch, watching the sun sink behind the ocean,\nI knew it would rise again to bring another peaceful day.",
                 "Path": "https://voice.merui.net/en/hero3109_vo/play_hero3109_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310901_headicon_small.webp"
+        }
     },
     "barcarola": {
         "Era": "1990s",
@@ -5344,6 +5344,7 @@
             "Eureka"
         ],
         "Other_Name": "Barcarola Stradivari",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Thank you so much for bringing me on board.\nI, Barcarola, former musical director of the \"Free Breeze,\" am at your service!",
@@ -5473,8 +5474,7 @@
                 "Transcription": "There may come a day, long after I'm gone,\nafter even the dust of my home has blown away in the wind,\nwhen my Crackling Box will transform into something unimaginable ...\nStill, I will never regret this decision.",
                 "Path": "https://voice.merui.net/en/hero3108_vo/play_hero3108_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310801_headicon_small.webp"
+        }
     },
     "ulrich": {
         "Era": "1940s",
@@ -5496,6 +5496,7 @@
         ],
         "Other_Name": "",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Procedural info, risk assessment, voluntary participation statement, ah, and the all-important consent page.\nJust sign here, and we can get on with the experiment.\nHaha! I've been waiting for this day\u2014we all have!\nOh, don't forget to sign here too\u2014we need it in duplicate, standard procedure you understand.",
@@ -5625,8 +5626,7 @@
                 "Transcription": "This isn't as tricky as I thought. All I have to do is tackle the problem in front of me,\nsolve it, and move on to the next.",
                 "Path": "https://voice.merui.net/en/hero3107_vo/play_hero3107_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310701_headicon_small.webp"
+        }
     },
     "brimley": {
         "Era": "1930s",
@@ -5645,6 +5645,7 @@
             "Purify"
         ],
         "Other_Name": "Slouch Hat",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Good to see you again, mate!\nSee this outfit here? It memorializes a great adventure.\nI thought it fitting as I'm headed on a new journey with you!\nI'm ready and willing, just as always!",
@@ -5774,8 +5775,7 @@
                 "Transcription": "I've pursued many adventures and changed with each one,\nbut my pursuit for justice has ever remained the same.",
                 "Path": "https://voice.merui.net/en/hero3106_vo/play_hero3106_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310601_headicon_small.webp"
+        }
     },
     "flutterpage": {
         "Era": "1930s",
@@ -5796,6 +5796,7 @@
             "Eureka"
         ],
         "Other_Name": "Liberti",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello. Call me Flutterpage. I used to live in Millwall with my mum and dad and sister ...\nBut that don't matter no more, does it?",
@@ -5925,8 +5926,7 @@
                 "Transcription": "I suppose I'm really more like a bed sheet than a bird.\nA sheet spends its entire life in three places:\nfirst, stuck in the laundry; second, snugglin' up in bed; and third, hangin' in the air on the clothesline.\nThe last one is my favorite place to be.",
                 "Path": "https://voice.merui.net/en/hero3105_vo/play_hero3105_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310501_headicon_small.webp"
+        }
     },
     "willow": {
         "Era": "1930s",
@@ -5945,6 +5945,7 @@
             "Channel"
         ],
         "Other_Name": "Charlotte O'Hagan",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "So, you all live in a suitcase, eh?\nOf course, I understand that the Foundation\nhas more urgent needs than finding a proper place to house their employees.",
@@ -6074,8 +6075,7 @@
                 "Transcription": "This new outfit is for my next appearance.\nNow don't go assuming I'm showing it to you\nbecause I think you're someone special to me. It's nothing of the sort.",
                 "Path": "https://voice.merui.net/en/hero3104_vo/play_hero3104_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310401_headicon_small.webp"
+        }
     },
     "mr._duncan": {
         "Era": "1990s",
@@ -6094,6 +6094,7 @@
             "Bullet"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ol\u00e1, kid! It's me, Duncan, your old friend!",
@@ -6223,8 +6224,7 @@
                 "Transcription": "Once, a gang of critters tried to take over the favela. They were pretty contemptuous ...\nuntil I gave them a beating and taught them a lesson or two on how to treat humans.",
                 "Path": "https://voice.merui.net/en/hero3103_vo/play_hero3103_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310301_headicon_small.webp"
+        }
     },
     "lopera": {
         "Era": "1990s",
@@ -6245,6 +6245,7 @@
             "Array"
         ],
         "Other_Name": "Carlotta Lopez Rivera",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "This place brings back memories of my old house ...\nSay, does this place have a retirement wing?\nThen it'd be a one-stop nostalgia station for me! Haha ...",
@@ -6374,8 +6375,7 @@
                 "Transcription": "You've got to let go of the past, carry the memories worth carrying ...\nThe best is yet to come!",
                 "Path": "https://voice.merui.net/en/hero3102_vo/play_hero3102_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310201_headicon_small.webp"
+        }
     },
     "white_rum": {
         "Era": "mid 17th century",
@@ -6395,6 +6395,7 @@
             "Channel"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Listen well, matey. I'm not one of those jabbering ship toys you find in a water park souvenir shop\u2014\nI'm the real deal.",
@@ -6524,8 +6525,7 @@
                 "Transcription": "I've seen the globes you've got nowadays. Clearly, there are scarcely any uncharted lands left on this planet.\nStill, as that boisterous mate of yours said,\na true pirate never forsakes their quest for legendary treasure\u2014never.",
                 "Path": "https://voice.merui.net/en/hero3101_vo/play_hero3101_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310101_headicon_small.webp"
+        }
     },
     "anjo_nala": {
         "Era": "Unknown",
@@ -6546,6 +6546,7 @@
             "Channel"
         ],
         "Other_Name": "Nala Hari",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310001_headicon_small.webp",
         "Voicelines": {
             "Lobby_Entrance": {
                 "Transcription": "*hums a delightful melody*",
@@ -6691,8 +6692,7 @@
                 "Transcription": "Ah! Master, stop! You're going to make me fall on stage!",
                 "Path": "https://voice.merui.net/en/hero3100_mainvoc/play_hero3100_mainvoc_57.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/310001_headicon_small.webp"
+        }
     },
     "barbara": {
         "Era": "1990s",
@@ -6710,6 +6710,7 @@
             "Support"
         ],
         "Other_Name": "Dolly",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'm Barbara, an editor at\u00a0UTTU\u00a0magazine. It's an honor to join your team, Ms. Vertin.\nUmm ... may I take a look around?",
@@ -6839,8 +6840,7 @@
                 "Transcription": "A wider, greener grassland, just like in my dream.",
                 "Path": "https://voice.merui.net/en/hero3099_vo/play_hero3099_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/309901_headicon_small.webp"
+        }
     },
     "tuesday": {
         "Era": "1990s",
@@ -6860,6 +6860,7 @@
             "Array"
         ],
         "Other_Name": "Christine",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "It's such a pleasure to see you again.\nHmm ... I see there are children here\u2014if you're in need of a babysitter,\nI'd be more than happy to look after them.",
@@ -6989,8 +6990,7 @@
                 "Transcription": "Oh, this sensation ...\nIt reminds me of the day I walked out of that red door ...",
                 "Path": "https://voice.merui.net/en/hero3098_vo/play_hero3098_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/309801_headicon_small.webp"
+        }
     },
     "argus": {
         "Era": "1990s",
@@ -7010,6 +7010,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "We meet again, boss.\nNah, this ain't the time to catch up.\nI'm gonna take a nap first.",
@@ -7139,8 +7140,7 @@
                 "Transcription": "Brush away the dirt, wipe down the parts, and apply lubricant.\nRegular maintenance is the key to a well functioning weapon.",
                 "Path": "https://voice.merui.net/en/hero3097_vo/play_hero3097_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/309701_headicon_small.webp"
+        }
     },
     "pioneer": {
         "Era": "1990s",
@@ -7159,6 +7159,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "This place is quite different from where I used to live,\nbut I assure you, I'll get along with it in no time.\nTrust me, I've had plenty of experience with \"migration.\"",
@@ -7284,8 +7285,7 @@
                 "Transcription": "Thank you for your patronage.",
                 "Path": "https://voice.merui.net/en/hero3096_vo/play_hero3096_fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/309601_headicon_small.webp"
+        }
     },
     "mercuria": {
         "Era": "late 20th century",
@@ -7304,6 +7304,7 @@
             "DPS"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I see you carry a suitcase.\nAre you a wanderer too?",
@@ -7433,8 +7434,7 @@
                 "Transcription": "My journey is recorded on my shawl.\nBetween the tassels and the warping of cloth lies the texture of life.",
                 "Path": "https://voice.merui.net/en/hero3095_vo/play_hero3095_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/309501_headicon_small.webp"
+        }
     },
     "j": {
         "Era": "1990s",
@@ -7454,6 +7454,7 @@
             "Riposte"
         ],
         "Other_Name": "Joe Brown",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You mean, this-this whole place is yours?\nBoss, I know some rich jerks that would pay through the nose just to build a house here.",
@@ -7583,8 +7584,7 @@
                 "Transcription": "If you gotta wear a helmet,\nand you gotta,\nmake it a cool one. Like I do.",
                 "Path": "https://voice.merui.net/en/hero3094_vo/play_hero3094_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/309401_headicon_small.webp"
+        }
     },
     "igor": {
         "Era": "early 20th century",
@@ -7605,6 +7605,7 @@
         ],
         "Other_Name": "\u0418\u0433\u043e\u0440\u044c",
         "Alpha": null,
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "If I may, Timekeeper, you could've made good use of this Suitcase to change the game,\nrather than merely hiding from the rain.\nThat is something I've longed for\u2014a shelter from the \"Storm\" for my army.",
@@ -7734,8 +7735,7 @@
                 "Transcription": "I stand straight and still, for the lives of my soldiers rest on these shoulders.",
                 "Path": "https://voice.merui.net/en/hero3092_vo/play_hero3092_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/309201_headicon_small.webp"
+        }
     },
     "lorelei": {
         "Era": "early 20th century",
@@ -7753,6 +7753,7 @@
             "DPS"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You called my name, did you not? I heard you before ... a long, long time ago.\nThe conch shell whispered to me when I was little. Your voice was there, among many others.\n... How nice, Vertin.",
@@ -7882,8 +7883,7 @@
                 "Transcription": "There was no outstretched hand, only one that sent us away ... but it set us free on the river.",
                 "Path": "https://voice.merui.net/en/hero3091_vo/play_hero3091_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/309101_headicon_small.webp"
+        }
     },
     "semmelweis": {
         "Era": "1990s",
@@ -7904,6 +7904,7 @@
             "Bloodtithe"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, Timekeeper. I have long heard of your stories. Hopefully my visit won't trouble you too much ...\nBut perhaps for you, this isn't much trouble.",
@@ -8033,8 +8034,7 @@
                 "Transcription": "I'm back, finally. My wish has come true ...\nI sincerely hope that one day, your wishes will come true too.",
                 "Path": "https://voice.merui.net/en/hero3088_vo/play_hero3088_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/308801_headicon_small.webp"
+        }
     },
     "vila": {
         "Era": "1990s",
@@ -8054,6 +8054,7 @@
             "Purify"
         ],
         "Other_Name": "\u0412\u0438\u043b\u0430",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Thank you for inviting me, Ms. Vertin. A typical room is more than fine ...\nOh, by the way, do you happen to have a swimming pool here?",
@@ -8183,8 +8184,7 @@
                 "Transcription": "From icebergs to mountains, from the sea to the land, I have traveled between these worlds countless times.\nThen I found Rayashki, at the intersection of these worlds ... Small but hopeful.\nAlone in its dream ... but maybe not so in the future.",
                 "Path": "https://voice.merui.net/en/hero3087_vo/play_hero3087_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/308701_headicon_small.webp"
+        }
     },
     "lucy": {
         "Era": "1820s",
@@ -8202,6 +8202,7 @@
             "Dynamo"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A hand-operated spinning wheel half drenched in water ...\nThis indicates a low level of technological development here.\nDo not worry, Timekeeper, I am equipped with 15 adaptive plugs suitable for any situation.\nI will start by running the drainage program ...",
@@ -8355,8 +8356,7 @@
                 "Transcription": "What a pity. It seems I will have to make some improvements to this face.",
                 "Path": "https://voice.merui.net/en/hero3086_mainvoc/play_hero3086_mainvoc_56.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/308601_headicon_small.webp"
+        }
     },
     "getian": {
         "Era": "220",
@@ -8376,6 +8376,7 @@
             "Ultimate"
         ],
         "Other_Name": "\u845b\u5929",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I have cast an incantation on you.\nIt allows us to communicate and exchange our names as the code of etiquette requires.\nI'm Getian.",
@@ -8505,8 +8506,7 @@
                 "Transcription": "The wind goes past the corners of the roofs and comes out of the alleys,\nlearning the sounds of nature and humans on its journey.\nI accompany it with my flute, and a new song is thus created.",
                 "Path": "https://voice.merui.net/en/hero3084_vo/play_hero3084_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/308401_headicon_small.webp"
+        }
     },
     "jiu_niangzi": {
         "Era": "Unknown",
@@ -8525,6 +8525,7 @@
             "Channel"
         ],
         "Other_Name": "\u66f2\u5a18",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308301_headicon_small.webp",
         "Voicelines": {
             "Lobby_Entrance": {
                 "Transcription": "*yawns*\nI can have whatever I need at any time here, the rainwater, the fruits.\nThough I have a shelter in town, the life there is not as cozy as what I'm living now.",
@@ -8658,8 +8659,7 @@
                 "Transcription": "Ding, ding, ding ... It's not easy, but I'm glad that you're all happy!\nHow about we make this place our own, and put a Lushu here to guard this place?",
                 "Path": "https://voice.merui.net/en/hero3083_vo/play_hero3083_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/308301_headicon_small.webp"
+        }
     },
     "yenisei": {
         "Era": "early 19th century",
@@ -8677,6 +8677,7 @@
             "Immunity"
         ],
         "Other_Name": "\u0415\u043d\u0438\u0441\u0435\u0439",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Greetings. *gasps because of coldness*\nI don't think I will ever get used to the coldness of water when I'm not performing divination.",
@@ -8806,8 +8807,7 @@
                 "Transcription": "It feels like I have experienced another journey.\nMy view has been expanded, and my mind has never been clearer.",
                 "Path": "https://voice.merui.net/en/hero3082_vo/play_hero3082_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/308201_headicon_small.webp"
+        }
     },
     "isolde": {
         "Era": "20th century",
@@ -8827,6 +8827,7 @@
             "Lingering Glow"
         ],
         "Other_Name": "Isolde von Dittarsdorf",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Thank you for your generosity, miss.\nI think I'll stay here for a few days ...\nOh? You prepared a room for me?\nSo you did. Look how ... dainty it is. I am grateful.",
@@ -8956,8 +8957,7 @@
                 "Transcription": "*humming*",
                 "Path": "https://voice.merui.net/en/hero3081_vo/play_hero3081_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/308101_headicon_small.webp"
+        }
     },
     "kakania": {
         "Era": "early 20th century",
@@ -8975,6 +8975,7 @@
             "Support"
         ],
         "Other_Name": "Klara Vingler",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A suitcase immune to the \"Storm\" ... It's ... Yes, it's a wonderful idea.\nAnd so comfortable and spacious too ... It could save many lives.",
@@ -9104,8 +9105,7 @@
                 "Transcription": "Know ... myself?",
                 "Path": "https://voice.merui.net/en/hero3080_voc/play_hero3080_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/308001_headicon_small.webp"
+        }
     },
     "6": {
         "Era": "1980s",
@@ -9127,6 +9127,7 @@
         ],
         "Other_Name": "Atticus",
         "Alpha": "Six",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A spinning wheel is meant to turn around, just like fate is bound to happen.\nIn many cases, we don't have a choice.",
@@ -9256,8 +9257,7 @@
                 "Transcription": "Turning against the fire in the cave, we see the true lights.",
                 "Path": "https://voice.merui.net/en/hero3079_skill/play_hero3079_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307901_headicon_small.webp"
+        }
     },
     "avgust": {
         "Era": "1990s",
@@ -9276,6 +9276,7 @@
             "Dispeller"
         ],
         "Other_Name": "\u0410\u0432\u043a\u0441\u0438\u0432\u0438\u0439",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "So Ms. Suitcase Keeper, are you the quiet type in this group too?",
@@ -9405,8 +9406,7 @@
                 "Transcription": "See, the flowers have grown taller. They will take good care of you.",
                 "Path": "https://voice.merui.net/en/hero3078_vo/play_hero3078_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307801_headicon_small.webp"
+        }
     },
     "windsong": {
         "Era": "1990s",
@@ -9425,6 +9425,7 @@
             "Eureka"
         ],
         "Other_Name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "When we shake hands, we enter a relationship like that of two intersecting lines.\nIt's a pleasure to work with you, Ms. Timekeeper.",
@@ -9554,8 +9555,7 @@
                 "Transcription": "The whole world in my hands\u2014I always knew it could be.",
                 "Path": "https://voice.merui.net/en/hero3077_vo/play_hero3077_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307701_headicon_small.webp"
+        }
     },
     "ulu": {
         "Era": "Unknown",
@@ -9574,6 +9574,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "There's also a room for me?\nBut it's hardly the best arrangement, given that\nI don't need a room and my stay may pose a fire hazard.\nPlease, an airy fireplace will suit me just fine.",
@@ -9703,8 +9704,7 @@
                 "Transcription": "As the flame grows, I will roar.",
                 "Path": "https://voice.merui.net/en/hero3076_vo/play_hero3076_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307601_headicon_small.webp"
+        }
     },
     "desert_flannel": {
         "Era": "1990s",
@@ -9722,6 +9722,7 @@
             "DPS"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Paychecks assured, pets allowed, full board, safety insurance ...\nOh, and even regular travel?\nThe career benefits you provide are much better than what Laplace offers.",
@@ -9851,8 +9852,7 @@
                 "Transcription": "Hey! Over here! Cold soda and hot ticket sales! Come take a look!",
                 "Path": "https://voice.merui.net/en/hero3075_vo/play_hero3075_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307501_headicon_small.webp"
+        }
     },
     "ezra_theodore": {
         "Era": "1990s",
@@ -9873,6 +9873,7 @@
             "Bloodtithe"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ms. Vertin, it's a great honor that you invite me, a human, here in your suitcase.\nI do enjoy seeing old friends, and I am more than happy to meet new friends.",
@@ -10002,8 +10003,7 @@
                 "Transcription": "I see. Now I'm able to perceive more details ...\nI have discovered more, learned more, and comprehended more,\nwhich will redefine my classification system.",
                 "Path": "https://voice.merui.net/en/hero3074_vo/play_hero3074_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307401_headicon_small.webp"
+        }
     },
     "spathodea": {
         "Era": "1990s",
@@ -10022,6 +10022,7 @@
             "Lingering Glow"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Yoohoo! I ran here as fast as I could, right after today's training!\nYou said there would be a new doorplate for my room. What is it like?\nOh, wait, let me guess. Is it like a ball of fire or a rainbow?",
@@ -10151,8 +10152,7 @@
                 "Transcription": "Woohoo! Let me rocket to the sky, like an unstoppable uppercut!",
                 "Path": "https://voice.merui.net/en/hero3073_vo/play_hero3073_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307301_headicon_small.webp"
+        }
     },
     "shamane": {
         "Era": "1960s",
@@ -10171,6 +10171,7 @@
             "Support"
         ],
         "Other_Name": "Pushya Sharma",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Huh, what is this place?\nTsk-tsk, the serene lake, and the clear horizon at the end of the vast treeless plain ...\nI would have thought I was back in the good old mountains if I didn't see you here.\nAlright, do you mind showing me around, my grave-looking friend?",
@@ -10300,8 +10301,7 @@
                 "Transcription": "I've seen snowy mountains stretch dizzyingly to the end of sight.\nI've seen the eyes of the wolves, where plants grow in spring and snow falls in winter ...\nThat's the moment when I realized where I belong.",
                 "Path": "https://voice.merui.net/en/hero3072_skill/play_hero3072fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307201_headicon_small.webp"
+        }
     },
     "kanjira": {
         "Era": "1960s",
@@ -10320,6 +10320,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'm Kanjira, and this is Punji! I hope you're not afraid of her ... Wow ... This place is sooo cool!",
@@ -10449,8 +10450,7 @@
                 "Transcription": "Emm ... Sherjah will let me go further to other towns if I learned another 500 words!\nOkay, did I get my name right ...?",
                 "Path": "https://voice.merui.net/en/hero3071_skill/play_hero3071fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307101_headicon_small.webp"
+        }
     },
     "kaalaa_baunaa": {
         "Era": "1960s",
@@ -10469,6 +10469,7 @@
             "Extra Action"
         ],
         "Other_Name": "Black Dwarf",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Most star scryers won't read their own future.\nWe are supposed to remain philosophical about almost everything, either good or bad ...\nBut I broke the rule. Or say, I've seen it coming.",
@@ -10598,8 +10599,7 @@
                 "Transcription": "The sparkling Milky Way is around us. It's another D\u012bpa Festival.\nCome, light the candles for blessings.",
                 "Path": "https://voice.merui.net/en/hero3070_skill/play_hero3070fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/307001_headicon_small.webp"
+        }
     },
     "37": {
         "Era": "1990s",
@@ -10621,6 +10621,7 @@
         ],
         "Other_Name": "",
         "Alpha": "Thirty-Seven",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "The Mandelbrot set ...\nThat's right! It's just like the island! I'm a part of the set, just as I'm a part of the island.",
@@ -10750,8 +10751,7 @@
                 "Transcription": "The shape of truth is not fixed. Anyone who tries to figure it out is doomed to get lost on their way.\nSo I decide to draw the one I assume ... but just to get it out of my mind.",
                 "Path": "https://voice.merui.net/en/hero3066_skill/play_hero3066_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/306601_headicon_small.webp"
+        }
     },
     "marcus": {
         "Era": "early 20th century",
@@ -10770,6 +10770,7 @@
             "Eureka"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Greetings, Marcus here!\nI've heard a lot about you from a ... special ... someone ...\nYour collection is something I can't wait to get my hands on!\nSo here's my ID, employment certificate, transfer records, medical report, and ...\nHuh? You don't need these?",
@@ -10899,8 +10900,7 @@
                 "Transcription": "Oh, thank you! I will double my efforts!\nI'll even double the size of my case!",
                 "Path": "https://voice.merui.net/en/hero3065_vo/play_hero3065_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/306501_headicon_small.webp"
+        }
     },
     "diggers": {
         "Era": "1960s",
@@ -10918,6 +10918,7 @@
             "Control"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ladies and gentlemen, before you stands the great-artist-to-be,\nthe voice of peace, the adversary of banality and violence. I give you -- Diggers!",
@@ -11047,8 +11048,7 @@
                 "Transcription": "A bright summer day.\nWe once had days like this, and we will have more in the future.",
                 "Path": "https://voice.merui.net/en/hero3064_skill/play_hero3064_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/306401_headicon_small.webp"
+        }
     },
     "pickles": {
         "Era": "1960s",
@@ -11067,6 +11067,7 @@
             "Extra Action"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "(You smell like a friend.)\n(Before you pat me on the head,)\n(could you please try and tell me, does every species have the same kind of soul?)\n\"Instead of a pat on the head, the puppy prefers a handshake like a friend.\"",
@@ -11196,8 +11197,7 @@
                 "Transcription": "(Sometimes things go wrong, even in a puppy's life ... Smile, hand shake, next.)",
                 "Path": "https://voice.merui.net/en/hero3063_skill/play_hero3063fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/306301_headicon_small.webp"
+        }
     },
     "melania": {
         "Era": "1960s",
@@ -11215,6 +11215,7 @@
             "Ultimate"
         ],
         "Other_Name": "Melania Ramirez",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "An unexpected encounter ... A room, a frame, and an old TV ...\nI need some time to figure out the situation here, approximately 12 minutes and 31 seconds ...",
@@ -11344,8 +11345,7 @@
                 "Transcription": "Next, next, next. Show me the next question.",
                 "Path": "https://voice.merui.net/en/hero3062_skill/play_hero3062fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/306201_headicon_small.webp"
+        }
     },
     "horropedia": {
         "Era": "1990s",
@@ -11364,6 +11364,7 @@
             "Dispeller"
         ],
         "Other_Name": "Joshua",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hey, the \"great\" Vertin! Nice to see you again!",
@@ -11493,8 +11494,7 @@
                 "Transcription": "Delicious luncheon, nicely chosen movie, the most relaxing gun maintenance ...\nThose childhood evenings when I couldn't fall asleep ... I hid books under my cushion.\nI never expected such a promising future!",
                 "Path": "https://voice.merui.net/en/hero3061_skill/play_hero3061fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/306101_headicon_small.webp"
+        }
     },
     "blonney": {
         "Era": "1990s",
@@ -11512,6 +11512,7 @@
             "Support"
         ],
         "Other_Name": "Jennifer Woods",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "This is where the arcanists live?\nTo be fair, not a bad taste, but ... the place needs a touch of bright colors.\nDo you mind me changing the curtains?",
@@ -11641,8 +11642,7 @@
                 "Transcription": "Hmm ... I should make some adjustments to perfect the design ...\nJust like ... this?",
                 "Path": "https://voice.merui.net/en/hero3060_skill/play_hero3060_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/306001_headicon_small.webp"
+        }
     },
     "door": {
         "Era": "Unknown",
@@ -11660,6 +11660,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'm Door, an insignificant piece of a mirror.\nBy nature I'm of no difference to my other 3587 siblings;\nbut knowing you has made me different to them.",
@@ -11785,8 +11786,7 @@
                 "Transcription": "The view in the mirror has become the reality ... or it seems that way.",
                 "Path": "https://voice.merui.net/en/hero3059_skill/play_hero3059fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305901_headicon_small.webp"
+        }
     },
     "erick": {
         "Era": "1980s",
@@ -11804,6 +11804,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Welcome to sail with us!\nWell, now, go to the back of the ship and make it move! Don't be dawdling!",
@@ -11933,8 +11934,7 @@
                 "Transcription": "Riding the winds and waves, Lord Erick is setting out for her great journey!\n... If you need the loo, go now.",
                 "Path": "https://voice.merui.net/en/hero3058_skill/play_hero3058_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305801_headicon_small.webp"
+        }
     },
     "mesmer_jr.": {
         "Era": "1990s",
@@ -11952,6 +11952,7 @@
             "Control"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "It's my pleasure to meet you, my fellow.",
@@ -12081,8 +12082,7 @@
                 "Transcription": "Good news: I can better ease franticity.\nBad news: I am more frantic.",
                 "Path": "https://voice.merui.net/en/hero3057_skill/play_hero3057fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305701_headicon_small.webp"
+        }
     },
     "jessica": {
         "Era": "1990s",
@@ -12100,6 +12100,7 @@
             "Poison"
         ],
         "Other_Name": "Changeling",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, dear friend. From now on, we can be together all the time.\nI thought of many things we can do. Firstly ...\nlet's roll in the grass!",
@@ -12229,8 +12230,7 @@
                 "Transcription": "I'm ready\u2060\u2014ready to tell everyone my name, ready to make them scream and cry ...\nWill they like me in the same way as I like them?",
                 "Path": "https://voice.merui.net/en/hero3056_skill/play_hero3056fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305601_headicon_small.webp"
+        }
     },
     "sputnik": {
         "Era": "1950s",
@@ -12248,6 +12248,7 @@
             "Control"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hi, I am Sputnik-1's ... twin sister.\nNo, no, no, I don't know her.",
@@ -12373,8 +12374,7 @@
                 "Transcription": "My travel fund is growing steadily. Thank you very much for your support.",
                 "Path": "https://voice.merui.net/en/hero3055_skill/play_hero3055_fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305501_headicon_small.webp"
+        }
     },
     "onion": {
         "Era": "1990s",
@@ -12391,6 +12391,7 @@
             "DPS"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Congratulations. You are about to unveil the truth of this world.\nWelcome to Headonion, a show to reshape your conception.",
@@ -12516,8 +12517,7 @@
                 "Transcription": "Peel off one layer of the onion, inside it's still onion.\nPut on your glasses, watch out for the pain in your eyes and the burst of tears!",
                 "Path": "https://voice.merui.net/en/hero3054_skill/play_hero3054fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305401_headicon_small.webp"
+        }
     },
     "tooth_fairy": {
         "Era": "1990s",
@@ -12537,6 +12537,7 @@
             "Inspiration"
         ],
         "Other_Name": "Dr. Campbell",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, I think we have been acquainted.\n... I am responsible for your teeth, every night you fall asleep.",
@@ -12666,8 +12667,7 @@
                 "Transcription": "Sleep, sleep in peace. This is a sweet, sweet night ...",
                 "Path": "https://voice.merui.net/en/hero3053_skill/play_hero3053_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305301_headicon_small.webp"
+        }
     },
     "ms._newbabel": {
         "Era": "1980s",
@@ -12685,6 +12685,7 @@
             "Riposte"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Oh, it's very nice to meet you.\nThis room is very classy,\nyet it can use a bit of warmth to its perfection.\nI think I can offer you a solution.",
@@ -12814,8 +12815,7 @@
                 "Transcription": "NewBabel will be popular in each and every household.\nWe set our feet on today, eyes on tomorrow.",
                 "Path": "https://voice.merui.net/en/hero3052_skill/play_hero3052_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305201_headicon_small.webp"
+        }
     },
     "eternity": {
         "Era": "1990s",
@@ -12836,6 +12836,7 @@
             "Ultimate"
         ],
         "Other_Name": "Winnifred",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hm? Do you have anything to tell me, young lady?\nNo, not those cliched greetings.\nIt should be a tender one, with some heartwarming words ...\nHow do you greet your mother?",
@@ -12965,8 +12966,7 @@
                 "Transcription": "This is my secret of keeping young ... Fresh milk before bed.\nHmm ... The thick scent of milk.",
                 "Path": "https://voice.merui.net/en/hero3051_skill/play_hero3051_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305101_headicon_small.webp"
+        }
     },
     "darley_clatter": {
         "Era": "1970s",
@@ -12983,6 +12983,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Alright, ready to welcome me!\nPrepare your softest brush, smoothest silk, flaxseed oil or something more expensive, and ...\nHey, is that a carrot? Ohh! For me? Thank you!",
@@ -13108,8 +13109,7 @@
                 "Transcription": "Darley Arabian does not need a clean body. The mud is the glory!",
                 "Path": "https://voice.merui.net/en/hero3050_skill/play_hero3050_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/305001_headicon_small.webp"
+        }
     },
     "click": {
         "Era": "1940s",
@@ -13126,6 +13126,7 @@
             "DPS"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ms., your hat is tilted.",
@@ -13255,8 +13256,7 @@
                 "Transcription": "... A perfect moment!",
                 "Path": "https://voice.merui.net/en/hero3049_skill/play_hero3049fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304901_headicon_small.webp"
+        }
     },
     "voyager": {
         "Era": "mid 20th century",
@@ -13276,6 +13276,7 @@
             "Inspiration"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Heh heh ...",
@@ -13405,8 +13406,7 @@
                 "Transcription": "It's a secret.",
                 "Path": "https://voice.merui.net/en/hero3048_skill/play_hero3048fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304801_headicon_small.webp"
+        }
     },
     "medicine_pocket": {
         "Era": "1990s",
@@ -13425,6 +13425,7 @@
             "Control"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "New friends ... new friends ... new investor ... new friends!",
@@ -13554,8 +13555,7 @@
                 "Transcription": "Don't run, puppy. I'll catch you in a minute ...",
                 "Path": "https://voice.merui.net/en/hero3047_skill/play_hero3047_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304701_headicon_small.webp"
+        }
     },
     "poltergeist": {
         "Era": "1960s",
@@ -13572,6 +13572,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Aaaah!\nSorry, I'm so sorry ...",
@@ -13701,8 +13702,7 @@
                 "Transcription": "What do you think of my beachwear? Does it look bad?\nYes ... yes?",
                 "Path": "https://voice.merui.net/en/hero3046_skill/play_hero3046fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304601_headicon_small.webp"
+        }
     },
     "bette": {
         "Era": "1930s",
@@ -13720,6 +13720,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hmmm ... Excuse me, is this the way to the audition?",
@@ -13845,8 +13846,7 @@
                 "Transcription": "What? I am so very grateful for your approval!",
                 "Path": "https://voice.merui.net/en/hero3045_skill/play_hero3045_fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304501_headicon_small.webp"
+        }
     },
     "ms._moissan": {
         "Era": "early 20th century",
@@ -13864,6 +13864,7 @@
             "Control"
         ],
         "Other_Name": "Hannah Geier",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, Ms. Timekeeper. We're a team now.\nIf you encounter any difficulties with your assignment or the study of arcanum,\nplease feel free to ask me any questions, just as Ms. Sotheby does.",
@@ -13993,8 +13994,7 @@
                 "Transcription": "This dress reminds me of my hometown,\nand those beautiful, fragile porcelains.\nIt's hard to imagine what a dangerous weapon they would make once broken.",
                 "Path": "https://voice.merui.net/en/hero3044_skill/play_hero3044_fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304401_headicon_small.webp"
+        }
     },
     "tennant": {
         "Era": "1940s",
@@ -14013,6 +14013,7 @@
             "Bullet"
         ],
         "Other_Name": "Ada Tennant",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Greetings to you, fair lady, may I present you a rose?\nOh, seems like you won't fall for this cheap flattery. I'm ashamed.",
@@ -14142,8 +14143,7 @@
                 "Transcription": "Shush, my lady, let us enjoy this moment,\nthis beautiful, short, enchanted moment.",
                 "Path": "https://voice.merui.net/en/hero3043_skill/play_hero3043_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304301_headicon_small.webp"
+        }
     },
     "rabies": {
         "Era": "1940s",
@@ -14161,6 +14161,7 @@
             "Poison"
         ],
         "Other_Name": "Adam Mi\u0142osz",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Purrrrrrr ... Ra ... bies ... Rabies ...",
@@ -14290,8 +14291,7 @@
                 "Transcription": "What ... is ... this? Micro ... scope? Microsco ... new toy!",
                 "Path": "https://voice.merui.net/en/hero3042_skill/play_hero3042fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304201_headicon_small.webp"
+        }
     },
     "matilda": {
         "Era": "1990s",
@@ -14310,6 +14310,7 @@
             "Inspiration"
         ],
         "Other_Name": "Matilda Bouanich",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hey, why are you here?\n... Wait, does it mean Sonetto is also ...",
@@ -14439,8 +14440,7 @@
                 "Transcription": "Aujourd'hui, Matilda la surdou\u00e9e domine le monde entier ...\nen tant que meilleure \u00e9l\u00e8ve.",
                 "Path": "https://voice.merui.net/en/hero3041_skill/play_hero3041fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304101_headicon_small.webp"
+        }
     },
     "twins_sleep": {
         "Era": "1980s",
@@ -14458,6 +14458,7 @@
             "Control"
         ],
         "Other_Name": "Lisa & Louise",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, I'm Lisa (Louise)!",
@@ -14583,8 +14584,7 @@
                 "Transcription": "Thank you for your gift!",
                 "Path": "https://voice.merui.net/en/hero3040_skill/play_hero3040_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/304001_headicon_small.webp"
+        }
     },
     "an-an_lee": {
         "Era": "1990s",
@@ -14607,6 +14607,7 @@
         ],
         "Other_Name": "\u6ce5\u9bed\u7684\u58eb",
         "Alpha": "Nai Maang Dik Si",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'll take care of this case, thank you boss!\nI'm Nai Maang Dik Si, of course you'd better call me An'an. Let's make a fortune together!",
@@ -14736,8 +14737,7 @@
                 "Transcription": "Ha! I got you!\nYou can do anything but you choose to hurt people.\nGo listen to Lily's lesson and study again, reincarnate soon!",
                 "Path": "https://voice.merui.net/en/hero3039_skill/play_hero3039_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303901_headicon_small.webp"
+        }
     },
     "satsuki": {
         "Era": "1910s",
@@ -14755,6 +14755,7 @@
             "Control"
         ],
         "Other_Name": "\u7690\u6708",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "\u306f\u3058\u3081\u307e\u3057\u3066\u3002\u3069\u3046\u305e\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002\nMs. ... Timekeeper, is it?",
@@ -14884,8 +14885,7 @@
                 "Transcription": "Something seems to have changed, but ... not really.",
                 "Path": "https://voice.merui.net/en/hero3038_skill/play_hero3038_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303801_headicon_small.webp"
+        }
     },
     "necrologist": {
         "Era": "1940s",
@@ -14903,6 +14903,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, I'm the Necrologist.\nI am adept at listening to and managing others' affairs.\nThis of course includes yours as well, whether in the present or perhaps, in the future.",
@@ -15032,8 +15033,7 @@
                 "Transcription": "There's another exhibit on display. I'm delighted.",
                 "Path": "https://voice.merui.net/en/hero3037_skill/play_hero3037fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303701_headicon_small.webp"
+        }
     },
     "john_titor": {
         "Era": "1970s",
@@ -15052,6 +15052,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "49276D4A6F686E5469746F72",
@@ -15177,8 +15178,7 @@
                 "Transcription": "53757265",
                 "Path": "https://voice.merui.net/en/hero3036_skill/play_hero3036fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303601_headicon_small.webp"
+        }
     },
     "leilani": {
         "Era": "20th century",
@@ -15196,6 +15196,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Aloha! Welcome to ...\nOh, welcome me to your place!",
@@ -15321,8 +15322,7 @@
                 "Transcription": "Shh ... they're humming.",
                 "Path": "https://voice.merui.net/en/hero3035_skill/play_hero3035fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303501_headicon_small.webp"
+        }
     },
     "alien_t": {
         "Era": "mid 20th century",
@@ -15340,6 +15340,7 @@
             "Control"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hi hi, I'm here. I'm aliEn T, a peace-loving visitor from outer space.",
@@ -15465,8 +15466,7 @@
                 "Transcription": "Thank you so much, my dear human friend.\nThinking about the future, I'm really sorry.",
                 "Path": "https://voice.merui.net/en/hero3034_skill/play_hero3034fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303401_headicon_small.webp"
+        }
     },
     "ttt": {
         "Era": "1990s",
@@ -15485,6 +15485,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello!\nNo no no! Come back here! I won't ... I won't crawl out of the screen ...",
@@ -15614,8 +15615,7 @@
                 "Transcription": "Woooh! Fully charged!",
                 "Path": "https://voice.merui.net/en/hero3033_skill/play_hero3033fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303301_headicon_small.webp"
+        }
     },
     "centurion": {
         "Era": "1930s",
@@ -15633,6 +15633,7 @@
             "Ultimate"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hey, Jefe. Life is a gamble.\nMiracles won't happen if you just sit around and wait for it. When exactly are you going to make a bet?",
@@ -15762,8 +15763,7 @@
                 "Transcription": "Not enough oxygen. I feel like ... I'm about to fly!",
                 "Path": "https://voice.merui.net/en/hero3032_skill/play_fightingvoc_hero3032_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303201_headicon_small.webp"
+        }
     },
     "cristallo": {
         "Era": "1940s",
@@ -15780,6 +15780,7 @@
             "Support"
         ],
         "Other_Name": "Hilma",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello. Could you help me?\nOver there, please. Thank you.",
@@ -15909,8 +15910,7 @@
                 "Transcription": "Thank you for visiting me. Thank you for your flowers.\nI have never really touched them myself. I'm really ... really grateful to you.",
                 "Path": "https://voice.merui.net/en/hero3031_skill/play_hero3031_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303101_headicon_small.webp"
+        }
     },
     "la_source": {
         "Era": "1850s",
@@ -15927,6 +15927,7 @@
             "Heal"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Have you heard that story? A magical golden lamp,\nrub it 3 times and there was a genie, who can satisfy all your wishes?\nYes you say? Well then, go to that guy instead!",
@@ -16052,8 +16053,7 @@
                 "Transcription": "The jar gets heavier ... or lighter?\nIt's heavy and light! So weird ... I don't get it!!",
                 "Path": "https://voice.merui.net/en/hero3030_skill/play_hero3030fightingvoc_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/303001_headicon_small.webp"
+        }
     },
     "apple": {
         "Era": "1960s",
@@ -16070,6 +16070,7 @@
             "Heal"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "... Greetings, madam. I am here.",
@@ -16195,8 +16196,7 @@
                 "Transcription": "If I have seen further, it is by standing on the table ...",
                 "Path": "https://voice.merui.net/en/hero3028_skill/play_hero3028fightingvoc_28.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/302801_headicon_small.webp"
+        }
     },
     "ms._radio": {
         "Era": "20th century",
@@ -16214,6 +16214,7 @@
             "Control"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, world.",
@@ -16339,8 +16340,7 @@
                 "Transcription": "The moment when dirt bids farewell to the machine is worth remembering forever.",
                 "Path": "https://voice.merui.net/en/hero3027_skill/play_hero3027_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/302701_headicon_small.webp"
+        }
     },
     "mondlicht": {
         "Era": "mid 15th century",
@@ -16358,6 +16358,7 @@
             "Bullet"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hi there, I am Mondlicht. I still have things to do, so I'll be on my way.",
@@ -16487,8 +16488,7 @@
                 "Transcription": "I'll protect every single person. I swear on this red cloak of mine.",
                 "Path": "https://voice.merui.net/en/hero3026_skill/play_hero3026_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/302601_headicon_small.webp"
+        }
     },
     "regulus": {
         "Era": "mid 20th century",
@@ -16507,6 +16507,7 @@
             "Conduit"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Who's in front of you?\nHumph! The Admired Captain, The Coolest Radio DJ, The Genius Alchemist!\nHumph! Call me whatever you like.",
@@ -16636,8 +16637,7 @@
                 "Transcription": "The roaring engine of the motor, the rocking music from the radio, the waves when the ship sets sail.\nEverything and everything. I can't wait to feel the new world!",
                 "Path": "https://voice.merui.net/en/hero3025_skill/play_hero3025fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/302501_headicon_small.webp"
+        }
     },
     "balloon_party": {
         "Era": "1960s",
@@ -16654,6 +16654,7 @@
             "Heal"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Balloons ... you need some balloons here.\nThat's why I brought them. Say cheese.",
@@ -16783,8 +16784,7 @@
                 "Transcription": "Ah! I see the peaceful families, and the lawns under the sun ...\nKids who are suffering, please come to me!\nOr ... I will go to you.",
                 "Path": "https://voice.merui.net/en/hero3024_skill/play_hero3024fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/302401_headicon_small.webp"
+        }
     },
     "sonetto": {
         "Era": "20th century",
@@ -16803,6 +16803,7 @@
             "Control"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "The lake is overflowing. It's cold, just like a flowing line ...\nWait, where am I?",
@@ -16932,8 +16933,7 @@
                 "Transcription": "This place has brought me so many things: freedom, fresh knowledge, brave friends.\nHow can I ever repay you?\nI want to be of help to you at any time.",
                 "Path": "https://voice.merui.net/en/hero3023_skill/play_hero3023fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/302301_headicon_small.webp"
+        }
     },
     "dikke": {
         "Era": "middle ages",
@@ -16950,6 +16950,7 @@
             "Heal"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Silence.\nSpeak. From whence dost thou hail and what is thy purpose?",
@@ -17079,8 +17080,7 @@
                 "Transcription": "It concerns me that I can imagine how it feels to be in a position of power.",
                 "Path": "https://voice.merui.net/en/hero3022_skill/play_hero3022_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/302201_headicon_small.webp"
+        }
     },
     "bkornblume": {
         "Era": "1980s",
@@ -17100,6 +17100,7 @@
             "Ultimate"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Are you a brave speaker?\nYou look like one ... Hmm, and sound like too.",
@@ -17229,8 +17230,7 @@
                 "Transcription": "The times never stop. Maybe I can't change anything ...\nBut at least I've once spoken out.",
                 "Path": "https://voice.merui.net/en/hero3020_skill/play_hero3020_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/302001_headicon_small.webp"
+        }
     },
     "oliver_fog": {
         "Era": "mid 20th century",
@@ -17248,6 +17248,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'm Oliver Fog, special commissioner of the London Climate Management Agency.\nThree hours from getting off ... Ok, let's start.",
@@ -17377,8 +17378,7 @@
                 "Transcription": "If the fog in London fades, I will be a special effects artist for stage or film ...\nthe kind that specializes in making smoke.",
                 "Path": "https://voice.merui.net/en/hero3018_skill/play_hero3018fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/301801_headicon_small.webp"
+        }
     },
     "charlie": {
         "Era": "1650s",
@@ -17396,6 +17396,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ah! The troopers are here! Get out of ...\nHuh? You are not one of them? I am so, so sorry!",
@@ -17525,8 +17526,7 @@
                 "Transcription": "Aye ... aye!\nBe it tyrant or tyranny, people's right for joy cannot be snatched away.",
                 "Path": "https://voice.merui.net/en/hero3017_skill/play_hero3017fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/301701_headicon_small.webp"
+        }
     },
     "baby_blue": {
         "Era": "early 20th century",
@@ -17545,6 +17545,7 @@
             "Control"
         ],
         "Other_Name": "Rebecca Jones",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I am ... Who am I? I don't know ...\nIt's okay, in Wonderland ... everyone is Alice ...",
@@ -17674,8 +17675,7 @@
                 "Transcription": "What should I give you in return?\nA teddy bear? Hmm, or a well filled with syrup?",
                 "Path": "https://voice.merui.net/en/hero3016_skill/play_hero3016fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/301601_headicon_small.webp"
+        }
     },
     "pavia": {
         "Era": "1990s",
@@ -17692,6 +17692,7 @@
             "DPS"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Mission accepted ...\nAdvice, you'd better clear your complaint mailbox first.",
@@ -17821,8 +17822,7 @@
                 "Transcription": "Hey, I didn't know you value me so much. What do you want from me?",
                 "Path": "https://voice.merui.net/en/hero3015_skill/play_hero3015fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/301501_headicon_small.webp"
+        }
     },
     "bunny_bunny": {
         "Era": "1960s",
@@ -17840,6 +17840,7 @@
             "Purify"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Y'all wanna fries, burgers, or apple Martini?\nThe party's gonna begin, sit tight ... my naughty guest!",
@@ -17969,8 +17970,7 @@
                 "Transcription": "Really? Oh ... Really! I done loved it, thank you!",
                 "Path": "https://voice.merui.net/en/hero3014_skill/play_hero3014fightingvoc_29.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/301401_headicon_small.webp"
+        }
     },
     "\u0437\u0438\u043c\u0430": {
         "Era": "early 20th century",
@@ -17988,6 +17988,7 @@
             "Control"
         ],
         "Other_Name": "Zima",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435 ...\nNo, nothing ...\nThe name is ... on the paper ...\nPlease ... have a look ...",
@@ -18117,8 +18118,7 @@
                 "Transcription": "I hear ... more sounds ...\nfrom animals, trees, oceans and ... poems.",
                 "Path": "https://voice.merui.net/en/hero3013_skill/play_hero3013_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/301301_headicon_small.webp"
+        }
     },
     "the_fool": {
         "Era": "1650s",
@@ -18135,6 +18135,7 @@
             "DPS"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Don't panic, my lord,\n<The chasing troopers are also part of the play.>",
@@ -18260,8 +18261,7 @@
                 "Transcription": "<Sing thee a song I will,> in any voice, any way.",
                 "Path": "https://voice.merui.net/en/hero3012_skill/play_hero3012_34.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/301201_headicon_small.webp"
+        }
     },
     "sweetheart": {
         "Era": "1930s",
@@ -18279,6 +18279,7 @@
             "Control"
         ],
         "Other_Name": "Marilyn",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello dear ...\nDo I still have to tell you my name? Or sign my name first?",
@@ -18408,8 +18409,7 @@
                 "Transcription": "When they sit here, they look down at everyone ... The world is in my hands? ... Huh.",
                 "Path": "https://voice.merui.net/en/hero3011_skill/play_hero3011fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/301101_headicon_small.webp"
+        }
     },
     "x": {
         "Era": "1930s",
@@ -18428,6 +18428,7 @@
             "Control"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Everything in the world is born of laws and regulations.\nThere are no coincidences, let alone adventures.\nThere are only expected results, such as our encounter.",
@@ -18557,8 +18558,7 @@
                 "Transcription": "The day I've waited for has finally come. Welcome to my world.",
                 "Path": "https://voice.merui.net/en/hero3010_skill/play_hero3010fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/301001_headicon_small.webp"
+        }
     },
     "sotheby": {
         "Era": "early 20th century",
@@ -18576,6 +18576,7 @@
             "Poison"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hi! I am Sotheby. As you can see, I am an excellent and knowledgeable lady!\nHuh, that farmer ... he actually owns a whole group of bicorns!",
@@ -18705,8 +18706,7 @@
                 "Transcription": "The outside world is much bigger ... than I thought ...",
                 "Path": "https://voice.merui.net/en/hero3009_skill/play_hero3009fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/300901_headicon_small.webp"
+        }
     },
     "a_knight": {
         "Era": "middle ages",
@@ -18724,6 +18724,7 @@
             "Ultimate"
         ],
         "Other_Name": "Roland",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Someone is just a knight, nameless, wandering, beholden to thee for taking me in.\nIf thou dost not mind, please let Someone serve thee till the end.",
@@ -18853,8 +18854,7 @@
                 "Transcription": "The last time when honored, Someone was only a man too young.\nBut Someone's piety and oath hath been unchanged, now and always will be.",
                 "Path": "https://voice.merui.net/en/hero3007_skill/play_hero3007fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/300701_headicon_small.webp"
+        }
     },
     "eagle": {
         "Era": "1910s",
@@ -18871,6 +18871,7 @@
             "DPS"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "The BSA number? I'm ... I am so sorry, I don't have a number ...\nBut I will make every effort to do my best. Trust me, please!",
@@ -19000,8 +19001,7 @@
                 "Transcription": "Thank you for your appreciation, commander ... I will not stop making efforts.",
                 "Path": "https://voice.merui.net/en/hero3006_skill/play_hero3006fightingvoc_29.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/300601_headicon_small.webp"
+        }
     },
     "nick_bottom": {
         "Era": "1590s",
@@ -19018,6 +19018,7 @@
             "Support"
         ],
         "Other_Name": "",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Good day! My name is Nick Bottom, the weaver in town.\nI've also acted in dramas. Let me play the lion. Let me play the hero ...\nAhaha, yes, yes, now I will but make an ass!",
@@ -19147,8 +19148,7 @@
                 "Transcription": "My steps are more brisker!",
                 "Path": "https://voice.merui.net/en/hero3005_skill/play_hero3005fightingvoc_29.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/300501_headicon_small.webp"
+        }
     },
     "lilya": {
         "Era": "late 20th century",
@@ -19169,6 +19169,7 @@
             "Bullet"
         ],
         "Other_Name": "\u041b\u0438\u043b\u044f",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "As long as you watch my flight once, you will never forget my name.\nI am Lilya. In other words, I am your Goddess of Victory.",
@@ -19298,8 +19299,7 @@
                 "Transcription": "Well done. Now I will bring countless victories as red flash.\nYou ... you made the right choice. I'll give you half of the medals.\nThank me for being generous.",
                 "Path": "https://voice.merui.net/en/hero3004_skill/play_hero3004fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/300401_headicon_small.webp"
+        }
     },
     "druvis_iii": {
         "Era": "early 20th century",
@@ -19320,6 +19320,7 @@
             "Rank Up"
         ],
         "Other_Name": "Druvis Weyerhaeuser III",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I am Druvis III. It's my pleasure to meet you.\n... You said I didn't look very pleased?\nHah ... How about now?",
@@ -19449,7 +19450,6 @@
                 "Transcription": "From now on, I will see and understand more.\nYou helped me, and I will give you an appropriate return.",
                 "Path": "https://voice.merui.net/en/hero3003_skill/play_hero3003fightingvoc_33.ogg"
             }
-        },
-        "Icon": "frontend/src/assets/charicons/300301_headicon_small.webp"
+        }
     }
 }
