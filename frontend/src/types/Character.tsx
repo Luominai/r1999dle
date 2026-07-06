@@ -1,6 +1,10 @@
 import type Voiceline from "./Voiceline"
 
-export default interface Character {
+interface Dict {
+    [key: string]: any
+}
+
+export default interface Character extends Dict {
     ID: number,
     Name: string,
     Version: string,
@@ -9,9 +13,11 @@ export default interface Character {
     Race: string,
     DMG_Type: String,
     Gender: string,
-    Tags: Array<string>,
+    Archetypes: Array<string>,
     Other_Name: string,
     Icon_Small: string,
+    Era: string
+    Location: string,
     Voicelines: {
         First_Encounter: Voiceline,
         Suitcase_Climate: Voiceline,

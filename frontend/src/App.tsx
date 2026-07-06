@@ -4,15 +4,10 @@ import Row from './Row'
 import Dropdown from './Dropdown'
 import type Character from './types/Character'
 import bg from "./assets/Hongshan_Forest_Zoo_Collab_Special_Art_01.webp"
-import Rand from 'rand-seed';
-import characterData from "./assets/data.json"
 import Results from './Results'
-import { compare } from './utils'
+import { compare, answer } from './utils'
 
-const today = new Date().toDateString()
-const rand = new Rand(today)
-const characters = Object.values(characterData)
-const dailyCharacter = characters[Math.floor(rand.next() * characters.length)]
+const fields = ["Version", "Afflatus", "Era", "Location", "Archetypes"]
 
 function App() {
 	const [guesses, setGuesses] = useState<Array<Character | undefined>>([undefined, undefined, undefined, undefined, undefined])
@@ -28,9 +23,9 @@ function App() {
 		}}>
 			{
 				completed && resultsPageOpen
-				? 
-					<Results character={dailyCharacter} correct={correct} onClose={() => setResultsPageOpen(false)}/>
-				:
+					?
+					<Results character={answer} correct={correct} onClose={() => setResultsPageOpen(false)} />
+					:
 					<></>
 			}
 
@@ -65,7 +60,7 @@ function App() {
 					}
 
 					// if every value is truthy, we have the correct answer
-					if (Object.values(compare(selected, dailyCharacter)).every((val) => val == true)) {
+					if (Object.values(compare(selected, answer)).every((val) => val == true)) {
 						setCompleted(true)
 						setCorrect(true)
 					}
@@ -74,37 +69,33 @@ function App() {
 				<table>
 					<thead>
 						<tr className='row'>
-							<th scope='col'>Image</th>
-							<th scope='col'>Name</th>
-							<th scope='col'>Release</th>
-							<th scope='col'>Afflatus</th>
-							<th scope='col'>Damage</th>
-							<th scope='col'>Tags</th>
+							<th scope='col'>Char</th>
+							{fields.map((field) => <th scope='col'>{field}</th>)}
 						</tr>
 					</thead>
 					<tbody>
 						{guesses.map((guess) => {
 							if (guess !== undefined) {
 								return (
-									<Row character={guess} correctness={compare(guess, dailyCharacter)}/>
+									<Row character={guess} fields={fields}/>
 								)
 							}
 							return (
-								<Row/>
+								<Row fields={fields}/>
 							)
 						})}
 					</tbody>
 				</table>
 
 				{
-					completed 
-					?
-						<div style={{display: "flex", justifyContent: "end"}}>
+					completed
+						?
+						<div style={{ display: "flex", justifyContent: "end" }}>
 							<div className="button" onClick={(_) => setResultsPageOpen(true)}>
 								See Results
 							</div>
 						</div>
-					:
+						:
 						<></>
 				}
 			</div>

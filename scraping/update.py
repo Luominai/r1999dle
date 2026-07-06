@@ -33,23 +33,29 @@ res = requests.get("https://uttu.merui.net/profiles/")
 text = res.text
 
 # the data is stored in a big object written into the index.html file. this method of isolating the object is specific to the file (7/4/26)
-start = text.find("const profiles")
-text = text[start:]
-start = text.find("[")
-text = text[start:]
+def get_object(text, keystring):
+    start = text.find(keystring)
+    text = text[start:]
+    start = min(text.find("["), text.find("{"))
+    text = text[start:]
 
-stack = 0
-for idx, char in enumerate(text):
-    if char == "]" and stack <= 0:
-        text = text[:idx + 1]
-        break 
-    elif char == "[":
-        stack += 1
-    elif char == "]":
-        stack -= 1
+    stack = 0
+    for idx, char in enumerate(text):
+        if (char == "]" or char == "}") and stack <= 0:
+            text = text[:idx + 1]
+            break 
+        elif char == "[" or char == "{":
+            stack += 1
+        elif char == "]" or char == "}":
+            stack -= 1
+
+    return chompjs.parse_js_object(text)
 
 # parse the JS object into JSON
-profiles_list: list[dict] = chompjs.parse_js_object(text)
+profiles_list: list[dict] = get_object(text, "const profiles")
+roles_list: list[str] = get_object(text, "const role")
+version_order: list[str] = get_object(text, "const categoryOptions")["characteristics"]["Version"]
+print(version_order)
 
 data = {}
 for profile in profiles_list:
@@ -60,12 +66,14 @@ for profile in profiles_list:
     # parse the name field to get a url-ready string
     profile["Name"] = str(profile["Name"])
     name = profile["Name"]
-    name = "_".join(part.lower() for part in name.split(" "))
     name = BeautifulSoup(name, features="html.parser").get_text()
+    profile["Name"] = name
+    name = "_".join(part.lower() for part in name.split(" "))
 
     # the "Other Name" field can be either a string or an array of strings. If it's an array, pick the first
     if type(profile["Other Name"]) is list:
-        profile["Other Name"] = profile["Other Name"][0] # type: ignore
+        profile["Other Name"] = str(profile["Other Name"][0]) # type: ignore
+        profile["Other Name"] = BeautifulSoup(profile["Other Name"], features="html.parser").get_text()
 
     # merge euphoria tags into the main tags field
     if "euphoria" in profile:
@@ -74,6 +82,14 @@ for profile in profiles_list:
                 if tag not in profile["Tags"]:
                     profile["Tags"].append(tag)
         del profile["euphoria"]
+
+    # remove role tags because they're too common to be interesting hints
+    for tag in roles_list:
+        if tag in profile["Tags"]:
+            profile["Tags"].remove(tag)
+
+    # rename tags
+    profile["Archetypes"] = profile.pop("Tags")
 
     # copy the profile data over but change the name of the keys for convenience
     data[name] = {}
@@ -151,10 +167,9 @@ for t in threads:
 for t in threads:
     t.join()
 
-# # write to file
-# with open("data.json", "w") as f:
-#     json.dump(data, f, indent=4)
-
 # write to file
 with open("frontend/src/assets/data.json", "w") as f:
     json.dump(data, f, indent=4)
+
+with open("frontend/src/assets/versions.json", "w") as f:
+    json.dump(version_order, f, indent=4)

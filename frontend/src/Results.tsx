@@ -65,6 +65,7 @@ export default function Results({character, correct, onClose}: {character: Chara
                         <div>{character.DMG_Type}</div>
                     </div>
                     <div style={{display: "flex", gap: "16px"}}>
+                        {/* @ts-ignore */}
                         {character.Tags.map((tag) => <span>{tag}</span>)}
                     </div>
                 </div>

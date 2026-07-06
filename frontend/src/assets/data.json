@@ -10,14 +10,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Ultimate",
-            "Support",
-            "Follow-up Attack"
-        ],
         "Other_Name": "Eagle",
         "Alpha": null,
+        "Archetypes": [
+            "Ultimate",
+            "Follow-up Attack"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/315401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -161,11 +159,9 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS"
-        ],
         "Other_Name": "Moth",
         "Alpha": null,
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -309,12 +305,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Support",
-            "Universal Fit"
-        ],
         "Other_Name": "Aderyn Tywyll",
         "Alpha": null,
+        "Archetypes": [
+            "Universal Fit"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -462,13 +457,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Heal",
-            "Conduit",
-            "Support"
-        ],
         "Other_Name": "",
         "Alpha": null,
+        "Archetypes": [
+            "Conduit"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -612,13 +605,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Conduit",
-            "Support"
-        ],
         "Other_Name": "",
         "Alpha": "Coppelia",
+        "Archetypes": [
+            "Conduit"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -762,14 +753,12 @@
         "Race": "Human",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "Shield",
-            "Dynamo",
-            "Support",
-            "Array"
-        ],
         "Other_Name": "Adler Hofmann",
         "Alpha": null,
+        "Archetypes": [
+            "Dynamo",
+            "Array"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -913,13 +902,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Alpha": "",
+        "Archetypes": [
             "Poison",
             "Rewrite"
         ],
-        "Other_Name": "",
-        "Alpha": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -1063,15 +1051,13 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u9e6d\u9e36\u526a",
+        "Alpha": "L\u00f9s\u012b Ji\u01cen",
+        "Archetypes": [
             "Inspiration",
-            "Support",
             "Array",
             "Eureka"
         ],
-        "Other_Name": "\u9e6d\u9e36\u526a",
-        "Alpha": "L\u00f9s\u012b Ji\u01cen",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -1223,12 +1209,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Riposte"
-        ],
         "Other_Name": "Stasia",
         "Alpha": null,
+        "Archetypes": [
+            "Riposte"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -1372,14 +1357,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Support",
-            "Lingering Glow",
-            "DPS",
-            "Rewrite"
-        ],
         "Other_Name": "Marguerite Martin",
         "Alpha": null,
+        "Archetypes": [
+            "Lingering Glow",
+            "Rewrite"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -1523,10 +1506,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Support"
-        ],
         "Other_Name": "\u82a6\u8349\u7ed3",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -1670,14 +1651,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "Support",
-            "Extra Action",
-            "DPS",
-            "Follow-up Attack"
-        ],
         "Other_Name": "\u7a0b\u548c\u5149",
         "Alpha": null,
+        "Archetypes": [
+            "Extra Action",
+            "Follow-up Attack"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -1814,19 +1793,16 @@
         "Era": "1910s",
         "Location": "France",
         "ID": 3136,
-        "Name": "<i>Lady by the Lake</i>",
+        "Name": "Lady by the Lake",
         "Version": "3.5",
         "Rarity": 4,
         "Afflatus": "Plant",
         "Race": "Awakened",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Support"
-        ],
         "Other_Name": "",
         "Alpha": null,
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -1970,15 +1946,13 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Ad\u00e8le Tavernier",
+        "Alpha": null,
+        "Archetypes": [
             "Dynamo",
-            "Support",
             "Channel",
             "Array"
         ],
-        "Other_Name": "Ad\u00e8le Tavernier",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -2126,14 +2100,13 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Beryl Bouanich",
+        "Alpha": null,
+        "Archetypes": [
             "Lingering Glow",
             "Extra Action",
             "Rank Up"
         ],
-        "Other_Name": "Beryl Bouanich",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -2284,7 +2257,7 @@
     },
     "corvus": {
         "Era": "1910s",
-        "Location": "Orein\u00c3\u00b3sia",
+        "Location": "Orein\u00f3sia",
         "ID": 3132,
         "Name": "Corvus",
         "Version": "3.1",
@@ -2293,14 +2266,13 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u0418\u0433\u043b\u0438\u043a\u0430",
+        "Alpha": "Iglika",
+        "Archetypes": [
             "Dynamo",
             "Channel",
             "Array"
         ],
-        "Other_Name": "\u0418\u0433\u043b\u0438\u043a\u0430",
-        "Alpha": "Iglika",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -2440,15 +2412,13 @@
         "Race": "Awakened",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Support",
+        "Other_Name": "Paul Haumann",
+        "Alpha": null,
+        "Archetypes": [
             "Dynamo",
-            "DPS",
             "Channel",
             "Array"
         ],
-        "Other_Name": "Paul Haumann",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -2592,14 +2562,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Shield",
-            "Lingering Glow",
-            "Support",
-            "Purify"
-        ],
         "Other_Name": "Marsha Rosenhart",
         "Alpha": null,
+        "Archetypes": [
+            "Lingering Glow",
+            "Purify"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -2743,14 +2711,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Support",
-            "Bloodtithe",
-            "DPS",
-            "Bullet"
-        ],
         "Other_Name": "Marianne de T\u00e9n\u00e9brun",
         "Alpha": null,
+        "Archetypes": [
+            "Bloodtithe",
+            "Bullet"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -2894,13 +2860,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Heal",
-            "Bloodtithe",
-            "Support"
-        ],
         "Other_Name": "\u0420\u0443\u0431\u0443\u0441\u043a\u0430",
         "Alpha": null,
+        "Archetypes": [
+            "Bloodtithe"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -3044,15 +3008,13 @@
         "Race": "Human",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Extra Action",
-            "Ultimate",
-            "Support",
-            "Assassination"
-        ],
         "Other_Name": "\u039a\u03b1\u03c3\u03c3\u03b1\u03bd\u03b4\u03c1\u03b1",
         "Alpha": null,
+        "Archetypes": [
+            "Extra Action",
+            "Ultimate",
+            "Assassination"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -3212,15 +3174,14 @@
         "Race": "Human",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Ezio Auditore da Firenze",
+        "Alpha": null,
+        "Archetypes": [
             "Poison",
             "Ultimate",
             "Extra Action",
             "Assassination"
         ],
-        "Other_Name": "Ezio Auditore da Firenze",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -3364,13 +3325,12 @@
         "Race": "Human",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u0391\u03bb\u03b5\u03be\u03b9\u03bf\u03c2",
+        "Alpha": null,
+        "Archetypes": [
             "Ultimate",
             "Assassination"
         ],
-        "Other_Name": "\u0391\u03bb\u03b5\u03be\u03b9\u03bf\u03c2",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -3514,15 +3474,13 @@
         "Race": "Mixed",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Support",
-            "Ultimate",
-            "DPS",
-            "Riposte"
-        ],
         "Other_Name": "\u041c\u04e9\u043b\u0434\u0456\u0440 \u0415\u0440\u0430\u0441\u044b\u043b\u043e\u0432\u043d\u0430 \u0423\u043b\u0430\u043d\u043e\u0432\u0430",
         "Short_Name": "\u041c\u04e9\u043b\u0434\u0456\u0440 \u0423\u043b\u0430\u043d\u043e\u0432\u0430",
         "Alpha": "Moldir Erasylovna Ulanova",
+        "Archetypes": [
+            "Ultimate",
+            "Riposte"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -3666,13 +3624,12 @@
         "Race": "Infected",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Nautika Amundsen",
+        "Alpha": null,
+        "Archetypes": [
             "Bloodtithe",
             "Channel"
         ],
-        "Other_Name": "Nautika Amundsen",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312001_headicon_small.webp",
         "Voicelines": {
             "Lobby_Entrance": {
@@ -3832,14 +3789,13 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Support",
-            "Ultimate",
-            "Dispeller"
-        ],
         "Other_Name": "\u0438\u043c\u0435\u043d\u0438\u043d\u044b",
         "Alpha": "Leonid",
         "Other2": "\u041b\u0435\u043e\u043d\u0438\u0434",
+        "Archetypes": [
+            "Ultimate",
+            "Dispeller"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -3983,14 +3939,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Shield",
-            "Inspiration",
-            "Support",
-            "Eureka"
-        ],
         "Other_Name": "\u0410\u043b\u0438\u043d\u0430 \u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432\u0430",
         "Alpha": "Alina Medvedeva",
+        "Archetypes": [
+            "Inspiration",
+            "Eureka"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -4134,13 +4088,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Sylvie",
+        "Alpha": null,
+        "Archetypes": [
             "Ultimate",
             "Control"
         ],
-        "Other_Name": "Sylvie",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -4284,12 +4237,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
-            "Ultimate"
-        ],
         "Other_Name": "",
         "Alpha": null,
+        "Archetypes": [
+            "Ultimate"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -4433,13 +4385,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Ultimate",
-            "Support"
-        ],
         "Other_Name": "Ficciones",
         "Alpha": null,
+        "Archetypes": [
+            "Ultimate"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -4583,14 +4533,13 @@
         "Race": "Human",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Support",
+        "Other_Name": "\u05d0",
+        "Alpha": null,
+        "Archetypes": [
             "Inspiration",
             "Channel",
             "Eureka"
         ],
-        "Other_Name": "\u05d0",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -4734,10 +4683,8 @@
         "Race": "Awakened",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Heal"
-        ],
         "Other_Name": "Latham",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -4881,13 +4828,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u83f2\u6797\u58eb\u591a",
+        "Alpha": "Fei Lam Si Do",
+        "Archetypes": [
             "Ultimate",
             "Control"
         ],
-        "Other_Name": "\u83f2\u6797\u58eb\u591a",
-        "Alpha": "Fei Lam Si Do",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -5031,12 +4977,11 @@
         "Race": "Mixed",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u6881\u6708",
+        "Archetypes": [
             "Extra Action",
             "Immunity"
         ],
-        "Other_Name": "\u6881\u6708",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -5188,12 +5133,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Heal",
+        "Other_Name": "",
+        "Archetypes": [
             "Extra Action",
             "Purify"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -5337,13 +5281,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Barcarola Stradivari",
+        "Archetypes": [
             "Inspiration",
-            "Support",
             "Eureka"
         ],
-        "Other_Name": "Barcarola Stradivari",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -5487,15 +5429,13 @@
         "Race": "Awakened",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Alpha": null,
+        "Archetypes": [
             "Dynamo",
-            "Support",
             "Channel",
             "Array"
         ],
-        "Other_Name": "",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -5639,12 +5579,11 @@
         "Race": "Awakened",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Support",
+        "Other_Name": "Slouch Hat",
+        "Archetypes": [
             "Extra Action",
             "Purify"
         ],
-        "Other_Name": "Slouch Hat",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -5788,14 +5727,12 @@
         "Race": "Mixed",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Support",
+        "Other_Name": "Liberti",
+        "Archetypes": [
             "Extra Action",
-            "DPS",
             "Channel",
             "Eureka"
         ],
-        "Other_Name": "Liberti",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -5939,12 +5876,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Charlotte O'Hagan",
+        "Archetypes": [
             "Poison",
             "Channel"
         ],
-        "Other_Name": "Charlotte O'Hagan",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -6088,12 +6024,11 @@
         "Race": "Human",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Riposte",
             "Bullet"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -6237,14 +6172,13 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Support",
+        "Other_Name": "Carlotta Lopez Rivera",
+        "Archetypes": [
             "Burn",
             "Channel",
             "Bullet",
             "Array"
         ],
-        "Other_Name": "Carlotta Lopez Rivera",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -6388,13 +6322,12 @@
         "Race": "Awakened",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Shift",
             "Control",
             "Channel"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -6538,14 +6471,13 @@
         "Race": "Beyond",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Nala Hari",
+        "Archetypes": [
             "Extra Action",
             "Ultimate",
             "Control",
             "Channel"
         ],
-        "Other_Name": "Nala Hari",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310001_headicon_small.webp",
         "Voicelines": {
             "Lobby_Entrance": {
@@ -6705,11 +6637,8 @@
         "Race": "Mixed",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Shield",
-            "Support"
-        ],
         "Other_Name": "Dolly",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -6853,13 +6782,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Christine",
+        "Archetypes": [
             "Poison",
-            "Support",
             "Array"
         ],
-        "Other_Name": "Christine",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -7003,13 +6930,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Rank Up",
-            "Support",
             "Dispeller"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -7153,12 +7078,10 @@
         "Race": "Awakened",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Shield",
-            "Shift",
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [
+            "Shift"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -7298,12 +7221,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Support",
-            "Rank Up",
-            "DPS"
-        ],
         "Other_Name": "",
+        "Archetypes": [
+            "Rank Up"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -7447,13 +7368,11 @@
         "Race": "Mixed",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "Shield",
+        "Other_Name": "Joe Brown",
+        "Archetypes": [
             "Burn",
-            "Support",
             "Riposte"
         ],
-        "Other_Name": "Joe Brown",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -7597,14 +7516,13 @@
         "Race": "Mixed",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u0418\u0433\u043e\u0440\u044c",
+        "Alpha": null,
+        "Archetypes": [
             "Extra Action",
             "Ultimate",
             "Bullet"
         ],
-        "Other_Name": "\u0418\u0433\u043e\u0440\u044c",
-        "Alpha": null,
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -7748,11 +7666,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Support",
-            "DPS"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -7896,14 +7811,12 @@
         "Race": "Infected",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "HP Sacrifice",
-            "Support",
             "Array",
             "Bloodtithe"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -8047,13 +7960,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Heal",
+        "Other_Name": "\u0412\u0438\u043b\u0430",
+        "Archetypes": [
             "Rank Up",
-            "Support",
             "Purify"
         ],
-        "Other_Name": "\u0412\u0438\u043b\u0430",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -8197,11 +8108,10 @@
         "Race": "Awakened",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Dynamo"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -8369,13 +8279,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "Support",
+        "Other_Name": "\u845b\u5929",
+        "Archetypes": [
             "Channel",
             "Eureka",
             "Ultimate"
         ],
-        "Other_Name": "\u845b\u5929",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -8519,12 +8428,11 @@
         "Race": "Mixed",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u66f2\u5a18",
+        "Archetypes": [
             "Extra Action",
             "Channel"
         ],
-        "Other_Name": "\u66f2\u5a18",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308301_headicon_small.webp",
         "Voicelines": {
             "Lobby_Entrance": {
@@ -8672,11 +8580,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Heal",
+        "Other_Name": "\u0415\u043d\u0438\u0441\u0435\u0439",
+        "Archetypes": [
             "Immunity"
         ],
-        "Other_Name": "\u0415\u043d\u0438\u0441\u0435\u0439",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -8820,13 +8727,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Isolde von Dittarsdorf",
+        "Archetypes": [
             "Burn",
-            "Support",
             "Lingering Glow"
         ],
-        "Other_Name": "Isolde von Dittarsdorf",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -8970,11 +8875,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Heal",
-            "Support"
-        ],
         "Other_Name": "Klara Vingler",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -9118,15 +9020,13 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Support",
-            "DPS",
+        "Other_Name": "Atticus",
+        "Alpha": "Six",
+        "Archetypes": [
             "Purify",
             "Eureka",
             "Debuff"
         ],
-        "Other_Name": "Atticus",
-        "Alpha": "Six",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -9270,12 +9170,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Heal",
-            "Support",
+        "Other_Name": "\u0410\u0432\u043a\u0441\u0438\u0432\u0438\u0439",
+        "Archetypes": [
             "Dispeller"
         ],
-        "Other_Name": "\u0410\u0432\u043a\u0441\u0438\u0432\u0438\u0439",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -9419,12 +9317,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
+        "Archetypes": [
             "Extra Action",
             "Eureka"
         ],
-        "Other_Name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -9568,12 +9465,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Burn",
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [
+            "Burn"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -9717,11 +9612,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Support",
-            "DPS"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -9865,14 +9757,12 @@
         "Race": "Human",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Shield",
-            "Support",
+        "Other_Name": "",
+        "Archetypes": [
             "Eureka",
             "Dynamo",
             "Bloodtithe"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -10016,12 +9906,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Burn",
             "Lingering Glow"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -10165,12 +10054,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
-            "Ultimate",
-            "Support"
-        ],
         "Other_Name": "Pushya Sharma",
+        "Archetypes": [
+            "Ultimate"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -10314,12 +10201,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Poison",
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [
+            "Poison"
+        ],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -10463,12 +10348,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Black Dwarf",
+        "Archetypes": [
             "Follow-up Attack",
             "Extra Action"
         ],
-        "Other_Name": "Black Dwarf",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -10612,15 +10496,13 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Alpha": "Thirty-Seven",
+        "Archetypes": [
             "Extra Action",
-            "Support",
             "Follow-up Attack",
             "Eureka"
         ],
-        "Other_Name": "",
-        "Alpha": "Thirty-Seven",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -10764,12 +10646,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Rank Up",
             "Eureka"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -10913,11 +10794,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -11061,12 +10941,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Dispeller",
             "Extra Action"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -11210,11 +11089,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Melania Ramirez",
+        "Archetypes": [
             "Ultimate"
         ],
-        "Other_Name": "Melania Ramirez",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -11358,12 +11236,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
-            "Support",
+        "Other_Name": "Joshua",
+        "Archetypes": [
             "Dispeller"
         ],
-        "Other_Name": "Joshua",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -11507,11 +11383,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Support"
-        ],
         "Other_Name": "Jennifer Woods",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -11655,11 +11528,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -11799,11 +11669,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Dispeller"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -11947,11 +11816,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -12095,11 +11963,10 @@
         "Race": "Beyond",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Changeling",
+        "Archetypes": [
             "Poison"
         ],
-        "Other_Name": "Changeling",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -12243,11 +12110,10 @@
         "Race": "Awakened",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -12387,10 +12253,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -12530,13 +12394,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Heal",
-            "Support",
+        "Other_Name": "Dr. Campbell",
+        "Archetypes": [
             "Purify",
             "Inspiration"
         ],
-        "Other_Name": "Dr. Campbell",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -12680,11 +12542,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Shield",
+        "Other_Name": "",
+        "Archetypes": [
             "Riposte"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -12828,14 +12689,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Support",
+        "Other_Name": "Winnifred",
+        "Archetypes": [
             "Genesis DMG",
             "Bloodtithe",
             "Ultimate"
         ],
-        "Other_Name": "Winnifred",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -12979,10 +12838,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -13122,10 +12979,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "DPS"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -13269,13 +13124,11 @@
         "Race": "Beyond",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Support",
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Control",
             "Inspiration"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -13419,12 +13272,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Genderless",
-        "Tags": [
-            "Heal",
-            "Support",
+        "Other_Name": "",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -13568,10 +13419,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -13715,11 +13564,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Shield",
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -13859,11 +13705,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Shield",
+        "Other_Name": "Hannah Geier",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "Hannah Geier",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -14007,12 +13852,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Shield",
-            "Support",
+        "Other_Name": "Ada Tennant",
+        "Archetypes": [
             "Bullet"
         ],
-        "Other_Name": "Ada Tennant",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -14156,11 +13999,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Adam Mi\u0142osz",
+        "Archetypes": [
             "Poison"
         ],
-        "Other_Name": "Adam Mi\u0142osz",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -14304,12 +14146,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Support",
+        "Other_Name": "Matilda Bouanich",
+        "Archetypes": [
             "Inspiration"
         ],
-        "Other_Name": "Matilda Bouanich",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -14453,11 +14293,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Support",
+        "Other_Name": "Lisa & Louise",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "Lisa & Louise",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -14597,16 +14436,14 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Support",
-            "DPS",
+        "Other_Name": "\u6ce5\u9bed\u7684\u58eb",
+        "Alpha": "Nai Maang Dik Si",
+        "Archetypes": [
             "Control",
             "Rank Up",
             "Neg Status",
             "Inspiration"
         ],
-        "Other_Name": "\u6ce5\u9bed\u7684\u58eb",
-        "Alpha": "Nai Maang Dik Si",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -14750,11 +14587,10 @@
         "Race": "Mixed",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u7690\u6708",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "\u7690\u6708",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -14898,11 +14734,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Dispeller"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -15046,12 +14881,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Shield",
+        "Other_Name": "",
+        "Archetypes": [
             "Purify",
             "Dispeller"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -15191,11 +15025,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -15335,11 +15166,10 @@
         "Race": "Beyond",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -15479,12 +15309,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Control",
             "Dispeller"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -15628,11 +15457,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Ultimate"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -15776,10 +15604,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Support"
-        ],
         "Other_Name": "Hilma",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -15923,10 +15749,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Heal"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -16066,10 +15890,8 @@
         "Race": "Awakened",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Heal"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -16209,11 +16031,10 @@
         "Race": "Awakened",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -16353,11 +16174,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Bullet"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -16501,12 +16321,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Inspiration",
             "Conduit"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -16650,10 +16469,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Heal"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -16797,12 +16614,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Support",
+        "Other_Name": "",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -16946,10 +16761,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "Heal"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -17093,13 +16906,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Support",
+        "Other_Name": "",
+        "Archetypes": [
             "Control",
             "Ultimate"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -17243,11 +17054,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -17391,11 +17199,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Dispeller"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -17539,12 +17346,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Support",
+        "Other_Name": "Rebecca Jones",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "Rebecca Jones",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -17688,10 +17493,8 @@
         "Race": "Mixed",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "DPS"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -17835,11 +17638,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Heal",
+        "Other_Name": "",
+        "Archetypes": [
             "Purify"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -17983,11 +17785,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Support",
+        "Other_Name": "Zima",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "Zima",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -18131,10 +17932,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Genderless",
-        "Tags": [
-            "DPS"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -18274,11 +18073,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Marilyn",
+        "Archetypes": [
             "Control"
         ],
-        "Other_Name": "Marilyn",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -18422,12 +18220,11 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "",
+        "Archetypes": [
             "Dispeller",
             "Control"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -18571,11 +18368,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "Heal",
+        "Other_Name": "",
+        "Archetypes": [
             "Poison"
         ],
-        "Other_Name": "",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -18719,11 +18515,10 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Male",
-        "Tags": [
-            "DPS",
+        "Other_Name": "Roland",
+        "Archetypes": [
             "Ultimate"
         ],
-        "Other_Name": "Roland",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -18867,10 +18662,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -19014,10 +18807,8 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Male",
-        "Tags": [
-            "Support"
-        ],
         "Other_Name": "",
+        "Archetypes": [],
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -19161,14 +18952,13 @@
         "Race": "Arcanist",
         "DMG_Type": "Reality",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
+        "Other_Name": "\u041b\u0438\u043b\u044f",
+        "Archetypes": [
             "Follow-up Attack",
             "Ultimate",
             "Extra Action",
             "Bullet"
         ],
-        "Other_Name": "\u041b\u0438\u043b\u044f",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
@@ -19312,14 +19102,12 @@
         "Race": "Arcanist",
         "DMG_Type": "Mental",
         "Gender": "Female",
-        "Tags": [
-            "DPS",
-            "Support",
+        "Other_Name": "Druvis Weyerhaeuser III",
+        "Archetypes": [
             "Control",
             "Petrify",
             "Rank Up"
         ],
-        "Other_Name": "Druvis Weyerhaeuser III",
         "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {

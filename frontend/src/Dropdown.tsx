@@ -8,9 +8,15 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 	const [dropdownVisible, setDropdownVisible] = useState(false)
 	const [query, setQuery] = useState("")
 
-	const subset: Array<Character> = Object.values(characterData).filter((data) => {
+	let startsWith: Array<Character> = Object.values(characterData).filter((data) => {
 		return data.Name.toLowerCase().startsWith(query.toLowerCase())
 	})
+
+	let contains: Array<Character> = Object.values(characterData).filter((data) => {
+		return data.Name.toLowerCase().includes(query.toLowerCase())
+	})
+
+	const subset = [... new Set(startsWith.concat(contains))]
 
 	return (
 		<div style={{ display: "flex", justifyContent: "center", marginTop: "20px"}}>
