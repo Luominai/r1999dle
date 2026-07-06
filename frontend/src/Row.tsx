@@ -74,6 +74,7 @@ const comparisonHandlers: Record<string, CallableFunction> = {
   },
   "Era": (c1: Character, c2: Character) => {
     if (c1.Era === c2.Era) { return 1 }
+    if (c1.Era === "Unknown" || c2.Era === "Unknown") { return -2 }
     const [s1, e1] = eraToTimeWindow(c1.Era)
     const [s2, e2] = eraToTimeWindow(c2.Era)
     // console.log(s1, e1, s2, e2)
@@ -115,11 +116,14 @@ const hotColdHandlers: Record<string, CallableFunction> = {
 }
 
 function eraToTimeWindow(era: string){
-  if (era.endsWith("s")) {
+  if (era === "middle ages") {
+    return [500, 1500]
+  }
+  const parts = era.split(" ")
+  if (parts.length === 1 && era.endsWith("s")) {
     const decade = parseInt(era.substring(0, era.length - 1))
     return [decade, decade + 10]
   }
-  const parts = era.split(" ")
   if (parts[parts.length - 1] === "BCE") {
     return [-1 * parseInt(parts[0]), -1 * parseInt(parts[0]) + 1]
   }
