@@ -45,6 +45,6 @@ export function getDailyCharacter() {
 	const today = new Date().toDateString()
 	const rand = new Rand(today)
 	const characters = Object.values(characterData)
-	const dailyCharacter = characters[Math.floor(rand.next() * characters.length)]
+	const dailyCharacter = characters[Math.floor(rand.next() * characters.length) + 1]
 	return dailyCharacter
 }

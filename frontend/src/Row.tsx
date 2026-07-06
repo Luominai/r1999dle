@@ -87,8 +87,8 @@ const comparisonHandlers: Record<string, CallableFunction> = {
     return -1
   },
   "Archetypes": (c1: Character, c2: Character) => {
-    if (c1.Archetypes.every((type) => c2.Archetypes.includes(type))) { return 1 }
-    if (c1.Archetypes.some((type) => c2.Archetypes.includes(type))) { return 0 }
+    if (c2.Archetypes.every((type) => c1.Archetypes.includes(type))) { return 1 }
+    if (c2.Archetypes.some((type) => c1.Archetypes.includes(type))) { return 0 }
     return -1
   }
 }
