@@ -37,7 +37,7 @@ export default function Row({ character, correctness }: RowProps) {
       <tr className="row">
         <th scope="row">
           <div>
-            <img src={character.Icon} className="cell"></img>
+            <img src={character.Icon_Small} className="cell"></img>
           </div>
         </th>
         <td className="cell">{character.Version}</td>
@@ -62,7 +62,7 @@ export default function Row({ character, correctness }: RowProps) {
     <tr className="row">
       <th scope="row" style={{ backgroundColor: correctness.image ? green : red }}>
         <div>
-          <img src={character.Icon} className="cell"></img>
+          <img src={character.Icon_Small} className="cell"></img>
         </div>
       </th>
       <td className="cell" style={{ backgroundColor: correctness.name ? green : red }}>{character.Name}</td>

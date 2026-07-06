@@ -18,7 +18,7 @@
         ],
         "Other_Name": "Eagle",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/315401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/315401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "It's really great to see you again, Ms. Vertin\u2014oh\u2014LSCC Intern Researcher Eagle, reporting in!\nI hope you still recognize me ... I've gotten a little taller.",
@@ -166,7 +166,7 @@
         ],
         "Other_Name": "Moth",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "We're well past introductions, Timekeeper, but I'm grateful to do so again with a name of my own.\nI'm Ms. Stranger, though I'm glad you've welcomed me here not as a stranger but as a friend.",
@@ -315,7 +315,7 @@
         ],
         "Other_Name": "Aderyn Tywyll",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Vertin! I knew you'd catch up!\nDoes that mean you'll join us in our adventures?\nWait ... It's more like the other way around, isn't it? Since you're taking us wherever you go.",
@@ -469,7 +469,7 @@
         ],
         "Other_Name": "",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "When the wind began to stir, mother rose and wandered afar.\nThat Spinning Wheel has a familiar glow ... Warm. Bright.\nLike the sunlight that used to fall from the dome.",
@@ -619,7 +619,7 @@
         ],
         "Other_Name": "",
         "Alpha": "Coppelia",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You saved me a room here ...? What do you mean \"saved\"?\n... You mean I'm free to stay or leave whenever I like?\nHmm, are you a Timekeeper or an innkeeper?",
@@ -770,7 +770,7 @@
         ],
         "Other_Name": "Adler Hofmann",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "No need for further introductions, Timekeeper.\nNow that I'm here, our cooperation is 200% confirmed.\nSo, if you don't mind, I'd like to hear your plan so the LSCC can prepare their next steps.",
@@ -920,7 +920,7 @@
         ],
         "Other_Name": "",
         "Alpha": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Never figured that I'd be summoned by a spinning wheel one day.\nThat's a whole new kind of bizarre. Compared to that, this Suitcase of yours is almost normal ...",
@@ -1072,7 +1072,7 @@
         ],
         "Other_Name": "\u9e6d\u9e36\u526a",
         "Alpha": "L\u00f9s\u012b Ji\u01cen",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Oooof, that was quite a spin ...\nWell now, would you look at you? Time truly does gallop like a wild horse, eh?\nI am Paper Heron, humble Daoist, wanderer\u2014and very glad to make your acquaintance.",
@@ -1229,7 +1229,7 @@
         ],
         "Other_Name": "Stasia",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/314001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/314001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A pleasure to finally meet you, Timekeeper. I'm Cornerstone, the Foundation's architect.\nAh, straight to the handshake\u2014I like it.\nSo, what do you need doing? I'll get it done and then some.",
@@ -1380,7 +1380,7 @@
         ],
         "Other_Name": "Marguerite Martin",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313901_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You spin the wheel in the primordial waters of the lake, and here I appear in an instant.\nPerhaps this simple tool is how fate is woven\u2014the purest form of arcanum.",
@@ -1527,7 +1527,7 @@
             "Support"
         ],
         "Other_Name": "\u82a6\u8349\u7ed3",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You must be the Timekeeper! I've read about you in my notebooks;\nthey, I mean my past selves, would want to send their regards, but none of us have ever met you in person\u2014\nso, it's an honor to meet you!",
@@ -1678,7 +1678,7 @@
         ],
         "Other_Name": "\u7a0b\u548c\u5149",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Since I've renounced my role, you needn't address me by any title. Please, call me Cheng.\nThis is a beautiful place ... The lake mirrors the mountains, just as they do in my hometown.\nA hidden paradise indeed.\nMy apologies for troubling you with a lengthy stay. You have my sincerest thanks!",
@@ -1827,7 +1827,7 @@
         ],
         "Other_Name": "",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Oh, oh my! Thank God you let me stay here ... No, indeed, thank YOU, Timekeeper!\nLook at this place! Isn't it the perfect spot for a frame? This is beyond even my wildest imagination ...",
@@ -1979,7 +1979,7 @@
         ],
         "Other_Name": "Ad\u00e8le Tavernier",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "If anyone here needs a lift, you know who to call!\nI may not have driven much outside of Paris, but if I can survive those roundabouts,\nI can handle just about anything.\nJust tell me where to go, and consider it done.",
@@ -2134,7 +2134,7 @@
         ],
         "Other_Name": "Beryl Bouanich",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ah, the inside of the suitcase ... a place Matilda has often spoken of. It is an honor to finally see it for myself.\nWe have much to speak about, you and I\u2014how fortunate that we have been granted the time to do so.",
@@ -2301,7 +2301,7 @@
         ],
         "Other_Name": "\u0418\u0433\u043b\u0438\u043a\u0430",
         "Alpha": "Iglika",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/313201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/313201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I am fully aware that I'm a guest here. So please, go ahead and conduct your identity check.",
@@ -2449,7 +2449,7 @@
         ],
         "Other_Name": "Paul Haumann",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "What you're looking at is only a vessel of memories, a dead man following his duty,\na witness to the emptiness and the void that comes after war.",
@@ -2600,7 +2600,7 @@
         ],
         "Other_Name": "Marsha Rosenhart",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "This Suitcase of yours ... You carried it through the fires of war, yet inside it is a place of joy and comfort.\nThat fact alone fills me with wonder.",
@@ -2751,7 +2751,7 @@
         ],
         "Other_Name": "Marianne de T\u00e9n\u00e9brun",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Je vous salue, Timekeeper. May our cooperation be a pleasant one.\nYou needst not worry about my accommodations\u2014\nlittle more could I ask for but the peace and quiet of your suitcase.",
@@ -2901,7 +2901,7 @@
         ],
         "Other_Name": "\u0420\u0443\u0431\u0443\u0441\u043a\u0430",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hah! Rubuska, the greatest vampire of the century, graces you with her presence!\nNow, where is my welcome banquet? I do hope there's banitsa ...",
@@ -3053,7 +3053,7 @@
         ],
         "Other_Name": "\u039a\u03b1\u03c3\u03c3\u03b1\u03bd\u03b4\u03c1\u03b1",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I am the misthios, Kassandra of Sparta. Name your request, and I will do all that I can.\nProvided you have the Drachma.",
@@ -3221,7 +3221,7 @@
         ],
         "Other_Name": "Ezio Auditore da Firenze",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Agiamo nell'ombra per servire la luce.\nWe are Assassins.",
@@ -3371,7 +3371,7 @@
         ],
         "Other_Name": "\u0391\u03bb\u03b5\u03be\u03b9\u03bf\u03c2",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I have been chosen by destiny to bring order to this world.\nThere are only two choices available to you:\nfollow me and rule or stand against me and perish. Choose wisely.",
@@ -3523,7 +3523,7 @@
         "Other_Name": "\u041c\u04e9\u043b\u0434\u0456\u0440 \u0415\u0440\u0430\u0441\u044b\u043b\u043e\u0432\u043d\u0430 \u0423\u043b\u0430\u043d\u043e\u0432\u0430",
         "Short_Name": "\u041c\u04e9\u043b\u0434\u0456\u0440 \u0423\u043b\u0430\u043d\u043e\u0432\u0430",
         "Alpha": "Moldir Erasylovna Ulanova",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I understand it isn't easy for us to place our trust in one another, Timekeeper.\nBut you have my word\u2014I will not speak of this place to anyone, not even my father.\nThis collaboration remains strictly between you and me.",
@@ -3673,7 +3673,7 @@
         ],
         "Other_Name": "Nautika Amundsen",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/312001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/312001_headicon_small.webp",
         "Voicelines": {
             "Lobby_Entrance": {
                 "Transcription": "The first maps actually came from stories,\nyou know\u2014about hidden streams, huge glaciers, and endless water.\nAnd the first adventurers? They believed these stories\u2014and they wanted to prove it. That's why they set out to see the world.",
@@ -3840,7 +3840,7 @@
         "Other_Name": "\u0438\u043c\u0435\u043d\u0438\u043d\u044b",
         "Alpha": "Leonid",
         "Other2": "\u041b\u0435\u043e\u043d\u0438\u0434",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Oh, hey. We've already met before at the Foundation.\nI'm not here on a mission at the moment, so relax.\nBut do let me know if you need help with anything.",
@@ -3991,7 +3991,7 @@
         ],
         "Other_Name": "\u0410\u043b\u0438\u043d\u0430 \u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432\u0430",
         "Alpha": "Alina Medvedeva",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "In the Utrennyaya we have something called a \"suitcase trick.\"\nWe would put a suitcase down over a hidden trapdoor,\nand one by one we'd disappear into it. The audience loved it ...\nThis trick though, is much, much better. Do we all leave from the suitcase as well?",
@@ -4141,7 +4141,7 @@
         ],
         "Other_Name": "Sylvie",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "It's a pleasure to meet you, Ms. Vertin. I'm certain we'll work well together.\n<Ask her about the free snacks!>\nDon't be rude ... You know, boss, I've got a bit of a sweet tooth ...\n<Hiss!>",
@@ -4290,7 +4290,7 @@
         ],
         "Other_Name": "",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A brand new home, and a whole new world to discover!\nWhat took the Foundation so dang long to introduce me to ya?\nDon't tell me they really believe that hooey in the papers?\nWhat'd it say again? ... \"Miami Animal Jailbreak Perpetrated by Squirrel\"?",
@@ -4440,7 +4440,7 @@
         ],
         "Other_Name": "Ficciones",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Fabuloso!\nNow I have an experience even more noteworthy than spending two weeks hiding out in a university bathroom\n\u2014being carried around in a suitcase!",
@@ -4591,7 +4591,7 @@
         ],
         "Other_Name": "\u05d0",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I see the disarray and disintegration of reality, the manifestation of fate,\nthe brilliance of transcendentality, the ethereal images, and I see ... you.",
@@ -4738,7 +4738,7 @@
             "Heal"
         ],
         "Other_Name": "Latham",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "So this is THE suitcase! I always wanted to see it for myself!\nOh, Timekeeper, do you think you could swing me a bigger room\u2014somewhere dark and dry too?\nI have a lot of memory films to store, 'cause I can't keep them in the Foundation's warehouse anymore ...",
@@ -4888,7 +4888,7 @@
         ],
         "Other_Name": "\u83f2\u6797\u58eb\u591a",
         "Alpha": "Fei Lam Si Do",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A small world compressed in a suitcase, the changing daylight and background scenery ...\nI like this setting. Isn't this very much like a scene from a movie?\nThe moment our two protagonists meet each other for the first time?",
@@ -5037,7 +5037,7 @@
             "Immunity"
         ],
         "Other_Name": "\u6881\u6708",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/311001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/311001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Number 007405, Liang Yue reporting for duty. Ma'am, please allow me to handle any investigations,\nfrom surveying crime scenes to hunting down perpetrators.\nOh, you want to be friends? I see. Then I will adjust my mindset.",
@@ -5194,7 +5194,7 @@
             "Purify"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310901_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Thank you for letting me stay here!\nHope it's not too much trouble for you. I'll move out as soon as I find a place to settle with my people ...\nSomewhere we can really call home.\nReally? You're letting me keep the keys?",
@@ -5344,7 +5344,7 @@
             "Eureka"
         ],
         "Other_Name": "Barcarola Stradivari",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Thank you so much for bringing me on board.\nI, Barcarola, former musical director of the \"Free Breeze,\" am at your service!",
@@ -5496,7 +5496,7 @@
         ],
         "Other_Name": "",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Procedural info, risk assessment, voluntary participation statement, ah, and the all-important consent page.\nJust sign here, and we can get on with the experiment.\nHaha! I've been waiting for this day\u2014we all have!\nOh, don't forget to sign here too\u2014we need it in duplicate, standard procedure you understand.",
@@ -5645,7 +5645,7 @@
             "Purify"
         ],
         "Other_Name": "Slouch Hat",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Good to see you again, mate!\nSee this outfit here? It memorializes a great adventure.\nI thought it fitting as I'm headed on a new journey with you!\nI'm ready and willing, just as always!",
@@ -5796,7 +5796,7 @@
             "Eureka"
         ],
         "Other_Name": "Liberti",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello. Call me Flutterpage. I used to live in Millwall with my mum and dad and sister ...\nBut that don't matter no more, does it?",
@@ -5945,7 +5945,7 @@
             "Channel"
         ],
         "Other_Name": "Charlotte O'Hagan",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "So, you all live in a suitcase, eh?\nOf course, I understand that the Foundation\nhas more urgent needs than finding a proper place to house their employees.",
@@ -6094,7 +6094,7 @@
             "Bullet"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ol\u00e1, kid! It's me, Duncan, your old friend!",
@@ -6245,7 +6245,7 @@
             "Array"
         ],
         "Other_Name": "Carlotta Lopez Rivera",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "This place brings back memories of my old house ...\nSay, does this place have a retirement wing?\nThen it'd be a one-stop nostalgia station for me! Haha ...",
@@ -6395,7 +6395,7 @@
             "Channel"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Listen well, matey. I'm not one of those jabbering ship toys you find in a water park souvenir shop\u2014\nI'm the real deal.",
@@ -6546,7 +6546,7 @@
             "Channel"
         ],
         "Other_Name": "Nala Hari",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/310001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/310001_headicon_small.webp",
         "Voicelines": {
             "Lobby_Entrance": {
                 "Transcription": "*hums a delightful melody*",
@@ -6710,7 +6710,7 @@
             "Support"
         ],
         "Other_Name": "Dolly",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309901_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'm Barbara, an editor at\u00a0UTTU\u00a0magazine. It's an honor to join your team, Ms. Vertin.\nUmm ... may I take a look around?",
@@ -6860,7 +6860,7 @@
             "Array"
         ],
         "Other_Name": "Christine",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "It's such a pleasure to see you again.\nHmm ... I see there are children here\u2014if you're in need of a babysitter,\nI'd be more than happy to look after them.",
@@ -7010,7 +7010,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "We meet again, boss.\nNah, this ain't the time to catch up.\nI'm gonna take a nap first.",
@@ -7159,7 +7159,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "This place is quite different from where I used to live,\nbut I assure you, I'll get along with it in no time.\nTrust me, I've had plenty of experience with \"migration.\"",
@@ -7304,7 +7304,7 @@
             "DPS"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I see you carry a suitcase.\nAre you a wanderer too?",
@@ -7454,7 +7454,7 @@
             "Riposte"
         ],
         "Other_Name": "Joe Brown",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You mean, this-this whole place is yours?\nBoss, I know some rich jerks that would pay through the nose just to build a house here.",
@@ -7605,7 +7605,7 @@
         ],
         "Other_Name": "\u0418\u0433\u043e\u0440\u044c",
         "Alpha": null,
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "If I may, Timekeeper, you could've made good use of this Suitcase to change the game,\nrather than merely hiding from the rain.\nThat is something I've longed for\u2014a shelter from the \"Storm\" for my army.",
@@ -7753,7 +7753,7 @@
             "DPS"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/309101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/309101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "You called my name, did you not? I heard you before ... a long, long time ago.\nThe conch shell whispered to me when I was little. Your voice was there, among many others.\n... How nice, Vertin.",
@@ -7904,7 +7904,7 @@
             "Bloodtithe"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, Timekeeper. I have long heard of your stories. Hopefully my visit won't trouble you too much ...\nBut perhaps for you, this isn't much trouble.",
@@ -8054,7 +8054,7 @@
             "Purify"
         ],
         "Other_Name": "\u0412\u0438\u043b\u0430",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Thank you for inviting me, Ms. Vertin. A typical room is more than fine ...\nOh, by the way, do you happen to have a swimming pool here?",
@@ -8202,7 +8202,7 @@
             "Dynamo"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A hand-operated spinning wheel half drenched in water ...\nThis indicates a low level of technological development here.\nDo not worry, Timekeeper, I am equipped with 15 adaptive plugs suitable for any situation.\nI will start by running the drainage program ...",
@@ -8376,7 +8376,7 @@
             "Ultimate"
         ],
         "Other_Name": "\u845b\u5929",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I have cast an incantation on you.\nIt allows us to communicate and exchange our names as the code of etiquette requires.\nI'm Getian.",
@@ -8525,7 +8525,7 @@
             "Channel"
         ],
         "Other_Name": "\u66f2\u5a18",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308301_headicon_small.webp",
         "Voicelines": {
             "Lobby_Entrance": {
                 "Transcription": "*yawns*\nI can have whatever I need at any time here, the rainwater, the fruits.\nThough I have a shelter in town, the life there is not as cozy as what I'm living now.",
@@ -8677,7 +8677,7 @@
             "Immunity"
         ],
         "Other_Name": "\u0415\u043d\u0438\u0441\u0435\u0439",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Greetings. *gasps because of coldness*\nI don't think I will ever get used to the coldness of water when I'm not performing divination.",
@@ -8827,7 +8827,7 @@
             "Lingering Glow"
         ],
         "Other_Name": "Isolde von Dittarsdorf",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Thank you for your generosity, miss.\nI think I'll stay here for a few days ...\nOh? You prepared a room for me?\nSo you did. Look how ... dainty it is. I am grateful.",
@@ -8975,7 +8975,7 @@
             "Support"
         ],
         "Other_Name": "Klara Vingler",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/308001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/308001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A suitcase immune to the \"Storm\" ... It's ... Yes, it's a wonderful idea.\nAnd so comfortable and spacious too ... It could save many lives.",
@@ -9127,7 +9127,7 @@
         ],
         "Other_Name": "Atticus",
         "Alpha": "Six",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307901_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "A spinning wheel is meant to turn around, just like fate is bound to happen.\nIn many cases, we don't have a choice.",
@@ -9276,7 +9276,7 @@
             "Dispeller"
         ],
         "Other_Name": "\u0410\u0432\u043a\u0441\u0438\u0432\u0438\u0439",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "So Ms. Suitcase Keeper, are you the quiet type in this group too?",
@@ -9425,7 +9425,7 @@
             "Eureka"
         ],
         "Other_Name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "When we shake hands, we enter a relationship like that of two intersecting lines.\nIt's a pleasure to work with you, Ms. Timekeeper.",
@@ -9574,7 +9574,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "There's also a room for me?\nBut it's hardly the best arrangement, given that\nI don't need a room and my stay may pose a fire hazard.\nPlease, an airy fireplace will suit me just fine.",
@@ -9722,7 +9722,7 @@
             "DPS"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Paychecks assured, pets allowed, full board, safety insurance ...\nOh, and even regular travel?\nThe career benefits you provide are much better than what Laplace offers.",
@@ -9873,7 +9873,7 @@
             "Bloodtithe"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ms. Vertin, it's a great honor that you invite me, a human, here in your suitcase.\nI do enjoy seeing old friends, and I am more than happy to meet new friends.",
@@ -10022,7 +10022,7 @@
             "Lingering Glow"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Yoohoo! I ran here as fast as I could, right after today's training!\nYou said there would be a new doorplate for my room. What is it like?\nOh, wait, let me guess. Is it like a ball of fire or a rainbow?",
@@ -10171,7 +10171,7 @@
             "Support"
         ],
         "Other_Name": "Pushya Sharma",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Huh, what is this place?\nTsk-tsk, the serene lake, and the clear horizon at the end of the vast treeless plain ...\nI would have thought I was back in the good old mountains if I didn't see you here.\nAlright, do you mind showing me around, my grave-looking friend?",
@@ -10320,7 +10320,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'm Kanjira, and this is Punji! I hope you're not afraid of her ... Wow ... This place is sooo cool!",
@@ -10469,7 +10469,7 @@
             "Extra Action"
         ],
         "Other_Name": "Black Dwarf",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/307001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/307001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Most star scryers won't read their own future.\nWe are supposed to remain philosophical about almost everything, either good or bad ...\nBut I broke the rule. Or say, I've seen it coming.",
@@ -10621,7 +10621,7 @@
         ],
         "Other_Name": "",
         "Alpha": "Thirty-Seven",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "The Mandelbrot set ...\nThat's right! It's just like the island! I'm a part of the set, just as I'm a part of the island.",
@@ -10770,7 +10770,7 @@
             "Eureka"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Greetings, Marcus here!\nI've heard a lot about you from a ... special ... someone ...\nYour collection is something I can't wait to get my hands on!\nSo here's my ID, employment certificate, transfer records, medical report, and ...\nHuh? You don't need these?",
@@ -10918,7 +10918,7 @@
             "Control"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ladies and gentlemen, before you stands the great-artist-to-be,\nthe voice of peace, the adversary of banality and violence. I give you -- Diggers!",
@@ -11067,7 +11067,7 @@
             "Extra Action"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "(You smell like a friend.)\n(Before you pat me on the head,)\n(could you please try and tell me, does every species have the same kind of soul?)\n\"Instead of a pat on the head, the puppy prefers a handshake like a friend.\"",
@@ -11215,7 +11215,7 @@
             "Ultimate"
         ],
         "Other_Name": "Melania Ramirez",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "An unexpected encounter ... A room, a frame, and an old TV ...\nI need some time to figure out the situation here, approximately 12 minutes and 31 seconds ...",
@@ -11364,7 +11364,7 @@
             "Dispeller"
         ],
         "Other_Name": "Joshua",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hey, the \"great\" Vertin! Nice to see you again!",
@@ -11512,7 +11512,7 @@
             "Support"
         ],
         "Other_Name": "Jennifer Woods",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/306001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/306001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "This is where the arcanists live?\nTo be fair, not a bad taste, but ... the place needs a touch of bright colors.\nDo you mind me changing the curtains?",
@@ -11660,7 +11660,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305901_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'm Door, an insignificant piece of a mirror.\nBy nature I'm of no difference to my other 3587 siblings;\nbut knowing you has made me different to them.",
@@ -11804,7 +11804,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Welcome to sail with us!\nWell, now, go to the back of the ship and make it move! Don't be dawdling!",
@@ -11952,7 +11952,7 @@
             "Control"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "It's my pleasure to meet you, my fellow.",
@@ -12100,7 +12100,7 @@
             "Poison"
         ],
         "Other_Name": "Changeling",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, dear friend. From now on, we can be together all the time.\nI thought of many things we can do. Firstly ...\nlet's roll in the grass!",
@@ -12248,7 +12248,7 @@
             "Control"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hi, I am Sputnik-1's ... twin sister.\nNo, no, no, I don't know her.",
@@ -12391,7 +12391,7 @@
             "DPS"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Congratulations. You are about to unveil the truth of this world.\nWelcome to Headonion, a show to reshape your conception.",
@@ -12537,7 +12537,7 @@
             "Inspiration"
         ],
         "Other_Name": "Dr. Campbell",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, I think we have been acquainted.\n... I am responsible for your teeth, every night you fall asleep.",
@@ -12685,7 +12685,7 @@
             "Riposte"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Oh, it's very nice to meet you.\nThis room is very classy,\nyet it can use a bit of warmth to its perfection.\nI think I can offer you a solution.",
@@ -12836,7 +12836,7 @@
             "Ultimate"
         ],
         "Other_Name": "Winnifred",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hm? Do you have anything to tell me, young lady?\nNo, not those cliched greetings.\nIt should be a tender one, with some heartwarming words ...\nHow do you greet your mother?",
@@ -12983,7 +12983,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/305001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/305001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Alright, ready to welcome me!\nPrepare your softest brush, smoothest silk, flaxseed oil or something more expensive, and ...\nHey, is that a carrot? Ohh! For me? Thank you!",
@@ -13126,7 +13126,7 @@
             "DPS"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304901_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ms., your hat is tilted.",
@@ -13276,7 +13276,7 @@
             "Inspiration"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Heh heh ...",
@@ -13425,7 +13425,7 @@
             "Control"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "New friends ... new friends ... new investor ... new friends!",
@@ -13572,7 +13572,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Aaaah!\nSorry, I'm so sorry ...",
@@ -13720,7 +13720,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hmmm ... Excuse me, is this the way to the audition?",
@@ -13864,7 +13864,7 @@
             "Control"
         ],
         "Other_Name": "Hannah Geier",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, Ms. Timekeeper. We're a team now.\nIf you encounter any difficulties with your assignment or the study of arcanum,\nplease feel free to ask me any questions, just as Ms. Sotheby does.",
@@ -14013,7 +14013,7 @@
             "Bullet"
         ],
         "Other_Name": "Ada Tennant",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Greetings to you, fair lady, may I present you a rose?\nOh, seems like you won't fall for this cheap flattery. I'm ashamed.",
@@ -14161,7 +14161,7 @@
             "Poison"
         ],
         "Other_Name": "Adam Mi\u0142osz",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Purrrrrrr ... Ra ... bies ... Rabies ...",
@@ -14310,7 +14310,7 @@
             "Inspiration"
         ],
         "Other_Name": "Matilda Bouanich",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hey, why are you here?\n... Wait, does it mean Sonetto is also ...",
@@ -14458,7 +14458,7 @@
             "Control"
         ],
         "Other_Name": "Lisa & Louise",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/304001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/304001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, I'm Lisa (Louise)!",
@@ -14607,7 +14607,7 @@
         ],
         "Other_Name": "\u6ce5\u9bed\u7684\u58eb",
         "Alpha": "Nai Maang Dik Si",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303901_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'll take care of this case, thank you boss!\nI'm Nai Maang Dik Si, of course you'd better call me An'an. Let's make a fortune together!",
@@ -14755,7 +14755,7 @@
             "Control"
         ],
         "Other_Name": "\u7690\u6708",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "\u306f\u3058\u3081\u307e\u3057\u3066\u3002\u3069\u3046\u305e\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002\nMs. ... Timekeeper, is it?",
@@ -14903,7 +14903,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, I'm the Necrologist.\nI am adept at listening to and managing others' affairs.\nThis of course includes yours as well, whether in the present or perhaps, in the future.",
@@ -15052,7 +15052,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "49276D4A6F686E5469746F72",
@@ -15196,7 +15196,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Aloha! Welcome to ...\nOh, welcome me to your place!",
@@ -15340,7 +15340,7 @@
             "Control"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hi hi, I'm here. I'm aliEn T, a peace-loving visitor from outer space.",
@@ -15485,7 +15485,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello!\nNo no no! Come back here! I won't ... I won't crawl out of the screen ...",
@@ -15633,7 +15633,7 @@
             "Ultimate"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hey, Jefe. Life is a gamble.\nMiracles won't happen if you just sit around and wait for it. When exactly are you going to make a bet?",
@@ -15780,7 +15780,7 @@
             "Support"
         ],
         "Other_Name": "Hilma",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello. Could you help me?\nOver there, please. Thank you.",
@@ -15927,7 +15927,7 @@
             "Heal"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/303001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/303001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Have you heard that story? A magical golden lamp,\nrub it 3 times and there was a genie, who can satisfy all your wishes?\nYes you say? Well then, go to that guy instead!",
@@ -16070,7 +16070,7 @@
             "Heal"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "... Greetings, madam. I am here.",
@@ -16214,7 +16214,7 @@
             "Control"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello, world.",
@@ -16358,7 +16358,7 @@
             "Bullet"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hi there, I am Mondlicht. I still have things to do, so I'll be on my way.",
@@ -16507,7 +16507,7 @@
             "Conduit"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Who's in front of you?\nHumph! The Admired Captain, The Coolest Radio DJ, The Genius Alchemist!\nHumph! Call me whatever you like.",
@@ -16654,7 +16654,7 @@
             "Heal"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Balloons ... you need some balloons here.\nThat's why I brought them. Say cheese.",
@@ -16803,7 +16803,7 @@
             "Control"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "The lake is overflowing. It's cold, just like a flowing line ...\nWait, where am I?",
@@ -16950,7 +16950,7 @@
             "Heal"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Silence.\nSpeak. From whence dost thou hail and what is thy purpose?",
@@ -17100,7 +17100,7 @@
             "Ultimate"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/302001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/302001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Are you a brave speaker?\nYou look like one ... Hmm, and sound like too.",
@@ -17248,7 +17248,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301801_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301801_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I'm Oliver Fog, special commissioner of the London Climate Management Agency.\nThree hours from getting off ... Ok, let's start.",
@@ -17396,7 +17396,7 @@
             "Dispeller"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Ah! The troopers are here! Get out of ...\nHuh? You are not one of them? I am so, so sorry!",
@@ -17545,7 +17545,7 @@
             "Control"
         ],
         "Other_Name": "Rebecca Jones",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I am ... Who am I? I don't know ...\nIt's okay, in Wonderland ... everyone is Alice ...",
@@ -17692,7 +17692,7 @@
             "DPS"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Mission accepted ...\nAdvice, you'd better clear your complaint mailbox first.",
@@ -17840,7 +17840,7 @@
             "Purify"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Y'all wanna fries, burgers, or apple Martini?\nThe party's gonna begin, sit tight ... my naughty guest!",
@@ -17988,7 +17988,7 @@
             "Control"
         ],
         "Other_Name": "Zima",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435 ...\nNo, nothing ...\nThe name is ... on the paper ...\nPlease ... have a look ...",
@@ -18135,7 +18135,7 @@
             "DPS"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301201_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301201_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Don't panic, my lord,\n<The chasing troopers are also part of the play.>",
@@ -18279,7 +18279,7 @@
             "Control"
         ],
         "Other_Name": "Marilyn",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301101_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301101_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hello dear ...\nDo I still have to tell you my name? Or sign my name first?",
@@ -18428,7 +18428,7 @@
             "Control"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/301001_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/301001_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Everything in the world is born of laws and regulations.\nThere are no coincidences, let alone adventures.\nThere are only expected results, such as our encounter.",
@@ -18576,7 +18576,7 @@
             "Poison"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300901_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300901_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Hi! I am Sotheby. As you can see, I am an excellent and knowledgeable lady!\nHuh, that farmer ... he actually owns a whole group of bicorns!",
@@ -18724,7 +18724,7 @@
             "Ultimate"
         ],
         "Other_Name": "Roland",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300701_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300701_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Someone is just a knight, nameless, wandering, beholden to thee for taking me in.\nIf thou dost not mind, please let Someone serve thee till the end.",
@@ -18871,7 +18871,7 @@
             "DPS"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300601_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300601_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "The BSA number? I'm ... I am so sorry, I don't have a number ...\nBut I will make every effort to do my best. Trust me, please!",
@@ -19018,7 +19018,7 @@
             "Support"
         ],
         "Other_Name": "",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300501_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300501_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "Good day! My name is Nick Bottom, the weaver in town.\nI've also acted in dramas. Let me play the lion. Let me play the hero ...\nAhaha, yes, yes, now I will but make an ass!",
@@ -19169,7 +19169,7 @@
             "Bullet"
         ],
         "Other_Name": "\u041b\u0438\u043b\u044f",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300401_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300401_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "As long as you watch my flight once, you will never forget my name.\nI am Lilya. In other words, I am your Goddess of Victory.",
@@ -19320,7 +19320,7 @@
             "Rank Up"
         ],
         "Other_Name": "Druvis Weyerhaeuser III",
-        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/300301_headicon_small.webp",
+        "Icon_Small": "https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/300301_headicon_small.webp",
         "Voicelines": {
             "First_Encounter": {
                 "Transcription": "I am Druvis III. It's my pleasure to meet you.\n... You said I didn't look very pleased?\nHah ... How about now?",

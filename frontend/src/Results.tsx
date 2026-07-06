@@ -49,7 +49,7 @@ export default function Results({character, correct, onClose}: {character: Chara
                     {correct ? "Congratulations!" : "Game Over!"} The answer was {character.Name}!
                 </div>
                 <div style={{display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center"}}>
-                    <img src={character.Image} style={{ 
+                    <img src={character.Icon_Small} style={{ 
                         maxHeight: "100%", 
                         maxWidth: "100%", 
                         width: "120px",

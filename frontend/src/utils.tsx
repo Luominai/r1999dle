@@ -5,7 +5,7 @@ const characters: Array<Character> = Object.values(characterData)
 
 export function compare(char1: Character, char2: Character) {
 	const output = {
-		image: char1.Image === char2.Image,
+		image: char1.Icon_Small === char2.Icon_Small,
 		name: char1.Name === char2.Name,
 		rarity: char1.Rarity === char2.Rarity,
 		afflatus: char1.Afflatus === char2.Afflatus,
