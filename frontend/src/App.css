@@ -38,7 +38,7 @@ table {
 }
 
 .row th img {
-    height: 144px;
+    height: 48px;
     border: 1px solid var(--border-color);
     border-top-left-radius: 20px;
     padding: 4px;
@@ -47,14 +47,14 @@ table {
 
 @media (min-width: 600px) {
     .row th img {
-        height: 180px;
+        height: 50px;
         border-top-left-radius: 25px;
     }
 }
 
 @media (min-width: 768px) {
     .row th img {
-        height: 216px;
+        height: 72px;
         border-top-left-radius: 30px;
     }
 }

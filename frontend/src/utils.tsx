@@ -9,7 +9,7 @@ export function compare(char1: Character, char2: Character) {
 		name: char1.Name === char2.Name,
 		rarity: char1.Rarity === char2.Rarity,
 		afflatus: char1.Afflatus === char2.Afflatus,
-		damage: char1["DMG Type"] === char2["DMG Type"],
+		damage: char1.DMG_Type === char2.DMG_Type,
 		tags: -1,
 		release: char1.Version === char2.Version ? 0 : Math.sign(characters.indexOf(char1) - characters.indexOf(char2))
 	}

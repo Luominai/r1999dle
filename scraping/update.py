@@ -6,6 +6,8 @@ import chompjs
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
+import os
+from PIL import Image
 
 options = Options()
 options.page_load_strategy = "eager"
@@ -49,7 +51,6 @@ for idx, char in enumerate(text):
 # parse the JS object into JSON
 profiles_list: list[dict] = chompjs.parse_js_object(text)
 
-# convert the keys to camelcase
 data = {}
 for profile in profiles_list:
     # skip if this character is unreleased
@@ -66,9 +67,6 @@ for profile in profiles_list:
     if type(profile["Other Name"]) is list:
         profile["Other Name"] = profile["Other Name"][0] # type: ignore
 
-    # get character images based on id
-    profile["Image"] = f"https://assets.merui.net/character/headicon_middle/{profile["ID"]}01.webp"
-
     # merge euphoria tags into the main tags field
     if "euphoria" in profile:
         for e in profile["euphoria"]:
@@ -76,12 +74,18 @@ for profile in profiles_list:
                 if tag not in profile["Tags"]:
                     profile["Tags"].append(tag)
         del profile["euphoria"]
-    
-    # add fields for era and location to be manually filled in
-    profile["Era"] = None
-    profile["Location"] = None
 
-    data[name] = profile
+    # copy the profile data over but change the name of the keys for convenience
+    data[name] = {}
+    for key in profile:
+        data[name][key.replace(" ", "_")] = profile[key]
+
+# load manually-entered location data and merge with the other data
+manual_json_path = "manual.json"
+with open(manual_json_path, "r") as f:
+    manual = json.load(f)
+    for char in manual:
+        data[char] = manual[char] | data[char]
 
 # setup work pool
 pool = [key for key in data.keys()]
@@ -89,7 +93,7 @@ num_threads = 4
 threads = []
 
 # define a work function for multithreading
-def parse_voicelines():
+def get_assets():
     if len(pool) == 0:
         return
 
@@ -111,16 +115,32 @@ def parse_voicelines():
         transcription = row.find(attrs={"data-en" : True}).get_text("\n") # type: ignore
         path = f'https://voice.merui.net/en/{row.find(attrs={"data-audio-path" : True})["data-audio-path"]}.ogg' # type: ignore
 
+        # replace whitespace with underscores for convenience
+        voiceline_name = voiceline_name.replace(" ", "_")
+        voiceline_name = voiceline_name.replace(":", "")
+        voiceline_name = voiceline_name.replace("-", "")
         data[name]["Voicelines"][voiceline_name] = {
             "Transcription": transcription,
             "Path": path
         }
 
-    parse_voicelines()    
+    # get character images based on id
+    assets_path = "frontend/src/assets/charicons"
+    headicon_small = f"{assets_path}/{data[name]["ID"]}01_headicon_small.webp"
+    with open(f"{assets_path}/{data[name]["ID"]}_temp.png", 'wb') as f:
+        f.write(requests.get(f"https://raw.githubusercontent.com/myssal/Reverse-1999-CN-Asset/refs/heads/master/singlebg/headicon_small/{data[name]["ID"]}01.png").content)
+    
+    # convert the image to webp and save
+    im = Image.open(f"{assets_path}/{data[name]["ID"]}_temp.png")
+    im.save(headicon_small, "WEBP")
+    data[name]["Icon"] = headicon_small
+    os.remove(f"{assets_path}/{data[name]["ID"]}_temp.png")
+
+    get_assets()    
 
 # setup and start multithreading
 for i in range(num_threads):
-    t = Thread(target=parse_voicelines)
+    t = Thread(target=get_assets)
     threads.append(t)
 
 for t in threads:
@@ -129,6 +149,10 @@ for t in threads:
 for t in threads:
     t.join()
 
+# # write to file
+# with open("data.json", "w") as f:
+#     json.dump(data, f, indent=4)
+
 # write to file
-with open("data.json", "w") as f:
+with open("frontend/src/assets/data.json", "w") as f:
     json.dump(data, f, indent=4)

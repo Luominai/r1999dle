@@ -9,7 +9,7 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 	const [query, setQuery] = useState("")
 
 	const subset: Array<Character> = Object.values(characterData).filter((data) => {
-		return data["Name"].toLowerCase().startsWith(query.toLowerCase())
+		return data.Name.toLowerCase().startsWith(query.toLowerCase())
 	})
 
 	return (
@@ -34,8 +34,8 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 										onSelect(character)
 										setQuery("")
 									}}>
-									<img src={character["Image"]} style={{ height: "72px" }}></img>
-									{character["Name"]}
+									<img src={character.Icon} style={{ height: "72px" }}></img>
+									{character.Name}
 								</div>
 							)}
 						</div>

@@ -46,26 +46,26 @@ export default function Results({character, correct, onClose}: {character: Chara
                     fontSize: 24,
                     color: "#df8253"
                 }}>
-                    {correct ? "Congratulations!" : "Game Over!"} The answer was {character.name}!
+                    {correct ? "Congratulations!" : "Game Over!"} The answer was {character.Name}!
                 </div>
                 <div style={{display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center"}}>
-                    <img src={character.image} style={{ 
+                    <img src={character.Image} style={{ 
                         maxHeight: "100%", 
                         maxWidth: "100%", 
                         width: "120px",
                         height: "120px",
                         padding: "8px"
                     }}/>
-                    <div>
+                    {/* <div>
                         <img src={character.signature} style={{height: "60px"}}></img>
-                    </div>
+                    </div> */}
                     <div style={{display: "flex", justifyContent: "center", gap: "16px"}}>
-                        <div>{Array.from({length: character.rarity}).map((_) => <img src={star}/>)}</div>
-                        <div>{character.afflatus}</div>
-                        <div>{character.damage}</div>
+                        <div>{Array.from({length: character.Rarity}).map((_) => <img src={star}/>)}</div>
+                        <div>{character.Afflatus}</div>
+                        <div>{character.DMG_Type}</div>
                     </div>
                     <div style={{display: "flex", gap: "16px"}}>
-                        {character.tags.map((tag) => <span>{tag}</span>)}
+                        {character.Tags.map((tag) => <span>{tag}</span>)}
                     </div>
                 </div>
             </div>
