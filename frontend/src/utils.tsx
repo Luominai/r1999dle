@@ -3,8 +3,12 @@ import characterData from "./assets/data.json"
 import Rand from "rand-seed"
 
 const characters: Array<Character> = Object.values(characterData)
+characters.forEach(async (char: Character) => {
+	const module = await import(/* vite-ignore */`./assets/charicons/${char.Icon_Small}`)
+	char.Icon_Small = module.default
+})
 let answer = getDailyCharacter()
-export { answer }
+export { answer, characters }
 
 export function compare(char1: Character, char2: Character) {
 	const output = {

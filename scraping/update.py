@@ -8,6 +8,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 import os
 from PIL import Image
+import time
 
 options = Options()
 options.page_load_strategy = "eager"
@@ -55,7 +56,6 @@ def get_object(text, keystring):
 profiles_list: list[dict] = get_object(text, "const profiles")
 roles_list: list[str] = get_object(text, "const role")
 version_order: list[str] = get_object(text, "const categoryOptions")["characteristics"]["Version"]
-print(version_order)
 
 data = {}
 for profile in profiles_list:
@@ -118,13 +118,22 @@ def get_assets():
     # get character images based on id
     assets_path = "frontend/src/assets/charicons"
     headicon_small = f"{assets_path}/{data[name]["ID"]}01_headicon_small.webp"
+
     with open(f"{assets_path}/{data[name]["ID"]}_temp.png", 'wb') as f:
-        f.write(requests.get(f"https://raw.githubusercontent.com/myssal/Reverse-1999-CN-Asset/refs/heads/master/singlebg/headicon_small/{data[name]["ID"]}01.png").content)
+        res = requests.get(f"https://raw.githubusercontent.com/myssal/Reverse-1999-CN-Asset/refs/heads/master/singlebg/headicon_small/{data[name]["ID"]}01.png")
+        backoff = 1
+        while res.status_code == 429:
+            print(f"error 429 on {name}. trying again after {backoff}s")
+            time.sleep(float(backoff))
+            backoff = backoff * 2
+        
+        content = res.content
+        f.write(content)
     
     # convert the image to webp and save
     im = Image.open(f"{assets_path}/{data[name]["ID"]}_temp.png")
     im.save(headicon_small, "WEBP")
-    data[name]["Icon_Small"] = f"https://raw.githubusercontent.com/Luominai/r1999dle/refs/heads/main/frontend/src/assets/charicons/{data[name]["ID"]}01_headicon_small.webp"
+    data[name]["Icon_Small"] = f"{data[name]["ID"]}01_headicon_small.webp"
     os.remove(f"{assets_path}/{data[name]["ID"]}_temp.png")
 
     # get the merui profile page of the character

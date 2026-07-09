@@ -35,7 +35,7 @@ export default function Row({ character, fields }: RowProps) {
   const correctness = compare(character, answer)
   const cells = fields.map((field, idx) => {
     const handler = hotColdHandlers[field] ?? hotColdHandlers["Default"]
-    return handler(character[field], correctness[idx])
+    return handler(character[field], correctness[idx], field)
   })
   
   return (
@@ -88,30 +88,33 @@ const comparisonHandlers: Record<string, CallableFunction> = {
     return -1
   },
   "Archetypes": (c1: Character, c2: Character) => {
-    if (c2.Archetypes.every((type) => c1.Archetypes.includes(type))) { return 1 }
+    if (
+      c2.Archetypes.every((type) => c1.Archetypes.includes(type)) && 
+      c1.Archetypes.every((type) => c2.Archetypes.includes(type))
+    ) { return 1 }
     if (c2.Archetypes.some((type) => c1.Archetypes.includes(type))) { return 0 }
     return -1
   }
 }
 
 const hotColdHandlers: Record<string, CallableFunction> = {
-  "Default": (val: unknown, correctness: number) => {
+  "Default": (val: unknown, correctness: number, key: any) => {
     const style = { backgroundColor: correctness == 1 ? green : correctness == 0 ? yellow : red }
     if (Array.isArray(val)) {
-      return <td className="cell" style={style}>{val.map((e) => <>{e} <br/></>)}</td>
+      return <td key={key} className="cell" style={style}>{val.map((e) => <>{e} <br/></>)}</td>
     }
     // @ts-ignore
     return <td className="cell" style={style}>{val}</td> 
   },
-  "Version": (val: string, correctness: number) => {
+  "Version": (val: string, correctness: number, key: any) => {
     const style = { backgroundColor: correctness == 0 ? green :  yellow }
     const indicator = correctness == 0 ? "" : correctness == 1 ? "↑" : "↓"
-    return <td className="cell" style={style}>{val} {indicator}</td>
+    return <td key={key} className="cell" style={style}>{val} {indicator}</td>
   },
-  "Era": (val: string, correctness: number) => {
+  "Era": (val: string, correctness: number, key: any) => {
     const style = { backgroundColor: correctness == 1 ? green : correctness == 0 ? yellow : red}
     const indicator = correctness == 2 ? "↑" : correctness == -1 ? "↓" : ""
-    return <td className="cell" style={style}>{val} {indicator}</td>
+    return <td key={key} className="cell" style={style}>{val} {indicator}</td>
   },
 }
 

@@ -1,5 +1,5 @@
 import { useState } from "react"
-import characterData from "./assets/data.json"
+import { characters } from "./utils"
 import type Character from "./types/Character"
 
 type onSelectFunction = (c: Character) => any
@@ -8,11 +8,11 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 	const [dropdownVisible, setDropdownVisible] = useState(false)
 	const [query, setQuery] = useState("")
 
-	let startsWith: Array<Character> = Object.values(characterData).filter((data) => {
+	let startsWith: Array<Character> = characters.filter((data) => {
 		return data.Name.toLowerCase().startsWith(query.toLowerCase())
 	})
 
-	let contains: Array<Character> = Object.values(characterData).filter((data) => {
+	let contains: Array<Character> = characters.filter((data) => {
 		return data.Name.toLowerCase().includes(query.toLowerCase())
 	})
 
@@ -35,7 +35,9 @@ export default function Dropdown({ onSelect }: { onSelect: onSelectFunction }) {
 					<div style={{ position: "relative", minWidth: "200px", flexGrow: 1, maxWidth: "600px", zIndex: "2"}}>
 						<div className="dropdown-container">
 							{subset.map((character) =>
-								<div className="dropdown-item"
+								<div 
+									key={character.ID}
+									className="dropdown-item"
 									onMouseDown={(_) => {
 										onSelect(character)
 										setQuery("")
