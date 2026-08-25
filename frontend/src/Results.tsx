@@ -66,7 +66,7 @@ export default function Results({character, correct, onClose}: {character: Chara
                     </div>
                     <div style={{display: "flex", gap: "16px"}}>
                         {/* @ts-ignore */}
-                        {character.Tags.map((tag) => <span>{tag}</span>)}
+                        {character.Archetypes.map((tag) => <span>{tag}</span>)}
                     </div>
                 </div>
             </div>
